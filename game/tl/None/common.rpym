@@ -1,0 +1,772 @@
+﻿
+translate None strings:
+
+    # 00action_file.rpy:26
+    old "{#weekday}Monday"
+    new "{#weekday}星期一"
+
+    # 00action_file.rpy:26
+    old "{#weekday}Tuesday"
+    new "{#weekday}星期二"
+
+    # 00action_file.rpy:26
+    old "{#weekday}Wednesday"
+    new "{#weekday}星期三"
+
+    # 00action_file.rpy:26
+    old "{#weekday}Thursday"
+    new "{#weekday}星期四"
+
+    # 00action_file.rpy:26
+    old "{#weekday}Friday"
+    new "{#weekday}星期五"
+
+    # 00action_file.rpy:26
+    old "{#weekday}Saturday"
+    new "{#weekday}星期六"
+
+    # 00action_file.rpy:26
+    old "{#weekday}Sunday"
+    new "{#weekday}星期日"
+
+    # 00action_file.rpy:37
+    old "{#weekday_short}Mon"
+    new "{#weekday_short}周一"
+
+    # 00action_file.rpy:37
+    old "{#weekday_short}Tue"
+    new "{#weekday_short}周二"
+
+    # 00action_file.rpy:37
+    old "{#weekday_short}Wed"
+    new "{#weekday_short}周三"
+
+    # 00action_file.rpy:37
+    old "{#weekday_short}Thu"
+    new "{#weekday_short}周四"
+
+    # 00action_file.rpy:37
+    old "{#weekday_short}Fri"
+    new "{#weekday_short}周五"
+
+    # 00action_file.rpy:37
+    old "{#weekday_short}Sat"
+    new "{#weekday_short}周六"
+
+    # 00action_file.rpy:37
+    old "{#weekday_short}Sun"
+    new "{#weekday_short}周日"
+
+    # 00action_file.rpy:47
+    old "{#month}January"
+    new "{#month}一月"
+
+    # 00action_file.rpy:47
+    old "{#month}February"
+    new "{#month}二月"
+
+    # 00action_file.rpy:47
+    old "{#month}March"
+    new "{#month}三月"
+
+    # 00action_file.rpy:47
+    old "{#month}April"
+    new "{#month}四月"
+
+    # 00action_file.rpy:47
+    old "{#month}May"
+    new "{#month}五月"
+
+    # 00action_file.rpy:47
+    old "{#month}June"
+    new "{#month}六月"
+
+    # 00action_file.rpy:47
+    old "{#month}July"
+    new "{#month}七月"
+
+    # 00action_file.rpy:47
+    old "{#month}August"
+    new "{#month}八月"
+
+    # 00action_file.rpy:47
+    old "{#month}September"
+    new "{#month}九月"
+
+    # 00action_file.rpy:47
+    old "{#month}October"
+    new "{#month}十月"
+
+    # 00action_file.rpy:47
+    old "{#month}November"
+    new "{#month}十一月"
+
+    # 00action_file.rpy:47
+    old "{#month}December"
+    new "{#month}十二月"
+
+    # 00action_file.rpy:63
+    old "{#month_short}Jan"
+    new "{#month_short}1月"
+
+    # 00action_file.rpy:63
+    old "{#month_short}Feb"
+    new "{#month_short}2月"
+
+    # 00action_file.rpy:63
+    old "{#month_short}Mar"
+    new "{#month_short}3月"
+
+    # 00action_file.rpy:63
+    old "{#month_short}Apr"
+    new "{#month_short}4月"
+
+    # 00action_file.rpy:63
+    old "{#month_short}May"
+    new "{#month_short}5月"
+
+    # 00action_file.rpy:63
+    old "{#month_short}Jun"
+    new "{#month_short}6月"
+
+    # 00action_file.rpy:63
+    old "{#month_short}Jul"
+    new "{#month_short}7月"
+
+    # 00action_file.rpy:63
+    old "{#month_short}Aug"
+    new "{#month_short}8月"
+
+    # 00action_file.rpy:63
+    old "{#month_short}Sep"
+    new "{#month_short}9月"
+
+    # 00action_file.rpy:63
+    old "{#month_short}Oct"
+    new "{#month_short}10月"
+
+    # 00action_file.rpy:63
+    old "{#month_short}Nov"
+    new "{#month_short}11月"
+
+    # 00action_file.rpy:63
+    old "{#month_short}Dec"
+    new "{#month_short}12月"
+
+    # 00action_file.rpy:235
+    old "%b %d, %H:%M"
+    new "%m月%d日, %H:%M"
+
+    # 00action_file.rpy:569
+    old "Page {}"
+    new "第 {} 页"
+
+    # 00action_file.rpy:569
+    old "Automatic saves"
+    new "自动保存"
+
+    # 00action_file.rpy:569
+    old "Quick saves"
+    new "快读保存"
+
+    # 00action_file.rpy:820
+    old "Quick save complete."
+    new "快速存档"
+
+    # 00gui.rpy:234
+    old "Are you sure?"
+    new "是否确认？"
+
+    # 00gui.rpy:235
+    old "Are you sure you want to delete this save?"
+    new "你确定要删除此存档吗？"
+
+    # 00gui.rpy:236
+    old "Are you sure you want to overwrite your save?"
+    new "你确定要覆盖存档吗？"
+
+    # 00gui.rpy:237
+    old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
+    new "载入将会失去所有未储存的进度\n你确定您要这么做吗？"
+
+    # 00gui.rpy:238
+    old "Are you sure you want to quit?"
+    new "你确定要退出游戏吗？"
+
+    # 00gui.rpy:239
+    old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
+    new "你确定要回到标题画面吗？\n注意：未保存的进度将会丢失"
+
+    # 00gui.rpy:240
+    old "Are you sure you want to end the replay?"
+    new "确定终止事件回想？"
+
+    # 00gui.rpy:241
+    old "Are you sure you want to begin skipping?"
+    new "是否开始快进？"
+
+    # 00gui.rpy:242
+    old "Are you sure you want to skip to the next choice?"
+    new "是否跳到下一个选项？"
+
+    # 00gui.rpy:243
+    old "Are you sure you want to skip unseen dialogue to the next choice?"
+    new "你真的要跳过所有未读对话直接前往下一个选项吗？"
+
+    # 00keymap.rpy:259
+    old "Saved screenshot as %s."
+    new "截图已保存为 %s。"
+
+    # 00library.rpy:142
+    old "Self-voicing disabled."
+    new "Self-voicing disabled."
+
+    # 00library.rpy:143
+    old "Clipboard voicing enabled. "
+    new "Clipboard voicing enabled. "
+
+    # 00library.rpy:144
+    old "Self-voicing enabled. "
+    new "Self-voicing enabled. "
+
+    # 00library.rpy:179
+    old "Skip Mode"
+    new "快进"
+
+    # 00library.rpy:262
+    old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
+    new "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
+
+    # 00preferences.rpy:429
+    old "Clipboard voicing enabled. Press 'shift+C' to disable."
+    new "剪贴板朗读已开启。按 Shift+C 来关闭。"
+
+    # 00preferences.rpy:431
+    old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
+    new "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
+
+    # 00preferences.rpy:433
+    old "Self-voicing enabled. Press 'v' to disable."
+    new "自动朗读已开启。按 V 来关闭。"
+
+    # _compat\gamemenu.rpym:198
+    old "Empty Slot."
+    new "空档位"
+
+    # _compat\gamemenu.rpym:355
+    old "Previous"
+    new "上一页"
+
+    # _compat\gamemenu.rpym:362
+    old "Next"
+    new "下一页"
+
+    # _compat\preferences.rpym:428
+    old "Joystick Mapping"
+    new "手柄映射"
+
+    # _developer\developer.rpym:38
+    old "Developer Menu"
+    new "开发者菜单"
+
+    # _developer\developer.rpym:43
+    old "Reload Game (Shift+R)"
+    new "重载游戏（Shift+R）"
+
+    # _developer\developer.rpym:45
+    old "Console (Shift+O)"
+    new "控制台(Shift+O)"
+
+    # _developer\developer.rpym:47
+    old "Variable Viewer"
+    new "变量查看器"
+
+    # _developer\developer.rpym:49
+    old "Theme Test"
+    new "主题测试"
+
+    # _developer\developer.rpym:51
+    old "Image Location Picker"
+    new "图片坐标提取器"
+
+    # _developer\developer.rpym:53
+    old "Filename List"
+    new "文件列表"
+
+    # _developer\developer.rpym:57
+    old "Show Image Load Log"
+    new "显示图片加载记录"
+
+    # _developer\developer.rpym:60
+    old "Hide Image Load Log"
+    new "隐藏图片加载记录"
+
+    # _developer\developer.rpym:66
+    old "Return"
+    new "返回"
+
+    # _developer\developer.rpym:95
+    old "Nothing to inspect."
+    new "没有东西被检阅"
+
+    # _developer\developer.rpym:217
+    old "Return to the developer menu"
+    new "回到开发者菜单"
+
+    # _developer\developer.rpym:377
+    old "Rectangle: %r"
+    new "矩形区域：%r"
+
+    # _developer\developer.rpym:382
+    old "Mouse position: %r"
+    new "鼠标位置：%r"
+
+    # _developer\developer.rpym:387
+    old "Right-click or escape to quit."
+    new "点选鼠标右键或者按 Esc 键来退出。"
+
+    # _developer\developer.rpym:419
+    old "Rectangle copied to clipboard."
+    new "Rectangle copied to clipboard."
+
+    # _developer\developer.rpym:422
+    old "Position copied to clipboard."
+    new "Position copied to clipboard."
+
+    # _developer\developer.rpym:531
+    old "✔ "
+    new "✔ "
+
+    # _developer\developer.rpym:534
+    old "✘ "
+    new "✘ "
+
+    # _developer\developer.rpym:539
+    old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
+    new "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
+
+    # _developer\inspector.rpym:38
+    old "Displayable Inspector"
+    new "Displayable 检阅器"
+
+    # _developer\inspector.rpym:61
+    old "Size"
+    new "大小"
+
+    # _developer\inspector.rpym:65
+    old "Style"
+    new "风格"
+
+    # _developer\inspector.rpym:71
+    old "Location"
+    new "位置"
+
+    # _developer\inspector.rpym:122
+    old "Inspecting Styles of [displayable_name!q]"
+    new "检阅[displayable_name!q]的风格"
+
+    # _developer\inspector.rpym:139
+    old "displayable:"
+    new "Displayable"
+
+    # _developer\inspector.rpym:145
+    old "        (no properties affect the displayable)"
+    new "        (没有偏好的可显示属性)"
+
+    # _developer\inspector.rpym:147
+    old "        (default properties omitted)"
+    new "        (忽略默认属性)"
+
+    # _developer\inspector.rpym:185
+    old "<repr() failed>"
+    new "<repr() failed>"
+
+    # _layout\classic_load_save.rpym:170
+    old "a"
+    new "a"
+
+    # _layout\classic_load_save.rpym:179
+    old "q"
+    new "q"
+
+    # 00iap.rpy:217
+    old "Contacting App Store\nPlease Wait..."
+    new "Contacting App Store\nPlease Wait..."
+
+    # 00updater.rpy:373
+    old "The Ren'Py Updater is not supported on mobile devices."
+    new "Ren'Py 更新器在移动设备上尚不支持。"
+
+    # 00updater.rpy:492
+    old "An error is being simulated."
+    new "已模拟一个错误。"
+
+    # 00updater.rpy:668
+    old "Either this project does not support updating, or the update status file was deleted."
+    new "此工程不支持更新，或者是更新状态文件已被删除。"
+
+    # 00updater.rpy:682
+    old "This account does not have permission to perform an update."
+    new "此帐号没有执行更新的权限。"
+
+    # 00updater.rpy:685
+    old "This account does not have permission to write the update log."
+    new "此帐号没有写入更新日志的权限。"
+
+    # 00updater.rpy:710
+    old "Could not verify update signature."
+    new "无法验证更新签名。"
+
+    # 00updater.rpy:981
+    old "The update file was not downloaded."
+    new "更新文件未能下载。"
+
+    # 00updater.rpy:999
+    old "The update file does not have the correct digest - it may have been corrupted."
+    new "更新文件校验失败。文件可能已损坏。"
+
+    # 00updater.rpy:1055
+    old "While unpacking {}, unknown type {}."
+    new "解压 {} 时出现未知错误 {}。"
+
+    # 00updater.rpy:1399
+    old "Updater"
+    new "更新"
+
+    # 00updater.rpy:1406
+    old "An error has occured:"
+    new "发生错误："
+
+    # 00updater.rpy:1408
+    old "Checking for updates."
+    new "正在检查更新："
+
+    # 00updater.rpy:1410
+    old "This program is up to date."
+    new "该程序已是最新版本。"
+
+    # 00updater.rpy:1412
+    old "[u.version] is available. Do you want to install it?"
+    new "[u.version] 已经可用，是否升级？"
+
+    # 00updater.rpy:1414
+    old "Preparing to download the updates."
+    new "准备下载更新"
+
+    # 00updater.rpy:1416
+    old "Downloading the updates."
+    new "正在下载更新……"
+
+    # 00updater.rpy:1418
+    old "Unpacking the updates."
+    new "解压缩更新包……"
+
+    # 00updater.rpy:1420
+    old "Finishing up."
+    new "更新完成"
+
+    # 00updater.rpy:1422
+    old "The updates have been installed. The program will restart."
+    new "该更新包已安装，之后程序将会重新启动"
+
+    # 00updater.rpy:1424
+    old "The updates have been installed."
+    new "已完成更新"
+
+    # 00updater.rpy:1426
+    old "The updates were cancelled."
+    new "已取消更新"
+
+    # 00updater.rpy:1441
+    old "Proceed"
+    new "继续"
+
+    # 00updater.rpy:1444
+    old "Cancel"
+    new "取消"
+
+    # 00compat.rpy:205
+    old "Fullscreen"
+    new "全屏"
+
+    # 00gallery.rpy:563
+    old "Image [index] of [count] locked."
+    new "[count]个图片中的第[index]个图片被锁定。"
+
+    # 00gallery.rpy:583
+    old "prev"
+    new "上一页"
+
+    # 00gallery.rpy:584
+    old "next"
+    new "下一页"
+
+    # 00gallery.rpy:585
+    old "slideshow"
+    new "幻灯片"
+
+    # 00gallery.rpy:586
+    old "return"
+    new "返回"
+
+    # 00gltest.rpy:64
+    old "Graphics Acceleration"
+    new "图形加速"
+
+    # 00gltest.rpy:70
+    old "Automatically Choose"
+    new "自动选择"
+
+    # 00gltest.rpy:75
+    old "Force Angle/DirectX Renderer"
+    new "强制 Angle/DirectX 渲染"
+
+    # 00gltest.rpy:79
+    old "Force OpenGL Renderer"
+    new "强制 OpenGL 渲染"
+
+    # 00gltest.rpy:83
+    old "Force Software Renderer"
+    new "强制软件渲染"
+
+    # 00gltest.rpy:89
+    old "Gamepad"
+    new "手柄"
+
+    # 00gltest.rpy:93
+    old "Enable"
+    new "启用"
+
+    # 00gltest.rpy:97
+    old "Disable"
+    new "禁用"
+
+    # 00gltest.rpy:103
+    old "Calibrate"
+    new "校准"
+
+    # 00gltest.rpy:109
+    old "Changes will take effect the next time this program is run."
+    new "更改将会在下次启动程序时生效。"
+
+    # 00gltest.rpy:114
+    old "Quit"
+    new "退出"
+
+    # 00gltest.rpy:141
+    old "Performance Warning"
+    new "性能影响警告"
+
+    # 00gltest.rpy:146
+    old "This computer is using software rendering."
+    new "该计算机正在使用软件渲染"
+
+    # 00gltest.rpy:148
+    old "This computer is not using shaders."
+    new "该计算机没有使用着色器"
+
+    # 00gltest.rpy:150
+    old "This computer is displaying graphics slowly."
+    new "该计算机图形显示缓慢"
+
+    # 00gltest.rpy:152
+    old "This computer has a problem displaying graphics: [problem]."
+    new "该计算机图形显示出错：[problem]。"
+
+    # 00gltest.rpy:157
+    old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
+    new "目前的图形驱动程序版本可能过旧或未正确运行。这样会导致图形显示缓慢或者错误。升级 DirectX 可能会解决该问题。"
+
+    # 00gltest.rpy:159
+    old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
+    new "目前图形驱动程序版本可能过旧或未正确运行。这样会导致图形显示缓慢或者错误。"
+
+    # 00gltest.rpy:164
+    old "Update DirectX"
+    new "更新 DirectX"
+
+    # 00gltest.rpy:170
+    old "Continue, Show this warning again"
+    new "继续，下次再显示该警告"
+
+    # 00gltest.rpy:174
+    old "Continue, Don't show warning again"
+    new "继续，不再显示该警告"
+
+    # 00gltest.rpy:192
+    old "Updating DirectX."
+    new "正在更新 DirectX。"
+
+    # 00gltest.rpy:196
+    old "DirectX web setup has been started. It may start minimized in the taskbar. Please follow the prompts to install DirectX."
+    new "DirectX 在线安装已启动，它将会最小化至任务栏。请按照说明安装 DirectX。"
+
+    # 00gltest.rpy:200
+    old "{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box."
+    new "{b}警告:{/b} Microsoft's DirectX 在线安装程序会默认安装 Bing 浏览器工具栏。如果您不需要安装这个工具栏，请取消勾选对应选项。"
+
+    # 00gltest.rpy:204
+    old "When setup finishes, please click below to restart this program."
+    new "当安装完成后请点选下方来重新启动应用程序。"
+
+    # 00gltest.rpy:206
+    old "Restart"
+    new "重新启动"
+
+    # 00gamepad.rpy:32
+    old "Select Gamepad to Calibrate"
+    new "选择要校准的手柄"
+
+    # 00gamepad.rpy:35
+    old "No Gamepads Available"
+    new "当前没有可用手柄"
+
+    # 00gamepad.rpy:54
+    old "Calibrating [name] ([i]/[total])"
+    new "校准 [name] ([i]/[total])"
+
+    # 00gamepad.rpy:58
+    old "Press or move the [control!r] [kind]."
+    new "Press or move the [control!r] [kind]."
+
+    # 00gamepad.rpy:66
+    old "Skip (A)"
+    new "跳过 (A)"
+
+    # 00gamepad.rpy:69
+    old "Back (B)"
+    new "返回 (B)"
+
+    # _errorhandling.rpym:519
+    old "Open"
+    new "打开"
+
+    # _errorhandling.rpym:521
+    old "Opens the traceback.txt file in a text editor."
+    new "在文本编辑器中打开日志（traceback.txt）。"
+
+    # _errorhandling.rpym:523
+    old "Copy"
+    new "复制"
+
+    # _errorhandling.rpym:525
+    old "Copies the traceback.txt file to the clipboard."
+    new "Copies the traceback.txt file to the clipboard."
+
+    # _errorhandling.rpym:543
+    old "An exception has occurred."
+    new "发生一个异常状况。"
+
+    # _errorhandling.rpym:562
+    old "Rollback"
+    new "回滚一行"
+
+    # _errorhandling.rpym:564
+    old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
+    new "尝试回滚到先前的状态，使您可以存盘或者选择不同选项。"
+
+    # _errorhandling.rpym:567
+    old "Ignore"
+    new "忽略"
+
+    # _errorhandling.rpym:569
+    old "Ignores the exception, allowing you to continue. This often leads to additional errors."
+    new "忽略异常，让您可以继续。但这通常会带来更多的问题。"
+
+    # _errorhandling.rpym:572
+    old "Reload"
+    new "重新加载"
+
+    # _errorhandling.rpym:574
+    old "Reloads the game from disk, saving and restoring game state if possible."
+    new "从硬盘重载游戏，请储存游戏状态。"
+
+    # _errorhandling.rpym:576
+    old "Console"
+    new "控制台"
+
+    # _errorhandling.rpym:578
+    old "Opens a console to allow debugging the problem."
+    new "打开调试控制台."
+
+    # _errorhandling.rpym:590
+    old "Quits the game."
+    new "离开游戏。"
+
+    # _errorhandling.rpym:614
+    old "Parsing the script failed."
+    new "解析脚本失败。"
+
+    # _errorhandling.rpym:640
+    old "Opens the errors.txt file in a text editor."
+    new "在文本编辑器中打开错误档案（errors.txt）。"
+
+    # _errorhandling.rpym:644
+    old "Copies the errors.txt file to the clipboard."
+    new "复制errors.txt内容至剪贴板."
+
+    # 00console.rpy:208
+    old "Press <esc> to exit console. Type help for help.\n"
+    new "按 <esc> 来退出控制台。输入 help 来查看帮助。\n"
+
+    # 00console.rpy:212
+    old "Ren'Py script enabled."
+    new "使用 Ren'Py 脚本。"
+
+    # 00console.rpy:214
+    old "Ren'Py script disabled."
+    new "禁用 Ren'Py 脚本。"
+
+    # 00console.rpy:424
+    old "help: show this help"
+    new "help: 显示说明信息"
+
+    # 00console.rpy:429
+    old "commands:\n"
+    new "命令行:\n"
+
+    # 00console.rpy:439
+    old " <renpy script statement>: run the statement\n"
+    new " <renpy script statement>:运行语句\n"
+
+    # 00console.rpy:441
+    old " <python expression or statement>: run the expression or statement"
+    new " <python expression or statement>:运行表达式或语句"
+
+    # 00console.rpy:449
+    old "clear: clear the console history"
+    new "clear: 清除控制台历史记录"
+
+    # 00console.rpy:453
+    old "exit: exit the console"
+    new "exit: 离开控制台"
+
+    # 00console.rpy:461
+    old "load <slot>: loads the game from slot"
+    new "load <slot>:载入游戏存档（以 slot 为存档号）"
+
+    # 00console.rpy:474
+    old "save <slot>: saves the game in slot"
+    new "save <slot>:储存游戏存档（以 slot 为存档号）"
+
+    # 00console.rpy:485
+    old "reload: reloads the game, refreshing the scripts"
+    new "reload: 重载游戏，并重新整理脚本"
+
+    # 00console.rpy:493
+    old "watch <expression>: watch a python expression"
+    new "watch <expression>: 监视一个 python 表达式"
+
+    # 00console.rpy:519
+    old "unwatch <expression>: stop watching an expression"
+    new "unwatch <expression>:停止监视某个表达式"
+
+    # 00console.rpy:550
+    old "unwatchall: stop watching all expressions"
+    new "unwatchall:停止监视索引表达式"
+
+    # 00console.rpy:567
+    old "jump <label>: jumps to label"
+    new "jump <label>: 跳至标签"
+
+define gui.system_font = u'font/source-hans-sans-medium.ttc'
