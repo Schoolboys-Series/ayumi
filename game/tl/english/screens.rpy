@@ -422,3 +422,15 @@ translate english strings:
     old "正在快进"
     new "SKIPPING"
 
+# TODO: Translation updated at 2018-01-24 18:42
+
+translate english strings:
+
+    # screens.rpy:733
+    old "本软件的源代码可在PC发行版中找到（不含资源文件）。"
+    new "All source codes can be found in game's PC version (without resource files)."
+
+    # screens.rpy:884
+    old "自动略过"
+    new "Autoskipped"
+
