@@ -2,7 +2,6 @@
 image white = Solid("#FFFFFF")
 
 label splashscreen:
-    $ set_window("イベントモード")
     play music "sound/BGM/Start scene.ogg"
     show black
     image lmc_0000238E_background = "images/Start Scene/Background.png"
@@ -105,18 +104,18 @@ label splashscreen:
     hide lmc_0000238E_Saburo
     with Dissolve(0.5)
 
+    return
+
+label start:
+    $ _skipping = True
+    $ _dismiss_pause = True
     $ sys_music_current_file = ""
     $ sys_music2_current_file = ""
     $ sys_effect_current_file = ""
     $ sys_effect2_current_file = ""
     $ sys_effect3_current_file = ""
     $ sys_effect4_current_file = ""
-
-    return
-
-label start:
-    $ _skipping = True
-    $ _dismiss_pause = True
+    $ set_window("イベントモード")
 
     stop music fadeout 1.0
     
