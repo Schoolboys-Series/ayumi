@@ -4392,3 +4392,23 @@ translate english block_00003C3D_2f08b215:
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "夕阳君去房间看情况的时候确实存在争斗的痕迹，肯定是在室外遇袭的。"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
+# TODO: Translation updated at 2018-01-25 16:32
+
+translate english strings:
+
+    # content\file_00003BAC.rpy:3824
+    old "调查完毕"
+    new ""
+
+    # content\file_00003BAC.rpy:3824
+    old "稍等，还有……"
+    new ""
+
+# TODO: Translation updated at 2018-01-25 16:35
+
+translate english strings:
+
+    # content\file_00003BAC.rpy:3824
+    old "调查到此为止？"
+    new ""
+

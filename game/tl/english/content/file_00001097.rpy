@@ -302,3 +302,23 @@ translate english strings:
     old "道路"
     new ""
 
+# TODO: Translation updated at 2018-01-25 16:32
+
+translate english strings:
+
+    # content\file_00001097.rpy:1859
+    old "坐"
+    new ""
+
+    # content\file_00001097.rpy:1859
+    old "不坐"
+    new ""
+
+# TODO: Translation updated at 2018-01-25 16:35
+
+translate english strings:
+
+    # content\file_00001097.rpy:1859
+    old "要乘坐巴士吗？"
+    new ""
+

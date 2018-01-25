@@ -551,7 +551,7 @@ label block_00000890:
 
 label block_00000891:
     # Node: 00000891 (Kill time)
-    call scb_selector("接下来怎么做？", [{"name":"時間を潰す", "content":"在这里打发时间"}, {"name":"やめておく", "content":"去别处看看"}]) from _call_scb_selector
+    call scb_selector(_("接下来怎么做？"), [{"name":"時間を潰す", "content":_("在这里打发时间")}, {"name":"やめておく", "content":_("去别处看看")}]) from _call_scb_selector
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"やめておく\"" }]):
         jump block_000023D7
@@ -1493,7 +1493,7 @@ label block_00001B7E:
 
 label block_00001B7F:
     # Node: 00001B7F (選擇)
-    call scb_selector("", [{"name":"はい", "content":"没问题"}, {"name":"いいえ", "content":"还有其他事情没做完"}]) from _call_scb_selector_1
+    call scb_selector("", [{"name":"はい", "content":_("没问题")}, {"name":"いいえ", "content":_("还有其他事情没做完")}]) from _call_scb_selector_1
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"はい\"" }]):
         jump block_00003916

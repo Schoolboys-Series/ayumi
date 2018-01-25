@@ -136,7 +136,7 @@ label block_00002BC8:
 
 label block_00002BC7:
     # Node: 00002BC7 (選擇)
-    call scb_selector("是否跳过寻路？", [{"name":"はい", "content":"好的没问题"}, {"name":"いいえ", "content":"中途还有东西没拿到呢"}]) from _call_scb_selector_84
+    call scb_selector(_("是否跳过寻路？"), [{"name":"はい", "content":_("好的没问题")}, {"name":"いいえ", "content":_("中途还有东西没拿到呢")}]) from _call_scb_selector_84
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"はい\"" }]):
         jump block_00002BAB
@@ -581,7 +581,7 @@ label block_00002BD9:
 
 label block_00002BDA:
     # Node: 00002BDA (選擇)
-    call scb_selector("", [{"name":"成年", "content":"成年了"}, {"name":"未成年", "content":"我还未成年……"}]) from _call_scb_selector_85
+    call scb_selector("", [{"name":"成年", "content":_("成年了")}, {"name":"未成年", "content":_("我还未成年……")}]) from _call_scb_selector_85
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"未成年\"" }]):
         jump block_00002BDC
@@ -931,7 +931,7 @@ label block_00002BE1:
 
 label block_00002BE0:
     # Node: 00002BE0 (選擇)
-    call scb_selector("", [{"name":"はい", "content":"当然"}, {"name":"いいえ", "content":"力不从心……"}]) from _call_scb_selector_86
+    call scb_selector("", [{"name":"はい", "content":_("当然")}, {"name":"いいえ", "content":_("力不从心……")}]) from _call_scb_selector_86
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"はい\"" }]):
         jump block_00002BDE
@@ -1191,7 +1191,7 @@ label block_00002BE3:
 
 label block_00002BE6:
     # Node: 00002BE6 (選擇)
-    call scb_selector("", [{"name":"スクボ", "content":"《SCHOOLBOYS!》"}, {"name":"魔術師", "content":"《见习魔法师的任务》"}]) from _call_scb_selector_87
+    call scb_selector("", [{"name":"スクボ", "content":_("《SCHOOLBOYS!》")}, {"name":"魔術師", "content":_("《见习魔法师的任务》")}]) from _call_scb_selector_87
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"スクボ\"" }]):
         jump block_00002BE4
@@ -1352,7 +1352,7 @@ label block_00002BEA:
 
 label block_00002BE9:
     # Node: 00002BE9 (選擇)
-    call scb_selector("", [{"name":"覚えてる", "content":"当然，你是……"}, {"name":"覚えてない", "content":"呃…………………………"}]) from _call_scb_selector_88
+    call scb_selector("", [{"name":"覚えてる", "content":_("当然，你是……")}, {"name":"覚えてない", "content":_("呃…………………………")}]) from _call_scb_selector_88
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"覚えてる\"" }]):
         jump block_00002BE8
@@ -1530,7 +1530,7 @@ label block_00002BF2:
 
 label block_00002BF1:
     # Node: 00002BF1 (選擇)
-    call scb_selector("", [{"name":"S", "content":"当然是S"}, {"name":"M", "content":"其实是M"}]) from _call_scb_selector_89
+    call scb_selector("", [{"name":"S", "content":_("当然是S")}, {"name":"M", "content":_("其实是M")}]) from _call_scb_selector_89
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"S\"" }]):
         jump block_00002BEF
@@ -1695,7 +1695,7 @@ label block_00002BF6:
 
 label block_00002BF4:
     # Node: 00002BF4 (選擇)
-    call scb_selector("", [{"name":"いる", "content":"和你不一样我有哦"}, {"name":"いない", "content":"唔……没有"}]) from _call_scb_selector_90
+    call scb_selector("", [{"name":"いる", "content":_("和你不一样我有哦")}, {"name":"いない", "content":_("唔……没有")}]) from _call_scb_selector_90
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"いる\"" }]):
         jump block_00002BF3
@@ -2065,7 +2065,7 @@ label block_00002BFC:
 
 label block_00002BFB:
     # Node: 00002BFB (選擇)
-    call scb_selector("", [{"name":"月", "content":"其实我是在看月"}, {"name":"空", "content":"对，我看的就是空"}]) from _call_scb_selector_91
+    call scb_selector("", [{"name":"月", "content":_("其实我是在看月")}, {"name":"空", "content":_("对，我看的就是空")}]) from _call_scb_selector_91
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"月\"" }]):
         jump block_00002BFD
@@ -2287,7 +2287,7 @@ label block_00002C03:
 
 label block_00002C02:
     # Node: 00002C02 (選擇)
-    call scb_selector("", [{"name":"友１", "content":"还用问，当然是友了！"}, {"name":"友２", "content":"不是只能选友君嘛！"}, {"name":"友３", "content":"怎么选都只有友君的！"}, {"name":"友以外", "content":"谁都可以，除了你"}]) from _call_scb_selector_92
+    call scb_selector("", [{"name":"友１", "content":_("还用问，当然是友了！")}, {"name":"友２", "content":_("不是只能选友君嘛！")}, {"name":"友３", "content":_("怎么选都只有友君的！")}, {"name":"友以外", "content":_("谁都可以，除了你")}]) from _call_scb_selector_92
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"友以外\"" }]):
         jump block_00002C00
@@ -2474,7 +2474,7 @@ label block_00002C08:
 
 label block_00002C07:
     # Node: 00002C07 (選擇)
-    call scb_selector("", [{"name":"お兄ぃ", "content":"哥哥"}, {"name":"お姉ぇ", "content":"姐姐"}]) from _call_scb_selector_93
+    call scb_selector("", [{"name":"お兄ぃ", "content":_("哥哥")}, {"name":"お姉ぇ", "content":_("姐姐")}]) from _call_scb_selector_93
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"お兄ぃ\"" }]):
         jump block_00002C05
@@ -2613,7 +2613,7 @@ label block_00002C0C:
 
 label block_00002C0B:
     # Node: 00002C0B (選擇)
-    call scb_selector("", [{"name":"ボックス型", "content":"四角裤型"}, {"name":"ブーメラン型", "content":"三角形"}]) from _call_scb_selector_94
+    call scb_selector("", [{"name":"ボックス型", "content":_("四角裤型")}, {"name":"ブーメラン型", "content":_("三角形")}]) from _call_scb_selector_94
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"ボックス型\"" }]):
         jump block_00002C09
@@ -2864,7 +2864,7 @@ label block_00003606:
 
 label block_00003607:
     # Node: 00003607 (選擇)
-    call scb_selector("", [{"name":"はい", "content":"反正是买BUG送游戏"}, {"name":"いいえ", "content":"哇，好不安，我不要"}]) from _call_scb_selector_95
+    call scb_selector("", [{"name":"はい", "content":_("反正是买BUG送游戏")}, {"name":"いいえ", "content":_("哇，好不安，我不要")}]) from _call_scb_selector_95
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"いいえ\"" },{ "scope": 1, "content": "IsCaveRollbackAvailable == True" }]):
         jump block_000031AB
@@ -4335,7 +4335,7 @@ label block_00002C19:
 
 label block_00002C1A:
     # Node: 00002C1A (選擇)
-    call scb_selector("", [{"name":"はい", "content":"梦之温泉设施？听起来好有趣"}, {"name":"いいえ", "content":"听起来好可疑"}]) from _call_scb_selector_96
+    call scb_selector("", [{"name":"はい", "content":_("梦之温泉设施？听起来好有趣")}, {"name":"いいえ", "content":_("听起来好可疑")}]) from _call_scb_selector_96
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"はい\"" }]):
         jump block_00002C2C
@@ -4380,7 +4380,7 @@ label block_000031AA:
 
 label block_000031AF:
     # Node: 000031AF (選擇)
-    call scb_selector("", [{"name":"Chapter 1", "content":"第一章"}, {"name":"Chapter 2", "content":"第二章"}, {"name":"Chapter 3", "content":"第三章"}, {"name":"Back", "content":"我对过去没有留恋"}]) from _call_scb_selector_97
+    call scb_selector("", [{"name":"Chapter 1", "content":_("第一章")}, {"name":"Chapter 2", "content":_("第二章")}, {"name":"Chapter 3", "content":_("第三章")}, {"name":"Back", "content":_("我对过去没有留恋")}]) from _call_scb_selector_97
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"Chapter 1\"" }]):
         jump block_00003CD8
@@ -4783,7 +4783,7 @@ label block_00003FBE:
 
 label block_00003FC0:
     # Node: 00003FC0 (選擇)
-    call scb_selector("", [{"name":"はい", "content":"没问题"}, {"name":"いいえ", "content":"还有其他事情没做完"}]) from _call_scb_selector_98
+    call scb_selector("", [{"name":"はい", "content":_("没问题")}, {"name":"いいえ", "content":_("还有其他事情没做完")}]) from _call_scb_selector_98
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"はい\"" }]):
         jump block_0000425D

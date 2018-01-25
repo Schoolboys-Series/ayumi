@@ -4318,3 +4318,23 @@ translate english block_00002F38_fc25a885:
     # rs_character_C223850065F6443080205D1F61C04C98 "放学后进家门前，\n记得{color=#FF8000}夕阳君{/color}在宝咲站口等你。"
     rs_character_C223850065F6443080205D1F61C04C98 ""
 
+# TODO: Translation updated at 2018-01-25 16:32
+
+translate english strings:
+
+    # content\file_000008C8.rpy:378
+    old "就是这个"
+    new ""
+
+    # content\file_000008C8.rpy:378
+    old "太微妙了，算了"
+    new ""
+
+# TODO: Translation updated at 2018-01-25 16:35
+
+translate english strings:
+
+    # content\file_000008C8.rpy:378
+    old "这种意见可否？"
+    new ""
+

@@ -335,7 +335,7 @@ label block_00001BEB:
 
 label block_00001BEC:
     # Node: 00001BEC (選擇)
-    call scb_selector("要不要直接回家？", [{"name":"はい", "content":"回家吧"}, {"name":"いいえ", "content":"一定和谁约好过，再想想"}]) from _call_scb_selector_32
+    call scb_selector(_("要不要直接回家？"), [{"name":"はい", "content":_("回家吧")}, {"name":"いいえ", "content":_("一定和谁约好过，再想想")}]) from _call_scb_selector_32
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"いいえ\"" }]):
         jump block_000027E1

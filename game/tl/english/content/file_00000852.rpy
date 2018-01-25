@@ -396,3 +396,23 @@ translate english strings:
     old "宝咲上学路"
     new "Takarasaki road"
 
+# TODO: Translation updated at 2018-01-25 16:32
+
+translate english strings:
+
+    # content\file_00000852.rpy:554
+    old "在这里打发时间"
+    new "Kill time here"
+
+    # content\file_00000852.rpy:554
+    old "去别处看看"
+    new "Go look around"
+
+# TODO: Translation updated at 2018-01-25 16:35
+
+translate english strings:
+
+    # content\file_00000852.rpy:554
+    old "接下来怎么做？"
+    new "What's next?"
+

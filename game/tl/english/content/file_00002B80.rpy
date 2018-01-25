@@ -1152,3 +1152,135 @@ translate english block_00003625_a60bb11b:
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}这是第二章夕阳委托的原画。{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
+# TODO: Translation updated at 2018-01-25 16:32
+
+translate english strings:
+
+    # content\file_00002B80.rpy:139
+    old "好的没问题"
+    new ""
+
+    # content\file_00002B80.rpy:139
+    old "中途还有东西没拿到呢"
+    new ""
+
+    # content\file_00002B80.rpy:584
+    old "成年了"
+    new ""
+
+    # content\file_00002B80.rpy:584
+    old "我还未成年……"
+    new ""
+
+    # content\file_00002B80.rpy:934
+    old "当然"
+    new ""
+
+    # content\file_00002B80.rpy:934
+    old "力不从心……"
+    new ""
+
+    # content\file_00002B80.rpy:1194
+    old "《SCHOOLBOYS!》"
+    new ""
+
+    # content\file_00002B80.rpy:1194
+    old "《见习魔法师的任务》"
+    new ""
+
+    # content\file_00002B80.rpy:1355
+    old "当然，你是……"
+    new ""
+
+    # content\file_00002B80.rpy:1355
+    old "呃…………………………"
+    new ""
+
+    # content\file_00002B80.rpy:1533
+    old "当然是S"
+    new ""
+
+    # content\file_00002B80.rpy:1533
+    old "其实是M"
+    new ""
+
+    # content\file_00002B80.rpy:1698
+    old "和你不一样我有哦"
+    new ""
+
+    # content\file_00002B80.rpy:1698
+    old "唔……没有"
+    new ""
+
+    # content\file_00002B80.rpy:2068
+    old "其实我是在看月"
+    new ""
+
+    # content\file_00002B80.rpy:2068
+    old "对，我看的就是空"
+    new ""
+
+    # content\file_00002B80.rpy:2290
+    old "还用问，当然是友了！"
+    new ""
+
+    # content\file_00002B80.rpy:2290
+    old "不是只能选友君嘛！"
+    new ""
+
+    # content\file_00002B80.rpy:2290
+    old "怎么选都只有友君的！"
+    new ""
+
+    # content\file_00002B80.rpy:2290
+    old "谁都可以，除了你"
+    new ""
+
+    # content\file_00002B80.rpy:2477
+    old "哥哥"
+    new ""
+
+    # content\file_00002B80.rpy:2477
+    old "姐姐"
+    new ""
+
+    # content\file_00002B80.rpy:2616
+    old "四角裤型"
+    new ""
+
+    # content\file_00002B80.rpy:2616
+    old "三角形"
+    new ""
+
+    # content\file_00002B80.rpy:2867
+    old "反正是买BUG送游戏"
+    new ""
+
+    # content\file_00002B80.rpy:2867
+    old "哇，好不安，我不要"
+    new ""
+
+    # content\file_00002B80.rpy:4338
+    old "梦之温泉设施？听起来好有趣"
+    new ""
+
+    # content\file_00002B80.rpy:4338
+    old "听起来好可疑"
+    new ""
+
+    # content\file_00002B80.rpy:4383
+    old "第三章"
+    new ""
+
+    # content\file_00002B80.rpy:4383
+    old "我对过去没有留恋"
+    new ""
+
+# TODO: Translation updated at 2018-01-25 16:35
+
+translate english strings:
+
+    # content\file_00002B80.rpy:139
+    old "是否跳过寻路？"
+    new ""
+

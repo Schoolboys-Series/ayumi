@@ -1856,7 +1856,7 @@ label block_000010EE:
 
 label block_000010EF:
     # Node: 000010EF (選擇)
-    call scb_selector("要乘坐巴士吗？", [{"name":"はい", "content":"坐"}, {"name":"いいえ", "content":"不坐"}]) from _call_scb_selector_83
+    call scb_selector(_("要乘坐巴士吗？"), [{"name":"はい", "content":_("坐")}, {"name":"いいえ", "content":_("不坐")}]) from _call_scb_selector_83
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"はい\"" }]):
         jump block_000010F0

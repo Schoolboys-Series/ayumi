@@ -247,7 +247,7 @@ label block_0000104A:
 
 label block_0000192F:
     # Node: 0000192F (選擇)
-    call scb_selector("这种气场如何？", [{"name":"参考にする", "content":"就是这个"}, {"name":"参考にしない", "content":"太假了，不要"}]) from _call_scb_selector_74
+    call scb_selector(_("这种气场如何？"), [{"name":"参考にする", "content":_("就是这个")}, {"name":"参考にしない", "content":_("太假了，不要")}]) from _call_scb_selector_74
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"参考にしない\"" }]):
         jump block_00001048
@@ -462,7 +462,7 @@ label block_0000105D:
 
 label block_00001937:
     # Node: 00001937 (選擇)
-    call scb_selector("这种气场如何？", [{"name":"参考にする", "content":"就是这个"}, {"name":"参考にしない", "content":"太假了，不要"}]) from _call_scb_selector_75
+    call scb_selector(_("这种气场如何？"), [{"name":"参考にする", "content":_("就是这个")}, {"name":"参考にしない", "content":_("太假了，不要")}]) from _call_scb_selector_75
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"参考にする\"" }]):
         jump block_000016B5
@@ -993,7 +993,7 @@ label block_0000105B:
 
 label block_00001934:
     # Node: 00001934 (選擇)
-    call scb_selector("这种气场如何？", [{"name":"参考にする", "content":"就是这个"}, {"name":"参考にしない", "content":"太假了，不要"}]) from _call_scb_selector_76
+    call scb_selector(_("这种气场如何？"), [{"name":"参考にする", "content":_("就是这个")}, {"name":"参考にしない", "content":_("太假了，不要")}]) from _call_scb_selector_76
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"参考にする\"" }]):
         jump block_000016B5
@@ -1145,7 +1145,7 @@ label block_00001933:
 
 label block_00001935:
     # Node: 00001935 (選擇)
-    call scb_selector("这种气场如何？", [{"name":"参考にする", "content":"就是这个"}, {"name":"参考にしない", "content":"太假了，不要"}]) from _call_scb_selector_77
+    call scb_selector(_("这种气场如何？"), [{"name":"参考にする", "content":_("就是这个")}, {"name":"参考にしない", "content":_("太假了，不要")}]) from _call_scb_selector_77
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"参考にする\"" }]):
         jump block_000016B4
@@ -1629,7 +1629,7 @@ label block_0000105A:
 
 label block_00001939:
     # Node: 00001939 (選擇)
-    call scb_selector("这种气场如何？", [{"name":"参考にする", "content":"就是这个"}, {"name":"参考にしない", "content":"太假了，不要"}]) from _call_scb_selector_78
+    call scb_selector(_("这种气场如何？"), [{"name":"参考にする", "content":_("就是这个")}, {"name":"参考にしない", "content":_("太假了，不要")}]) from _call_scb_selector_78
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"参考にしない\"" }]):
         jump block_0000104F
@@ -1746,7 +1746,7 @@ label block_00001931:
 
 label block_00001936:
     # Node: 00001936 (選擇)
-    call scb_selector("这种气场如何？", [{"name":"参考にする", "content":"就是这个"}, {"name":"参考にしない", "content":"太假了，不要"}]) from _call_scb_selector_79
+    call scb_selector(_("这种气场如何？"), [{"name":"参考にする", "content":_("就是这个")}, {"name":"参考にしない", "content":_("太假了，不要")}]) from _call_scb_selector_79
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"参考にする\"" }]):
         jump block_000016B4
@@ -2108,7 +2108,7 @@ label block_00001100:
 
 label block_00001938:
     # Node: 00001938 (選擇)
-    call scb_selector("这种气场如何？", [{"name":"参考にする", "content":"就是这个"}, {"name":"参考にしない", "content":"太假了，不要"}]) from _call_scb_selector_80
+    call scb_selector(_("这种气场如何？"), [{"name":"参考にする", "content":_("就是这个")}, {"name":"参考にしない", "content":_("太假了，不要")}]) from _call_scb_selector_80
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"参考にしない\"" }]):
         jump block_00001101

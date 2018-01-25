@@ -810,3 +810,23 @@ translate english block_0000191D_0786e7f8:
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『与知道穗海作哉喜欢什么的人谈话，\n再决定是否要参考他们的意见。』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
+# TODO: Translation updated at 2018-01-25 16:32
+
+translate english strings:
+
+    # content\file_00000E8C.rpy:2144
+    old "可以"
+    new ""
+
+    # content\file_00000E8C.rpy:2144
+    old "明显不行"
+    new ""
+
+# TODO: Translation updated at 2018-01-25 16:35
+
+translate english strings:
+
+    # content\file_00000E8C.rpy:2144
+    old "要采纳这个意见吗？"
+    new ""
+

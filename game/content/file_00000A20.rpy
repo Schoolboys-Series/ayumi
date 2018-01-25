@@ -2347,7 +2347,7 @@ label block_00003BC5:
 
 label block_000025AD:
     # Node: 000025AD (選擇)
-    call scb_selector("回家？", [{"name":"はい", "content":"没问题"}, {"name":"いいえ", "content":"还有其他事情没做完"}]) from _call_scb_selector_62
+    call scb_selector(_("回家？"), [{"name":"はい", "content":_("没问题")}, {"name":"いいえ", "content":_("还有其他事情没做完")}]) from _call_scb_selector_62
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"はい\"" },{ "scope": 1, "content": "C2QYuuhiPhase == 1" },{ "scope": 2, "content": "TalkHomeQYuuhi == False" }]):
         jump block_000025B3
@@ -2543,7 +2543,7 @@ label block_000025AB:
 
 label block_000025A9:
     # Node: 000025A9 (選擇)
-    call scb_selector("今天没有其他安排了？", [{"name":"はい", "content":"休息"}, {"name":"いいえ", "content":"时间还早"}]) from _call_scb_selector_63
+    call scb_selector(_("今天没有其他安排了？"), [{"name":"はい", "content":_("休息")}, {"name":"いいえ", "content":_("时间还早")}]) from _call_scb_selector_63
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"いいえ\"" }]):
         jump block_000025AE
@@ -2676,7 +2676,7 @@ label block_000025A4:
 
 label block_000025A3:
     # Node: 000025A3 (選擇)
-    call scb_selector("试着学习一下？", [{"name":"はい", "content":"学习"}, {"name":"いいえ", "content":"学个毛习"}]) from _call_scb_selector_64
+    call scb_selector(_("试着学习一下？"), [{"name":"はい", "content":_("学习")}, {"name":"いいえ", "content":_("学个毛习")}]) from _call_scb_selector_64
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"はい\"" },{ "scope": 1, "content": "C2QYuuhiPhase == 1" }]):
         jump block_000025C1
@@ -4546,7 +4546,7 @@ label block_00002F08:
 
 label block_00000A50:
     # Node: 00000A50 (選擇)
-    call scb_selector("接下来怎么做？", [{"name":"時間を潰す", "content":"在这里打发时间"}, {"name":"やめておく", "content":"去别处看看"}]) from _call_scb_selector_65
+    call scb_selector(_("接下来怎么做？"), [{"name":"時間を潰す", "content":_("在这里打发时间")}, {"name":"やめておく", "content":_("去别处看看")}]) from _call_scb_selector_65
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"やめておく\"" }]):
         jump block_00000A3A
@@ -5840,7 +5840,7 @@ label block_00002577:
 
 label block_000025C2:
     # Node: 000025C2 (選擇)
-    call scb_selector("", [{"name":"はい", "content":"好呀"}, {"name":"いいえ", "content":"以后再说"}]) from _call_scb_selector_66
+    call scb_selector("", [{"name":"はい", "content":_("好呀")}, {"name":"いいえ", "content":_("以后再说")}]) from _call_scb_selector_66
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"はい\"" }]):
         jump block_000025C3

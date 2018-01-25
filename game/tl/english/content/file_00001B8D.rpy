@@ -306,3 +306,23 @@ translate english block_00001BD8_c6476c45:
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "总觉得今天和谁约好了……"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
+# TODO: Translation updated at 2018-01-25 16:32
+
+translate english strings:
+
+    # content\file_00001B8D.rpy:338
+    old "回家吧"
+    new ""
+
+    # content\file_00001B8D.rpy:338
+    old "一定和谁约好过，再想想"
+    new ""
+
+# TODO: Translation updated at 2018-01-25 16:35
+
+translate english strings:
+
+    # content\file_00001B8D.rpy:338
+    old "要不要直接回家？"
+    new ""
+

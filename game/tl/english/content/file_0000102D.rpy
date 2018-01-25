@@ -390,3 +390,19 @@ translate english block_0000176E_a81db31f:
     # rs_character_710A38AC94C841779DB701B5AC1010FD "算了不想了！\n恋爱本来就很麻烦了！"
     rs_character_710A38AC94C841779DB701B5AC1010FD ""
 
+# TODO: Translation updated at 2018-01-25 16:32
+
+translate english strings:
+
+    # content\file_0000102D.rpy:250
+    old "太假了，不要"
+    new ""
+
+# TODO: Translation updated at 2018-01-25 16:35
+
+translate english strings:
+
+    # content\file_0000102D.rpy:250
+    old "这种气场如何？"
+    new ""
+

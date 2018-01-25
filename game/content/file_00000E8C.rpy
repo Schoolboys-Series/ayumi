@@ -2141,7 +2141,7 @@ label block_00000EBB:
 
 label block_00001927:
     # Node: 00001927 (選擇)
-    call scb_selector("要采纳这个意见吗？", [{"name":"参考にする", "content":"可以"}, {"name":"参考にしない", "content":"明显不行"}]) from _call_scb_selector_8
+    call scb_selector(_("要采纳这个意见吗？"), [{"name":"参考にする", "content":_("可以")}, {"name":"参考にしない", "content":_("明显不行")}]) from _call_scb_selector_8
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"参考にしない\"" }]):
         jump block_00000E9B
@@ -2748,7 +2748,7 @@ label block_000010FB:
 
 label block_00001926:
     # Node: 00001926 (選擇)
-    call scb_selector("要采纳这个意见吗？", [{"name":"参考にする", "content":"可以"}, {"name":"参考にしない", "content":"明显不行"}]) from _call_scb_selector_9
+    call scb_selector(_("要采纳这个意见吗？"), [{"name":"参考にする", "content":_("可以")}, {"name":"参考にしない", "content":_("明显不行")}]) from _call_scb_selector_9
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"参考にしない\"" }]):
         jump block_00000E9D

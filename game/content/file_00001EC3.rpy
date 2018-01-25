@@ -1502,7 +1502,7 @@ label block_00001F08:
 
 label block_00003F92:
     # Node: 00003F92 (選擇)
-    call scb_selector("要放松一下么？", [{"name":"はい", "content":"反正也是最后了……"}, {"name":"いいえ", "content":"这不合适这不合适"}]) from _call_scb_selector_70
+    call scb_selector(_("要放松一下么？"), [{"name":"はい", "content":_("反正也是最后了……")}, {"name":"いいえ", "content":_("这不合适这不合适")}]) from _call_scb_selector_70
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"はい\"" }]):
         jump block_00003F93

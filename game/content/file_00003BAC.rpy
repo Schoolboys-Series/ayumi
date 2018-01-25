@@ -3821,7 +3821,7 @@ label block_00003C14:
 
 label block_00003C15:
     # Node: 00003C15 (選擇)
-    call scb_selector("调查到此为止？", [{"name":"はい", "content":"调查完毕"}, {"name":"いいえ", "content":"稍等，还有……"}]) from _call_scb_selector_33
+    call scb_selector(_("调查到此为止？"), [{"name":"はい", "content":_("调查完毕")}, {"name":"いいえ", "content":_("稍等，还有……")}]) from _call_scb_selector_33
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"いいえ\"" }]):
         jump block_00003C12
@@ -5294,7 +5294,7 @@ label block_00003C1F:
 
 label block_00003C20:
     # Node: 00003C20 (選擇)
-    call scb_selector("调查到此为止？", [{"name":"はい", "content":"调查完毕"}, {"name":"いいえ", "content":"稍等，还有……"}]) from _call_scb_selector_34
+    call scb_selector(_("调查到此为止？"), [{"name":"はい", "content":_("调查完毕")}, {"name":"いいえ", "content":_("稍等，还有……")}]) from _call_scb_selector_34
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"はい\"" }]):
         jump block_00003C21

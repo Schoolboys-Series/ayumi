@@ -1664,7 +1664,7 @@ label block_00003F28:
 
 label block_00003F29:
     # Node: 00003F29 (選擇)
-    call scb_selector("回家？", [{"name":"はい", "content":"没问题"}, {"name":"いいえ", "content":"还有其他事情没做完"}]) from _call_scb_selector_81
+    call scb_selector(_("回家？"), [{"name":"はい", "content":_("没问题")}, {"name":"いいえ", "content":_("还有其他事情没做完")}]) from _call_scb_selector_81
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"はい\"" }]):
         jump block_00003F01
@@ -1727,7 +1727,7 @@ label block_00003F2C:
 
 label block_00003F2D:
     # Node: 00003F2D (選擇)
-    call scb_selector("今天没有其他安排了？", [{"name":"はい", "content":"休息"}, {"name":"いいえ", "content":"时间还早"}]) from _call_scb_selector_82
+    call scb_selector(_("今天没有其他安排了？"), [{"name":"はい", "content":_("休息")}, {"name":"いいえ", "content":_("时间还早")}]) from _call_scb_selector_82
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"はい\"" }]):
         jump block_00003F2E

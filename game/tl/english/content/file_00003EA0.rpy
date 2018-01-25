@@ -3544,3 +3544,19 @@ translate english strings:
     old "我来接你了哦\n九尾"
     new ""
 
+# TODO: Translation updated at 2018-01-25 16:32
+
+translate english strings:
+
+    # content\file_00003EA0.rpy:6249
+    old "可以了"
+    new ""
+
+# TODO: Translation updated at 2018-01-25 16:35
+
+translate english strings:
+
+    # content\file_00003EA0.rpy:6249
+    old "已经确认完毕了？"
+    new ""
+

@@ -2982,3 +2982,11 @@ translate english strings:
     old "「傲娇男孩子的治疗法」"
     new ""
 
+# TODO: Translation updated at 2018-01-25 16:35
+
+translate english strings:
+
+    # content\file_00003A0D.rpy:4624
+    old "要重试吗？"
+    new ""
+

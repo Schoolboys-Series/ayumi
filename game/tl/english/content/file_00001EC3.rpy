@@ -462,3 +462,11 @@ translate english block_00001EEE_93aabb51:
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "正因为就在试音会前……{w}\n唔……心里不太舒服。"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
+# TODO: Translation updated at 2018-01-25 16:32
+
+translate english strings:
+
+    # content\file_00001EC3.rpy:1505
+    old "反正也是最后了……"
+    new ""
+

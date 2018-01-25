@@ -308,7 +308,7 @@ label block_000040D2:
 
 label block_000040D3:
     # Node: 000040D3 (選擇)
-    call scb_selector("", [{"name":"はい", "content":"再试一次"}, {"name":"いいえ", "content":"等以后有办法再说吧"}]) from _call_scb_selector_10
+    call scb_selector("", [{"name":"はい", "content":_("再试一次")}, {"name":"いいえ", "content":_("等以后有办法再说吧")}]) from _call_scb_selector_10
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"はい\"" }]):
         jump block_000040D4
@@ -1062,7 +1062,7 @@ label block_0000413A:
 
 label block_00004165:
     # Node: 00004165 (選擇)
-    call scb_selector("", [{"name":"はい", "content":"一起去吧，翼君"}, {"name":"いいえ", "content":"稍等现在有点事"}]) from _call_scb_selector_11
+    call scb_selector("", [{"name":"はい", "content":_("一起去吧，翼君")}, {"name":"いいえ", "content":_("稍等现在有点事")}]) from _call_scb_selector_11
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"はい\"" }]):
         jump block_00004166
@@ -2351,7 +2351,7 @@ label block_00004181:
 
 label block_0000412D:
     # Node: 0000412D (選擇)
-    call scb_selector("", [{"name":"はい", "content":"走，去训练了"}, {"name":"いいえ", "content":"我很忙的"}]) from _call_scb_selector_12
+    call scb_selector("", [{"name":"はい", "content":_("走，去训练了")}, {"name":"いいえ", "content":_("我很忙的")}]) from _call_scb_selector_12
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"はい\"" }]):
         jump block_000040CF
@@ -4136,7 +4136,7 @@ label block_000040CC:
 
 label block_0000418D:
     # Node: 0000418D (選擇)
-    call scb_selector("", [{"name":"はい", "content":"换！换！我要换！"}, {"name":"いいえ", "content":"容我三思"}]) from _call_scb_selector_13
+    call scb_selector("", [{"name":"はい", "content":_("换！换！我要换！")}, {"name":"いいえ", "content":_("容我三思")}]) from _call_scb_selector_13
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"はい\"" }]):
         jump block_0000418C
@@ -4211,7 +4211,7 @@ label block_0000407C:
 
 label block_00004123:
     # Node: 00004123 (選擇)
-    call scb_selector("要弹钢琴么？", [{"name":" 演奏しない", "content":"不想弹"}, {"name":"演奏する", "content":"弹"}]) from _call_scb_selector_14
+    call scb_selector(_("要弹钢琴么？"), [{"name":" 演奏しない", "content":_("不想弹")}, {"name":"演奏する", "content":_("弹")}]) from _call_scb_selector_14
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"演奏する\"" },{ "scope": 1, "content": "C3S6 == True" },{ "scope": 2, "content": "FTheater == False" },{ "scope": 3, "content": "E_NativeMusicAvailable == False" }]):
         jump block_00004128
@@ -5051,7 +5051,7 @@ label block_0000412C:
 
 label block_00004190:
     # Node: 00004190 (選擇)
-    call scb_selector("", [{"name":"はい", "content":"看"}, {"name":"いいえ", "content":"不想看"}]) from _call_scb_selector_15
+    call scb_selector("", [{"name":"はい", "content":_("看")}, {"name":"いいえ", "content":_("不想看")}]) from _call_scb_selector_15
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"はい\"" }]):
         jump block_00004191

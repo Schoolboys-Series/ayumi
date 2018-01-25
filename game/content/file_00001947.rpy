@@ -1387,7 +1387,7 @@ label block_00004234:
 
 label block_00004233:
     # Node: 00004233 (選擇)
-    call scb_selector("", [{"name":"はい", "content":"嗯，我要回去"}, {"name":"いいえ", "content":"再等一会"}]) from _call_scb_selector_36
+    call scb_selector("", [{"name":"はい", "content":_("嗯，我要回去")}, {"name":"いいえ", "content":_("再等一会")}]) from _call_scb_selector_36
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"いいえ\"" }]):
         jump block_00004232
@@ -1626,7 +1626,7 @@ label block_00002775:
 
 label block_00002776:
     # Node: 00002776 (選擇)
-    call scb_selector("", [{"name":"はい", "content":"再试一次"}, {"name":"いいえ", "content":"等以后有办法再说吧"}]) from _call_scb_selector_37
+    call scb_selector("", [{"name":"はい", "content":_("再试一次")}, {"name":"いいえ", "content":_("等以后有办法再说吧")}]) from _call_scb_selector_37
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"はい\"" }]):
         jump block_00002777
@@ -4395,7 +4395,7 @@ label block_0000275B:
 
 label block_00004017:
     # Node: 00004017 (選擇)
-    call scb_selector("", [{"name":"はい", "content":"换！换！我要换！"}, {"name":"いいえ", "content":"容我三思"}]) from _call_scb_selector_38
+    call scb_selector("", [{"name":"はい", "content":_("换！换！我要换！")}, {"name":"いいえ", "content":_("容我三思")}]) from _call_scb_selector_38
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"はい\"" }]):
         jump block_00004016
@@ -4647,7 +4647,7 @@ label block_00001977:
 
 label block_000030DA:
     # Node: 000030DA (選擇)
-    call scb_selector("", [{"name":" 演奏しない", "content":"不想弹"}, {"name":"演奏する", "content":"弹"}]) from _call_scb_selector_39
+    call scb_selector("", [{"name":" 演奏しない", "content":_("不想弹")}, {"name":"演奏する", "content":_("弹")}]) from _call_scb_selector_39
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"演奏する\"" },{ "scope": 1, "content": "C3S1Phase + C3S2Phase + C3S3Phase + C3S4Phase + C3S5Phase  + C3S6Phase == 0" },{ "scope": 2, "content": "C3QNakayamaPhase == 0" },{ "scope": 3, "content": "C3SG1 == True" },{ "scope": 4, "content": "C3S4 and C3S5 == True" },{ "scope": 5, "content": "C3S6 == False" }]):
         jump block_000030DF
@@ -6641,7 +6641,7 @@ label block_000030E5:
 
 label block_0000401B:
     # Node: 0000401B (選擇)
-    call scb_selector("", [{"name":"はい", "content":"看"}, {"name":"いいえ", "content":"不想看"}]) from _call_scb_selector_40
+    call scb_selector("", [{"name":"はい", "content":_("看")}, {"name":"いいえ", "content":_("不想看")}]) from _call_scb_selector_40
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"はい\"" }]):
         jump block_0000401C
@@ -9514,7 +9514,7 @@ label block_000034AD:
 
 label block_00003100:
     # Node: 00003100 (選擇)
-    call scb_selector("", [{"name":"はい", "content":"走，去训练了"}, {"name":"いいえ", "content":"我很忙的"}]) from _call_scb_selector_41
+    call scb_selector("", [{"name":"はい", "content":_("走，去训练了")}, {"name":"いいえ", "content":_("我很忙的")}]) from _call_scb_selector_41
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"はい\"" }]):
         jump block_00002761
@@ -10935,7 +10935,7 @@ label block_0000303E:
 
 label block_0000303B:
     # Node: 0000303B (常磐 Help)
-    call scb_selector("", [{"name":"フラグについて", "content":"关于事件……"},{"name":"クエストについて", "content":"关于委托……"},{"name":"なんでもない", "content":"其实木有事"}]) from _call_scb_selector_42
+    call scb_selector("", [{"name":"フラグについて", "content":_("关于事件……")},{"name":"クエストについて", "content":_("关于委托……")},{"name":"なんでもない", "content":_("其实木有事")}]) from _call_scb_selector_42
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"なんでもない\"" }]):
         jump block_00003038

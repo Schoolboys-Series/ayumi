@@ -4110,3 +4110,15 @@ translate english strings:
     old "柔道场"
     new ""
 
+# TODO: Translation updated at 2018-01-25 16:32
+
+translate english strings:
+
+    # content\file_00001947.rpy:1629
+    old "再试一次"
+    new ""
+
+    # content\file_00001947.rpy:1629
+    old "等以后有办法再说吧"
+    new ""
+

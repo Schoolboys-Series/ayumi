@@ -1878,3 +1878,47 @@ translate english block_000025B4_ed825d75:
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『带夕阳到商店街的书店。』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
+# TODO: Translation updated at 2018-01-25 16:32
+
+translate english strings:
+
+    # content\file_00000A20.rpy:2546
+    old "休息"
+    new ""
+
+    # content\file_00000A20.rpy:2546
+    old "时间还早"
+    new ""
+
+    # content\file_00000A20.rpy:2679
+    old "学习"
+    new ""
+
+    # content\file_00000A20.rpy:2679
+    old "学个毛习"
+    new ""
+
+    # content\file_00000A20.rpy:5843
+    old "好呀"
+    new ""
+
+    # content\file_00000A20.rpy:5843
+    old "以后再说"
+    new ""
+
+# TODO: Translation updated at 2018-01-25 16:35
+
+translate english strings:
+
+    # content\file_00000A20.rpy:2350
+    old "回家？"
+    new ""
+
+    # content\file_00000A20.rpy:2546
+    old "今天没有其他安排了？"
+    new ""
+
+    # content\file_00000A20.rpy:2679
+    old "试着学习一下？"
+    new ""
+

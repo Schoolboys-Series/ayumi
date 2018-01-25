@@ -6246,7 +6246,7 @@ label block_00003EA9:
 
 label block_00003EAA:
     # Node: 00003EAA (選擇)
-    call scb_selector("已经确认完毕了？", [{"name":"はい", "content":"可以了"}, {"name":"いいえ", "content":"再等一会"}]) from _call_scb_selector_69
+    call scb_selector(_("已经确认完毕了？"), [{"name":"はい", "content":_("可以了")}, {"name":"いいえ", "content":_("再等一会")}]) from _call_scb_selector_69
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"はい\"" }]):
         jump block_00003EAB

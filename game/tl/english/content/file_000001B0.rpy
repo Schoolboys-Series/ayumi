@@ -5108,3 +5108,95 @@ translate english strings:
     old "室外厕所"
     new "Outside toilet"
 
+# TODO: Translation updated at 2018-01-25 16:32
+
+translate english strings:
+
+    # content\file_000001B0.rpy:1061
+    old "嗯，我要回去"
+    new ""
+
+    # content\file_000001B0.rpy:1061
+    old "再等一会"
+    new ""
+
+    # content\file_000001B0.rpy:1147
+    old "没问题"
+    new ""
+
+    # content\file_000001B0.rpy:1147
+    old "还有其他事情没做完"
+    new ""
+
+    # content\file_000001B0.rpy:3552
+    old "一起去吧，翼君"
+    new ""
+
+    # content\file_000001B0.rpy:3552
+    old "稍等现在有点事"
+    new ""
+
+    # content\file_000001B0.rpy:6118
+    old "换！换！我要换！"
+    new ""
+
+    # content\file_000001B0.rpy:6118
+    old "容我三思"
+    new ""
+
+    # content\file_000001B0.rpy:6279
+    old "不想弹"
+    new ""
+
+    # content\file_000001B0.rpy:6279
+    old "弹"
+    new ""
+
+    # content\file_000001B0.rpy:8176
+    old "……忍不住了"
+    new ""
+
+    # content\file_000001B0.rpy:8176
+    old "这不合适这不合适"
+    new ""
+
+    # content\file_000001B0.rpy:8879
+    old "看"
+    new ""
+
+    # content\file_000001B0.rpy:8879
+    old "不想看"
+    new ""
+
+    # content\file_000001B0.rpy:11429
+    old "走，去训练了"
+    new ""
+
+    # content\file_000001B0.rpy:11429
+    old "我很忙的"
+    new ""
+
+    # content\file_000001B0.rpy:12653
+    old "关于事件……"
+    new ""
+
+    # content\file_000001B0.rpy:12653
+    old "关于委托……"
+    new ""
+
+    # content\file_000001B0.rpy:12653
+    old "其实木有事"
+    new ""
+
+# TODO: Translation updated at 2018-01-25 16:35
+
+translate english strings:
+
+    # content\file_000001B0.rpy:8176
+    old "要放松一下么？"
+    new ""
+
+    # content\file_000001B0.rpy:9261
+    old "要弹钢琴么？"
+    new ""
+

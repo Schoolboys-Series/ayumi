@@ -4621,7 +4621,7 @@ label block_00003A21:
 
 label block_00003A22:
     # Node: 00003A22 (選擇)
-    call scb_selector("要重试吗？", [{"name":"はい", "content":"再试一次"}, {"name":"いいえ", "content":"等以后有办法再说吧"}]) from _call_scb_selector_73
+    call scb_selector(_("要重试吗？"), [{"name":"はい", "content":_("再试一次")}, {"name":"いいえ", "content":_("等以后有办法再说吧")}]) from _call_scb_selector_73
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"はい\"" }]):
         jump block_00003A23

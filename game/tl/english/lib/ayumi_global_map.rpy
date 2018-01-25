@@ -82,3 +82,11 @@ translate english strings:
     old "泳池"
     new "Swimmingpool"
 
+# TODO: Translation updated at 2018-01-25 16:32
+
+translate english strings:
+
+    # lib\ayumi_global_map.rpy:328
+    old "当前人员"
+    new ""
+
