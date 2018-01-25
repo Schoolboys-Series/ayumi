@@ -60,7 +60,7 @@ translate english strings:
 
     # lib\ayumi_global_map.rpy:343
     old "御咲学园"
-    new "Misaki school"
+    new "School"
 
     # lib\ayumi_global_map.rpy:353
     old "室内（一）"

@@ -1846,23 +1846,23 @@ translate english strings:
 
     # content\file_00000A20.rpy:2386
     old "友的房间"
-    new ""
+    new "Tomo's room"
 
     # content\file_00000A20.rpy:3272
     old "梅咲"
-    new ""
+    new "Umesaki"
 
     # content\file_00000A20.rpy:3370
     old "梅咲广场"
-    new ""
+    new "Umesaki square"
 
     # content\file_00000A20.rpy:3413
     old "梅咲直通路"
-    new ""
+    new "Umesaki road"
 
     # content\file_00000A20.rpy:3461
     old "小巷"
-    new ""
+    new "Alley"
 
 # TODO: Translation updated at 2018-01-21 20:50
 

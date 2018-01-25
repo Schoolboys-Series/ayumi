@@ -310,33 +310,33 @@ translate english strings:
 
     # content\file_000002C5.rpy:147
     old "住宅街"
-    new ""
+    new "Residential st"
 
     # content\file_000002C5.rpy:408
     old "住宅街路口"
-    new ""
+    new "Residential st\ncross"
 
     # content\file_000002C5.rpy:458
     old "花乃汤"
-    new ""
+    new "Hanano bath"
 
     # content\file_000002C5.rpy:507
     old "河边"
-    new ""
+    new "River"
 
     # content\file_000002C5.rpy:623
     old "神社"
-    new ""
+    new "Jinja"
 
     # content\file_000002C5.rpy:697
     old "御咲站"
-    new ""
+    new "Misaki"
 
     # content\file_000002C5.rpy:803
     old "商店街"
-    new ""
+    new "Shopping st"
 
     # content\file_000002C5.rpy:900
     old "公园"
-    new ""
+    new "Park"
 

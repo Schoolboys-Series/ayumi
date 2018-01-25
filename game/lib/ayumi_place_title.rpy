@@ -25,10 +25,12 @@ screen scb_place_title(place):
         action ShowMenu("save")
     text place:
         xpos 675
-        ypos 18
+        ypos 30
         size 18
         color "#60300C"
         xanchor 0.5
+        yanchor 0.5
+        text_align 0.5
         font "font/zcool-happy-ayumi-extended.ttf"
 
 screen scb_place_title_button_only():

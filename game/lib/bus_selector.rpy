@@ -16,7 +16,7 @@ screen scb_bus_selector(show_misaki=True, show_takarasaki=True, show_umesaki=Tru
         style "scb_bus_selector_frame"
         text _("选择目标地点") style "scb_bus_selector_title"
         add "images/Selection/Route/Map.png" xpos 0 ypos 0
-        for i, place in enumerate([_("梅咲"),_("尼咲"),_("伊丹咲"),_("川西池口"),_("中山菩萨"),_("清稳神"),_("宝咲"),_("御咲"),_("武咲尾"),_("四田")]):
+        for i, place in enumerate([_("梅咲站"),_("尼咲站"),_("伊丹咲站"),_("川西池口站"),_("中山菩萨站"),_("清稳神站"),_("宝咲站"),_("御咲市站"),_("武咲尾站"),_("四田站")]):
             if (i == 0 and show_umesaki) or (i == 6 and show_takarasaki) or (i == 7 and show_misaki):
                 imagebutton:
                     xpos 160 + i * 49

@@ -40,7 +40,7 @@ translate english strings:
 
     # screens.rpy:562
     old "音乐鉴赏"
-    new "Music room"
+    new "Music"
 
     # screens.rpy:564
     old "场景回想"

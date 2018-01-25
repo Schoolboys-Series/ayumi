@@ -111,7 +111,7 @@ image global_map_place_1 = ParameterizedText(
     color="#FFFFFF",
     font="font/source-hans-sans-heavy.ttc",
     xanchor=1.0,
-    pos=(750, 5),
+    pos=(665, 5),
     outlines=[
         (absolute(3), "#64DF6600", absolute(0), absolute(0)),
         (absolute(2), "#64DF6688", absolute(0), absolute(0)),
@@ -134,7 +134,7 @@ image global_map_place_2 = ParameterizedText(
     color="#FFFFFF",
     font="font/source-hans-sans-heavy.ttc",
     xanchor=1.0,
-    pos=(750, 5),
+    pos=(665, 5),
     outlines=[
         (absolute(3), "#56589800", absolute(0), absolute(0)),
         (absolute(2), "#56589888", absolute(0), absolute(0)),
@@ -157,7 +157,7 @@ image global_map_place_3 = ParameterizedText(
     color="#FFFFFF",
     font="font/source-hans-sans-heavy.ttc",
     xanchor=1.0,
-    pos=(750, 5),
+    pos=(665, 5),
     outlines=[
         (absolute(3), "#DE5A8700", absolute(0), absolute(0)),
         (absolute(2), "#DE5A8788", absolute(0), absolute(0)),
@@ -179,7 +179,7 @@ image global_map_place_4 = ParameterizedText(
     size=16,
     color="#FFFFFF",
     font="font/source-hans-sans-heavy.ttc",
-    pos=(675, 5),
+    pos=(665, 5),
     outlines=[
         (absolute(3), "#5193C800", absolute(0), absolute(0)),
         (absolute(2), "#5193C888", absolute(0), absolute(0)),
@@ -325,7 +325,7 @@ screen scb_global_map_character_info(character):
     imagebutton:
         idle "global_map_character_info_" + character
         action Hide("scb_global_map_character_info", transition=Dissolve(0.3))
-    text "当前人员" text_align 0.5 xalign 0.5 ypos 5 color "#FFFFFF" outlines[(absolute(2), "#000000", absolute(0), absolute(0))]
+    text _("当前人员") text_align 0.5 xalign 0.5 ypos 5 color "#FFFFFF" outlines[(absolute(2), "#000000", absolute(0), absolute(0))]
 
 define global_map_places_school_inside = [
     { "name": "廊下", "title": _("二楼走廊"), "image": "images/Moving/Places/Aisle 2.png" },

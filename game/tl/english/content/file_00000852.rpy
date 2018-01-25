@@ -370,29 +370,29 @@ translate english strings:
 
     # content\file_00000852.rpy:307
     old "商店街内"
-    new ""
+    new "Shopping st\ninside"
 
     # content\file_00000852.rpy:357
     old "书店"
-    new ""
+    new "Bookstore"
 
     # content\file_00000852.rpy:836
     old "广场"
-    new ""
+    new "Square"
 
     # content\file_00000852.rpy:883
     old "泉水公园"
-    new ""
+    new "Spring water\npark"
 
     # content\file_00000852.rpy:932
     old "迷之地点"
-    new ""
+    new "Mistory place"
 
     # content\file_00000852.rpy:1349
     old "宝咲"
-    new ""
+    new "Takarasaki"
 
     # content\file_00000852.rpy:1447
     old "宝咲上学路"
-    new ""
+    new "Takarasaki road"
 

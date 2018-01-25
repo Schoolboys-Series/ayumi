@@ -594,17 +594,14 @@ style main_menu_text:
     color "#00B3C7"
     bold True
     font "font/source-hans-sans-medium.ttc"
-style main_menu_hbox is hbox
-style main_menu_hbox:
+style main_menu_hbox is hbox:
     xalign 0.5
     yalign 0.6
     spacing gui.navigation_spacing
-style main_menu_hbox_button is gui_button
-style main_menu_hbox_button_text is gui_button_text
-style main_menu_hbox_button:
-    size_group "navigation"
+style main_menu_hbox_button is gui_button:
+    xalign 0.5
     properties gui.button_properties("navigation_button")
-style main_menu_hbox_button_text:
+style main_menu_hbox_button_text is gui_button_text:
     size 26
     properties gui.button_text_properties("navigation_button")
     color "#95F7FF"
