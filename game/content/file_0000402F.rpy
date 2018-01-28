@@ -1901,7 +1901,7 @@ label block_0000423E:
     show rs_image_A3E496DCEC7C4B75B1FF286D5EB3B496 as tag_A77E36FB70FF4F60B12060B2747E46D1 at Transform(xpos=430, yalign=0.0) zorder zorder_tag_A77E36FB70FF4F60B12060B2747E46D1 onlayer master
     with rs_effect_3F09116E1F944952A143A708C140C6CA
 
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "啊，这可真是这可真是，友桑，任务辛苦了"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "啊，这可真是这可真是，友同学，任务辛苦了"
 
     if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop

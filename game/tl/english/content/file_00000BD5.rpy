@@ -207,7 +207,7 @@ translate english block_000025EE_a0e3e598:
 # game/content/file_00000BD5.rpy:825
 translate english block_000025EE_48b8bc7b:
 
-    # rs_character_53FF68C192E3494AB005C1909579AFFB "啊，抱歉，森海桑。{w}\n这次也很感谢，请收好报酬。"
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "啊，抱歉，森海同学。{w}\n这次也很感谢，请收好报酬。"
     rs_character_53FF68C192E3494AB005C1909579AFFB ""
 
 # game/content/file_00000BD5.rpy:851
@@ -323,4 +323,12 @@ translate english block_00000BD8_60b0e0ae:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『尽快回家为好。』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+
+# TODO: Translation updated at 2018-01-28 10:10
+
+# game/content/file_00000BD5.rpy:825
+translate english block_000025EE_34a5cbd4:
+
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "啊，抱歉，森海同学。{w}\n这次也很感谢，请收好报酬。"
+    rs_character_53FF68C192E3494AB005C1909579AFFB ""
 

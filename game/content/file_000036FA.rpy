@@ -1101,7 +1101,7 @@ label block_000036FE:
 
     window show
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "那、那个啊～雪绪桑，这到底是怎么回事……？"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "那、那个啊～雪绪同学，这到底是怎么回事……？"
 
     rs_character_7009C1117C004F51829614A203C67DE7 "四朗之前不是说过嘛，为了能让穗海前辈更喜欢，\n{color=#008080}希望能变成狗的属性{/color}。{nw}"
     if sys_effect_current_file != "sound/Effect Sound/Decision 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
@@ -1234,7 +1234,7 @@ label block_000036FE:
     show rs_image_9A28E545991346B283D7739D7FF58074 as tag_4233D225ED0D43968B3A0D890F587FEB zorder zorder_tag_4233D225ED0D43968B3A0D890F587FEB onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_7009C1117C004F51829614A203C67DE7 "四朗总是把喜欢作哉桑挂在嘴边，那究竟是什么意义的喜欢？"
+    rs_character_7009C1117C004F51829614A203C67DE7 "四朗总是把喜欢作哉前辈挂在嘴边，那究竟是什么意义的喜欢？"
 
     show rs_image_D264D770FEE64C5F8D0ED7B023B96089 as tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 zorder zorder_tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -1428,7 +1428,7 @@ label block_000036FE:
     show rs_image_7C3DD6AA3B724DE9984D6B1A9DC41316 as tag_4233D225ED0D43968B3A0D890F587FEB zorder zorder_tag_4233D225ED0D43968B3A0D890F587FEB onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_7009C1117C004F51829614A203C67DE7 "作哉桑养的狗和某人同名，而且前辈只是在说狗的事情。"
+    rs_character_7009C1117C004F51829614A203C67DE7 "作哉前辈养的狗和某人同名，而且前辈只是在说狗的事情。"
 
     rs_character_7009C1117C004F51829614A203C67DE7 "四朗却一厢情愿地把这些当做了那个人的事。"
 
@@ -1640,7 +1640,7 @@ label block_000036FE:
     show rs_image_596D161914B24A83ACDE5FD1ED935C63 as tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 at left_top zorder zorder_tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 onlayer master
     with rs_effect_3F09116E1F944952A143A708C140C6CA
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "呜哇！？翼、翼桑？"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "呜哇！？翼、翼前辈？"
 
     show rs_image_CBD2AF53D136432CA26466E5BD1ED8E7 as tag_A469B787E7E7466FA1613F380A4CBF41 zorder zorder_tag_A469B787E7E7466FA1613F380A4CBF41 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -1816,7 +1816,7 @@ label block_000036FE:
     show rs_image_BA8F587A9CFC4AC38660F10FCCA9BD0C as tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 zorder zorder_tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "翼桑！我就直说了，你和穗海作哉前辈是什么关系？"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "翼前辈！我就直说了，你和穗海作哉前辈是什么关系？"
 
     show rs_image_FACB6036013341EC894B878C7D2A109E as tag_A469B787E7E7466FA1613F380A4CBF41 zorder zorder_tag_A469B787E7E7466FA1613F380A4CBF41 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -2185,7 +2185,7 @@ label block_000036FE:
     show rs_image_E212CF3B4B47425FB1AEB250438B7593 as tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 zorder zorder_tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "（算了。今天就当是在翼桑这里学习如何更像狗一点好了。）"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "（算了。今天就当是在翼前辈这里学习如何更像狗一点好了。）"
 
     hide tag_8E7A1CAFAF9A498EA9AED7966C7C96F6
     hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
@@ -2367,7 +2367,7 @@ label block_00003AF8:
     show rs_image_B18CEC27CB7E4BE28F0FEA52EFCE8F50 as tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 zorder zorder_tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 onlayer master
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "等等，翼桑！？"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "等等，翼前辈！？"
 
     hide tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3
     hide tag_A469B787E7E7466FA1613F380A4CBF41
@@ -2492,7 +2492,7 @@ label block_00003AF8:
     show rs_image_4C49CB282F514E7FB8F3E76FFD229A96 as tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 zorder zorder_tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "那些孩子好像是我们学校低年级的。{w}\n翼桑认识的人还真是多呐。"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "那些孩子好像是我们学校低年级的。{w}\n翼前辈认识的人还真是多呐。"
 
     hide tag_8E7A1CAFAF9A498EA9AED7966C7C96F6
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -2762,7 +2762,7 @@ label block_00003AF8:
     show rs_image_E47A96C261964823A2932F1C8BFCF258 as tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 at center_top zorder zorder_tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "翼桑，从来公园开始精神年龄便急速下跌了……{w}\n真有这么高兴……"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "翼前辈，从来公园开始精神年龄便急速下跌了……{w}\n真有这么高兴……"
     if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Strike 1.ogg"
@@ -3037,7 +3037,7 @@ label block_00003AF8:
     show rs_image_5C9C69F3A63F44E0B71087CC0D54D58E as tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 zorder zorder_tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "……翼桑这么说的话，一定就是那样了。"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "……翼前辈这么说的话，一定就是那样了。"
 
     hide tag_8E7A1CAFAF9A498EA9AED7966C7C96F6
     hide tag_A469B787E7E7466FA1613F380A4CBF41
@@ -3307,7 +3307,7 @@ label block_00003AF8:
     hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    extend "啊，翼桑！等等！"
+    extend "啊，翼前辈！等等！"
 
     show rs_image_FACB6036013341EC894B878C7D2A109E as tag_A469B787E7E7466FA1613F380A4CBF41 zorder zorder_tag_A469B787E7E7466FA1613F380A4CBF41 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -3560,7 +3560,7 @@ label block_00003AF8:
 
     extend "啊哇哇！？"
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "翼、翼桑！不要太勉强比较好！"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "翼、翼前辈！不要太勉强比较好！"
 
     rs_character_3B4C660F421B4BE392BB540B580F0339 "很危险的！果然狗上树是不可能的……"
 
@@ -3661,7 +3661,7 @@ label block_00003AF8:
 
     rs_character_87ED686ED78C4AB6909895FBBBE8A60B "呐，四朗！来这里是不是很高兴！？"
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "这都是拜南君和小林君，以及翼桑邀请的福。"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "这都是拜南君和小林君，以及翼前辈邀请的福。"
 
     rs_character_87ED686ED78C4AB6909895FBBBE8A60B "会表扬我吗？会摸摸我吗？？呐——呐——摸一下嘛？？"
 
@@ -3679,7 +3679,7 @@ label block_00003AF8:
 
     rs_character_87ED686ED78C4AB6909895FBBBE8A60B "我能来这里真是太好了，确实是不是现在就做不到的事呐。\n和作哉一起的时候不会来这里的……"
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "嗯？什么意思？翼桑。"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "嗯？什么意思？翼前辈。"
 
     rs_character_87ED686ED78C4AB6909895FBBBE8A60B "嗯嗯，没什么！我绝对不会忘记现在看到的一切的！"
 
@@ -3743,7 +3743,7 @@ label block_00003AF8:
     show rs_image_D264D770FEE64C5F8D0ED7B023B96089 as tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 zorder zorder_tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "翼桑，从刚才开始就一直心神不宁的样子，发生什么了？"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "翼前辈，从刚才开始就一直心神不宁的样子，发生什么了？"
 
     show rs_image_CA8BEA043D254D89B51E4C1CDA09F6EB as tag_A469B787E7E7466FA1613F380A4CBF41 zorder zorder_tag_A469B787E7E7466FA1613F380A4CBF41 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -3837,7 +3837,7 @@ label block_00003AF8:
     show rs_image_E0D2132CD8F74B5CB3274596C13F9EA2 as tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 zorder zorder_tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "那个下次再说。\n今天谢谢了！真的很高兴哦！对不对，翼桑。"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "那个下次再说。\n今天谢谢了！真的很高兴哦！对不对，翼前辈。"
 
     hide tag_8E7A1CAFAF9A498EA9AED7966C7C96F6
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -3870,7 +3870,7 @@ label block_00003AF8:
     show rs_image_48E89875ADC24E3987D4AA23DC193AA4 as tag_A469B787E7E7466FA1613F380A4CBF41 at right_top zorder zorder_tag_A469B787E7E7466FA1613F380A4CBF41 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "那么我们也该走了，翼桑。"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "那么我们也该走了，翼前辈。"
 
     rs_character_87ED686ED78C4AB6909895FBBBE8A60B "嗯！{w}\n{nw}"
     show rs_image_FACB6036013341EC894B878C7D2A109E as tag_A469B787E7E7466FA1613F380A4CBF41 zorder zorder_tag_A469B787E7E7466FA1613F380A4CBF41 onlayer master
@@ -3883,7 +3883,7 @@ label block_00003AF8:
 
     rs_character_3B4C660F421B4BE392BB540B580F0339 "说不准呢～这个没法保证哦～"
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "翼桑还是做好会有一点痛的心理准备比较好……"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "翼前辈还是做好会有一点痛的心理准备比较好……"
 
     if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
@@ -3916,7 +3916,7 @@ label block_00003AF8:
     hide tag_F647A346C17043E4AA06DD4621FE0DFF
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "翼桑的话一定可以的。"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "翼前辈的话一定可以的。"
 
     window hide
 
@@ -4248,7 +4248,7 @@ label block_00003AF7:
     show rs_image_9A3415044879409B866CD2472C9CB897 as tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 zorder zorder_tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 onlayer master
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
-    extend "翼桑？"
+    extend "翼前辈？"
     if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Strike 1.ogg"
@@ -4283,7 +4283,7 @@ label block_00003AF7:
     show rs_image_E212CF3B4B47425FB1AEB250438B7593 as tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 zorder zorder_tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "翼桑，翼桑。"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "翼前辈，翼前辈。"
 
     if sys_effect_current_file != "sound/Effect Sound/Cute 3.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 3.ogg" noloop
@@ -4302,7 +4302,7 @@ label block_00003AF7:
 
     rs_character_87ED686ED78C4AB6909895FBBBE8A60B "唔～嗯……"
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "翼桑，洗澡！身体会冷下来的。"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "翼前辈，洗澡！身体会冷下来的。"
 
     hide tag_8E7A1CAFAF9A498EA9AED7966C7C96F6
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
@@ -4352,7 +4352,7 @@ label block_00003AF7:
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "翼、翼桑，很重的。起来，快起来……"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "翼、翼前辈，很重的。起来，快起来……"
 
     rs_character_87ED686ED78C4AB6909895FBBBE8A60B "四朗——"
 
@@ -4387,11 +4387,11 @@ label block_00003AF7:
 
     rs_character_87ED686ED78C4AB6909895FBBBE8A60B "呼呼～♪"
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "等……快停下！不、不要舔我！翼桑！"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "等……快停下！不、不要舔我！翼前辈！"
 
     rs_character_87ED686ED78C4AB6909895FBBBE8A60B "为什么～？为什么不行呢～？"
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "那、那是要和喜欢的人做的！我、我对翼桑没有……"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "那、那是要和喜欢的人做的！我、我对翼前辈没有……"
 
     rs_character_3B4C660F421B4BE392BB540B580F0339 "再说了，你不是对穗海前辈……对穗海前辈……"
 
@@ -4406,7 +4406,7 @@ label block_00003AF7:
 
     rs_character_87ED686ED78C4AB6909895FBBBE8A60B "不～要。四朗上面很舒服，我喜欢这样的感觉～"
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "不、不要！都说了这只能和喜欢的人做！\n翼桑是喜欢穗海前辈的对不对？"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "不、不要！都说了这只能和喜欢的人做！\n翼前辈是喜欢穗海前辈的对不对？"
 
     rs_character_87ED686ED78C4AB6909895FBBBE8A60B "嗯，最喜欢了！四朗也最喜欢了！最喜欢四朗了！"
 
@@ -4441,7 +4441,7 @@ label block_00003AF7:
 
     rs_character_3B4C660F421B4BE392BB540B580F0339 "啊，嗯，是有这么回事……"
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "算了，至于翼桑究竟是狗还是什么，很快就能明白了……"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "算了，至于翼前辈究竟是狗还是什么，很快就能明白了……"
 
     rs_character_3B4C660F421B4BE392BB540B580F0339 "真正的狗我很棘手呢。"
 
@@ -4820,7 +4820,7 @@ label block_00003AF7:
     show rs_image_9A28E545991346B283D7739D7FF58074 as tag_4233D225ED0D43968B3A0D890F587FEB zorder zorder_tag_4233D225ED0D43968B3A0D890F587FEB onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    extend "那么，在穗海桑和三朗哥来之前，\n找个地方打发时间好了。"
+    extend "那么，在穗海前辈和三朗哥来之前，\n找个地方打发时间好了。"
 
     window hide
 

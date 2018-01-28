@@ -4880,7 +4880,7 @@ label block_0000257A:
     hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "这、这种小事不用告诉友桑的，笨蛋杉本！"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "这、这种小事不用告诉友同学的，笨蛋杉本！"
 
     hide tag_E0B8A219896B49168D47409135D3624F
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -4984,7 +4984,7 @@ label block_00002579:
     show rs_image_BF5966E1F19E4459A8639805C22B453E as tag_E0B8A219896B49168D47409135D3624F zorder zorder_tag_E0B8A219896B49168D47409135D3624F onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    extend "说是这么说，\n但这是早上十点的节目。\n友桑应该没时间看。"
+    extend "说是这么说，\n但这是早上十点的节目。\n友同学应该没时间看。"
 
     show rs_image_3D1658550AAD4B23B72B22E477CAE581 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -5019,7 +5019,7 @@ label block_00002579:
     show rs_image_1822EC419F9A4507B966E729B92CF65B as tag_E0B8A219896B49168D47409135D3624F zorder zorder_tag_E0B8A219896B49168D47409135D3624F onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "哦～？听起来友桑好像对我们没什么兴趣呐～"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "哦～？听起来友同学好像对我们没什么兴趣呐～"
 
     if sys_effect_current_file != "sound/Effect Sound/Flee 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Flee 1.ogg" noloop
@@ -5062,7 +5062,7 @@ label block_00002579:
     show rs_image_3CA3C6E0C60746A1A2486C9D01A035A5 as tag_E0B8A219896B49168D47409135D3624F at center_bottom zorder zorder_tag_E0B8A219896B49168D47409135D3624F onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "停下杉本，友桑很困扰的。\n适可而止就好。"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "停下杉本，友同学很困扰的。\n适可而止就好。"
 
     hide tag_E0B8A219896B49168D47409135D3624F
     with rs_effect_351A8A667ECF419EB1A052B06E597A01

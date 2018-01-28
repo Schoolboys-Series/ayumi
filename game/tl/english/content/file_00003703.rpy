@@ -1263,7 +1263,7 @@ translate english block_00003707_cf09e79f:
 # game/content/file_00003703.rpy:1951
 translate english block_00003707_0fc5c967:
 
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "请看！赤峰桑华丽的出招！！"
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "请看！赤峰同学华丽的出招！！"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
 
 # game/content/file_00003703.rpy:1953
@@ -1341,7 +1341,7 @@ translate english block_00003707_42396e4b:
 # game/content/file_00003703.rpy:2044
 translate english block_00003707_77a37f21:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "啊！你是赤峰月桑的弟弟！确实很像呐。{w}\n和帅气型的哥哥不同，气场很温柔呐。"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "啊！你是赤峰月同学的弟弟！确实很像呐。{w}\n和帅气型的哥哥不同，气场很温柔呐。"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003703.rpy:2049
@@ -1437,7 +1437,7 @@ translate english block_00003707_37a7a99b:
 # game/content/file_00003703.rpy:2207
 translate english block_00003707_1a45ac43:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "刚才对木村桑的应援真是狂热呢…………"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "刚才对木村同学的应援真是狂热呢…………"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003703.rpy:2224
@@ -1479,7 +1479,7 @@ translate english block_00003707_d6bbbebb:
 # game/content/file_00003703.rpy:2277
 translate english block_00003707_bfa1c5d2:
 
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "好的，终于到决战了！！\n果然双方和之前预想中的一样呢，杉本桑。"
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "好的，终于到决战了！！\n果然双方和之前预想中的一样呢，杉本先生。"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
 
 # game/content/file_00003703.rpy:2279
@@ -1587,7 +1587,7 @@ translate english block_00003708_d40513b8:
 # game/content/file_00003703.rpy:2442
 translate english block_00003708_93fb8d0c:
 
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "哦哦！！木村桑的上手投！{w}\n……可惜！赤峰桑没能完全出局！！"
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "哦哦！！木村同学的上手投！{w}\n……可惜！赤峰同学没能完全出局！！"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
 
 # game/content/file_00003703.rpy:2444
@@ -1629,7 +1629,7 @@ translate english block_00003708_459a31eb:
 # game/content/file_00003703.rpy:2499
 translate english block_00003708_ece409e8:
 
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "哦哦！！赤峰桑把对方押倒了～！"
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "哦哦！！赤峰同学把对方押倒了～！"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
 
 # game/content/file_00003703.rpy:2505
@@ -1641,7 +1641,7 @@ translate english block_00003708_ccbee105:
 # game/content/file_00003703.rpy:2510
 translate english block_00003708_7d1157c2:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "啊！！比起木村桑赤峰桑的手先着地了！"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "啊！！比起木村同学赤峰同学的手先着地了！"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003703.rpy:2512
@@ -1665,7 +1665,7 @@ translate english block_00003708_71d286d7:
 # game/content/file_00003703.rpy:2531
 translate english block_00003708_735c2579:
 
-    # extend "{color=#FFFF00}赤峰桑的胜利！！！{/color}"
+    # extend "{color=#FFFF00}赤峰同学的胜利！！！{/color}"
     extend ""
 
 # game/content/file_00003703.rpy:2537
@@ -1899,25 +1899,25 @@ translate english block_00003708_6e7d3136:
 # game/content/file_00003703.rpy:2890
 translate english block_00003708_aadc4510:
 
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "之前一直在观众席加油的赤峰桑的弟弟，现在作为赤峰军的里BOSS登场了！"
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "之前一直在观众席加油的赤峰同学的弟弟，现在作为赤峰军的里BOSS登场了！"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
 
 # game/content/file_00003703.rpy:2892
 translate english block_00003708_c79e06d0:
 
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "然后，根据赤峰桑和木村桑的意见，将会再举行一场比赛！！"
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "然后，根据赤峰同学和木村同学的意见，将会再举行一场比赛！！"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
 
 # game/content/file_00003703.rpy:2894
 translate english block_00003708_3627b66e:
 
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "这对木村桑来说可谓是难得的复活战！"
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "这对木村同学来说可谓是难得的复活战！"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
 
 # game/content/file_00003703.rpy:2921
 translate english block_00003708_d4804c96:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "击败赤峰桑的情况下，木村桑将会获得大赛的优胜，以上可否？"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "击败赤峰同学的情况下，木村同学将会获得大赛的优胜，以上可否？"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003703.rpy:2927
@@ -2043,7 +2043,7 @@ translate english block_00003708_83ca6228:
 # game/content/file_00003703.rpy:3159
 translate english block_00003708_911e35d9:
 
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "赤峰桑突然绕到了对手身后，见机击倒对方了——！！"
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "赤峰同学突然绕到了对手身后，见机击倒对方了——！！"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
 
 # game/content/file_00003703.rpy:3165
@@ -3233,4 +3233,84 @@ translate english strings:
     # content\file_00003703.rpy:26
     old "「大家来相扑」"
     new ""
+
+# TODO: Translation updated at 2018-01-28 10:10
+
+# game/content/file_00003703.rpy:1951
+translate english block_00003707_a19c637f:
+
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "请看！赤峰同学华丽的出招！！"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
+
+# game/content/file_00003703.rpy:2044
+translate english block_00003707_3ae6fd11:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "啊！你是赤峰月同学的弟弟！确实很像呐。{w}\n和帅气型的哥哥不同，气场很温柔呐。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00003703.rpy:2207
+translate english block_00003707_2b6f52ba:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "刚才对木村同学的应援真是狂热呢…………"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00003703.rpy:2277
+translate english block_00003707_c69151af:
+
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "好的，终于到决战了！！\n果然双方和之前预想中的一样呢，杉本先生。"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
+
+# game/content/file_00003703.rpy:2442
+translate english block_00003708_df9f95bd:
+
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "哦哦！！木村同学的上手投！{w}\n……可惜！赤峰同学没能完全出局！！"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
+
+# game/content/file_00003703.rpy:2499
+translate english block_00003708_68ada1cc:
+
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "哦哦！！赤峰同学把对方押倒了～！"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
+
+# game/content/file_00003703.rpy:2510
+translate english block_00003708_77ed38ea:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "啊！！比起木村同学赤峰同学的手先着地了！"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00003703.rpy:2531
+translate english block_00003708_e1a60ee1:
+
+    # extend "{color=#FFFF00}赤峰同学的胜利！！！{/color}"
+    extend ""
+
+# game/content/file_00003703.rpy:2890
+translate english block_00003708_7da6c28d:
+
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "之前一直在观众席加油的赤峰同学的弟弟，现在作为赤峰军的里BOSS登场了！"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
+
+# game/content/file_00003703.rpy:2892
+translate english block_00003708_2013e9c8:
+
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "然后，根据赤峰同学和木村同学的意见，将会再举行一场比赛！！"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
+
+# game/content/file_00003703.rpy:2894
+translate english block_00003708_3cba8e89:
+
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "这对木村同学来说可谓是难得的复活战！"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
+
+# game/content/file_00003703.rpy:2921
+translate english block_00003708_c8d1551d:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "击败赤峰同学的情况下，木村同学将会获得大赛的优胜，以上可否？"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00003703.rpy:3159
+translate english block_00003708_6b85532b:
+
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "赤峰同学突然绕到了对手身后，见机击倒对方了——！！"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
 

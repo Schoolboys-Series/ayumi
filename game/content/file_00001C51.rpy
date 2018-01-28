@@ -1507,7 +1507,7 @@ label block_00001C5F:
     show rs_image_CE2AA99006A14FB68F9A5BA7EB0C8B29 as tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 zorder zorder_tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "欸，翼桑也在！{w}\n{nw}"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "欸，翼前辈也在！{w}\n{nw}"
     show rs_image_41A84CEAB4B9488D918E907B63CC8E1A as tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 zorder zorder_tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
@@ -1560,7 +1560,7 @@ label block_00001C8F:
 
     window show
 
-    rs_character_7009C1117C004F51829614A203C67DE7 "作哉桑，下午好～"
+    rs_character_7009C1117C004F51829614A203C67DE7 "作哉前辈，下午好～"
 
     if sys_effect_current_file != "sound/Effect Sound/Cute 3.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 3.ogg" noloop

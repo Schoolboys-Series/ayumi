@@ -134,7 +134,7 @@ label block_000023D4:
         play effect2 "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
-    rs_character_9EDF48057FB84D428D56198A69E2880E "这不是忍桑嘛。"
+    rs_character_9EDF48057FB84D428D56198A69E2880E "这不是忍同学嘛。"
 
     if sys_effect_current_file != "sound/Effect Sound/Walk 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Walk 1.ogg" noloop
@@ -149,7 +149,7 @@ label block_000023D4:
     show rs_image_37DD260DB3B64875AFF0FBF4F01BD3E9 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "{color=#3A00C4}朔{/color}桑，真是奇遇，好久不见。"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "{color=#3A00C4}朔{/color}同学，真是奇遇，好久不见。"
 
     if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
@@ -164,7 +164,7 @@ label block_000023D4:
     show rs_image_092C4F890A874DA69A95FA3407A3732D as tag_E99970E1386B453DAF81C3AE2C72BE8E zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_62324AD297554FE987C680452CEE232E "这位是忍桑的同学？"
+    rs_character_62324AD297554FE987C680452CEE232E "这位是忍同学的朋友？"
 
     show rs_image_37DD260DB3B64875AFF0FBF4F01BD3E9 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -236,7 +236,7 @@ label block_000023D4:
     show rs_image_092C4F890A874DA69A95FA3407A3732D as tag_E99970E1386B453DAF81C3AE2C72BE8E zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_62324AD297554FE987C680452CEE232E "哈哈，关系真好呐。{w}\n忍桑，等以后有时间再一起喝个茶如何。{w}\n这次务必也请友桑光临。"
+    rs_character_62324AD297554FE987C680452CEE232E "哈哈，关系真好呐。{w}\n忍同学，等以后有时间再一起喝个茶如何。{w}\n这次务必也请友同学光临。"
 
     show rs_image_25144F0AB6BB4BA784922991F30A5E47 as tag_E99970E1386B453DAF81C3AE2C72BE8E zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B

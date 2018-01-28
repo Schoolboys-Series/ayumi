@@ -615,7 +615,7 @@ translate japanese block_00001C5F_e706135d:
 # game/content/file_00001C51.rpy:1510
 translate japanese block_00001C5F_aa0329a8:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "欸，翼桑也在！{w}\n{nw}"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "欸，翼前辈也在！{w}\n{nw}"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_00001C51.rpy:1514
@@ -639,7 +639,7 @@ translate japanese block_00001C5F_5ef04c50:
 # game/content/file_00001C51.rpy:1563
 translate japanese block_00001C8F_fb359309:
 
-    # rs_character_7009C1117C004F51829614A203C67DE7 "作哉桑，下午好～"
+    # rs_character_7009C1117C004F51829614A203C67DE7 "作哉前辈，下午好～"
     rs_character_7009C1117C004F51829614A203C67DE7 ""
 
 # game/content/file_00001C51.rpy:1576
@@ -767,4 +767,18 @@ translate japanese block_00001C54_eef59b90:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『带小翼在学校周围散步。』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+
+# TODO: Translation updated at 2018-01-28 10:11
+
+# game/content/file_00001C51.rpy:1510
+translate japanese block_00001C5F_e1e5cb7f:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "欸，翼前辈也在！{w}\n{nw}"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_00001C51.rpy:1563
+translate japanese block_00001C8F_1ed9f272:
+
+    # rs_character_7009C1117C004F51829614A203C67DE7 "作哉前辈，下午好～"
+    rs_character_7009C1117C004F51829614A203C67DE7 ""
 

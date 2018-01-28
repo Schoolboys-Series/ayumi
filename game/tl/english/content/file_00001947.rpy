@@ -3543,7 +3543,7 @@ translate english block_00002799_a7dfb9ce:
 # game/content/file_00001947.rpy:10496
 translate english block_00002799_c2dffd2d:
 
-    # rs_character_C223850065F6443080205D1F61C04C98 "九尾桑，今天也来我这里了呢。"
+    # rs_character_C223850065F6443080205D1F61C04C98 "九尾先生，今天也来我这里了呢。"
     rs_character_C223850065F6443080205D1F61C04C98 ""
 
 # game/content/file_00001947.rpy:10514
@@ -3555,7 +3555,7 @@ translate english block_00002799_860ea24f:
 # game/content/file_00001947.rpy:10529
 translate english block_00002799_ca4052db:
 
-    # rs_character_7009C1117C004F51829614A203C67DE7 "『别胡说了，不就是觉得常磐桑长得不错特地来看的么——』"
+    # rs_character_7009C1117C004F51829614A203C67DE7 "『别胡说了，不就是觉得常磐前辈长得不错特地来看的么——』"
     rs_character_7009C1117C004F51829614A203C67DE7 ""
 
 # game/content/file_00001947.rpy:10534
@@ -3603,7 +3603,7 @@ translate english block_00002799_188b4975:
 # game/content/file_00001947.rpy:10627
 translate english block_00002799_cac39420:
 
-    # rs_character_C223850065F6443080205D1F61C04C98 "哦？意外很强硬呐，九尾桑。{w}\n本来听说是喜欢这样的性格，还以为没问题的。"
+    # rs_character_C223850065F6443080205D1F61C04C98 "哦？意外很强硬呐，九尾先生。{w}\n本来听说是喜欢这样的性格，还以为没问题的。"
     rs_character_C223850065F6443080205D1F61C04C98 ""
 
 # game/content/file_00001947.rpy:10633
@@ -3717,7 +3717,7 @@ translate english block_00002799_9752d9b8:
 # game/content/file_00001947.rpy:10725
 translate english block_00002799_4cbc4a8e:
 
-    # rs_character_7009C1117C004F51829614A203C67DE7 "『常磐桑已经这么辛苦，不用继续忍耐的——！\n我只是对九尾不成器的样子很恼火罢了！』"
+    # rs_character_7009C1117C004F51829614A203C67DE7 "『常磐前辈已经这么辛苦，不用继续忍耐的——！\n我只是对九尾不成器的样子很恼火罢了！』"
     rs_character_7009C1117C004F51829614A203C67DE7 ""
 
 # game/content/file_00001947.rpy:10727
@@ -4121,4 +4121,30 @@ translate english strings:
     # content\file_00001947.rpy:1629
     old "等以后有办法再说吧"
     new ""
+
+# TODO: Translation updated at 2018-01-28 10:10
+
+# game/content/file_00001947.rpy:10496
+translate english block_00002799_8a205ce5:
+
+    # rs_character_C223850065F6443080205D1F61C04C98 "九尾先生，今天也来我这里了呢。"
+    rs_character_C223850065F6443080205D1F61C04C98 ""
+
+# game/content/file_00001947.rpy:10529
+translate english block_00002799_c8247616:
+
+    # rs_character_7009C1117C004F51829614A203C67DE7 "『别胡说了，不就是觉得常磐前辈长得不错特地来看的么——』"
+    rs_character_7009C1117C004F51829614A203C67DE7 ""
+
+# game/content/file_00001947.rpy:10627
+translate english block_00002799_b57e0a7e:
+
+    # rs_character_C223850065F6443080205D1F61C04C98 "哦？意外很强硬呐，九尾先生。{w}\n本来听说是喜欢这样的性格，还以为没问题的。"
+    rs_character_C223850065F6443080205D1F61C04C98 ""
+
+# game/content/file_00001947.rpy:10725
+translate english block_00002799_d66738bd:
+
+    # rs_character_7009C1117C004F51829614A203C67DE7 "『常磐前辈已经这么辛苦，不用继续忍耐的——！\n我只是对九尾不成器的样子很恼火罢了！』"
+    rs_character_7009C1117C004F51829614A203C67DE7 ""
 

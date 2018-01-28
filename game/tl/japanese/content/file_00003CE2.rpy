@@ -483,7 +483,7 @@ translate japanese block_00003D76_a4a4c88a:
 # game/content/file_00003CE2.rpy:2678
 translate japanese block_00003D76_33fcd298:
 
-    # extend "对了！我也想听听晦桑的事～"
+    # extend "对了！我也想听听晦大哥的事～"
     extend ""
 
 # game/content/file_00003CE2.rpy:2680
@@ -573,7 +573,7 @@ translate japanese block_00003D76_12933ead:
 # game/content/file_00003CE2.rpy:2834
 translate japanese block_00003D76_254cb087:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "你啊——！谁是外人——！！我和晦桑可是有很深的羁绊的——！！"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "你啊——！谁是外人——！！我和晦大哥可是有很深的羁绊的——！！"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003CE2.rpy:2839
@@ -1001,4 +1001,18 @@ translate japanese block_00003E82_dc2ea255:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "哈哈。"
     rs_character_53FF68C192E3494AB005C1909579AFFB ""
+
+# TODO: Translation updated at 2018-01-28 10:11
+
+# game/content/file_00003CE2.rpy:2678
+translate japanese block_00003D76_b810f6ab:
+
+    # extend "对了！我也想听听晦大哥的事～"
+    extend ""
+
+# game/content/file_00003CE2.rpy:2834
+translate japanese block_00003D76_c3fb7d80:
+
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "你啊——！谁是外人——！！我和晦大哥可是有很深的羁绊的——！！"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 

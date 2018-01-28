@@ -237,7 +237,7 @@ translate japanese block_00002BDF_3b58740a:
 # game/content/file_00002B80.rpy:1028
 translate japanese block_00002BDF_e796807f:
 
-    # rs_character_53FF68C192E3494AB005C1909579AFFB "部长，委托的对象不是\n[persistent.LastName]桑是森海桑才对吧？"
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "部长，委托的对象不是\n[persistent.LastName]桑是森海同学才对吧？"
     rs_character_53FF68C192E3494AB005C1909579AFFB ""
 
 # game/content/file_00002B80.rpy:1041
@@ -1261,4 +1261,12 @@ translate japanese strings:
     # content\file_00002B80.rpy:4383
     old "我对过去没有留恋"
     new ""
+
+# TODO: Translation updated at 2018-01-28 10:11
+
+# game/content/file_00002B80.rpy:1028
+translate japanese block_00002BDF_b6b82847:
+
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "部长，委托的对象不是\n[persistent.LastName]桑是森海同学才对吧？"
+    rs_character_53FF68C192E3494AB005C1909579AFFB ""
 

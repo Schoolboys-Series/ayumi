@@ -2675,7 +2675,7 @@ label block_00003D76:
         play effect "sound/Effect Sound/Attack 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Attack 1.ogg"
 
-    extend "对了！我也想听听晦桑的事～"
+    extend "对了！我也想听听晦大哥的事～"
 
     rs_character_EE1903694D624E399209772C95A20AAA "当然可以。{w}我其实也有个和你差不多大的弟弟……"
 
@@ -2831,7 +2831,7 @@ label block_00003D76:
     hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "你啊——！谁是外人——！！我和晦桑可是有很深的羁绊的——！！"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "你啊——！谁是外人——！！我和晦大哥可是有很深的羁绊的——！！"
 
     show rs_image_B11DDC1D33424C8DB5338FA62C4C964C as tag_1515B9CA207C431099C252A5A96DB5D6 zorder zorder_tag_1515B9CA207C431099C252A5A96DB5D6 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B

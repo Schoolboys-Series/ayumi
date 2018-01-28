@@ -117,7 +117,7 @@ translate japanese block_0000192D_2a29a5c5:
 # game/content/file_00000F71.rpy:764
 translate japanese block_0000192D_83f6e475:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "欸，翼桑认识这只狸猫？"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "欸，翼前辈认识这只狸猫？"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_00000F71.rpy:774
@@ -237,7 +237,7 @@ translate japanese block_00000F89_b5135ccc:
 # game/content/file_00000F71.rpy:1235
 translate japanese block_00000F89_f9de825f:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "不会有那么莫名其妙的事。{w}\n……啊，翼桑快看！那边在拍电视节目！"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "不会有那么莫名其妙的事。{w}\n……啊，翼前辈快看！那边在拍电视节目！"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_00000F71.rpy:1241
@@ -291,7 +291,7 @@ translate japanese block_00000F89_8420f071:
 # game/content/file_00000F71.rpy:1337
 translate japanese block_00000F89_fa19ec5c:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "等等！翼桑！声音太大了！会妨碍到他们的！"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "等等！翼前辈！声音太大了！会妨碍到他们的！"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_00000F71.rpy:1363
@@ -357,7 +357,7 @@ translate japanese block_00000F89_8180d978:
 # game/content/file_00000F71.rpy:1466
 translate japanese block_00000F89_c469b632:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼桑这个笨蛋笨蛋！不许在电视机前败坏前辈的名誉！"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼前辈这个笨蛋笨蛋！不许在电视机前败坏前辈的名誉！"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_00000F71.rpy:1471
@@ -423,7 +423,7 @@ translate japanese block_00000F73_72207cfd:
 # game/content/file_00000F71.rpy:1620
 translate japanese block_00000F73_4f974137:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "等等，翼桑，不是那边是这边！"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "等等，翼前辈，不是那边是这边！"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_00000F71.rpy:1622
@@ -449,4 +449,36 @@ translate japanese block_00000F74_1ed43df0:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『带小翼到处去玩玩。』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+
+# TODO: Translation updated at 2018-01-28 10:11
+
+# game/content/file_00000F71.rpy:764
+translate japanese block_0000192D_2ba93256:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "欸，翼前辈认识这只狸猫？"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_00000F71.rpy:1235
+translate japanese block_00000F89_b6dcdb77:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "不会有那么莫名其妙的事。{w}\n……啊，翼前辈快看！那边在拍电视节目！"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_00000F71.rpy:1337
+translate japanese block_00000F89_b8331a73:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "等等！翼前辈！声音太大了！会妨碍到他们的！"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_00000F71.rpy:1466
+translate japanese block_00000F89_de07c595:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼前辈这个笨蛋笨蛋！不许在电视机前败坏前辈的名誉！"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_00000F71.rpy:1620
+translate japanese block_00000F73_ae6f6f6a:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "等等，翼前辈，不是那边是这边！"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 

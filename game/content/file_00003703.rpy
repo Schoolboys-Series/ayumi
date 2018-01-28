@@ -1948,7 +1948,7 @@ label block_00003707:
     show rs_image_107F1D49D8E64904B63165A87DBFC26D as tag_26CE4420E4BF43ADBA4E35F2A9784E98 at center_bottom zorder zorder_tag_26CE4420E4BF43ADBA4E35F2A9784E98 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "请看！赤峰桑华丽的出招！！"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "请看！赤峰同学华丽的出招！！"
 
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "他作为剑道部主将，果然脚步就像生根一般无法被撼动。"
 
@@ -2041,7 +2041,7 @@ label block_00003707:
     show rs_image_A63B42C307234264B96E3CFB1DB70A3E as tag_DFA3500588174872BA20EBF28D506BD4 zorder zorder_tag_DFA3500588174872BA20EBF28D506BD4 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "啊！你是赤峰月桑的弟弟！确实很像呐。{w}\n和帅气型的哥哥不同，气场很温柔呐。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "啊！你是赤峰月同学的弟弟！确实很像呐。{w}\n和帅气型的哥哥不同，气场很温柔呐。"
 
     show rs_image_20AA9A405C08411899D11DA9EB2EE47D as tag_073D4E2B5E224963B025F95C92ED797A zorder zorder_tag_073D4E2B5E224963B025F95C92ED797A onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -2204,7 +2204,7 @@ label block_00003707:
     show rs_image_7B65B699C52F4E6CBDB4D49A5A082D25 as tag_DFA3500588174872BA20EBF28D506BD4 zorder zorder_tag_DFA3500588174872BA20EBF28D506BD4 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "刚才对木村桑的应援真是狂热呢…………"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "刚才对木村同学的应援真是狂热呢…………"
 
     hide tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3
     hide tag_0999797A178545CBA5F244F41BBA50B1
@@ -2274,7 +2274,7 @@ label block_00003707:
 
     window show
 
-    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "好的，终于到决战了！！\n果然双方和之前预想中的一样呢，杉本桑。"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "好的，终于到决战了！！\n果然双方和之前预想中的一样呢，杉本先生。"
 
     rs_character_7C178421D3DA4E2CB70D4336919888FB "是啊，两边都异常顺利地一路赢上来的话，\n最后果然就会变成这个样子呢。"
 
@@ -2439,7 +2439,7 @@ label block_00003708:
     hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "哦哦！！木村桑的上手投！{w}\n……可惜！赤峰桑没能完全出局！！"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "哦哦！！木村同学的上手投！{w}\n……可惜！赤峰同学没能完全出局！！"
 
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "哦哦哦哦哦！！！"
 
@@ -2496,7 +2496,7 @@ label block_00003708:
     show rs_image_5BAF87FE15234238AB0865FE6CEABB74 as tag_A366FE92B81D404585614E7D29CFAD20 at center_bottom zorder zorder_tag_A366FE92B81D404585614E7D29CFAD20 onlayer master
     with rs_effect_B3C7073FD076476C856ACCC134A30A64
 
-    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "哦哦！！赤峰桑把对方押倒了～！"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "哦哦！！赤峰同学把对方押倒了～！"
 
     if sys_effect_current_file != "sound/Effect Sound/Fall down 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Fall down 1.ogg" noloop
@@ -2507,7 +2507,7 @@ label block_00003708:
     hide tag_3C0D2D9BB95B42AAA768FE8D105219CB
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "啊！！比起木村桑赤峰桑的手先着地了！"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "啊！！比起木村同学赤峰同学的手先着地了！"
 
     rs_character_7C178421D3DA4E2CB70D4336919888FB "结果将会是……？"
 
@@ -2528,7 +2528,7 @@ label block_00003708:
     show rs_image_A463E4342E4C4913B00CFE87127016A2 as tag_A366FE92B81D404585614E7D29CFAD20 at center_bottom zorder zorder_tag_A366FE92B81D404585614E7D29CFAD20 onlayer master
     with rs_effect_B70215F4C83E407D8C2CA682FB6965D7
 
-    extend "{color=#FFFF00}赤峰桑的胜利！！！{/color}"
+    extend "{color=#FFFF00}赤峰同学的胜利！！！{/color}"
 
     if sys_music2_current_file != "sound/Effect Sound/Clap 1.ogg":
         play music2 "sound/Effect Sound/Clap 1.ogg" noloop
@@ -2887,11 +2887,11 @@ label block_00003708:
 
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "大家，紧急事件！！"
 
-    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "之前一直在观众席加油的赤峰桑的弟弟，现在作为赤峰军的里BOSS登场了！"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "之前一直在观众席加油的赤峰同学的弟弟，现在作为赤峰军的里BOSS登场了！"
 
-    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "然后，根据赤峰桑和木村桑的意见，将会再举行一场比赛！！"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "然后，根据赤峰同学和木村同学的意见，将会再举行一场比赛！！"
 
-    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "这对木村桑来说可谓是难得的复活战！"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "这对木村同学来说可谓是难得的复活战！"
 
     window hide
 
@@ -2918,7 +2918,7 @@ label block_00003708:
     stop music2 fadeout 0.9
     $ sys_music2_current_file = ""
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "击败赤峰桑的情况下，木村桑将会获得大赛的优胜，以上可否？"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "击败赤峰同学的情况下，木村同学将会获得大赛的优胜，以上可否？"
 
     $ zorder_tag_073D4E2B5E224963B025F95C92ED797A = 300
     show rs_image_9B9DCA74086B43A197B7D71BB87CC11D as tag_073D4E2B5E224963B025F95C92ED797A at Transform(xpos=430, yalign=0.0) zorder zorder_tag_073D4E2B5E224963B025F95C92ED797A onlayer master
@@ -3156,7 +3156,7 @@ label block_00003708:
 
     window show
 
-    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "赤峰桑突然绕到了对手身后，见机击倒对方了——！！"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "赤峰同学突然绕到了对手身后，见机击倒对方了——！！"
 
     if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop

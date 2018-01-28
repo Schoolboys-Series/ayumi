@@ -4951,7 +4951,7 @@ label block_000024BF:
     show rs_image_90849C45A28049C88275551685CD545A as tag_CC4336DE74164173AC47C2C317367F10 zorder zorder_tag_CC4336DE74164173AC47C2C317367F10 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_53FF68C192E3494AB005C1909579AFFB "不要激动，森海桑。\n这次非常感谢，{w}来，这是报酬。"
+    rs_character_53FF68C192E3494AB005C1909579AFFB "不要激动，森海同学。\n这次非常感谢，{w}来，这是报酬。"
 
     window hide
 

@@ -921,7 +921,7 @@ label block_00003AA9:
     show rs_image_5FBD78374DA74E3DAE8DB6DA14DD5616 as tag_25C83DBF35814073B3DF9FF7BCEF75AC zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "说、说起来，杉本……桑为何会在这儿？而且只有一个人。"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "说、说起来，杉本……先生为何会在这儿？而且只有一个人。"
 
     show rs_image_EF41876385624D9AA00C7184151E7B34 as tag_DFA3500588174872BA20EBF28D506BD4 zorder zorder_tag_DFA3500588174872BA20EBF28D506BD4 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -996,7 +996,7 @@ label block_00003AA9:
     show rs_image_A63B42C307234264B96E3CFB1DB70A3E as tag_DFA3500588174872BA20EBF28D506BD4 zorder zorder_tag_DFA3500588174872BA20EBF28D506BD4 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "是嘛！那么就是三朗桑！请多多指教！"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "是嘛！那么就是三朗前辈！请多多指教！"
 
     window hide
 
@@ -1041,7 +1041,7 @@ label block_00003AA9:
 
     pause 0.3
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "啊哈哈哈，三朗桑真的很有趣呐♪"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "啊哈哈哈，三朗前辈真的很有趣呐♪"
 
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "欸、是么～多谢多谢。"
 
@@ -1313,7 +1313,7 @@ label block_00003AA9:
     show rs_image_7B65B699C52F4E6CBDB4D49A5A082D25 as tag_DFA3500588174872BA20EBF28D506BD4 zorder zorder_tag_DFA3500588174872BA20EBF28D506BD4 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "杉本问卷的结果发表！三朗桑，你的烦恼就是……"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "杉本问卷的结果发表！三朗前辈，你的烦恼就是……"
 
     hide tag_25C83DBF35814073B3DF9FF7BCEF75AC
     hide tag_DFA3500588174872BA20EBF28D506BD4
@@ -1437,7 +1437,7 @@ label block_00003AA9:
     show rs_image_EF41876385624D9AA00C7184151E7B34 as tag_DFA3500588174872BA20EBF28D506BD4 zorder zorder_tag_DFA3500588174872BA20EBF28D506BD4 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "三朗桑，为什么要这么排斥？"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "三朗前辈，为什么要这么排斥？"
 
     hide tag_25C83DBF35814073B3DF9FF7BCEF75AC
     hide tag_DFA3500588174872BA20EBF28D506BD4
@@ -1493,7 +1493,7 @@ label block_00003AA9:
 
     pause 0.4
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "三朗桑，再来一个小环节。主持人当然是我。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "三朗前辈，再来一个小环节。主持人当然是我。"
 
     window hide
 
@@ -2177,11 +2177,11 @@ label block_00003B8A:
 
     rs_character_3B4C660F421B4BE392BB540B580F0339 "为什么我必须要遇到这种事！！"
 
-    rs_character_7009C1117C004F51829614A203C67DE7 "哈哈，四朗和三朗桑都好狂热呐。"
+    rs_character_7009C1117C004F51829614A203C67DE7 "哈哈，四朗和三朗前辈都好狂热呐。"
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "这都是三朗桑的成长所必须的，请适当忍耐一下。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "这都是三朗前辈的成长所必须的，请适当忍耐一下。"
 
-    rs_character_7009C1117C004F51829614A203C67DE7 "啊咧？难道是……杉本桑？"
+    rs_character_7009C1117C004F51829614A203C67DE7 "啊咧？难道是……杉本先生？"
 
     rs_character_7C178421D3DA4E2CB70D4336919888FB "嗯，陆田和杉本的杉本哦——很荣幸阁下能认识我们哦——！"
 
@@ -2327,7 +2327,7 @@ label block_00003B8A:
 
     rs_character_3B4C660F421B4BE392BB540B580F0339 "不是这个问题！！"
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "果然就算给三朗桑看这个也没有任何感觉呐～原来如此。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "果然就算给三朗前辈看这个也没有任何感觉呐～原来如此。"
 
     if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
@@ -2497,12 +2497,12 @@ label block_00003AAE:
     show rs_image_55BA6F9211CF475F8927D40CFEC977B2 as tag_DFA3500588174872BA20EBF28D506BD4 at left_top zorder zorder_tag_DFA3500588174872BA20EBF28D506BD4 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "那个……称呼你为慎太郎桑可以吗？\n能收看我们的节目，我感到非常荣幸！"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "那个……称呼你为慎太郎前辈可以吗？\n能收看我们的节目，我感到非常荣幸！"
 
     show rs_image_EF41876385624D9AA00C7184151E7B34 as tag_DFA3500588174872BA20EBF28D506BD4 zorder zorder_tag_DFA3500588174872BA20EBF28D506BD4 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "慎太郎桑和三朗桑是朋友吗？"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "慎太郎前辈和三朗前辈是朋友吗？"
 
     show rs_image_B7769D775A0F445A8B5689912EB3352E as tag_A77E36FB70FF4F60B12060B2747E46D1 zorder zorder_tag_A77E36FB70FF4F60B12060B2747E46D1 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -2649,7 +2649,7 @@ label block_00003AAE:
     show rs_image_A63B42C307234264B96E3CFB1DB70A3E as tag_DFA3500588174872BA20EBF28D506BD4 zorder zorder_tag_DFA3500588174872BA20EBF28D506BD4 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "哦♪慎太郎桑跃跃欲试！！{w}\n{nw}"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "哦♪慎太郎前辈跃跃欲试！！{w}\n{nw}"
     stop music fadeout 0.5
     $ sys_music_current_file = ""
 
@@ -2688,7 +2688,7 @@ label block_00003AAE:
     show rs_image_A63B42C307234264B96E3CFB1DB70A3E as tag_DFA3500588174872BA20EBF28D506BD4 at left_top zorder zorder_tag_DFA3500588174872BA20EBF28D506BD4 onlayer master
     with rs_effect_B70215F4C83E407D8C2CA682FB6965D7
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "出来——！三朗桑！三——朗——桑！"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "出来——！三朗前辈！三——朗——前——辈！"
 
     if sys_effect_current_file != "sound/Effect Sound/Cute 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 1.ogg" noloop
@@ -2976,9 +2976,9 @@ label block_00003AAE:
 
     rs_character_7C178421D3DA4E2CB70D4336919888FB "原来如此原来如此♪{w}……算了，那就在这里结束好了！"
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "慎太郎桑辛苦了。抱歉打扰你工作了。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "慎太郎前辈辛苦了。抱歉打扰你工作了。"
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "那么我们就去洗澡了。慎太郎桑也不要勉强了，保重哦。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "那么我们就去洗澡了。慎太郎前辈也不要勉强了，保重哦。"
 
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "等、等会儿见。"
 
@@ -3028,7 +3028,7 @@ label block_00003AAE:
 
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "……"
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "三朗桑？"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "三朗前辈？"
 
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "嗯？啊，没事，真心很不错呐～！"
 
@@ -3044,7 +3044,7 @@ label block_00003AAE:
 
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "好像是……"
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "三朗桑一直强调自己是直的，对这些却很了解呐。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "三朗前辈一直强调自己是直的，对这些却很了解呐。"
 
     if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop
@@ -3066,7 +3066,7 @@ label block_00003AAE:
         play music "sound/BGM/Theme/Schoolboys Theme - Shintaro.ogg" loop
         $ sys_music_current_file = "sound/BGM/Theme/Schoolboys Theme - Shintaro.ogg"
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "三朗桑，你已经很“普通”了，所以不用太担心。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "三朗前辈，你已经很“普通”了，所以不用太担心。"
 
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "欸？"
 
@@ -3105,7 +3105,7 @@ label block_00003AAE:
 
     rs_character_7C178421D3DA4E2CB70D4336919888FB "肯定会想那个那个了♪我是说那方面。"
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "不过，三朗桑不同。这个通过刚才的游戏已经了解了。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "不过，三朗前辈不同。这个通过刚才的游戏已经了解了。"
 
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "欸、欸……"
 
@@ -3122,7 +3122,7 @@ label block_00003AAE:
     show rs_image_1DB63445D5FA4A8F90EE59842CB17587 as tag_0BDB8A4A05BB44ED81AE140BE96066BD zorder zorder_tag_0BDB8A4A05BB44ED81AE140BE96066BD onlayer master
     with rs_effect_86C6DB3C38A946C09D75722DCD2AE27B
 
-    extend "你，喜欢慎太郎桑对不对？"
+    extend "你，喜欢慎太郎前辈对不对？"
 
     if sys_effect_current_file != "sound/Effect Sound/Cute 3.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 3.ogg" noloop
@@ -3134,7 +3134,7 @@ label block_00003AAE:
 
     rs_character_7C178421D3DA4E2CB70D4336919888FB "你能感觉到我的话里存在矛盾。不过，构成你烦恼的核心正是这个。"
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "你想要爱上女生的“普通”意识，和你对慎太郎桑的感情有了冲突。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "你想要爱上女生的“普通”意识，和你对慎太郎前辈的感情有了冲突。"
 
     rs_character_7C178421D3DA4E2CB70D4336919888FB "所以，面对其他人，不论是男是女，你都不会有任何想法。"
 
@@ -3156,7 +3156,7 @@ label block_00003AAE:
 
     rs_character_7C178421D3DA4E2CB70D4336919888FB "不明白也没关系！不坦白承认的话问题是解决不了的。"
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "因为性别问题而无法接受对慎太郎桑的想法，\n就算去找别的女孩子或是其他什么人也没用的。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "因为性别问题而无法接受对慎太郎前辈的想法，\n就算去找别的女孩子或是其他什么人也没用的。"
 
     rs_character_7C178421D3DA4E2CB70D4336919888FB "请放心，不论同性恋还是异性恋，大家都只是会爱上其他人的普通人类。"
 
@@ -3228,7 +3228,7 @@ label block_00003AAE:
 
     pause 0.3
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "呼～好不错的地方！！慎太郎桑！水温最棒了♪"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "呼～好不错的地方！！慎太郎前辈！水温最棒了♪"
 
     show rs_image_D422C7DC5B73410C8BD514BC40726CCB as tag_DFA3500588174872BA20EBF28D506BD4 zorder zorder_tag_DFA3500588174872BA20EBF28D506BD4 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -3254,7 +3254,7 @@ label block_00003AAE:
     show rs_image_A63B42C307234264B96E3CFB1DB70A3E as tag_DFA3500588174872BA20EBF28D506BD4 zorder zorder_tag_DFA3500588174872BA20EBF28D506BD4 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "而抽奖中了的三朗桑会有特别观赏排练的机会哦。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "而抽奖中了的三朗前辈会有特别观赏排练的机会哦。"
 
     if sys_effect_current_file != "sound/Effect Sound/As you wish 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/As you wish 1.ogg" noloop
@@ -3286,7 +3286,7 @@ label block_00003AAE:
     show rs_image_260B6EA5E2024E0FB6E0794B290A9A13 as tag_DFA3500588174872BA20EBF28D506BD4 at center_top zorder zorder_tag_DFA3500588174872BA20EBF28D506BD4 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    extend "对不对，三朗桑？"
+    extend "对不对，三朗前辈？"
 
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "……"
 
@@ -4919,7 +4919,7 @@ label block_00003AB5:
 
     pause 0.3
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "呀，三朗桑。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "呀，三朗前辈。"
 
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "你好。"
 
@@ -4935,7 +4935,7 @@ label block_00003AB5:
     show rs_image_1AC471B83CA745FC99DFBE878C4B76B2 as tag_25C83DBF35814073B3DF9FF7BCEF75AC at center_top zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "杉本桑！？还有陆田桑也！啊，说起来演讲是今天。"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "杉本先生！？还有陆田先生也！啊，说起来演讲是今天。"
 
     hide tag_25C83DBF35814073B3DF9FF7BCEF75AC
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -4976,7 +4976,7 @@ label block_00003AB5:
     show rs_image_9ADA3ECA775E4BF5904664E9A36296FB as tag_25C83DBF35814073B3DF9FF7BCEF75AC at center_top zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     with rs_effect_1B5FF639D1044BDDAEE2A66FB32F2CF7
 
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "啊。那个！我、我多亏杉本桑终于明白了自己！"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "啊。那个！我、我多亏杉本先生终于明白了自己！"
 
     show rs_image_909AB6EEDA4E46FEBDCAC93ADC5C7F8C as tag_25C83DBF35814073B3DF9FF7BCEF75AC zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01

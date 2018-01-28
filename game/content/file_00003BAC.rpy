@@ -1510,13 +1510,13 @@ label block_00003BAE:
     show rs_image_1382C936693A4354B456F9C02B592547 as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 at right_top zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "啊，朔桑……？"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "啊，朔同学……？"
 
     $ zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E = 300
     show rs_image_37D78F77FCE84A4C91C869D15099E48F as tag_E99970E1386B453DAF81C3AE2C72BE8E at left_top zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_62324AD297554FE987C680452CEE232E "这可真是这可真是，你好，忍桑。奇遇呐，没想到会在这里相见。"
+    rs_character_62324AD297554FE987C680452CEE232E "这可真是这可真是，你好，忍同学。奇遇呐，没想到会在这里相见。"
 
     hide tag_E99970E1386B453DAF81C3AE2C72BE8E
     hide tag_9D0001B69AD04AE9A8D1DE7AF344E0A3
@@ -1614,7 +1614,7 @@ label block_00003BAE:
     show rs_image_EB543C918F764BD48AF5945B5D7C3278 as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 at right_top zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "啊，嗯。这个人是朔桑，比我们小一岁。"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "啊，嗯。这个人是朔同学，比我们小一岁。"
 
     rs_character_D93E396B7ADB48CBAE13F206958FC08B "之前{color=#008080}有点事{/color}认识的，意气相投，好几次一起去买衣服或者吃饭……{nw}"
     if sys_effect_current_file != "sound/Effect Sound/Decision 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
@@ -1676,9 +1676,9 @@ label block_00003BAE:
     show rs_image_1F55CB120A6948E28641DFC1C52982EE as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 at right_top zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "就像这样一直都不得安宁很烦人呐。\n果然和朔桑一样的人一起的话更轻松一些。"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "就像这样一直都不得安宁很烦人呐。\n果然和朔同学一样的人一起的话更轻松一些。"
 
-    rs_character_62324AD297554FE987C680452CEE232E "我也是，下次两人单独去喝个茶如何，忍桑。"
+    rs_character_62324AD297554FE987C680452CEE232E "我也是，下次两人单独去喝个茶如何，忍同学。"
 
     hide tag_E99970E1386B453DAF81C3AE2C72BE8E
     hide tag_9D0001B69AD04AE9A8D1DE7AF344E0A3
@@ -2055,7 +2055,7 @@ label block_00003C0E:
     show rs_image_F4C733D956094DDB90D3AE4E82A63BAA as tag_FD7EEC63649F4ABB88B3E11A041AF5A6 zorder zorder_tag_FD7EEC63649F4ABB88B3E11A041AF5A6 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_57471360F48A413AB843A4E46D8C5541 "不过话说回来，夕阳那家伙真是容易明白。\n见到朔桑后马上就黏上去了。"
+    rs_character_57471360F48A413AB843A4E46D8C5541 "不过话说回来，夕阳那家伙真是容易明白。\n见到朔同学后马上就黏上去了。"
 
     if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
@@ -4307,7 +4307,7 @@ label block_00003C18:
     show rs_image_D7DFB9C596074724958BBE78FF9336D3 as tag_E99970E1386B453DAF81C3AE2C72BE8E at Transform(xpos=430, yalign=0.0) zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_62324AD297554FE987C680452CEE232E "非常感谢。{w}说起来，一之濑桑和森海桑关系很好呐。"
+    rs_character_62324AD297554FE987C680452CEE232E "非常感谢。{w}说起来，一之濑同学和森海同学关系很好呐。"
 
     if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
@@ -4329,7 +4329,7 @@ label block_00003C18:
     show rs_image_D7DFB9C596074724958BBE78FF9336D3 as tag_E99970E1386B453DAF81C3AE2C72BE8E at right_top zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_62324AD297554FE987C680452CEE232E "今天早上，在听到森海桑的东西被借出去后，\n露出了无比悔恨的表情呢，我很在意这个。"
+    rs_character_62324AD297554FE987C680452CEE232E "今天早上，在听到森海同学的东西被借出去后，\n露出了无比悔恨的表情呢，我很在意这个。"
 
     show rs_image_514BF37F25964D04836F39E1B71FFD28 as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -4453,12 +4453,12 @@ label block_00003C18:
 
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "这可能……会很麻烦。"
 
-    rs_character_62324AD297554FE987C680452CEE232E "同感。赤峰桑他们的事或许和我们正在调查的事也有关。"
+    rs_character_62324AD297554FE987C680452CEE232E "同感。赤峰同学他们的事或许和我们正在调查的事也有关。"
 
     show rs_image_351932D89641414887A798BAE92493AB as tag_E99970E1386B453DAF81C3AE2C72BE8E zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_62324AD297554FE987C680452CEE232E "一之濑桑也请和我们一起回去。"
+    rs_character_62324AD297554FE987C680452CEE232E "一之濑同学也请和我们一起回去。"
 
     hide tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD
     hide tag_E99970E1386B453DAF81C3AE2C72BE8E
@@ -4659,7 +4659,7 @@ label block_00003C18:
     show rs_image_D7DFB9C596074724958BBE78FF9336D3 as tag_E99970E1386B453DAF81C3AE2C72BE8E at left_top zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_62324AD297554FE987C680452CEE232E "这个想法很好。只要忍桑能留在这里我就安心了。"
+    rs_character_62324AD297554FE987C680452CEE232E "这个想法很好。只要忍同学能留在这里我就安心了。"
 
     hide tag_E99970E1386B453DAF81C3AE2C72BE8E
     hide tag_9D0001B69AD04AE9A8D1DE7AF344E0A3
@@ -5377,7 +5377,7 @@ label block_00003C22:
     show rs_image_D41773CA35204737A4DF7ACE459D6756 as tag_E99970E1386B453DAF81C3AE2C72BE8E at right_top zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_62324AD297554FE987C680452CEE232E "同意。也很担心绫濑桑他们……"
+    rs_character_62324AD297554FE987C680452CEE232E "同意。也很担心绫濑同学他们……"
 
     window hide
 
@@ -6150,7 +6150,7 @@ label block_00003C22:
     show rs_image_D7237C565A3B4E798F5B4E551B4FE0A8 as tag_E99970E1386B453DAF81C3AE2C72BE8E zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_62324AD297554FE987C680452CEE232E "那个人显出身姿是在抓获绫濑桑几分钟后。\n所以不可能藏到很远的地方去。"
+    rs_character_62324AD297554FE987C680452CEE232E "那个人显出身姿是在抓获绫濑同学几分钟后。\n所以不可能藏到很远的地方去。"
 
     window hide
 
@@ -6921,7 +6921,7 @@ label block_00003C23:
     show rs_image_37D78F77FCE84A4C91C869D15099E48F as tag_E99970E1386B453DAF81C3AE2C72BE8E zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_62324AD297554FE987C680452CEE232E "当然可以。森海桑一直是和我们分头行动的，\n将情报集中到一起会很有用的。"
+    rs_character_62324AD297554FE987C680452CEE232E "当然可以。森海同学一直是和我们分头行动的，\n将情报集中到一起会很有用的。"
 
     if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop

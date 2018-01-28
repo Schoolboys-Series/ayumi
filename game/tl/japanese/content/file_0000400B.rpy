@@ -345,7 +345,7 @@ translate japanese block_0000400F_1306526d:
 # game/content/file_0000400B.rpy:632
 translate japanese block_0000400F_3d041f81:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "都说道这个程度了忍桑就做点什么嘛。"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "都说道这个程度了忍同学就做点什么嘛。"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_0000400B.rpy:637
@@ -2649,7 +2649,7 @@ translate japanese block_000041C3_7c8f74b2:
 # game/content/file_0000400B.rpy:4606
 translate japanese block_000041C3_8be2c53d:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "说起来，忍桑～是不是对剧本投入太多感情了呢？"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "说起来，忍同学～是不是对剧本投入太多感情了呢？"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_0000400B.rpy:4618
@@ -2915,4 +2915,18 @@ translate japanese strings:
     # content\file_0000400B.rpy:26
     old "「正义的教训」"
     new ""
+
+# TODO: Translation updated at 2018-01-28 10:11
+
+# game/content/file_0000400B.rpy:632
+translate japanese block_0000400F_56a087de:
+
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "都说道这个程度了忍同学就做点什么嘛。"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+
+# game/content/file_0000400B.rpy:4606
+translate japanese block_000041C3_175b7e31:
+
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "说起来，忍同学～是不是对剧本投入太多感情了呢？"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 

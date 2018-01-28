@@ -27,7 +27,7 @@ translate japanese block_000016E2_29d966fc:
 # game/content/file_000016B7.rpy:327
 translate japanese block_000016E4_f72585cb:
 
-    # rs_character_57471360F48A413AB843A4E46D8C5541 "森海桑他们是御咲学园的学生呢。"
+    # rs_character_57471360F48A413AB843A4E46D8C5541 "森海同学他们是御咲学园的学生呢。"
     rs_character_57471360F48A413AB843A4E46D8C5541 ""
 
 # game/content/file_000016B7.rpy:332
@@ -45,7 +45,7 @@ translate japanese block_000016E4_97029533:
 # game/content/file_000016B7.rpy:340
 translate japanese block_000016E4_79d6054b:
 
-    # rs_character_57471360F48A413AB843A4E46D8C5541 "关系真近。这次一起来的人\n也觉得有些过去偶尔看到过。{w}\n尤其是奥村桑，说不定面对面见过。"
+    # rs_character_57471360F48A413AB843A4E46D8C5541 "关系真近。这次一起来的人\n也觉得有些过去偶尔看到过。{w}\n尤其是奥村同学，说不定面对面见过。"
     rs_character_57471360F48A413AB843A4E46D8C5541 ""
 
 # game/content/file_000016B7.rpy:345
@@ -381,7 +381,7 @@ translate japanese block_000016E5_e5687595:
 # game/content/file_000016B7.rpy:878
 translate japanese block_000016E5_2d26a9d9:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "唔。就像是传说中的高达管家\n或者能干的Cook桑之类的？"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "唔。就像是传说中的高达管家\n或者能干的Cook先生之类的？"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_000016B7.rpy:880
@@ -929,4 +929,24 @@ translate japanese block_000016E7_86cc8108:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "嗯嗯。也就是说，\n我们是有权利向阿夕要求礼物的！"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
+
+# TODO: Translation updated at 2018-01-28 10:11
+
+# game/content/file_000016B7.rpy:327
+translate japanese block_000016E4_5a05b2ef:
+
+    # rs_character_57471360F48A413AB843A4E46D8C5541 "森海同学他们是御咲学园的学生呢。"
+    rs_character_57471360F48A413AB843A4E46D8C5541 ""
+
+# game/content/file_000016B7.rpy:340
+translate japanese block_000016E4_fb56db34:
+
+    # rs_character_57471360F48A413AB843A4E46D8C5541 "关系真近。这次一起来的人\n也觉得有些过去偶尔看到过。{w}\n尤其是奥村同学，说不定面对面见过。"
+    rs_character_57471360F48A413AB843A4E46D8C5541 ""
+
+# game/content/file_000016B7.rpy:878
+translate japanese block_000016E5_a2399bc3:
+
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "唔。就像是传说中的高达管家\n或者能干的Cook先生之类的？"
+    rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 

@@ -129,7 +129,7 @@ translate japanese block_00001D24_ba18832d:
 # game/content/file_00001CFA.rpy:825
 translate japanese block_00001D24_72ee7006:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "慎、慎太郎桑！？\n{w=0.55}{nw}"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "慎、慎太郎前辈！？\n{w=0.55}{nw}"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_00001CFA.rpy:833
@@ -195,7 +195,7 @@ translate japanese block_00001D24_d94c886d:
 # game/content/file_00001CFA.rpy:914
 translate japanese block_00001D24_02674014:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "果然敌不过慎太郎桑呐……"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "果然敌不过慎太郎前辈呐……"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_00001CFA.rpy:923
@@ -419,4 +419,18 @@ translate japanese block_00001CFD_d2a535de:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『找到迷之超人。』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+
+# TODO: Translation updated at 2018-01-28 10:11
+
+# game/content/file_00001CFA.rpy:825
+translate japanese block_00001D24_495c8555:
+
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "慎、慎太郎前辈！？\n{w=0.55}{nw}"
+    rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
+
+# game/content/file_00001CFA.rpy:914
+translate japanese block_00001D24_a5348545:
+
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "果然敌不过慎太郎前辈呐……"
+    rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 

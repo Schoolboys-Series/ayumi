@@ -39,7 +39,7 @@ translate japanese block_00003EF6_d3d3930b:
 # game/content/file_00003ED8.rpy:858
 translate japanese block_00003EF6_06462c01:
 
-    # extend "晚上好，森海友桑。"
+    # extend "晚上好，森海友同学。"
     extend ""
 
 # game/content/file_00003ED8.rpy:868
@@ -87,7 +87,7 @@ translate japanese block_00003EF6_3fcb1304:
 # game/content/file_00003ED8.rpy:921
 translate japanese block_00003EF6_d28f281f:
 
-    # extend "这么说很突然，但森海桑，我有件事需要你帮忙。"
+    # extend "这么说很突然，但森海同学，我有件事需要你帮忙。"
     extend ""
 
 # game/content/file_00003ED8.rpy:926
@@ -257,4 +257,18 @@ translate japanese block_00003F0E_4d5a838c:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "（好长的独白——）"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+
+# TODO: Translation updated at 2018-01-28 10:11
+
+# game/content/file_00003ED8.rpy:858
+translate japanese block_00003EF6_4edc8b0f:
+
+    # extend "晚上好，森海友同学。"
+    extend ""
+
+# game/content/file_00003ED8.rpy:921
+translate japanese block_00003EF6_478a7f8d:
+
+    # extend "这么说很突然，但森海同学，我有件事需要你帮忙。"
+    extend ""
 

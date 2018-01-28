@@ -599,7 +599,7 @@ label block_000023F2:
     show rs_image_DC3BE1DD2EA84C89ABC5052469A25C0E as tag_CC4336DE74164173AC47C2C317367F10 at center_bottom zorder zorder_tag_CC4336DE74164173AC47C2C317367F10 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_53FF68C192E3494AB005C1909579AFFB "明白了。{w}\n奥村桑，感谢一直为我们提供情报。"
+    rs_character_53FF68C192E3494AB005C1909579AFFB "明白了。{w}\n奥村同学，感谢一直为我们提供情报。"
 
     if sys_effect_current_file != "sound/Effect Sound/Paper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Paper 1.ogg" noloop
@@ -697,7 +697,7 @@ label block_00000C5C:
     show rs_image_4DE7491D04004FC5BE18A0FEB043C1BF as tag_DCBDF256A1E242E78A25910AE27C0954 zorder zorder_tag_DCBDF256A1E242E78A25910AE27C0954 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_53FF68C192E3494AB005C1909579AFFB "哦呀哦呀，如奥村桑这样的人居然都看不透我的感情。{w}\n{nw}"
+    rs_character_53FF68C192E3494AB005C1909579AFFB "哦呀哦呀，如奥村同学这样的人居然都看不透我的感情。{w}\n{nw}"
     show rs_image_9511CC62DD3C41CB9B75011464423CB6 as tag_DCBDF256A1E242E78A25910AE27C0954 zorder zorder_tag_DCBDF256A1E242E78A25910AE27C0954 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
@@ -2072,7 +2072,7 @@ label block_00000C44:
     show rs_image_D668AB5BCE7641D598E5B719952F1E93 as tag_2D6D26BC65EB40CCB22A2D540F9DE0E3 zorder zorder_tag_2D6D26BC65EB40CCB22A2D540F9DE0E3 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_8D9249CA1389416BAF6A122851E276D0 "嗯，{w}这都是多亏\n{color=#008080}奥村桑在背后推了我一把{/color}呢。{nw}"
+    rs_character_8D9249CA1389416BAF6A122851E276D0 "嗯，{w}这都是多亏\n{color=#008080}奥村同学在背后推了我一把{/color}呢。{nw}"
     if sys_effect_current_file != "sound/Effect Sound/Decision 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Decision 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Decision 1.ogg"

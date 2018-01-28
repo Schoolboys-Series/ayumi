@@ -747,7 +747,7 @@ translate japanese block_00003910_12728d20:
 # game/content/file_0000390D.rpy:1008
 translate japanese block_00003910_4e7ab5d6:
 
-    # rs_character_06E99199BFCE4C93B1F3942F0090429B "绫濑桑{size=12}{color=#C0C0C0}（同龄不亲密非正式场合多用于称呼女性）{/color}{/size}，请多关照。"
+    # rs_character_06E99199BFCE4C93B1F3942F0090429B "绫濑小姐，请多关照。"
     rs_character_06E99199BFCE4C93B1F3942F0090429B ""
 
 # game/content/file_0000390D.rpy:1010
@@ -759,7 +759,7 @@ translate japanese block_00003910_713a3bb2:
 # game/content/file_0000390D.rpy:1016
 translate japanese block_00003910_dd395256:
 
-    # rs_character_EEA3F27AEC2B46E082EB2D2B190F32C5 "绫濑“桑”，那家伙是男的哦。"
+    # rs_character_EEA3F27AEC2B46E082EB2D2B190F32C5 "绫濑“小姐”，那家伙是男的哦。"
     rs_character_EEA3F27AEC2B46E082EB2D2B190F32C5 ""
 
 # game/content/file_0000390D.rpy:1025
@@ -2795,4 +2795,18 @@ translate japanese strings:
     # content\file_0000390D.rpy:2752
     old "就一定不会有这样的……"
     new ""
+
+# TODO: Translation updated at 2018-01-28 10:11
+
+# game/content/file_0000390D.rpy:1008
+translate japanese block_00003910_2fa54fee:
+
+    # rs_character_06E99199BFCE4C93B1F3942F0090429B "绫濑小姐，请多关照。"
+    rs_character_06E99199BFCE4C93B1F3942F0090429B ""
+
+# game/content/file_0000390D.rpy:1016
+translate japanese block_00003910_cddfd6d6:
+
+    # rs_character_EEA3F27AEC2B46E082EB2D2B190F32C5 "绫濑“小姐”，那家伙是男的哦。"
+    rs_character_EEA3F27AEC2B46E082EB2D2B190F32C5 ""
 

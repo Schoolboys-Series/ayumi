@@ -1060,7 +1060,7 @@ label block_00003902:
 
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "咕噜咕……是……滑梯！？"
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "正是如此！\n这次介绍给三朗桑的快乐源泉，正是眼前的道具！"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "正是如此！\n这次介绍给三朗前辈的快乐源泉，正是眼前的道具！"
 
     if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop

@@ -585,7 +585,7 @@ translate english block_00003AA9_4faf1b10:
 # game/content/file_00003AA2.rpy:924
 translate english block_00003AA9_2aa455ce:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "说、说起来，杉本……桑为何会在这儿？而且只有一个人。"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "说、说起来，杉本……先生为何会在这儿？而且只有一个人。"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00003AA2.rpy:929
@@ -669,13 +669,13 @@ translate english block_00003AA9_513c87f4:
 # game/content/file_00003AA2.rpy:999
 translate english block_00003AA9_26684089:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "是嘛！那么就是三朗桑！请多多指教！"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "是嘛！那么就是三朗前辈！请多多指教！"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:1044
 translate english block_00003AA9_1868b9ae:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "啊哈哈哈，三朗桑真的很有趣呐♪"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "啊哈哈哈，三朗前辈真的很有趣呐♪"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:1046
@@ -873,7 +873,7 @@ translate english block_00003AA9_6cebc576:
 # game/content/file_00003AA2.rpy:1316
 translate english block_00003AA9_a6544f23:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "杉本问卷的结果发表！三朗桑，你的烦恼就是……"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "杉本问卷的结果发表！三朗前辈，你的烦恼就是……"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:1340
@@ -927,7 +927,7 @@ translate english block_00003AA9_e9d04ece:
 # game/content/file_00003AA2.rpy:1440
 translate english block_00003AA9_43ac2cb9:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "三朗桑，为什么要这么排斥？"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "三朗前辈，为什么要这么排斥？"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:1450
@@ -969,7 +969,7 @@ translate english block_00003AA9_344ee645:
 # game/content/file_00003AA2.rpy:1496
 translate english block_00003AA9_251c7219:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "三朗桑，再来一个小环节。主持人当然是我。"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "三朗前辈，再来一个小环节。主持人当然是我。"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:1511
@@ -1149,19 +1149,19 @@ translate english block_00003B8A_9e26eccf:
 # game/content/file_00003AA2.rpy:2180
 translate english block_00003B8A_54af5a29:
 
-    # rs_character_7009C1117C004F51829614A203C67DE7 "哈哈，四朗和三朗桑都好狂热呐。"
+    # rs_character_7009C1117C004F51829614A203C67DE7 "哈哈，四朗和三朗前辈都好狂热呐。"
     rs_character_7009C1117C004F51829614A203C67DE7 ""
 
 # game/content/file_00003AA2.rpy:2182
 translate english block_00003B8A_3f98b620:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "这都是三朗桑的成长所必须的，请适当忍耐一下。"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "这都是三朗前辈的成长所必须的，请适当忍耐一下。"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:2184
 translate english block_00003B8A_67301dd9:
 
-    # rs_character_7009C1117C004F51829614A203C67DE7 "啊咧？难道是……杉本桑？"
+    # rs_character_7009C1117C004F51829614A203C67DE7 "啊咧？难道是……杉本先生？"
     rs_character_7009C1117C004F51829614A203C67DE7 ""
 
 # game/content/file_00003AA2.rpy:2186
@@ -1263,7 +1263,7 @@ translate english block_00003B8A_93b1ee85:
 # game/content/file_00003AA2.rpy:2330
 translate english block_00003B8A_f1dc2176:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "果然就算给三朗桑看这个也没有任何感觉呐～原来如此。"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "果然就算给三朗前辈看这个也没有任何感觉呐～原来如此。"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:2336
@@ -1365,13 +1365,13 @@ translate english block_00003AAE_e3399fef:
 # game/content/file_00003AA2.rpy:2500
 translate english block_00003AAE_2a9fc68d:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "那个……称呼你为慎太郎桑可以吗？\n能收看我们的节目，我感到非常荣幸！"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "那个……称呼你为慎太郎前辈可以吗？\n能收看我们的节目，我感到非常荣幸！"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:2505
 translate english block_00003AAE_23829f05:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "慎太郎桑和三朗桑是朋友吗？"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "慎太郎前辈和三朗前辈是朋友吗？"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:2510
@@ -1473,7 +1473,7 @@ translate english block_00003AAE_85c01c08:
 # game/content/file_00003AA2.rpy:2652
 translate english block_00003AAE_6fe4beed:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "哦♪慎太郎桑跃跃欲试！！{w}\n{nw}"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "哦♪慎太郎前辈跃跃欲试！！{w}\n{nw}"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:2678
@@ -1485,7 +1485,7 @@ translate english block_00003AAE_5b9b81ee:
 # game/content/file_00003AA2.rpy:2691
 translate english block_00003AAE_856dcd74:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "出来——！三朗桑！三——朗——桑！"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "出来——！三朗前辈！三——朗——前——辈！"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:2701
@@ -1605,13 +1605,13 @@ translate english block_00003AAE_3baa4e86:
 # game/content/file_00003AA2.rpy:2979
 translate english block_00003AAE_bb223ea7:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "慎太郎桑辛苦了。抱歉打扰你工作了。"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "慎太郎前辈辛苦了。抱歉打扰你工作了。"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:2981
 translate english block_00003AAE_984558a9:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "那么我们就去洗澡了。慎太郎桑也不要勉强了，保重哦。"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "那么我们就去洗澡了。慎太郎前辈也不要勉强了，保重哦。"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:2983
@@ -1641,7 +1641,7 @@ translate english block_00003AAE_a696802e:
 # game/content/file_00003AA2.rpy:3031
 translate english block_00003AAE_b64b3305:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "三朗桑？"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "三朗前辈？"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:3033
@@ -1677,7 +1677,7 @@ translate english block_00003AAE_c431910f:
 # game/content/file_00003AA2.rpy:3047
 translate english block_00003AAE_2b9db6e4:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "三朗桑一直强调自己是直的，对这些却很了解呐。"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "三朗前辈一直强调自己是直的，对这些却很了解呐。"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:3053
@@ -1713,7 +1713,7 @@ translate english block_00003AAE_28111cec:
 # game/content/file_00003AA2.rpy:3069
 translate english block_00003AAE_c9ec9673:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "三朗桑，你已经很“普通”了，所以不用太担心。"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "三朗前辈，你已经很“普通”了，所以不用太担心。"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:3071
@@ -1743,7 +1743,7 @@ translate english block_00003AAE_60fdeb75:
 # game/content/file_00003AA2.rpy:3108
 translate english block_00003AAE_253f4d57:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "不过，三朗桑不同。这个通过刚才的游戏已经了解了。"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "不过，三朗前辈不同。这个通过刚才的游戏已经了解了。"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:3110
@@ -1761,7 +1761,7 @@ translate english block_00003AAE_d87e82a9:
 # game/content/file_00003AA2.rpy:3125
 translate english block_00003AAE_101e4086:
 
-    # extend "你，喜欢慎太郎桑对不对？"
+    # extend "你，喜欢慎太郎前辈对不对？"
     extend ""
 
 # game/content/file_00003AA2.rpy:3131
@@ -1785,7 +1785,7 @@ translate english block_00003AAE_86ee740a:
 # game/content/file_00003AA2.rpy:3137
 translate english block_00003AAE_7146bc82:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "你想要爱上女生的“普通”意识，和你对慎太郎桑的感情有了冲突。"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "你想要爱上女生的“普通”意识，和你对慎太郎前辈的感情有了冲突。"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:3139
@@ -1809,7 +1809,7 @@ translate english block_00003AAE_3f9e3355:
 # game/content/file_00003AA2.rpy:3159
 translate english block_00003AAE_d816d7a9:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "因为性别问题而无法接受对慎太郎桑的想法，\n就算去找别的女孩子或是其他什么人也没用的。"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "因为性别问题而无法接受对慎太郎前辈的想法，\n就算去找别的女孩子或是其他什么人也没用的。"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:3161
@@ -1857,7 +1857,7 @@ translate english block_00003AAE_eaafad23:
 # game/content/file_00003AA2.rpy:3231
 translate english block_00003AAE_73c3e1d3:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "呼～好不错的地方！！慎太郎桑！水温最棒了♪"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "呼～好不错的地方！！慎太郎前辈！水温最棒了♪"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:3236
@@ -1881,7 +1881,7 @@ translate english block_00003AAE_77a8f29e:
 # game/content/file_00003AA2.rpy:3257
 translate english block_00003AAE_b8327f6a:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "而抽奖中了的三朗桑会有特别观赏排练的机会哦。"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "而抽奖中了的三朗前辈会有特别观赏排练的机会哦。"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:3271
@@ -1899,7 +1899,7 @@ translate english block_00003AAE_903d3bc8:
 # game/content/file_00003AA2.rpy:3289
 translate english block_00003AAE_022c7e41:
 
-    # extend "对不对，三朗桑？"
+    # extend "对不对，三朗前辈？"
     extend ""
 
 # game/content/file_00003AA2.rpy:3291
@@ -3033,7 +3033,7 @@ translate english block_00003AAE_56714aa7:
 # game/content/file_00003AA2.rpy:4922
 translate english block_00003AB5_6e037050:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "呀，三朗桑。"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "呀，三朗前辈。"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:4924
@@ -3045,7 +3045,7 @@ translate english block_00003AB5_d0026297:
 # game/content/file_00003AA2.rpy:4938
 translate english block_00003AB5_cff1bc0c:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "杉本桑！？还有陆田桑也！啊，说起来演讲是今天。"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "杉本先生！？还有陆田先生也！啊，说起来演讲是今天。"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00003AA2.rpy:4953
@@ -3075,7 +3075,7 @@ translate english block_00003AB5_80254d5a:
 # game/content/file_00003AA2.rpy:4979
 translate english block_00003AB5_a05715d0:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "啊。那个！我、我多亏杉本桑终于明白了自己！"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "啊。那个！我、我多亏杉本先生终于明白了自己！"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00003AA2.rpy:4984
@@ -3173,4 +3173,180 @@ translate english strings:
     # content\file_00003AA2.rpy:26
     old "「我是直的，现无对象」"
     new ""
+
+# TODO: Translation updated at 2018-01-28 10:10
+
+# game/content/file_00003AA2.rpy:924
+translate english block_00003AA9_c5548b93:
+
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "说、说起来，杉本……先生为何会在这儿？而且只有一个人。"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
+
+# game/content/file_00003AA2.rpy:999
+translate english block_00003AA9_85262972:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "是嘛！那么就是三朗前辈！请多多指教！"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00003AA2.rpy:1044
+translate english block_00003AA9_2a6f65b4:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "啊哈哈哈，三朗前辈真的很有趣呐♪"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00003AA2.rpy:1316
+translate english block_00003AA9_325f42d0:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "杉本问卷的结果发表！三朗前辈，你的烦恼就是……"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00003AA2.rpy:1440
+translate english block_00003AA9_f29908d9:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "三朗前辈，为什么要这么排斥？"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00003AA2.rpy:1496
+translate english block_00003AA9_73a5810d:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "三朗前辈，再来一个小环节。主持人当然是我。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00003AA2.rpy:2180
+translate english block_00003B8A_6c33de1f:
+
+    # rs_character_7009C1117C004F51829614A203C67DE7 "哈哈，四朗和三朗前辈都好狂热呐。"
+    rs_character_7009C1117C004F51829614A203C67DE7 ""
+
+# game/content/file_00003AA2.rpy:2182
+translate english block_00003B8A_eeadb478:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "这都是三朗前辈的成长所必须的，请适当忍耐一下。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00003AA2.rpy:2184
+translate english block_00003B8A_4b948e9b:
+
+    # rs_character_7009C1117C004F51829614A203C67DE7 "啊咧？难道是……杉本先生？"
+    rs_character_7009C1117C004F51829614A203C67DE7 ""
+
+# game/content/file_00003AA2.rpy:2330
+translate english block_00003B8A_c566f958:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "果然就算给三朗前辈看这个也没有任何感觉呐～原来如此。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00003AA2.rpy:2500
+translate english block_00003AAE_281a4d5d:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "那个……称呼你为慎太郎前辈可以吗？\n能收看我们的节目，我感到非常荣幸！"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00003AA2.rpy:2505
+translate english block_00003AAE_fc3054dd:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "慎太郎前辈和三朗前辈是朋友吗？"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00003AA2.rpy:2652
+translate english block_00003AAE_1cd4d157:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "哦♪慎太郎前辈跃跃欲试！！{w}\n{nw}"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00003AA2.rpy:2691
+translate english block_00003AAE_c98c1bd4:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "出来——！三朗前辈！三——朗——前——辈！"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00003AA2.rpy:2979
+translate english block_00003AAE_a9d7ec3f:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "慎太郎前辈辛苦了。抱歉打扰你工作了。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00003AA2.rpy:2981
+translate english block_00003AAE_a663e31b:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "那么我们就去洗澡了。慎太郎前辈也不要勉强了，保重哦。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00003AA2.rpy:3031
+translate english block_00003AAE_864b559c:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "三朗前辈？"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00003AA2.rpy:3047
+translate english block_00003AAE_5369bddd:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "三朗前辈一直强调自己是直的，对这些却很了解呐。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00003AA2.rpy:3069
+translate english block_00003AAE_5a24ba81:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "三朗前辈，你已经很“普通”了，所以不用太担心。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00003AA2.rpy:3108
+translate english block_00003AAE_effc9d1c:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "不过，三朗前辈不同。这个通过刚才的游戏已经了解了。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00003AA2.rpy:3125
+translate english block_00003AAE_a36d704c:
+
+    # extend "你，喜欢慎太郎前辈对不对？"
+    extend ""
+
+# game/content/file_00003AA2.rpy:3137
+translate english block_00003AAE_a831d914:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "你想要爱上女生的“普通”意识，和你对慎太郎前辈的感情有了冲突。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00003AA2.rpy:3159
+translate english block_00003AAE_bfda4d8c:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "因为性别问题而无法接受对慎太郎前辈的想法，\n就算去找别的女孩子或是其他什么人也没用的。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00003AA2.rpy:3231
+translate english block_00003AAE_d959a9a3:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "呼～好不错的地方！！慎太郎前辈！水温最棒了♪"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00003AA2.rpy:3257
+translate english block_00003AAE_1d75f5fa:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "而抽奖中了的三朗前辈会有特别观赏排练的机会哦。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00003AA2.rpy:3289
+translate english block_00003AAE_75299e78:
+
+    # extend "对不对，三朗前辈？"
+    extend ""
+
+# game/content/file_00003AA2.rpy:4922
+translate english block_00003AB5_bc35bf27:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "呀，三朗前辈。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00003AA2.rpy:4938
+translate english block_00003AB5_16cca8dd:
+
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "杉本先生！？还有陆田先生也！啊，说起来演讲是今天。"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
+
+# game/content/file_00003AA2.rpy:4979
+translate english block_00003AB5_5d6fdb38:
+
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "啊。那个！我、我多亏杉本先生终于明白了自己！"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 

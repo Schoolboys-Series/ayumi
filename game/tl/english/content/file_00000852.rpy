@@ -3,13 +3,13 @@
 # game/content/file_00000852.rpy:137
 translate english block_000023D4_9355a4c0:
 
-    # rs_character_9EDF48057FB84D428D56198A69E2880E "这不是忍桑嘛。"
+    # rs_character_9EDF48057FB84D428D56198A69E2880E "这不是忍同学嘛。"
     rs_character_9EDF48057FB84D428D56198A69E2880E ""
 
 # game/content/file_00000852.rpy:152
 translate english block_000023D4_34ab4a55:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "{color=#3A00C4}朔{/color}桑，真是奇遇，好久不见。"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "{color=#3A00C4}朔{/color}同学，真是奇遇，好久不见。"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00000852.rpy:161
@@ -21,7 +21,7 @@ translate english block_000023D4_131d70c5:
 # game/content/file_00000852.rpy:167
 translate english block_000023D4_797d1820:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "这位是忍桑的同学？"
+    # rs_character_62324AD297554FE987C680452CEE232E "这位是忍同学的朋友？"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00000852.rpy:172
@@ -75,7 +75,7 @@ translate english block_000023D4_bbbf7d0a:
 # game/content/file_00000852.rpy:239
 translate english block_000023D4_13daf81e:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "哈哈，关系真好呐。{w}\n忍桑，等以后有时间再一起喝个茶如何。{w}\n这次务必也请友桑光临。"
+    # rs_character_62324AD297554FE987C680452CEE232E "哈哈，关系真好呐。{w}\n忍同学，等以后有时间再一起喝个茶如何。{w}\n这次务必也请友同学光临。"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00000852.rpy:244
@@ -415,4 +415,30 @@ translate english strings:
     # content\file_00000852.rpy:554
     old "接下来怎么做？"
     new "What's next?"
+
+# TODO: Translation updated at 2018-01-28 10:10
+
+# game/content/file_00000852.rpy:137
+translate english block_000023D4_73949461:
+
+    # rs_character_9EDF48057FB84D428D56198A69E2880E "这不是忍同学嘛。"
+    rs_character_9EDF48057FB84D428D56198A69E2880E ""
+
+# game/content/file_00000852.rpy:152
+translate english block_000023D4_79a70484:
+
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "{color=#3A00C4}朔{/color}同学，真是奇遇，好久不见。"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
+
+# game/content/file_00000852.rpy:167
+translate english block_000023D4_510a2ec3:
+
+    # rs_character_62324AD297554FE987C680452CEE232E "这位是忍同学的朋友？"
+    rs_character_62324AD297554FE987C680452CEE232E ""
+
+# game/content/file_00000852.rpy:239
+translate english block_000023D4_34b23982:
+
+    # rs_character_62324AD297554FE987C680452CEE232E "哈哈，关系真好呐。{w}\n忍同学，等以后有时间再一起喝个茶如何。{w}\n这次务必也请友同学光临。"
+    rs_character_62324AD297554FE987C680452CEE232E ""
 

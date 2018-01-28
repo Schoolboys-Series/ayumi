@@ -657,7 +657,7 @@ translate english block_00003902_9d8d29ee:
 # game/content/file_000038FF.rpy:1063
 translate english block_00003902_85c17073:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "正是如此！\n这次介绍给三朗桑的快乐源泉，正是眼前的道具！"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "正是如此！\n这次介绍给三朗前辈的快乐源泉，正是眼前的道具！"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000038FF.rpy:1069
@@ -1499,4 +1499,12 @@ translate english strings:
     # content\file_000038FF.rpy:26
     old "「寻求刺激·解」"
     new ""
+
+# TODO: Translation updated at 2018-01-28 10:10
+
+# game/content/file_000038FF.rpy:1063
+translate english block_00003902_2bdf527e:
+
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "正是如此！\n这次介绍给三朗前辈的快乐源泉，正是眼前的道具！"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 

@@ -135,7 +135,7 @@ translate japanese block_000027B8_8c237a75:
 # game/content/file_00001A69.rpy:966
 translate japanese block_000027B8_e01202dc:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "森海前辈好。其实直到刚才\n一直和翼桑在一起，不过走散了……"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "森海前辈好。其实直到刚才\n一直和翼前辈在一起，不过走散了……"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_00001A69.rpy:980
@@ -171,7 +171,7 @@ translate japanese block_000027B8_5db2b894:
 # game/content/file_00001A69.rpy:1007
 translate japanese block_000027B8_93728305:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "欸——不对正相反！{w}\n翼桑是那种喜欢打闹元气满满\n的小狗的感觉才对。"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "欸——不对正相反！{w}\n翼前辈是那种喜欢打闹元气满满\n的小狗的感觉才对。"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_00001A69.rpy:1017
@@ -1257,7 +1257,7 @@ translate japanese block_000034BD_e5ce1941:
 # game/content/file_00001A69.rpy:4466
 translate japanese block_000027C4_9539e075:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "（哦？{color=#0080FF}杉本桑{/color}居然在那里。{w}\n还有一个大叔……）"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "（哦？{color=#0080FF}杉本先生{/color}居然在那里。{w}\n还有一个大叔……）"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001A69.rpy:4468
@@ -1299,7 +1299,7 @@ translate japanese block_000027C7_e6893971:
 # game/content/file_00001A69.rpy:4655
 translate japanese block_000027C7_0fc3f88e:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "说得对——听我说哦～友桑♪"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "说得对——听我说哦～友同学♪"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00001A69.rpy:4672
@@ -1359,7 +1359,7 @@ translate japanese block_000027C7_b0fd3b52:
 # game/content/file_00001A69.rpy:4832
 translate japanese block_000027C2_47fe0420:
 
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "啊，友桑。"
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "啊，友同学。"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
 
 # game/content/file_00001A69.rpy:4837
@@ -1407,4 +1407,36 @@ translate japanese strings:
     # content\file_00001A69.rpy:818
     old "药丸药丸"
     new ""
+
+# TODO: Translation updated at 2018-01-28 10:11
+
+# game/content/file_00001A69.rpy:966
+translate japanese block_000027B8_1d75f7ba:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "森海前辈好。其实直到刚才\n一直和翼前辈在一起，不过走散了……"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_00001A69.rpy:1007
+translate japanese block_000027B8_c2850c20:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "欸——不对正相反！{w}\n翼前辈是那种喜欢打闹元气满满\n的小狗的感觉才对。"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_00001A69.rpy:4466
+translate japanese block_000027C4_a8f18db6:
+
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "（哦？{color=#0080FF}杉本先生{/color}居然在那里。{w}\n还有一个大叔……）"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+
+# game/content/file_00001A69.rpy:4655
+translate japanese block_000027C7_b436164e:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "说得对——听我说哦～友同学♪"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00001A69.rpy:4832
+translate japanese block_000027C2_54a5ddda:
+
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "啊，友同学。"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
 

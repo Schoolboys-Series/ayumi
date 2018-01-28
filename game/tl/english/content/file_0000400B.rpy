@@ -345,7 +345,7 @@ translate english block_0000400F_1306526d:
 # game/content/file_0000400B.rpy:632
 translate english block_0000400F_3d041f81:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "都说道这个程度了忍桑就做点什么嘛。"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "都说道这个程度了忍同学就做点什么嘛。"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_0000400B.rpy:637
@@ -2649,7 +2649,7 @@ translate english block_000041C3_7c8f74b2:
 # game/content/file_0000400B.rpy:4606
 translate english block_000041C3_8be2c53d:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "说起来，忍桑～是不是对剧本投入太多感情了呢？"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "说起来，忍同学～是不是对剧本投入太多感情了呢？"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_0000400B.rpy:4618
@@ -2935,4 +2935,18 @@ translate english block_000041C3_c97574fe:
 
     # rs_character_57471360F48A413AB843A4E46D8C5541 "说得好，夕阳，到底要止步不前维持单相思到什么时候。"
     rs_character_57471360F48A413AB843A4E46D8C5541 ""
+
+# TODO: Translation updated at 2018-01-28 10:10
+
+# game/content/file_0000400B.rpy:632
+translate english block_0000400F_56a087de:
+
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "都说道这个程度了忍同学就做点什么嘛。"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+
+# game/content/file_0000400B.rpy:4606
+translate english block_000041C3_175b7e31:
+
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "说起来，忍同学～是不是对剧本投入太多感情了呢？"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 

@@ -3,7 +3,7 @@
 # game/content/file_00001097.rpy:185
 translate english block_000025F3_f34c946b:
 
-    # rs_character_7009C1117C004F51829614A203C67DE7 "早上好～作哉桑。"
+    # rs_character_7009C1117C004F51829614A203C67DE7 "早上好～作哉前辈。"
     rs_character_7009C1117C004F51829614A203C67DE7 ""
 
 # game/content/file_00001097.rpy:195
@@ -237,7 +237,7 @@ translate english block_000025F1_14cee410:
 # game/content/file_00001097.rpy:1182
 translate english block_000025F1_76659eb9:
 
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "那么，杉本桑，我们又回到御咲了，\n这次究竟是有什么事呢？"
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "那么，杉本先生，我们又回到御咲了，\n这次究竟是有什么事呢？"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
 
 # game/content/file_00001097.rpy:1187
@@ -321,4 +321,18 @@ translate english strings:
     # content\file_00001097.rpy:1859
     old "要乘坐巴士吗？"
     new ""
+
+# TODO: Translation updated at 2018-01-28 10:10
+
+# game/content/file_00001097.rpy:185
+translate english block_000025F3_58e3320c:
+
+    # rs_character_7009C1117C004F51829614A203C67DE7 "早上好～作哉前辈。"
+    rs_character_7009C1117C004F51829614A203C67DE7 ""
+
+# game/content/file_00001097.rpy:1182
+translate english block_000025F1_0fdc517b:
+
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "那么，杉本先生，我们又回到御咲了，\n这次究竟是有什么事呢？"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
 

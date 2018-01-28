@@ -1107,7 +1107,7 @@ translate english block_0000423E_cefe0744:
 # game/content/file_0000402F.rpy:1904
 translate english block_0000423E_11d11c1f:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "啊，这可真是这可真是，友桑，任务辛苦了"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "啊，这可真是这可真是，友同学，任务辛苦了"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_0000402F.rpy:1913
@@ -2267,4 +2267,12 @@ translate english strings:
     # content\file_0000402F.rpy:26
     old "「傲娇男孩子的激效疗」"
     new ""
+
+# TODO: Translation updated at 2018-01-28 10:10
+
+# game/content/file_0000402F.rpy:1904
+translate english block_0000423E_9b087ce9:
+
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "啊，这可真是这可真是，友同学，任务辛苦了"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 

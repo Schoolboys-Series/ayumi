@@ -1005,7 +1005,7 @@ label block_00003910:
 
     pause 0.3
 
-    rs_character_06E99199BFCE4C93B1F3942F0090429B "绫濑桑{size=12}{color=#C0C0C0}（同龄不亲密非正式场合多用于称呼女性）{/color}{/size}，请多关照。"
+    rs_character_06E99199BFCE4C93B1F3942F0090429B "绫濑小姐，请多关照。"
 
     rs_character_D93E396B7ADB48CBAE13F206958FC08B "欸……啊……"
 
@@ -1013,7 +1013,7 @@ label block_00003910:
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"
 
-    rs_character_EEA3F27AEC2B46E082EB2D2B190F32C5 "绫濑“桑”，那家伙是男的哦。"
+    rs_character_EEA3F27AEC2B46E082EB2D2B190F32C5 "绫濑“小姐”，那家伙是男的哦。"
 
     if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop

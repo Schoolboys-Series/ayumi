@@ -465,7 +465,7 @@ translate japanese block_000023E2_b86aa0a7:
 # game/content/file_00000EE6.rpy:1909
 translate japanese block_000023E2_58ea88ca:
 
-    # rs_character_53FF68C192E3494AB005C1909579AFFB "所以说，一之濑桑来这里是有何贵干？"
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "所以说，一之濑同学来这里是有何贵干？"
     rs_character_53FF68C192E3494AB005C1909579AFFB ""
 
 # game/content/file_00000EE6.rpy:1914
@@ -785,4 +785,12 @@ translate japanese block_00000F33_a609c843:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『尽可能请求校园里所有认识的人{/color}\n{color=#0080FF}来围观练习。』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+
+# TODO: Translation updated at 2018-01-28 10:11
+
+# game/content/file_00000EE6.rpy:1909
+translate japanese block_000023E2_f85242c4:
+
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "所以说，一之濑同学来这里是有何贵干？"
+    rs_character_53FF68C192E3494AB005C1909579AFFB ""
 

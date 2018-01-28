@@ -63,7 +63,7 @@ translate english block_000023F2_b12b3323:
 # game/content/file_00000C24.rpy:602
 translate english block_000023F2_2ef5c754:
 
-    # rs_character_53FF68C192E3494AB005C1909579AFFB "明白了。{w}\n奥村桑，感谢一直为我们提供情报。"
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "明白了。{w}\n奥村同学，感谢一直为我们提供情报。"
     rs_character_53FF68C192E3494AB005C1909579AFFB ""
 
 # game/content/file_00000C24.rpy:613
@@ -117,7 +117,7 @@ translate english block_00000C5C_720304a4:
 # game/content/file_00000C24.rpy:700
 translate english block_00000C5C_15a70132:
 
-    # rs_character_53FF68C192E3494AB005C1909579AFFB "哦呀哦呀，如奥村桑这样的人居然都看不透我的感情。{w}\n{nw}"
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "哦呀哦呀，如奥村同学这样的人居然都看不透我的感情。{w}\n{nw}"
     rs_character_53FF68C192E3494AB005C1909579AFFB ""
 
 # game/content/file_00000C24.rpy:704
@@ -501,7 +501,7 @@ translate english block_00000C44_2755f1a3:
 # game/content/file_00000C24.rpy:2075
 translate english block_00000C44_301a15a0:
 
-    # rs_character_8D9249CA1389416BAF6A122851E276D0 "嗯，{w}这都是多亏\n{color=#008080}奥村桑在背后推了我一把{/color}呢。{nw}"
+    # rs_character_8D9249CA1389416BAF6A122851E276D0 "嗯，{w}这都是多亏\n{color=#008080}奥村同学在背后推了我一把{/color}呢。{nw}"
     rs_character_8D9249CA1389416BAF6A122851E276D0 ""
 
 # game/content/file_00000C24.rpy:2084
@@ -809,4 +809,24 @@ translate english block_00000CE0_2d8700d1:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『试着去倾听朋友们的烦恼。』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+
+# TODO: Translation updated at 2018-01-28 10:10
+
+# game/content/file_00000C24.rpy:602
+translate english block_000023F2_3ee096af:
+
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "明白了。{w}\n奥村同学，感谢一直为我们提供情报。"
+    rs_character_53FF68C192E3494AB005C1909579AFFB ""
+
+# game/content/file_00000C24.rpy:700
+translate english block_00000C5C_2229491a:
+
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "哦呀哦呀，如奥村同学这样的人居然都看不透我的感情。{w}\n{nw}"
+    rs_character_53FF68C192E3494AB005C1909579AFFB ""
+
+# game/content/file_00000C24.rpy:2075
+translate english block_00000C44_f25abdc2:
+
+    # rs_character_8D9249CA1389416BAF6A122851E276D0 "嗯，{w}这都是多亏\n{color=#008080}奥村同学在背后推了我一把{/color}呢。{nw}"
+    rs_character_8D9249CA1389416BAF6A122851E276D0 ""
 

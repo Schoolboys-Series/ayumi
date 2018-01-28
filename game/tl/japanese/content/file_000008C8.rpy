@@ -1245,7 +1245,7 @@ translate japanese block_0000250F_ee2b6fac:
 # game/content/file_000008C8.rpy:5166
 translate japanese block_00002517_0d58167a:
 
-    # rs_character_53FF68C192E3494AB005C1909579AFFB "森海桑，请处理一下这个。{w}\n内容是验证“厕所的花子君”的真伪。"
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "森海同学，请处理一下这个。{w}\n内容是验证“厕所的花子君”的真伪。"
     rs_character_53FF68C192E3494AB005C1909579AFFB ""
 
 # game/content/file_000008C8.rpy:5171
@@ -4321,4 +4321,12 @@ translate japanese strings:
     # content\file_000008C8.rpy:7288
     old "三楼走廊"
     new ""
+
+# TODO: Translation updated at 2018-01-28 10:11
+
+# game/content/file_000008C8.rpy:5166
+translate japanese block_00002517_3e26d75e:
+
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "森海同学，请处理一下这个。{w}\n内容是验证“厕所的花子君”的真伪。"
+    rs_character_53FF68C192E3494AB005C1909579AFFB ""
 

@@ -93,7 +93,7 @@ translate japanese block_00001B3E_d3d3930b:
 # game/content/file_00001B1C.rpy:911
 translate japanese block_00001B3E_06462c01:
 
-    # extend "晚上好，森海友桑。"
+    # extend "晚上好，森海友同学。"
     extend ""
 
 # game/content/file_00001B1C.rpy:921
@@ -141,7 +141,7 @@ translate japanese block_00001B3E_3fcb1304:
 # game/content/file_00001B1C.rpy:974
 translate japanese block_00001B3E_3657ba7f:
 
-    # extend "这么说很突然，但森海桑，\n我有件事需要你帮忙。"
+    # extend "这么说很突然，但森海同学，\n我有件事需要你帮忙。"
     extend ""
 
 # game/content/file_00001B1C.rpy:979
@@ -479,4 +479,18 @@ translate japanese block_00001B6D_3ce3b464:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "快点去学校拿回卷子！"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+
+# TODO: Translation updated at 2018-01-28 10:11
+
+# game/content/file_00001B1C.rpy:911
+translate japanese block_00001B3E_4edc8b0f:
+
+    # extend "晚上好，森海友同学。"
+    extend ""
+
+# game/content/file_00001B1C.rpy:974
+translate japanese block_00001B3E_761b0c0c:
+
+    # extend "这么说很突然，但森海同学，\n我有件事需要你帮忙。"
+    extend ""
 

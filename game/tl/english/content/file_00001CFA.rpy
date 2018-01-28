@@ -129,7 +129,7 @@ translate english block_00001D24_6d1745a0:
 # game/content/file_00001CFA.rpy:825
 translate english block_00001D24_72ee7006:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "慎、慎太郎桑！？\n{w=0.55}{nw}"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "慎、慎太郎前辈！？\n{w=0.55}{nw}"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_00001CFA.rpy:833
@@ -195,7 +195,7 @@ translate english block_00001D24_d94c886d:
 # game/content/file_00001CFA.rpy:914
 translate english block_00001D24_02674014:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "果然敌不过慎太郎桑呐……"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "果然敌不过慎太郎前辈呐……"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_00001CFA.rpy:923
@@ -433,4 +433,18 @@ translate english block_00001D24_4f6be67d:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "哦哦——！！好萌——！！\n夕阳酱，现在这样子得分很高哦！{w}\n{nw}"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
+
+# TODO: Translation updated at 2018-01-28 10:10
+
+# game/content/file_00001CFA.rpy:825
+translate english block_00001D24_495c8555:
+
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "慎、慎太郎前辈！？\n{w=0.55}{nw}"
+    rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
+
+# game/content/file_00001CFA.rpy:914
+translate english block_00001D24_a5348545:
+
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "果然敌不过慎太郎前辈呐……"
+    rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 

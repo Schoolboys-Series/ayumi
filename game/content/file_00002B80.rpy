@@ -1025,7 +1025,7 @@ label block_00002BDF:
     show rs_image_A2F50214C9D84034952E4F0FE1191A94 as tag_F12981B3CF794DEA86CFB94275B48CFB at center_bottom zorder zorder_tag_F12981B3CF794DEA86CFB94275B48CFB onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_53FF68C192E3494AB005C1909579AFFB "部长，委托的对象不是\n[persistent.LastName]桑是森海桑才对吧？"
+    rs_character_53FF68C192E3494AB005C1909579AFFB "部长，委托的对象不是\n[persistent.LastName]桑是森海同学才对吧？"
 
     hide tag_F12981B3CF794DEA86CFB94275B48CFB
     with rs_effect_351A8A667ECF419EB1A052B06E597A01

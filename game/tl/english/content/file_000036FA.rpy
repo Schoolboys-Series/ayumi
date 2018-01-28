@@ -765,7 +765,7 @@ translate english block_000036FE_50ab583f:
 # game/content/file_000036FA.rpy:1104
 translate english block_000036FE_089582e6:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "那、那个啊～雪绪桑，这到底是怎么回事……？"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "那、那个啊～雪绪同学，这到底是怎么回事……？"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000036FA.rpy:1106
@@ -891,7 +891,7 @@ translate english block_000036FE_3f76b994:
 # game/content/file_000036FA.rpy:1237
 translate english block_000036FE_f737bb31:
 
-    # rs_character_7009C1117C004F51829614A203C67DE7 "四朗总是把喜欢作哉桑挂在嘴边，那究竟是什么意义的喜欢？"
+    # rs_character_7009C1117C004F51829614A203C67DE7 "四朗总是把喜欢作哉前辈挂在嘴边，那究竟是什么意义的喜欢？"
     rs_character_7009C1117C004F51829614A203C67DE7 ""
 
 # game/content/file_000036FA.rpy:1242
@@ -1047,7 +1047,7 @@ translate english block_000036FE_9ec0cb33:
 # game/content/file_000036FA.rpy:1431
 translate english block_000036FE_0c826df5:
 
-    # rs_character_7009C1117C004F51829614A203C67DE7 "作哉桑养的狗和某人同名，而且前辈只是在说狗的事情。"
+    # rs_character_7009C1117C004F51829614A203C67DE7 "作哉前辈养的狗和某人同名，而且前辈只是在说狗的事情。"
     rs_character_7009C1117C004F51829614A203C67DE7 ""
 
 # game/content/file_000036FA.rpy:1433
@@ -1161,7 +1161,7 @@ translate english block_000036FE_03fe0ef1:
 # game/content/file_000036FA.rpy:1643
 translate english block_000036FE_77c0e3ef:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "呜哇！？翼、翼桑？"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "呜哇！？翼、翼前辈？"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000036FA.rpy:1648
@@ -1311,7 +1311,7 @@ translate english block_000036FE_990d5f2a_3:
 # game/content/file_000036FA.rpy:1819
 translate english block_000036FE_b4840b81:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼桑！我就直说了，你和穗海作哉前辈是什么关系？"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼前辈！我就直说了，你和穗海作哉前辈是什么关系？"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000036FA.rpy:1824
@@ -1485,7 +1485,7 @@ translate english block_000036FE_de78a190:
 # game/content/file_000036FA.rpy:2188
 translate english block_000036FE_f0bedd12:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "（算了。今天就当是在翼桑这里学习如何更像狗一点好了。）"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "（算了。今天就当是在翼前辈这里学习如何更像狗一点好了。）"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000036FA.rpy:2200
@@ -1557,7 +1557,7 @@ translate english block_00003AF8_97772e15:
 # game/content/file_000036FA.rpy:2370
 translate english block_00003AF8_5c58e517:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "等等，翼桑！？"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "等等，翼前辈！？"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000036FA.rpy:2399
@@ -1629,7 +1629,7 @@ translate english block_00003AF8_14a56371:
 # game/content/file_000036FA.rpy:2495
 translate english block_00003AF8_1a1dea5a:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "那些孩子好像是我们学校低年级的。{w}\n翼桑认识的人还真是多呐。"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "那些孩子好像是我们学校低年级的。{w}\n翼前辈认识的人还真是多呐。"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000036FA.rpy:2512
@@ -1803,7 +1803,7 @@ translate english block_00003AF8_5c0e00fc:
 # game/content/file_000036FA.rpy:2765
 translate english block_00003AF8_e4e2a0fa:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼桑，从来公园开始精神年龄便急速下跌了……{w}\n真有这么高兴……"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼前辈，从来公园开始精神年龄便急速下跌了……{w}\n真有这么高兴……"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000036FA.rpy:2776
@@ -1989,7 +1989,7 @@ translate english block_00003AF8_ebf1b130:
 # game/content/file_000036FA.rpy:3040
 translate english block_00003AF8_7688fb2d:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "……翼桑这么说的话，一定就是那样了。"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "……翼前辈这么说的话，一定就是那样了。"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000036FA.rpy:3056
@@ -2175,7 +2175,7 @@ translate english block_00003AF8_66c4a516:
 # game/content/file_000036FA.rpy:3310
 translate english block_00003AF8_c6dc5dcd:
 
-    # extend "啊，翼桑！等等！"
+    # extend "啊，翼前辈！等等！"
     extend ""
 
 # game/content/file_000036FA.rpy:3315
@@ -2391,7 +2391,7 @@ translate english block_00003AF8_3daffb95:
 # game/content/file_000036FA.rpy:3563
 translate english block_00003AF8_3a274f60:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼、翼桑！不要太勉强比较好！"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼、翼前辈！不要太勉强比较好！"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000036FA.rpy:3565
@@ -2547,7 +2547,7 @@ translate english block_00003AF8_3a93dc89:
 # game/content/file_000036FA.rpy:3664
 translate english block_00003AF8_1cda5646:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "这都是拜南君和小林君，以及翼桑邀请的福。"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "这都是拜南君和小林君，以及翼前辈邀请的福。"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000036FA.rpy:3666
@@ -2589,7 +2589,7 @@ translate english block_00003AF8_3c1245ca:
 # game/content/file_000036FA.rpy:3682
 translate english block_00003AF8_30190486:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "嗯？什么意思？翼桑。"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "嗯？什么意思？翼前辈。"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000036FA.rpy:3684
@@ -2631,7 +2631,7 @@ translate english block_00003AF8_acb6ee49:
 # game/content/file_000036FA.rpy:3746
 translate english block_00003AF8_324963ef:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼桑，从刚才开始就一直心神不宁的样子，发生什么了？"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼前辈，从刚才开始就一直心神不宁的样子，发生什么了？"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000036FA.rpy:3751
@@ -2721,7 +2721,7 @@ translate english block_00003AF8_6e981492:
 # game/content/file_000036FA.rpy:3840
 translate english block_00003AF8_e98383a2:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "那个下次再说。\n今天谢谢了！真的很高兴哦！对不对，翼桑。"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "那个下次再说。\n今天谢谢了！真的很高兴哦！对不对，翼前辈。"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000036FA.rpy:3849
@@ -2745,7 +2745,7 @@ translate english block_00003AF8_d7be1635:
 # game/content/file_000036FA.rpy:3873
 translate english block_00003AF8_d7ea281e:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "那么我们也该走了，翼桑。"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "那么我们也该走了，翼前辈。"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000036FA.rpy:3875
@@ -2769,7 +2769,7 @@ translate english block_00003AF8_046874a9:
 # game/content/file_000036FA.rpy:3886
 translate english block_00003AF8_f07ae3d4:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼桑还是做好会有一点痛的心理准备比较好……"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼前辈还是做好会有一点痛的心理准备比较好……"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000036FA.rpy:3900
@@ -2793,7 +2793,7 @@ translate english block_00003AF8_e1f385a7_4:
 # game/content/file_000036FA.rpy:3919
 translate english block_00003AF8_4c2bd944:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼桑的话一定可以的。"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼前辈的话一定可以的。"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000036FA.rpy:3956
@@ -2997,7 +2997,7 @@ translate english block_00003AF7_c470eca9:
 # game/content/file_000036FA.rpy:4251
 translate english block_00003AF7_bf46e255:
 
-    # extend "翼桑？"
+    # extend "翼前辈？"
     extend ""
 
 # game/content/file_000036FA.rpy:4259
@@ -3021,7 +3021,7 @@ translate english block_00003AF7_13eb0f29:
 # game/content/file_000036FA.rpy:4286
 translate english block_00003AF7_59159a45:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼桑，翼桑。"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼前辈，翼前辈。"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000036FA.rpy:4295
@@ -3057,7 +3057,7 @@ translate english block_00003AF7_8e3113ab:
 # game/content/file_000036FA.rpy:4305
 translate english block_00003AF7_5121eb06:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼桑，洗澡！身体会冷下来的。"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼前辈，洗澡！身体会冷下来的。"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000036FA.rpy:4316
@@ -3099,7 +3099,7 @@ translate english block_00003AF7_975ea064:
 # game/content/file_000036FA.rpy:4355
 translate english block_00003AF7_603e4934:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼、翼桑，很重的。起来，快起来……"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼、翼前辈，很重的。起来，快起来……"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000036FA.rpy:4357
@@ -3129,7 +3129,7 @@ translate english block_00003AF7_9f02f145:
 # game/content/file_000036FA.rpy:4390
 translate english block_00003AF7_f01af404:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "等……快停下！不、不要舔我！翼桑！"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "等……快停下！不、不要舔我！翼前辈！"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000036FA.rpy:4392
@@ -3141,7 +3141,7 @@ translate english block_00003AF7_ace70484:
 # game/content/file_000036FA.rpy:4394
 translate english block_00003AF7_d9ba4a3a:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "那、那是要和喜欢的人做的！我、我对翼桑没有……"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "那、那是要和喜欢的人做的！我、我对翼前辈没有……"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000036FA.rpy:4396
@@ -3177,7 +3177,7 @@ translate english block_00003AF7_e097886e:
 # game/content/file_000036FA.rpy:4409
 translate english block_00003AF7_7c853ab8:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "不、不要！都说了这只能和喜欢的人做！\n翼桑是喜欢穗海前辈的对不对？"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "不、不要！都说了这只能和喜欢的人做！\n翼前辈是喜欢穗海前辈的对不对？"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000036FA.rpy:4411
@@ -3255,7 +3255,7 @@ translate english block_00003AF7_3bc876cb:
 # game/content/file_000036FA.rpy:4444
 translate english block_00003AF7_174b352b:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "算了，至于翼桑究竟是狗还是什么，很快就能明白了……"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "算了，至于翼前辈究竟是狗还是什么，很快就能明白了……"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000036FA.rpy:4446
@@ -3591,7 +3591,7 @@ translate english block_00003AF7_bd8c155a:
 # game/content/file_000036FA.rpy:4823
 translate english block_00003AF7_17473516:
 
-    # extend "那么，在穗海桑和三朗哥来之前，\n找个地方打发时间好了。"
+    # extend "那么，在穗海前辈和三朗哥来之前，\n找个地方打发时间好了。"
     extend ""
 
 # game/content/file_000036FA.rpy:4906
@@ -3809,4 +3809,174 @@ translate english strings:
     # content\file_000036FA.rpy:26
     old "「不可思议！猫狗物语」"
     new ""
+
+# TODO: Translation updated at 2018-01-28 10:10
+
+# game/content/file_000036FA.rpy:1104
+translate english block_000036FE_fd0ecb72:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "那、那个啊～雪绪同学，这到底是怎么回事……？"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_000036FA.rpy:1237
+translate english block_000036FE_4d0271f3:
+
+    # rs_character_7009C1117C004F51829614A203C67DE7 "四朗总是把喜欢作哉前辈挂在嘴边，那究竟是什么意义的喜欢？"
+    rs_character_7009C1117C004F51829614A203C67DE7 ""
+
+# game/content/file_000036FA.rpy:1431
+translate english block_000036FE_569b56df:
+
+    # rs_character_7009C1117C004F51829614A203C67DE7 "作哉前辈养的狗和某人同名，而且前辈只是在说狗的事情。"
+    rs_character_7009C1117C004F51829614A203C67DE7 ""
+
+# game/content/file_000036FA.rpy:1643
+translate english block_000036FE_cfad62f3:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "呜哇！？翼、翼前辈？"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_000036FA.rpy:1819
+translate english block_000036FE_1a22ca00:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼前辈！我就直说了，你和穗海作哉前辈是什么关系？"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_000036FA.rpy:2188
+translate english block_000036FE_49bb53f1:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "（算了。今天就当是在翼前辈这里学习如何更像狗一点好了。）"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_000036FA.rpy:2370
+translate english block_00003AF8_ca81dc86:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "等等，翼前辈！？"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_000036FA.rpy:2495
+translate english block_00003AF8_244c1bef:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "那些孩子好像是我们学校低年级的。{w}\n翼前辈认识的人还真是多呐。"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_000036FA.rpy:2765
+translate english block_00003AF8_fe1dbff3:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼前辈，从来公园开始精神年龄便急速下跌了……{w}\n真有这么高兴……"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_000036FA.rpy:3040
+translate english block_00003AF8_80eef2f5:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "……翼前辈这么说的话，一定就是那样了。"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_000036FA.rpy:3310
+translate english block_00003AF8_c87c3395:
+
+    # extend "啊，翼前辈！等等！"
+    extend ""
+
+# game/content/file_000036FA.rpy:3563
+translate english block_00003AF8_be95dace:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼、翼前辈！不要太勉强比较好！"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_000036FA.rpy:3664
+translate english block_00003AF8_089c75e2:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "这都是拜南君和小林君，以及翼前辈邀请的福。"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_000036FA.rpy:3682
+translate english block_00003AF8_9d80c233:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "嗯？什么意思？翼前辈。"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_000036FA.rpy:3746
+translate english block_00003AF8_67d87975:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼前辈，从刚才开始就一直心神不宁的样子，发生什么了？"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_000036FA.rpy:3840
+translate english block_00003AF8_1f7a598b:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "那个下次再说。\n今天谢谢了！真的很高兴哦！对不对，翼前辈。"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_000036FA.rpy:3873
+translate english block_00003AF8_35bb8158:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "那么我们也该走了，翼前辈。"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_000036FA.rpy:3886
+translate english block_00003AF8_abdc4bda:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼前辈还是做好会有一点痛的心理准备比较好……"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_000036FA.rpy:3919
+translate english block_00003AF8_ba500c2c:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼前辈的话一定可以的。"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_000036FA.rpy:4251
+translate english block_00003AF7_bef570e1:
+
+    # extend "翼前辈？"
+    extend ""
+
+# game/content/file_000036FA.rpy:4286
+translate english block_00003AF7_03196b8c:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼前辈，翼前辈。"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_000036FA.rpy:4305
+translate english block_00003AF7_c77c221f:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼前辈，洗澡！身体会冷下来的。"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_000036FA.rpy:4355
+translate english block_00003AF7_739aaf5a:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼、翼前辈，很重的。起来，快起来……"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_000036FA.rpy:4390
+translate english block_00003AF7_2e67fc2e:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "等……快停下！不、不要舔我！翼前辈！"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_000036FA.rpy:4394
+translate english block_00003AF7_d97d42a1:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "那、那是要和喜欢的人做的！我、我对翼前辈没有……"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_000036FA.rpy:4409
+translate english block_00003AF7_d1df52fb:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "不、不要！都说了这只能和喜欢的人做！\n翼前辈是喜欢穗海前辈的对不对？"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_000036FA.rpy:4444
+translate english block_00003AF7_4fbdf909:
+
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "算了，至于翼前辈究竟是狗还是什么，很快就能明白了……"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
+
+# game/content/file_000036FA.rpy:4823
+translate english block_00003AF7_a4076aba:
+
+    # extend "那么，在穗海前辈和三朗哥来之前，\n找个地方打发时间好了。"
+    extend ""
 

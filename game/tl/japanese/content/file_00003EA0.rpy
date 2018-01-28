@@ -1599,7 +1599,7 @@ translate japanese block_00003EA4_80d57e17:
 # game/content/file_00003EA0.rpy:3425
 translate japanese block_00003EA4_7c1409d0:
 
-    # rs_character_7009C1117C004F51829614A203C67DE7 "作哉桑，一直不说话呢，怎么回事？"
+    # rs_character_7009C1117C004F51829614A203C67DE7 "作哉前辈，一直不说话呢，怎么回事？"
     rs_character_7009C1117C004F51829614A203C67DE7 ""
 
 # game/content/file_00003EA0.rpy:3430
@@ -2415,7 +2415,7 @@ translate japanese block_00003EA4_20fda86b:
 # game/content/file_00003EA0.rpy:4962
 translate japanese block_00003EA4_40a680c5:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "绫、绫濑桑……"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "绫、绫濑同学……"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00003EA0.rpy:4975
@@ -2577,7 +2577,7 @@ translate japanese block_00003EA4_8386cf7a:
 # game/content/file_00003EA0.rpy:5345
 translate japanese block_00003EA4_7c1f551d:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "哈……哈……之前从常磐桑那里得到的。绫、绫濑君说起“底牌”时突然想到……"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "哈……哈……之前从常磐前辈那里得到的。绫、绫濑君说起“底牌”时突然想到……"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00003EA0.rpy:5351
@@ -3551,4 +3551,24 @@ translate japanese strings:
     # content\file_00003EA0.rpy:6818
     old "我来接你了哦\n九尾"
     new ""
+
+# TODO: Translation updated at 2018-01-28 10:11
+
+# game/content/file_00003EA0.rpy:3425
+translate japanese block_00003EA4_f06b211c:
+
+    # rs_character_7009C1117C004F51829614A203C67DE7 "作哉前辈，一直不说话呢，怎么回事？"
+    rs_character_7009C1117C004F51829614A203C67DE7 ""
+
+# game/content/file_00003EA0.rpy:4962
+translate japanese block_00003EA4_90532fca:
+
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "绫、绫濑同学……"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
+
+# game/content/file_00003EA0.rpy:5345
+translate japanese block_00003EA4_90c0d11b:
+
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "哈……哈……之前从常磐前辈那里得到的。绫、绫濑君说起“底牌”时突然想到……"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 

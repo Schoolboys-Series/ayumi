@@ -51,7 +51,7 @@ translate english block_00003B12_3cb12783:
 # game/content/file_00003B10.rpy:153
 translate english block_00003B12_cc89fb80:
 
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "在听人说话嘛吗奥村桑？"
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "在听人说话嘛吗奥村同学？"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00003B10.rpy:162
@@ -2145,4 +2145,12 @@ translate english strings:
     # content\file_00003B10.rpy:3332
     old "彼此彼此……请多多指教了"
     new ""
+
+# TODO: Translation updated at 2018-01-28 10:10
+
+# game/content/file_00003B10.rpy:153
+translate english block_00003B12_86f7ff4f:
+
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "在听人说话嘛吗奥村同学？"
+    rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 

@@ -1917,7 +1917,7 @@ translate english block_000024BF_68589ad6:
 # game/content/file_000001B0.rpy:4954
 translate english block_000024BF_3e3aed57:
 
-    # rs_character_53FF68C192E3494AB005C1909579AFFB "不要激动，森海桑。\n这次非常感谢，{w}来，这是报酬。"
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "不要激动，森海同学。\n这次非常感谢，{w}来，这是报酬。"
     rs_character_53FF68C192E3494AB005C1909579AFFB ""
 
 # game/content/file_000001B0.rpy:4981
@@ -5199,4 +5199,12 @@ translate english strings:
     # content\file_000001B0.rpy:9261
     old "要弹钢琴么？"
     new ""
+
+# TODO: Translation updated at 2018-01-28 10:10
+
+# game/content/file_000001B0.rpy:4954
+translate english block_000024BF_4dfb7045:
+
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "不要激动，森海同学。\n这次非常感谢，{w}来，这是报酬。"
+    rs_character_53FF68C192E3494AB005C1909579AFFB ""
 

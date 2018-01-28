@@ -777,13 +777,13 @@ translate japanese block_00003BAE_95cb76c3:
 # game/content/file_00003BAC.rpy:1513
 translate japanese block_00003BAE_a6985c01:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "啊，朔桑……？"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "啊，朔同学……？"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00003BAC.rpy:1519
 translate japanese block_00003BAE_20c3d6d7:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "这可真是这可真是，你好，忍桑。奇遇呐，没想到会在这里相见。"
+    # rs_character_62324AD297554FE987C680452CEE232E "这可真是这可真是，你好，忍同学。奇遇呐，没想到会在这里相见。"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00003BAC.rpy:1535
@@ -837,7 +837,7 @@ translate japanese block_00003BAE_e18b39c6:
 # game/content/file_00003BAC.rpy:1617
 translate japanese block_00003BAE_109d30bb:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "啊，嗯。这个人是朔桑，比我们小一岁。"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "啊，嗯。这个人是朔同学，比我们小一岁。"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00003BAC.rpy:1619
@@ -873,13 +873,13 @@ translate japanese block_00003BAE_9cc773b2:
 # game/content/file_00003BAC.rpy:1679
 translate japanese block_00003BAE_026ecbad:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "就像这样一直都不得安宁很烦人呐。\n果然和朔桑一样的人一起的话更轻松一些。"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "就像这样一直都不得安宁很烦人呐。\n果然和朔同学一样的人一起的话更轻松一些。"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00003BAC.rpy:1681
 translate japanese block_00003BAE_e1bfba24:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "我也是，下次两人单独去喝个茶如何，忍桑。"
+    # rs_character_62324AD297554FE987C680452CEE232E "我也是，下次两人单独去喝个茶如何，忍同学。"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00003BAC.rpy:1704
@@ -1101,7 +1101,7 @@ translate japanese block_00003C0E_4a5763f0:
 # game/content/file_00003BAC.rpy:2058
 translate japanese block_00003C0E_69cc4c0e:
 
-    # rs_character_57471360F48A413AB843A4E46D8C5541 "不过话说回来，夕阳那家伙真是容易明白。\n见到朔桑后马上就黏上去了。"
+    # rs_character_57471360F48A413AB843A4E46D8C5541 "不过话说回来，夕阳那家伙真是容易明白。\n见到朔同学后马上就黏上去了。"
     rs_character_57471360F48A413AB843A4E46D8C5541 ""
 
 # game/content/file_00003BAC.rpy:2067
@@ -2289,7 +2289,7 @@ translate japanese block_00003C18_0c63df05:
 # game/content/file_00003BAC.rpy:4310
 translate japanese block_00003C18_5825d5d5:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "非常感谢。{w}说起来，一之濑桑和森海桑关系很好呐。"
+    # rs_character_62324AD297554FE987C680452CEE232E "非常感谢。{w}说起来，一之濑同学和森海同学关系很好呐。"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00003BAC.rpy:4319
@@ -2301,7 +2301,7 @@ translate japanese block_00003C18_2cc47bf2:
 # game/content/file_00003BAC.rpy:4332
 translate japanese block_00003C18_341b2917:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "今天早上，在听到森海桑的东西被借出去后，\n露出了无比悔恨的表情呢，我很在意这个。"
+    # rs_character_62324AD297554FE987C680452CEE232E "今天早上，在听到森海同学的东西被借出去后，\n露出了无比悔恨的表情呢，我很在意这个。"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00003BAC.rpy:4337
@@ -2397,13 +2397,13 @@ translate japanese block_00003C18_cb93a239:
 # game/content/file_00003BAC.rpy:4456
 translate japanese block_00003C18_885c060f:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "同感。赤峰桑他们的事或许和我们正在调查的事也有关。"
+    # rs_character_62324AD297554FE987C680452CEE232E "同感。赤峰同学他们的事或许和我们正在调查的事也有关。"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00003BAC.rpy:4461
 translate japanese block_00003C18_bd0e55b5:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "一之濑桑也请和我们一起回去。"
+    # rs_character_62324AD297554FE987C680452CEE232E "一之濑同学也请和我们一起回去。"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00003BAC.rpy:4471
@@ -2529,7 +2529,7 @@ translate japanese block_00003C18_bd48bc47:
 # game/content/file_00003BAC.rpy:4662
 translate japanese block_00003C18_554cf60d:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "这个想法很好。只要忍桑能留在这里我就安心了。"
+    # rs_character_62324AD297554FE987C680452CEE232E "这个想法很好。只要忍同学能留在这里我就安心了。"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00003BAC.rpy:4674
@@ -2817,7 +2817,7 @@ translate japanese block_00003C22_2a62d52c:
 # game/content/file_00003BAC.rpy:5380
 translate japanese block_00003C22_de8ba0be:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "同意。也很担心绫濑桑他们……"
+    # rs_character_62324AD297554FE987C680452CEE232E "同意。也很担心绫濑同学他们……"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00003BAC.rpy:5402
@@ -3159,7 +3159,7 @@ translate japanese block_00003C22_767b855c:
 # game/content/file_00003BAC.rpy:6153
 translate japanese block_00003C22_cc282043:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "那个人显出身姿是在抓获绫濑桑几分钟后。\n所以不可能藏到很远的地方去。"
+    # rs_character_62324AD297554FE987C680452CEE232E "那个人显出身姿是在抓获绫濑同学几分钟后。\n所以不可能藏到很远的地方去。"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00003BAC.rpy:6176
@@ -3585,7 +3585,7 @@ translate japanese block_00003C23_cdd24bba:
 # game/content/file_00003BAC.rpy:6924
 translate japanese block_00003C23_7a7d3af6:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "当然可以。森海桑一直是和我们分头行动的，\n将情报集中到一起会很有用的。"
+    # rs_character_62324AD297554FE987C680452CEE232E "当然可以。森海同学一直是和我们分头行动的，\n将情报集中到一起会很有用的。"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00003BAC.rpy:6933
@@ -4319,4 +4319,90 @@ translate japanese block_00003C18_06ba5d8c:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不行的哦阿夕——！！这种时候才必须依靠前辈们的力量！"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
+
+# TODO: Translation updated at 2018-01-28 10:11
+
+# game/content/file_00003BAC.rpy:1513
+translate japanese block_00003BAE_7d4163b0:
+
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "啊，朔同学……？"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
+
+# game/content/file_00003BAC.rpy:1519
+translate japanese block_00003BAE_03d383f3:
+
+    # rs_character_62324AD297554FE987C680452CEE232E "这可真是这可真是，你好，忍同学。奇遇呐，没想到会在这里相见。"
+    rs_character_62324AD297554FE987C680452CEE232E ""
+
+# game/content/file_00003BAC.rpy:1617
+translate japanese block_00003BAE_deea2531:
+
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "啊，嗯。这个人是朔同学，比我们小一岁。"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
+
+# game/content/file_00003BAC.rpy:1679
+translate japanese block_00003BAE_b5646342:
+
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "就像这样一直都不得安宁很烦人呐。\n果然和朔同学一样的人一起的话更轻松一些。"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
+
+# game/content/file_00003BAC.rpy:1681
+translate japanese block_00003BAE_f3291337:
+
+    # rs_character_62324AD297554FE987C680452CEE232E "我也是，下次两人单独去喝个茶如何，忍同学。"
+    rs_character_62324AD297554FE987C680452CEE232E ""
+
+# game/content/file_00003BAC.rpy:2058
+translate japanese block_00003C0E_0f87b47c:
+
+    # rs_character_57471360F48A413AB843A4E46D8C5541 "不过话说回来，夕阳那家伙真是容易明白。\n见到朔同学后马上就黏上去了。"
+    rs_character_57471360F48A413AB843A4E46D8C5541 ""
+
+# game/content/file_00003BAC.rpy:4310
+translate japanese block_00003C18_003bea95:
+
+    # rs_character_62324AD297554FE987C680452CEE232E "非常感谢。{w}说起来，一之濑同学和森海同学关系很好呐。"
+    rs_character_62324AD297554FE987C680452CEE232E ""
+
+# game/content/file_00003BAC.rpy:4332
+translate japanese block_00003C18_46080b7f:
+
+    # rs_character_62324AD297554FE987C680452CEE232E "今天早上，在听到森海同学的东西被借出去后，\n露出了无比悔恨的表情呢，我很在意这个。"
+    rs_character_62324AD297554FE987C680452CEE232E ""
+
+# game/content/file_00003BAC.rpy:4456
+translate japanese block_00003C18_a1adf5ba:
+
+    # rs_character_62324AD297554FE987C680452CEE232E "同感。赤峰同学他们的事或许和我们正在调查的事也有关。"
+    rs_character_62324AD297554FE987C680452CEE232E ""
+
+# game/content/file_00003BAC.rpy:4461
+translate japanese block_00003C18_c73b3fbb:
+
+    # rs_character_62324AD297554FE987C680452CEE232E "一之濑同学也请和我们一起回去。"
+    rs_character_62324AD297554FE987C680452CEE232E ""
+
+# game/content/file_00003BAC.rpy:4662
+translate japanese block_00003C18_b42c66ab:
+
+    # rs_character_62324AD297554FE987C680452CEE232E "这个想法很好。只要忍同学能留在这里我就安心了。"
+    rs_character_62324AD297554FE987C680452CEE232E ""
+
+# game/content/file_00003BAC.rpy:5380
+translate japanese block_00003C22_a1a6e4a7:
+
+    # rs_character_62324AD297554FE987C680452CEE232E "同意。也很担心绫濑同学他们……"
+    rs_character_62324AD297554FE987C680452CEE232E ""
+
+# game/content/file_00003BAC.rpy:6153
+translate japanese block_00003C22_97aa4b21:
+
+    # rs_character_62324AD297554FE987C680452CEE232E "那个人显出身姿是在抓获绫濑同学几分钟后。\n所以不可能藏到很远的地方去。"
+    rs_character_62324AD297554FE987C680452CEE232E ""
+
+# game/content/file_00003BAC.rpy:6924
+translate japanese block_00003C23_24142e08:
+
+    # rs_character_62324AD297554FE987C680452CEE232E "当然可以。森海同学一直是和我们分头行动的，\n将情报集中到一起会很有用的。"
+    rs_character_62324AD297554FE987C680452CEE232E ""
 

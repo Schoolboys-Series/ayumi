@@ -963,7 +963,7 @@ label block_000027B8:
     show rs_image_41A84CEAB4B9488D918E907B63CC8E1A as tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 zorder zorder_tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "森海前辈好。其实直到刚才\n一直和翼桑在一起，不过走散了……"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "森海前辈好。其实直到刚才\n一直和翼前辈在一起，不过走散了……"
 
     if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
@@ -1004,7 +1004,7 @@ label block_000027B8:
     show rs_image_783A06C8ED3C44E89BF1C17E4D55DB5E as tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 zorder zorder_tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "欸——不对正相反！{w}\n翼桑是那种喜欢打闹元气满满\n的小狗的感觉才对。"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "欸——不对正相反！{w}\n翼前辈是那种喜欢打闹元气满满\n的小狗的感觉才对。"
 
     if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
@@ -4463,7 +4463,7 @@ label block_000027C4:
     show rs_image_107F1D49D8E64904B63165A87DBFC26D as tag_26CE4420E4BF43ADBA4E35F2A9784E98 at center_bottom zorder zorder_tag_26CE4420E4BF43ADBA4E35F2A9784E98 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "（哦？{color=#0080FF}杉本桑{/color}居然在那里。{w}\n还有一个大叔……）"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "（哦？{color=#0080FF}杉本先生{/color}居然在那里。{w}\n还有一个大叔……）"
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "（……难道……{w}\n不不不，怎么可能。\n肯定是经理或者什么人。）"
 
@@ -4652,7 +4652,7 @@ label block_000027C7:
     hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "说得对——听我说哦～友桑♪"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "说得对——听我说哦～友同学♪"
 
     if sys_effect2_current_file != "sound/Effect Sound/Look! 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Look! 1.ogg" noloop
@@ -4829,7 +4829,7 @@ label block_000027C2:
     show rs_image_4B9533E6E39449D886CFE2CAC3DC64DA as tag_E0B8A219896B49168D47409135D3624F zorder zorder_tag_E0B8A219896B49168D47409135D3624F onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "啊，友桑。"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "啊，友同学。"
 
     show rs_image_3D1658550AAD4B23B72B22E477CAE581 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01

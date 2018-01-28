@@ -1347,7 +1347,7 @@ translate english block_0000257A_d43fbe01:
 # game/content/file_00000A20.rpy:4883
 translate english block_0000257A_d41b7cd6:
 
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "这、这种小事不用告诉友桑的，笨蛋杉本！"
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "这、这种小事不用告诉友同学的，笨蛋杉本！"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
 
 # game/content/file_00000A20.rpy:4892
@@ -1395,7 +1395,7 @@ translate english block_00002579_7875611b:
 # game/content/file_00000A20.rpy:4987
 translate english block_00002579_71936038:
 
-    # extend "说是这么说，\n但这是早上十点的节目。\n友桑应该没时间看。"
+    # extend "说是这么说，\n但这是早上十点的节目。\n友同学应该没时间看。"
     extend ""
 
 # game/content/file_00000A20.rpy:4992
@@ -1425,7 +1425,7 @@ translate english block_00002579_408f0df2:
 # game/content/file_00000A20.rpy:5022
 translate english block_00002579_b46f938f:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "哦～？听起来友桑好像对我们没什么兴趣呐～"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "哦～？听起来友同学好像对我们没什么兴趣呐～"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00000A20.rpy:5036
@@ -1449,7 +1449,7 @@ translate english block_00002579_31b1dc04:
 # game/content/file_00000A20.rpy:5065
 translate english block_00002579_033c5332:
 
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "停下杉本，友桑很困扰的。\n适可而止就好。"
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "停下杉本，友同学很困扰的。\n适可而止就好。"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
 
 # game/content/file_00000A20.rpy:5106
@@ -1921,4 +1921,30 @@ translate english strings:
     # content\file_00000A20.rpy:2679
     old "试着学习一下？"
     new "Try study a little?"
+
+# TODO: Translation updated at 2018-01-28 10:10
+
+# game/content/file_00000A20.rpy:4883
+translate english block_0000257A_66aa8633:
+
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "这、这种小事不用告诉友同学的，笨蛋杉本！"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
+
+# game/content/file_00000A20.rpy:4987
+translate english block_00002579_0d24ea94:
+
+    # extend "说是这么说，\n但这是早上十点的节目。\n友同学应该没时间看。"
+    extend ""
+
+# game/content/file_00000A20.rpy:5022
+translate english block_00002579_0dceff65:
+
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "哦～？听起来友同学好像对我们没什么兴趣呐～"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
+
+# game/content/file_00000A20.rpy:5065
+translate english block_00002579_c612d884:
+
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "停下杉本，友同学很困扰的。\n适可而止就好。"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
 

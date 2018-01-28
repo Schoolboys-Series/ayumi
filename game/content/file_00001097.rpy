@@ -182,7 +182,7 @@ label block_000025F3:
     show rs_image_0412D7C59F8F4DAA842AEE5AC12FB89D as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_7009C1117C004F51829614A203C67DE7 "早上好～作哉桑。"
+    rs_character_7009C1117C004F51829614A203C67DE7 "早上好～作哉前辈。"
 
     if sys_effect2_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Surprise 1.ogg" noloop
@@ -1179,7 +1179,7 @@ label block_000025F1:
     show rs_image_09DED7760EFE4B239C4CB18C936E91D7 as tag_0C07D2341065492CB0EDF00452D574E1 zorder zorder_tag_0C07D2341065492CB0EDF00452D574E1 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "那么，杉本桑，我们又回到御咲了，\n这次究竟是有什么事呢？"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "那么，杉本先生，我们又回到御咲了，\n这次究竟是有什么事呢？"
 
     show rs_image_7B65B699C52F4E6CBDB4D49A5A082D25 as tag_DFA3500588174872BA20EBF28D506BD4 zorder zorder_tag_DFA3500588174872BA20EBF28D506BD4 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01

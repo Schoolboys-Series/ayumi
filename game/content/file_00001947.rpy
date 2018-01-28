@@ -10493,7 +10493,7 @@ label block_00002799:
 
     window show
 
-    rs_character_C223850065F6443080205D1F61C04C98 "九尾桑，今天也来我这里了呢。"
+    rs_character_C223850065F6443080205D1F61C04C98 "九尾先生，今天也来我这里了呢。"
 
     pause 0.3
 
@@ -10526,7 +10526,7 @@ label block_00002799:
     show rs_image_44AB1722C8A84482A52D4E6D6159C34B as tag_4233D225ED0D43968B3A0D890F587FEB at center_top zorder zorder_tag_4233D225ED0D43968B3A0D890F587FEB onlayer master
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
-    rs_character_7009C1117C004F51829614A203C67DE7 "『别胡说了，不就是觉得常磐桑长得不错特地来看的么——』"
+    rs_character_7009C1117C004F51829614A203C67DE7 "『别胡说了，不就是觉得常磐前辈长得不错特地来看的么——』"
 
     show rs_image_1F46FB7004DE45F98059A018EE0BD1C7 as tag_4233D225ED0D43968B3A0D890F587FEB zorder zorder_tag_4233D225ED0D43968B3A0D890F587FEB onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -10624,7 +10624,7 @@ label block_00002799:
 
     rs_character_6C344A6C39F6479282A6BD884E3F8F11 "小子！应知尺度！吾乃千年未朽之……"
 
-    rs_character_C223850065F6443080205D1F61C04C98 "哦？意外很强硬呐，九尾桑。{w}\n本来听说是喜欢这样的性格，还以为没问题的。"
+    rs_character_C223850065F6443080205D1F61C04C98 "哦？意外很强硬呐，九尾先生。{w}\n本来听说是喜欢这样的性格，还以为没问题的。"
 
     if sys_effect2_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Surprise 1.ogg" noloop
@@ -10722,7 +10722,7 @@ label block_00002799:
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
-    rs_character_7009C1117C004F51829614A203C67DE7 "『常磐桑已经这么辛苦，不用继续忍耐的——！\n我只是对九尾不成器的样子很恼火罢了！』"
+    rs_character_7009C1117C004F51829614A203C67DE7 "『常磐前辈已经这么辛苦，不用继续忍耐的——！\n我只是对九尾不成器的样子很恼火罢了！』"
 
     rs_character_6C344A6C39F6479282A6BD884E3F8F11 "（哈哈。此即嫉妬。）"
 

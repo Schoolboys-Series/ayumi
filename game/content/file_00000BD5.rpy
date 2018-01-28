@@ -822,7 +822,7 @@ label block_000025EE:
     show rs_image_4DE7491D04004FC5BE18A0FEB043C1BF as tag_CC4336DE74164173AC47C2C317367F10 at center_bottom zorder zorder_tag_CC4336DE74164173AC47C2C317367F10 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_53FF68C192E3494AB005C1909579AFFB "啊，抱歉，森海桑。{w}\n这次也很感谢，请收好报酬。"
+    rs_character_53FF68C192E3494AB005C1909579AFFB "啊，抱歉，森海同学。{w}\n这次也很感谢，请收好报酬。"
 
     window hide
 

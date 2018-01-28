@@ -1584,7 +1584,7 @@ label block_0000079C:
     hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "新学期刚一开始就制造笑料了呐，友桑。{w}\n作为横扫无聊假期的新的开始再好不过了。"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "新学期刚一开始就制造笑料了呐，友同学。{w}\n作为横扫无聊假期的新的开始再好不过了。"
 
     show rs_image_3D1658550AAD4B23B72B22E477CAE581 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01

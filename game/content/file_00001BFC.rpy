@@ -450,12 +450,12 @@ label block_00003139:
 
     window show
 
-    rs_character_62324AD297554FE987C680452CEE232E "忍桑，你好。"
+    rs_character_62324AD297554FE987C680452CEE232E "忍同学，你好。"
 
     show rs_image_37DD260DB3B64875AFF0FBF4F01BD3E9 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "朔桑，你好。\n能在这种地方相遇真是巧合呢。"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "朔同学，你好。\n能在这种地方相遇真是巧合呢。"
 
     show rs_image_CD2EEFA824144E4EA57A4C040DABF455 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     show rs_image_092C4F890A874DA69A95FA3407A3732D as tag_E99970E1386B453DAF81C3AE2C72BE8E zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
@@ -809,7 +809,7 @@ label block_0000313E:
     show rs_image_9AD45D644515456B9DF8ED034B70000C as tag_E99970E1386B453DAF81C3AE2C72BE8E zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_62324AD297554FE987C680452CEE232E "忍桑，今天就在这家店怎么样？\n能在这种地方相遇也算是缘分。"
+    rs_character_62324AD297554FE987C680452CEE232E "忍同学，今天就在这家店怎么样？\n能在这种地方相遇也算是缘分。"
 
     show rs_image_63589B9FEDCC4B28BC5D20C27E07C476 as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
@@ -854,7 +854,7 @@ label block_0000313E:
     show rs_image_D02A799FE33647F393F4CCC1489912EE as tag_E99970E1386B453DAF81C3AE2C72BE8E zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_62324AD297554FE987C680452CEE232E "没什么。那我们进去好了，忍桑。"
+    rs_character_62324AD297554FE987C680452CEE232E "没什么。那我们进去好了，忍同学。"
 
     window hide
 
@@ -877,7 +877,7 @@ label block_0000313E:
 
     window show
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#80FF80}我还没能告诉朔桑Mädchen Café\n究竟是一家什么样的店就被带到了店里。{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#80FF80}我还没能告诉朔同学Mädchen Café\n究竟是一家什么样的店就被带到了店里。{/color}"
 
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#80FF80}于是……{/color}"
     if sys_effect2_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
@@ -904,7 +904,7 @@ label block_0000313E:
 
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#80FF80}嘛，总之遇到这样的展开，\n不安的气氛也都被吹飞了，结果还是好的。{/color}"
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#80FF80}朔桑一开始还不愿意，最后也终于和店长关系好了一些，\n真是太好了。{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#80FF80}朔同学一开始还不愿意，最后也终于和店长关系好了一些，\n真是太好了。{/color}"
 
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#80FF80}之后，我们就分开了。{/color}"
 

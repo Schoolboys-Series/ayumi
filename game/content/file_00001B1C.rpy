@@ -908,7 +908,7 @@ label block_00001B3E:
     show rs_image_9AD45D644515456B9DF8ED034B70000C as tag_E99970E1386B453DAF81C3AE2C72BE8E zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
-    extend "晚上好，森海友桑。"
+    extend "晚上好，森海友同学。"
 
     if sys_effect2_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Surprise 1.ogg" noloop
@@ -971,7 +971,7 @@ label block_00001B3E:
 
     pause 0.3
 
-    extend "这么说很突然，但森海桑，\n我有件事需要你帮忙。"
+    extend "这么说很突然，但森海同学，\n我有件事需要你帮忙。"
 
     show rs_image_F56E1443445D4250ADC9107746BB4E98 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B

@@ -471,7 +471,7 @@ translate japanese block_000007A5_853a47d7:
 # game/content/file_00000128.rpy:1587
 translate japanese block_0000079C_c4a6117c:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "新学期刚一开始就制造笑料了呐，友桑。{w}\n作为横扫无聊假期的新的开始再好不过了。"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "新学期刚一开始就制造笑料了呐，友同学。{w}\n作为横扫无聊假期的新的开始再好不过了。"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00000128.rpy:1592
@@ -869,4 +869,12 @@ translate japanese strings:
     # content\file_00000128.rpy:2162
     old "校门"
     new ""
+
+# TODO: Translation updated at 2018-01-28 10:11
+
+# game/content/file_00000128.rpy:1587
+translate japanese block_0000079C_15a13b77:
+
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "新学期刚一开始就制造笑料了呐，友同学。{w}\n作为横扫无聊假期的新的开始再好不过了。"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 

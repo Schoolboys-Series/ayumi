@@ -822,7 +822,7 @@ label block_00001D24:
     show rs_image_7CED1BC765EE4A5B93B9DC7719B0D0AB as tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD zorder zorder_tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_EFC67D522B5F4615BFAE716D87F58204 "慎、慎太郎桑！？\n{w=0.55}{nw}"
+    rs_character_EFC67D522B5F4615BFAE716D87F58204 "慎、慎太郎前辈！？\n{w=0.55}{nw}"
     if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"
@@ -911,7 +911,7 @@ label block_00001D24:
     show rs_image_6E5666B6FFA14A90B735045E7DE61D9A as tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD zorder zorder_tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_EFC67D522B5F4615BFAE716D87F58204 "果然敌不过慎太郎桑呐……"
+    rs_character_EFC67D522B5F4615BFAE716D87F58204 "果然敌不过慎太郎前辈呐……"
 
     if sys_effect_current_file != "sound/Effect Sound/As you wish 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/As you wish 1.ogg" noloop
