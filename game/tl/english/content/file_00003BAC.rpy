@@ -4412,3 +4412,29 @@ translate english strings:
     old "调查到此为止？"
     new ""
 
+# TODO: Translation updated at 2018-01-28 09:00
+
+# game/content/file_00003BAC.rpy:2047
+translate english block_00003C0E_ada944d8:
+
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "阿夕和朔朔已经回房间了？\n也就是说，现在已经突入超级腻腻歪歪时间了？？"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
+
+# game/content/file_00003BAC.rpy:2133
+translate english block_00003C0E_1bb3f8e7:
+
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "原来如此！所以看到阿夕朔朔夫妇会寂寞呐！"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
+
+# game/content/file_00003BAC.rpy:3457
+translate english block_00003C0E_e542622c:
+
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "啊咧？阿夕，门没锁哦。"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
+
+# game/content/file_00003BAC.rpy:4548
+translate english block_00003C18_06ba5d8c:
+
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不行的哦阿夕——！！这种时候才必须依靠前辈们的力量！"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
+
