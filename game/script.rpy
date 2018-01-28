@@ -15,7 +15,7 @@ label splashscreen:
         repeat
     pause 1.0
     image lmc_0000238E_click_waiting = ParameterizedText(
-        font="font/zcool-happy-ayumi-extended.ttf",
+        font="font/source-hans-sans-medium.ttc",
         color="#068AFC",
         xalign=0.5,
         yalign=0.6,

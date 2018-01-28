@@ -419,7 +419,7 @@ init -1:
     define rs_character_E1CA6A5E73164697AB8F4837C9AD8BF3 = Character(_("可疑的一帮人"), who_color="#0099FF")
     define rs_character_BC9CC5BA3ABB4C879D557212A41DCBAC = Character(_("某工薪男"), who_color="#0099FF")
     define rs_character_11D1DFF219FE44D6933AB9F3B6E8BBDA = Character(_("和尚"), who_color="#0099FF")
-    define rs_character_796F94D959234FB488A6B02C1F3AFA16 = Character(_("司 机"), who_color="#0099FF")
+    define rs_character_796F94D959234FB488A6B02C1F3AFA16 = Character(_("司机"), who_color="#0099FF")
     define rs_character_8EF7B22684E3474BB8CDD5FA00563D87 = Character(_("老师"), who_color="#0099FF")
     define rs_character_CCEB3276FE42480B9F0D6D4E0AEDB6D9 = Character(_("A"), who_color="#0099FF")
     define rs_character_104194B4514C43EDACB2FBE0139785AC = Character(_("B"), who_color="#0099FF")

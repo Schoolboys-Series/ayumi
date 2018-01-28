@@ -88,5 +88,5 @@ translate english strings:
 
     # lib\ayumi_global_map.rpy:328
     old "当前人员"
-    new ""
+    new "Current characters"
 

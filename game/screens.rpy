@@ -885,9 +885,9 @@ screen preferences():
                 vbox:
                     style_prefix "radio"
                     label _("语言")
-                    textbutton "简体中文" action Language(None)
-                    textbutton "日本語" action Language("japanese") text_style "language_japanese_button"
-                    textbutton "English" action Language("english")
+                    textbutton "简体中文" action Language(None) text_style "language_sc_button"
+                    textbutton "日本語" action Language("japanese") text_style "language_ja_button"
+                    textbutton "English" action Language("english") text_style "language_en_button"
 
             null height (4 * gui.pref_spacing)
             hbox:
@@ -908,8 +908,12 @@ screen preferences():
                             if config.sample_sound:
                                 textbutton _("测试") action Play("sound", config.sample_sound)
 
-style language_japanese_button is radio_button_text:
-    font "font/source-hans-sans-medium.ttc"
+style language_sc_button is radio_button_text:
+    font "font/zcool-happy-ayumi-extended.ttf"
+style language_ja_button is radio_button_text:
+    font "font/honyaji-re.ttf"
+style language_en_button is radio_button_text:
+    font "font/zcool-happy-ayumi-extended.ttf"
 style pref_label is gui_label
 style pref_label:
     top_margin gui.pref_spacing
