@@ -129,7 +129,7 @@ translate japanese block_000016E4_ce5c5339:
 # game/content/file_000016B7.rpy:443
 translate japanese block_000016E7_9df43255:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "小尤夕{color=#008080}之前商谈的{/color}人，\n就是刚才那个吗？{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "阿夕{color=#008080}之前商谈的{/color}人，\n就是刚才那个吗？{nw}"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_000016B7.rpy:452
@@ -195,7 +195,7 @@ translate japanese block_000016E7_a78e6aa1:
 # game/content/file_000016B7.rpy:536
 translate japanese block_000016E7_6eddb901:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "嗯嗯。也就是说，\n我们是有权利向小尤夕要求礼物的！"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "嗯嗯。也就是说，\n我们是有权利向阿夕要求礼物的！"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_000016B7.rpy:548

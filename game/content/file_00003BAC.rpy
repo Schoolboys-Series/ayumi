@@ -2044,7 +2044,7 @@ label block_00003C0E:
     show rs_image_9387C2EF08BB4EFABA360A19A1E02C8B as tag_A77E36FB70FF4F60B12060B2747E46D1 at left_top zorder zorder_tag_A77E36FB70FF4F60B12060B2747E46D1 onlayer master
     with rs_effect_448920BBD02549838978B8525156A8E8
 
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "小尤夕和朔朔已经回房间了？\n也就是说，现在已经突入超级腻腻歪歪时间了？？"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "阿夕和朔朔已经回房间了？\n也就是说，现在已经突入超级腻腻歪歪时间了？？"
 
     $ zorder_tag_FD7EEC63649F4ABB88B3E11A041AF5A6 = 300
     show rs_image_63B779B9C18C4ECDA43D5CD785679229 as tag_FD7EEC63649F4ABB88B3E11A041AF5A6 at right_top zorder zorder_tag_FD7EEC63649F4ABB88B3E11A041AF5A6 onlayer master
@@ -2130,7 +2130,7 @@ label block_00003C0E:
 
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "哈哈！害羞的守守好赞！"
 
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "原来如此！所以看到尤夕朔朔夫妇会寂寞呐！"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "原来如此！所以看到阿夕朔朔夫妇会寂寞呐！"
 
     if sys_effect_current_file != "sound/Effect Sound/Flee 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Flee 1.ogg" noloop
@@ -3454,7 +3454,7 @@ label block_00003C0E:
     show rs_image_12E394DC341C4685AB17E83FEED856C9 as tag_A77E36FB70FF4F60B12060B2747E46D1 at left_top zorder zorder_tag_A77E36FB70FF4F60B12060B2747E46D1 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "啊咧？小尤夕，门没锁哦。"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "啊咧？阿夕，门没锁哦。"
 
     show rs_image_B07AFDECD18C45CCA1315EC195BD4924 as tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD zorder zorder_tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -4545,7 +4545,7 @@ label block_00003C18:
     show rs_image_07EEAD26B9C44798806C86D199A70194 as tag_A77E36FB70FF4F60B12060B2747E46D1 at right_top zorder zorder_tag_A77E36FB70FF4F60B12060B2747E46D1 onlayer master
     with rs_effect_B70215F4C83E407D8C2CA682FB6965D7
 
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不行的哦小尤夕——！！这种时候才必须依靠前辈们的力量！"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不行的哦阿夕——！！这种时候才必须依靠前辈们的力量！"
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "说、说的没错。只有你们两个太危险了……"
 

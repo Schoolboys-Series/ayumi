@@ -440,7 +440,7 @@ label block_000016E7:
     show rs_image_D64DA6E75BDF4404B914047221EB0B38 as tag_A77E36FB70FF4F60B12060B2747E46D1 zorder zorder_tag_A77E36FB70FF4F60B12060B2747E46D1 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "小尤夕{color=#008080}之前商谈的{/color}人，\n就是刚才那个吗？{nw}"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "阿夕{color=#008080}之前商谈的{/color}人，\n就是刚才那个吗？{nw}"
     if sys_effect_current_file != "sound/Effect Sound/Decision 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Decision 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Decision 1.ogg"
@@ -533,7 +533,7 @@ label block_000016E7:
     show rs_image_CB49ABE40CB34BD7AA2C8B4E5739D95A as tag_A77E36FB70FF4F60B12060B2747E46D1 zorder zorder_tag_A77E36FB70FF4F60B12060B2747E46D1 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "嗯嗯。也就是说，\n我们是有权利向小尤夕要求礼物的！"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "嗯嗯。也就是说，\n我们是有权利向阿夕要求礼物的！"
 
     if sys_effect_current_file != "sound/Effect Sound/Shock 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Shock 1.ogg" noloop

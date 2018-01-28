@@ -1089,7 +1089,7 @@ translate japanese block_00003C0E_e58e0103:
 # game/content/file_00003BAC.rpy:2047
 translate japanese block_00003C0E_4f9fdbd5:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "小尤夕和朔朔已经回房间了？\n也就是说，现在已经突入超级腻腻歪歪时间了？？"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "阿夕和朔朔已经回房间了？\n也就是说，现在已经突入超级腻腻歪歪时间了？？"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003BAC.rpy:2053
@@ -1155,7 +1155,7 @@ translate japanese block_00003C0E_18109561:
 # game/content/file_00003BAC.rpy:2133
 translate japanese block_00003C0E_de871a88:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "原来如此！所以看到尤夕朔朔夫妇会寂寞呐！"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "原来如此！所以看到阿夕朔朔夫妇会寂寞呐！"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003BAC.rpy:2147
@@ -1881,7 +1881,7 @@ translate japanese block_00003C0E_ea413197:
 # game/content/file_00003BAC.rpy:3457
 translate japanese block_00003C0E_d5000e4b:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "啊咧？小尤夕，门没锁哦。"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "啊咧？阿夕，门没锁哦。"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003BAC.rpy:3462
@@ -2457,7 +2457,7 @@ translate japanese block_00003C18_fb87f176:
 # game/content/file_00003BAC.rpy:4548
 translate japanese block_00003C18_1503cc73:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不行的哦小尤夕——！！这种时候才必须依靠前辈们的力量！"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不行的哦阿夕——！！这种时候才必须依靠前辈们的力量！"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003BAC.rpy:4550
