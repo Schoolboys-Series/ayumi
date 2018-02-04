@@ -9729,7 +9729,7 @@ label block_00001955:
     hide tag_1A4560FD21DB444186EEDAA83A28F67D
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
-    $ set_place_title(_("校庭内"))
+    $ set_place_title(_("校舍内"))
     if sys_effect2_current_file != "sound/Effect Sound/Swallow 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Swallow 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Swallow 1.ogg"
@@ -10020,7 +10020,7 @@ label block_000026B9:
 
     window hide
 
-    $ set_place_title(_("校庭内"))
+    $ set_place_title(_("校舍内"))
     if sys_effect2_current_file != "sound/Effect Sound/Swallow 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Swallow 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Swallow 1.ogg"
@@ -10184,7 +10184,7 @@ label block_000026D7:
 
     window hide
 
-    $ set_place_title(_("校庭内"))
+    $ set_place_title(_("校舍内"))
     if sys_effect2_current_file != "sound/Effect Sound/Swallow 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Swallow 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Swallow 1.ogg"
@@ -10305,7 +10305,7 @@ label block_00001980:
 
     window hide
 
-    $ set_place_title(_("校庭内"))
+    $ set_place_title(_("校舍内"))
     if sys_effect2_current_file != "sound/Effect Sound/Swallow 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Swallow 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Swallow 1.ogg"

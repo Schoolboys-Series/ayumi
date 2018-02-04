@@ -51,10 +51,6 @@ translate english strings:
     new "Outside"
 
     # lib\ayumi_global_map.rpy:335
-    old "校舍内"
-    new "Schoolhouse"
-
-    # lib\ayumi_global_map.rpy:335
     old "学园内"
     new "Inside"
 

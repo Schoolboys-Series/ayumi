@@ -55,10 +55,6 @@ translate japanese strings:
     new ""
 
     # lib\ayumi_global_map.rpy:338
-    old "校舍内"
-    new ""
-
-    # lib\ayumi_global_map.rpy:338
     old "学园内"
     new ""
 

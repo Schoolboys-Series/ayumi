@@ -150,7 +150,7 @@ label block_00003CA1:
             { "name": _("九尾 1"), "intro": _("平安时代的音乐风格，那也是妖怪和阴阳师的时代。采用日本传\n统乐器制作的这首以降调为主的曲子正是在叙述九尾辉煌的过去\n和微妙的现实。"), "path": "sound/BGM/Theme/Schoolboys Theme - Kyubi 1.ogg" },
             { "name": _("九尾 2"), "intro": _("近代日本的音乐风格，在传统中融入一定量西方元素，以悠扬的\n旋律体现历史的凝重。千年以来，九尾一直在此，直到那一天，\n它遇到……"), "path": "sound/BGM/Theme/Schoolboys Theme - Kyubi 2.ogg" },
             { "name": _("九尾 3"), "intro": _("风格重新回到古日本，不过和九尾的第一首印象曲不同，这首曲\n子非常明快。背景里偶尔出现的人声是神道教祭奠神灵的仪式，\n也就是祭典上常见的声音。九尾终于遇到了自己中意的人，可喜\n可贺，可喜可贺。"), "path": "sound/BGM/Theme/Schoolboys Theme - Kyubi 3.ogg" },
-            { "name": _("木村与伊藤"), "intro": _("这是本作电子乐感最强的一首，其次就是三朗的印象曲。曲子本\n身不急不缓，电子乐构成的和弦却给乐曲本身添加了一层紧张感。\n值得一提的是，伊藤早已单恋木村很久，却因为对方有女友而一\n直不敢追求。以对方的幸福优先也是伊藤温柔的地方。"), "path": "sound/BGM/Theme/Schoolboys Theme - Kimura and Itou.ogg" },
+            { "name": _("木村与伊藤"), "intro": _("这是本作电子乐感最强的一首，其次就是三朗的印象曲。曲子本\n身不急不缓，电子乐构成的和弦却给乐曲本身添加了一层紧张感。\n值得一提的是，伊藤早已单恋木村很久，却因为对方有恋人而一\n直不敢追求。以对方的幸福优先也是伊藤温柔的地方。"), "path": "sound/BGM/Theme/Schoolboys Theme - Kimura and Itou.ogg" },
             { "name": _("猫山三朗"), "intro": _("这也是野球拳场景的背景音乐。电子乐的大量出现使得这首曲子\n和本作其他乐曲存在较大差别，不过正好反映了三朗喜欢追赶潮\n流而又有些放荡不羁的性格。"), "path": "sound/BGM/Theme/Schoolboys Theme - Saburo.ogg" },
             { "name": _("奥村慎太郎"), "intro": _("基于未知原因，三朗美发店用的就是慎太郎的印象曲，不得不説\n是真爱。曲子本身没有朔那么诡异，但也有点诡异，给人一种想\n要搞事的感觉。不过，作为“御咲学园HOMO计划”的主要负责\n人，这还是非常恰当的。"), "path": "sound/BGM/Theme/Schoolboys Theme - Shintaro.ogg" },
             { "name": _("朔"), "intro": _("朔的所有音乐都很诡异，这可能与他外星人的身份有关。背景中\n偶尔出现的狼的声音代表了他作为WOLFS一员的身份。整体偏西\n化和宗教化的曲风也彰显了他不为人知的神秘一面。"), "path": "sound/BGM/Theme/Schoolboys Theme - Nori.ogg" },

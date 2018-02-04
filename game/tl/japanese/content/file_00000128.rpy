@@ -863,7 +863,7 @@ translate japanese strings:
     new ""
 
     # content\file_00000128.rpy:1892
-    old "校庭内"
+    old "校舍内"
     new ""
 
     # content\file_00000128.rpy:2162

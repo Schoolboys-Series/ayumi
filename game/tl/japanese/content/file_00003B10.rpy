@@ -345,7 +345,7 @@ translate japanese block_00003B27_95436b53:
 # game/content/file_00003B10.rpy:815
 translate japanese block_00003B27_0289b112:
 
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "和女朋友分手了。"
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "和前任分手了。"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00003B10.rpy:826
@@ -2152,5 +2152,13 @@ translate japanese strings:
 translate japanese block_00003B12_86f7ff4f:
 
     # rs_character_E3F6ADD43DE44A428E1224756613C694 "在听人说话嘛吗奥村同学？"
+    rs_character_E3F6ADD43DE44A428E1224756613C694 ""
+
+# TODO: Translation updated at 2018-02-04 00:48
+
+# game/content/file_00003B10.rpy:815
+translate japanese block_00003B27_b6773955:
+
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "和前任分手了。"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 

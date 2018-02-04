@@ -867,8 +867,8 @@ translate english strings:
     new "Atrium"
 
     # content\file_00000128.rpy:1892
-    old "校庭内"
-    new "Playground"
+    old "校舍内"
+    new "Schoolhouse"
 
     # content\file_00000128.rpy:2162
     old "校门"
