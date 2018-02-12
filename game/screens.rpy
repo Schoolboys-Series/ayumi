@@ -1065,7 +1065,7 @@ screen keyboard_help():
         text _("按下这个键的期间你会处在快进模式")
     hbox:
         label _("Tab")
-        text _("显示或隐藏那个用来显示对话的消息框")
+        text _("开关快进模式")
     hbox:
         label _("Page Up")
         text _("回到上一句，很适合点得太快漏下句子的情况")
@@ -1095,14 +1095,14 @@ screen mouse_help():
 
 screen gamepad_help():
     hbox:
-        label _("A/B")
+        label _("RT/A")
         text _("相当于鼠标左键点击")
     hbox:
-        label _("L1/L2/X")
+        label _("LT/LB")
         text _("回到上一句，很适合点得太快漏下句子的情况")
     hbox:
-        label _("R1/R2")
-        text _("回到下一句，仅当你现在看的不是最新一句时才管用")
+        label _("RB")
+        text _("ロールバック中、次の台詞に進む。")
     hbox:
         label _("D-Pad/摇杆")
         text _("当鼠标用")
@@ -1112,9 +1112,6 @@ screen gamepad_help():
     hbox:
         label _("Y")
         text _("隐藏所有能隐藏的东西，除了CG和立绘")
-    hbox:
-        label _("提示")
-        text _("以上都是我瞎翻译的，不要信，我完全不懂手柄上那些键叫什么")
     textbutton _("手柄校准") action GamepadCalibrate()
 
 style help_button is gui_button

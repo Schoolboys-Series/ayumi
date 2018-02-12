@@ -98,7 +98,7 @@ translate japanese strings:
 
     # screens.rpy:670
     old "回到主界面"
-    new "タイトル画面へ戻る"
+    new "メインメニュー"
 
     # screens.rpy:676
     old "继续游戏"
@@ -242,11 +242,11 @@ translate japanese strings:
 
     # screens.rpy:883
     old "选项分歧文本"
-    new "選択肢のテキスト"
+    new "選択肢の後"
 
     # screens.rpy:884
     old "所有加的特技"
-    new "エフェクト"
+    new "トランジション"
 
     # screens.rpy:887
     old "语言"
@@ -254,15 +254,15 @@ translate japanese strings:
 
     # screens.rpy:897
     old "文字显示速度"
-    new "テキスト速度"
+    new "文字表示速度"
 
     # screens.rpy:901
     old "音乐音量"
-    new "音楽音量"
+    new "音楽の音量"
 
     # screens.rpy:905
     old "音效音量"
-    new "エフェクト音量"
+    new "効果音の音量"
 
     # screens.rpy:909
     old "测试"
@@ -274,165 +274,157 @@ translate japanese strings:
 
     # screens.rpy:1036
     old "键盘"
-    new ""
+    new "キーボード"
 
     # screens.rpy:1037
     old "鼠标"
-    new ""
+    new "マウス"
 
     # screens.rpy:1038
     old "手柄"
-    new ""
+    new "ゲームパッド"
 
     # screens.rpy:1048
     old "回车"
-    new ""
+    new "Enter"
 
     # screens.rpy:1049
     old "用来确定并提交你的操作，同时也可以用来继续阅读下一句"
-    new ""
+    new "台詞を読み進める。またはボタンを選択する。"
 
     # screens.rpy:1051
     old "空格"
-    new ""
+    new "Space"
 
     # screens.rpy:1052
     old "用来确定你的操作，不过不会提交"
-    new ""
+    new "台詞を読み進める。ただしボタンは選択しない。"
 
     # screens.rpy:1054
     old "四个箭头"
-    new ""
+    new "方向キー"
 
     # screens.rpy:1055
     old "当做比较难用的鼠标好了"
-    new ""
+    new "インターフェースを移動する。"
 
     # screens.rpy:1057
     old "ESC"
-    new ""
+    new "Escape"
 
     # screens.rpy:1058
     old "进入系统菜单"
-    new ""
+    new "ゲームメニューを開く。"
 
     # screens.rpy:1060
     old "Ctrl"
-    new ""
+    new "Ctrl"
 
     # screens.rpy:1061
     old "按下这个键的期间你会处在快进模式"
-    new ""
+    new "押し続けている間スキップする。"
 
     # screens.rpy:1063
     old "Tab"
-    new ""
+    new "Tab"
 
     # screens.rpy:1064
-    old "显示或隐藏那个用来显示对话的消息框"
-    new ""
+    old "开关快进模式"
+    new "スキップモードに切り替える。"
 
     # screens.rpy:1066
     old "Page Up"
-    new ""
+    new "Page Up"
 
     # screens.rpy:1067
     old "回到上一句，很适合点得太快漏下句子的情况"
-    new ""
+    new "前の台詞に戻る。"
 
     # screens.rpy:1069
     old "Page Down"
-    new ""
+    new "Page Down"
 
     # screens.rpy:1070
     old "回到下一句，仅当你现在看的不是最新一句时才管用"
-    new ""
+    new "ロールバック中、次の台詞に進む。"
 
     # screens.rpy:1073
     old "隐藏所有能隐藏的东西，除了CG和立绘"
-    new ""
+    new "インターフェースを隠す。"
 
     # screens.rpy:1076
     old "快速截图"
-    new ""
+    new "スクリーンショットを撮る。"
 
     # screens.rpy:1080
     old "左键"
-    new ""
+    new "左クリック"
 
     # screens.rpy:1081
     old "可以用来点东西，点什么就是什么"
-    new ""
+    new "台詞を読み進める。またはボタンを選択する。"
 
     # screens.rpy:1083
     old "中键"
-    new ""
+    new "中クリック"
 
     # screens.rpy:1086
     old "右键"
-    new ""
+    new "右クリック"
 
     # screens.rpy:1089
     old "滚轮"
-    new ""
+    new "マウスホイール"
 
     # screens.rpy:1090
     old "在最近看过的句子中来回切，不会一不小心滚到没看过的句子里去，放心就好"
-    new ""
+    new "前の台詞に戻る。或はロールバック中、次の台詞に進む。"
 
     # screens.rpy:1094
-    old "A/B"
-    new ""
+    old "RT/A"
+    new "Ｒトリガー\nＡ／下ボタン"
 
     # screens.rpy:1095
     old "相当于鼠标左键点击"
-    new ""
+    new "台詞を読み進める。またはボタンを選択する。"
 
     # screens.rpy:1097
-    old "L1/L2/X"
-    new ""
+    old "LT/LB"
+    new "Ｌトリガー\nＬボタン"
 
-    # screens.rpy:1100
-    old "R1/R2"
-    new ""
+    # screens.rpy:1104
+    old "RB"
+    new "RB"
 
     # screens.rpy:1103
     old "D-Pad/摇杆"
-    new ""
+    new "方向パッド\n左右スティック"
 
     # screens.rpy:1104
     old "当鼠标用"
-    new ""
+    new "インターフェースを移動する。"
 
     # screens.rpy:1106
     old "START/GUIDE"
-    new ""
+    new "スタート、ガイド"
 
     # screens.rpy:1109
     old "Y"
-    new ""
-
-    # screens.rpy:1112
-    old "提示"
-    new ""
-
-    # screens.rpy:1113
-    old "以上都是我瞎翻译的，不要信，我完全不懂手柄上那些键叫什么"
-    new ""
+    new "Ｙ／上ボタン"
 
     # screens.rpy:1114
     old "手柄校准"
-    new ""
+    new "キャリブレート"
 
     # screens.rpy:1164
     old "是"
-    new ""
+    new "はい"
 
     # screens.rpy:1165
     old "否"
-    new ""
+    new "いいえ"
 
     # screens.rpy:1200
     old "正在快进"
-    new ""
+    new "スキップ中"
 

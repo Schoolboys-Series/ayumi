@@ -850,3 +850,4 @@ translate english strings:
     old "Tearing"
     new ""
 
+define gui.system_font = u'font/source-hans-sans-medium.ttc'

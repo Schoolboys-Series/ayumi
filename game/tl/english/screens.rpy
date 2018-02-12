@@ -315,8 +315,8 @@ translate english strings:
     new "Tab"
 
     # screens.rpy:1067
-    old "显示或隐藏那个用来显示对话的消息框"
-    new "Show or hide dialogue box"
+    old "开关快进模式"
+    new "Enter or leave skip mode"
 
     # screens.rpy:1069
     old "Page Up"
@@ -367,20 +367,20 @@ translate english strings:
     new "View previous sentences"
 
     # screens.rpy:1097
-    old "A/B"
-    new "A/B"
+    old "RT/A"
+    new "RT/A"
 
     # screens.rpy:1098
     old "相当于鼠标左键点击"
     new "Like mouse left button"
 
     # screens.rpy:1100
-    old "L1/L2/X"
-    new "L1/L2/X"
+    old "LT/LB"
+    new "LT/LB"
 
-    # screens.rpy:1103
-    old "R1/R2"
-    new "R1/R2"
+    # screens.rpy:1104
+    old "RB"
+    new "RB"
 
     # screens.rpy:1106
     old "D-Pad/摇杆"
@@ -388,7 +388,7 @@ translate english strings:
 
     # screens.rpy:1107
     old "当鼠标用"
-    new "Like mouse"
+    new "Move between interface items"
 
     # screens.rpy:1109
     old "START/GUIDE"
@@ -397,14 +397,6 @@ translate english strings:
     # screens.rpy:1112
     old "Y"
     new "Y"
-
-    # screens.rpy:1115
-    old "提示"
-    new "HINT"
-
-    # screens.rpy:1116
-    old "以上都是我瞎翻译的，不要信，我完全不懂手柄上那些键叫什么"
-    new "I know nothing about joystick, do not believe me"
 
     # screens.rpy:1117
     old "手柄校准"
