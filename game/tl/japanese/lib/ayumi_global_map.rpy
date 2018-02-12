@@ -4,81 +4,81 @@ translate japanese strings:
 
     # lib\ayumi_global_map.rpy:1
     old "你确实要终止任务吗?"
-    new ""
+    new "本当に任務を止めたいですか？"
 
     # lib\ayumi_global_map.rpy:1
     old "说的是，以后再做吧"
-    new ""
+    new "そうですね、まだ後で"
 
     # lib\ayumi_global_map.rpy:1
     old "不不不，手滑了"
-    new ""
+    new "いいえ、ただのミステリー"
 
     # lib\ayumi_global_map.rpy:15
     old "CHAPTER 1 第一章"
-    new ""
+    new "CHAPTER 1 第一章"
 
     # lib\ayumi_global_map.rpy:17
     old "御咲学园内"
-    new ""
+    new "御咲学園内"
 
     # lib\ayumi_global_map.rpy:19
     old "御咲学园外"
-    new ""
+    new "御咲学園外"
 
     # lib\ayumi_global_map.rpy:23
     old "CHAPTER 2 第二章"
-    new ""
+    new "CHAPTER 2 第二章"
 
     # lib\ayumi_global_map.rpy:31
     old "酒店"
-    new ""
+    new "ホテル"
 
     # lib\ayumi_global_map.rpy:33
     old "CHAPTER 3 第三章"
-    new ""
+    new "CHAPTER 3 第三章"
 
     # lib\ayumi_global_map.rpy:41
     old "END OF SEMESTER 学期末"
-    new ""
+    new "END OF SEMESTER 期末の前"
 
     # lib\ayumi_global_map.rpy:49
     old "梦之温泉"
-    new ""
+    new "夢の温泉施設"
 
     # lib\ayumi_global_map.rpy:328
     old "当前人员"
-    new ""
+    new "キャラクター"
 
     # lib\ayumi_global_map.rpy:330
     old "学园外"
-    new ""
+    new "学園外"
 
     # lib\ayumi_global_map.rpy:338
     old "学园内"
-    new ""
+    new "学園内"
 
     # lib\ayumi_global_map.rpy:346
     old "御咲学园"
-    new ""
+    new "御咲学園"
 
     # lib\ayumi_global_map.rpy:356
     old "室内（一）"
-    new ""
+    new "室内１"
 
     # lib\ayumi_global_map.rpy:356
     old "室内（二）"
-    new ""
+    new "室内２"
 
     # lib\ayumi_global_map.rpy:356
     old "室外（一）"
-    new ""
+    new "屋外１"
 
     # lib\ayumi_global_map.rpy:356
     old "室外（二）"
-    new ""
+    new "屋外２"
 
     # lib\ayumi_global_map.rpy:356
     old "泳池"
-    new ""
+    new "プール"
 

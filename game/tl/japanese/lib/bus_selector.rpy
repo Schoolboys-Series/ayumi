@@ -4,45 +4,45 @@ translate japanese strings:
 
     # lib\bus_selector.rpy:17
     old "选择目标地点"
-    new ""
+    new "目標を選択してください"
 
     # lib\bus_selector.rpy:19
     old "梅咲站"
-    new ""
+    new "梅咲"
 
     # lib\bus_selector.rpy:19
     old "尼咲站"
-    new ""
+    new "尼ケ崎"
 
     # lib\bus_selector.rpy:19
     old "伊丹咲站"
-    new ""
+    new "伊丹咲"
 
     # lib\bus_selector.rpy:19
     old "川西池口站"
-    new ""
+    new "川西池口"
 
     # lib\bus_selector.rpy:19
     old "中山菩萨站"
-    new ""
+    new "中山菩薩"
 
     # lib\bus_selector.rpy:19
     old "清稳神站"
-    new ""
+    new "清穏神"
 
     # lib\bus_selector.rpy:19
     old "宝咲站"
-    new ""
+    new "宝咲"
 
     # lib\bus_selector.rpy:19
     old "御咲市站"
-    new ""
+    new "御咲"
 
     # lib\bus_selector.rpy:19
     old "武咲尾站"
-    new ""
+    new "武咲尾"
 
     # lib\bus_selector.rpy:19
     old "四田站"
-    new ""
+    new "四田"
 
