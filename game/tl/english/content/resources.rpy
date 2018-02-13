@@ -270,10 +270,6 @@ translate english strings:
     old "店长"
     new "Owner"
 
-    # content\resources.rpy:338
-    old "宫——"
-    new "Go--"
-
     # content\resources.rpy:339
     old "学弟A"
     new "Junior student A"
@@ -475,7 +471,7 @@ translate english strings:
     new "Band club member B"
 
     # content\resources.rpy:391
-    old "吹奏乐部部 员C"
+    old "吹奏乐部部员C"
     new "Band club member C"
 
     # content\resources.rpy:392
@@ -547,7 +543,7 @@ translate english strings:
     new "Doll A, Doll B"
 
     # content\resources.rpy:412
-    old "布 偶A"
+    old "布偶A"
     new "Doll A"
 
     # content\resources.rpy:413

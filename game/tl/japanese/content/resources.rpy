@@ -4,605 +4,601 @@ translate japanese strings:
 
     # content\resources.rpy:229
     old "森海友·一之濑翼·木村树·伊藤圭·小岛正"
-    new ""
+    new "友·つばさ·樹·圭·正"
 
     # content\resources.rpy:230
     old "森海友·赤峰空·一之濑翼"
-    new ""
+    new "友·空·つばさ"
 
     # content\resources.rpy:231
     old "森海友·穗海作哉"
-    new ""
+    new "友·作哉"
 
     # content\resources.rpy:232
     old "森海友·赤峰空"
-    new ""
+    new "友·空"
 
     # content\resources.rpy:233
     old "森海友·加藤准太"
-    new ""
+    new "友·準太"
 
     # content\resources.rpy:234
     old "森海友·绫濑忍"
-    new ""
+    new "友·しのぶ"
 
     # content\resources.rpy:235
     old "森海友·木村树"
-    new ""
+    new "友·樹"
 
     # content\resources.rpy:236
     old "森海友·猫山四朗"
-    new ""
+    new "友·四朗"
 
     # content\resources.rpy:237
     old "森海友·赤峰月"
-    new ""
+    new "友·月"
 
     # content\resources.rpy:238
     old "森海友·猫山三朗"
-    new ""
+    new "友·三朗"
 
     # content\resources.rpy:239
     old "森海友·奥村慎太郎"
-    new ""
+    new "友·慎太郎"
 
     # content\resources.rpy:240
     old "奥村慎太郎·一之濑翼"
-    new ""
+    new "慎太郎·つばさ"
 
     # content\resources.rpy:241
     old "奥村慎太郎·绫濑忍"
-    new ""
+    new "慎太郎·しのぶ"
 
     # content\resources.rpy:242
     old "奥村慎太郎·猫山三朗"
-    new ""
+    new "慎太郎·三朗"
 
     # content\resources.rpy:243
     old "一之濑翼·木村树·伊藤圭"
-    new ""
+    new "つばさ·樹·圭"
 
     # content\resources.rpy:244
     old "一之濑翼·赤峰空"
-    new ""
+    new "つばさ·空"
 
     # content\resources.rpy:245
     old "一之濑翼·绫濑忍"
-    new ""
+    new "つばさ·しのぶ"
 
     # content\resources.rpy:246
     old "一之濑翼·穗海作哉"
-    new ""
+    new "つばさ·作哉"
 
     # content\resources.rpy:247
     old "一之濑翼·奥村慎太郎"
-    new ""
+    new "つばさ·慎太郎"
 
     # content\resources.rpy:248
     old "一之濑翼·森海友"
-    new ""
+    new "つばさ·友"
 
     # content\resources.rpy:249
     old "绫濑忍·森海友"
-    new ""
+    new "しのぶ·友"
 
     # content\resources.rpy:250
     old "绫濑忍·赤峰月"
-    new ""
+    new "しのぶ·月"
 
     # content\resources.rpy:251
     old "绫濑忍·一之濑翼"
-    new ""
+    new "しのぶ·つばさ"
 
     # content\resources.rpy:252
     old "赤峰月·绫濑忍·赤峰空"
-    new ""
+    new "月·しのぶ·空"
 
     # content\resources.rpy:253
     old "赤峰月·赤峰空"
-    new ""
+    new "月·空"
 
     # content\resources.rpy:254
     old "赤峰空·赤峰月"
-    new ""
+    new "空·月"
 
     # content\resources.rpy:255
     old "赤峰空·奥村慎太郎·赤峰月"
-    new ""
+    new "空·慎太郎·月"
 
     # content\resources.rpy:256
     old "猫山三朗·森海友"
-    new ""
+    new "三朗·友"
 
     # content\resources.rpy:257
     old "猫山三朗·穗海作哉"
-    new ""
+    new "三朗·作哉"
 
     # content\resources.rpy:258
     old "穗海作哉·赤峰月"
-    new ""
+    new "作哉·月"
 
     # content\resources.rpy:259
     old "榊雪绪·穗海作哉·猫山四朗"
-    new ""
+    new "雪緒·作哉·四朗"
 
     # content\resources.rpy:260
     old "榊雪绪·猫山四朗"
-    new ""
+    new "雪緒·四朗"
 
     # content\resources.rpy:261
     old "松田健治·穗海作哉"
-    new ""
+    new "健治·作哉"
 
     # content\resources.rpy:262
     old "松田健治·加藤准太·伊藤圭"
-    new ""
+    new "健治·準太·圭"
 
     # content\resources.rpy:263
     old "松田健治·加藤准太·森海友·木村树"
-    new ""
+    new "健治·準太·友·樹"
 
     # content\resources.rpy:264
     old "松田健治·加藤准太"
-    new ""
+    new "健治·準太"
 
     # content\resources.rpy:265
     old "小岛正·奥村慎太郎"
-    new ""
+    new "正·慎太郎"
 
     # content\resources.rpy:266
     old "木村树·伊藤圭"
-    new ""
+    new "樹·圭"
 
     # content\resources.rpy:267
     old "夕阳·世依木守"
-    new ""
+    new "ユウヒ·守"
 
     # content\resources.rpy:268
     old "夕阳·森海友"
-    new ""
+    new "ユウヒ·友"
 
     # content\resources.rpy:269
     old "加藤准太·森海友"
-    new ""
+    new "準太·友"
 
     # content\resources.rpy:270
     old "加藤准太·赤峰空·森海友"
-    new ""
+    new "準太·空·友"
 
     # content\resources.rpy:271
     old "绫濑忍·清武一"
-    new ""
+    new "しのぶ·武一"
 
     # content\resources.rpy:272
     old "佐藤光·冈岛直弥"
-    new ""
+    new "光·直弥"
 
     # content\resources.rpy:273
     old "妖怪A·一之濑翼"
-    new ""
+    new "お化けA·つばさ"
 
     # content\resources.rpy:274
     old "天使·翼·恶魔"
-    new ""
+    new "天使·つばさ·悪魔"
 
     # content\resources.rpy:275
     old "天使·恶魔"
-    new ""
+    new "天使·悪魔"
 
     # content\resources.rpy:276
     old "学生A·学生B"
-    new ""
+    new "学生A·学生B"
 
     # content\resources.rpy:280
     old "小翼（作哉）"
-    new ""
+    new "ツバサ（作哉）"
 
     # content\resources.rpy:283
     old "一之濑翼（旁白）"
-    new ""
+    new "つばさ（ナレーター）"
 
     # content\resources.rpy:304
     old "天使"
-    new ""
+    new "天使"
 
     # content\resources.rpy:305
     old "恶魔"
-    new ""
+    new "悪魔"
 
     # content\resources.rpy:312
     old "疑似暗黑小熊猫A"
-    new ""
+    new "ダークレッサー？A"
 
     # content\resources.rpy:313
     old "疑似暗黑小熊猫B"
-    new ""
+    new "ダークレッサー？B"
 
     # content\resources.rpy:314
     old "广播"
-    new ""
+    new "アナウンス"
 
     # content\resources.rpy:315
     old "小林·南"
-    new ""
+    new "小林·南"
 
     # content\resources.rpy:318
     old "暗黑小熊猫A"
-    new ""
+    new "ダークレッサーA"
 
     # content\resources.rpy:319
     old "暗黑小熊猫B"
-    new ""
+    new "ダークレッサーB"
 
     # content\resources.rpy:321
     old "暗黑小熊猫们"
-    new ""
+    new "ダークレッサー達"
 
     # content\resources.rpy:324
     old "校长"
-    new ""
+    new "校長先生"
 
     # content\resources.rpy:325
     old "大家"
-    new ""
+    new "みんな"
 
     # content\resources.rpy:326
     old "图书管理员"
-    new ""
+    new "図書委員"
 
     # content\resources.rpy:329
     old "触手"
-    new ""
+    new "触手"
 
     # content\resources.rpy:330
     old "店员"
-    new ""
+    new "店員"
 
     # content\resources.rpy:331
     old "猫"
-    new ""
+    new "ネコ"
 
     # content\resources.rpy:332
     old "杉本志·陆田功"
-    new ""
+    new "志·功"
 
     # content\resources.rpy:335
     old "店长"
-    new ""
-
-    # content\resources.rpy:338
-    old "宫——"
-    new ""
+    new "店長"
 
     # content\resources.rpy:339
     old "学弟A"
-    new ""
+    new "後輩A"
 
     # content\resources.rpy:340
     old "学弟B"
-    new ""
+    new "後輩B"
 
     # content\resources.rpy:341
     old "学生A"
-    new ""
+    new "学生A"
 
     # content\resources.rpy:342
     old "学生B"
-    new ""
+    new "学生B"
 
     # content\resources.rpy:343
     old "雪绪·九尾"
-    new ""
+    new "雪緒·九尾"
 
     # content\resources.rpy:345
     old "大龄男性"
-    new ""
+    new "大人の男性"
 
     # content\resources.rpy:346
     old "教练"
-    new ""
+    new "監督"
 
     # content\resources.rpy:347
     old "工作人员"
-    new ""
+    new "スタッフ"
 
     # content\resources.rpy:348
     old "剑道部部员A"
-    new ""
+    new "剣道部部員A"
 
     # content\resources.rpy:349
     old "剑道部部员B"
-    new ""
+    new "剣道部部員B"
 
     # content\resources.rpy:350
     old "剑道部部员"
-    new ""
+    new "剣道部部員"
 
     # content\resources.rpy:351
     old "救生员"
-    new ""
+    new "ライフセーバー"
 
     # content\resources.rpy:352
     old "忍的妈妈"
-    new ""
+    new "しのぶママ"
 
     # content\resources.rpy:353
     old "由实阿姨"
-    new ""
+    new "由実おばさん"
 
     # content\resources.rpy:354
     old "男学生A"
-    new ""
+    new "男子生徒A"
 
     # content\resources.rpy:355
     old "男学生B"
-    new ""
+    new "男子生徒B"
 
     # content\resources.rpy:356
     old "女生A"
-    new ""
+    new "女子生徒A"
 
     # content\resources.rpy:357
     old "女生B"
-    new ""
+    new "女子生徒B"
 
     # content\resources.rpy:358
     old "女生C"
-    new ""
+    new "女子生徒C"
 
     # content\resources.rpy:359
     old "女老师"
-    new ""
+    new "女先生"
 
     # content\resources.rpy:360
     old "中年大叔"
-    new ""
+    new "おじさん"
 
     # content\resources.rpy:361
     old "学生"
-    new ""
+    new "学生"
 
     # content\resources.rpy:362
     old "副班主任"
-    new ""
+    new "副担任"
 
     # content\resources.rpy:363
     old "乘务员"
-    new ""
+    new "乗務員"
 
     # content\resources.rpy:364
     old "参拜者"
-    new ""
+    new "参拝者"
 
     # content\resources.rpy:365
     old "友的母亲"
-    new ""
+    new "友の母"
 
     # content\resources.rpy:366
     old "慎太郎之母"
-    new ""
+    new "慎太郎の母さん"
 
     # content\resources.rpy:367
     old "旁白"
-    new ""
+    new "ナレーター"
 
     # content\resources.rpy:369
     old "奥村慎太郎（乌贼乌贼星人）"
-    new ""
+    new "慎太郎（イカイカ星人）"
 
     # content\resources.rpy:370
     old "乌贼乌贼星人"
-    new ""
+    new "イカイカ星人"
 
     # content\resources.rpy:371
     old "其他乌贼乌贼星人"
-    new ""
+    new "他のイカイカ星人"
 
     # content\resources.rpy:372
     old "民众"
-    new ""
+    new "一般人"
 
     # content\resources.rpy:373
     old "观众"
-    new ""
+    new "観客"
 
     # content\resources.rpy:374
     old "绫濑忍（主人公）"
-    new ""
+    new "しのぶ（主人公）"
 
     # content\resources.rpy:375
     old "主人公"
-    new ""
+    new "主人公"
 
     # content\resources.rpy:376
     old "森海友（陨石）"
-    new ""
+    new "友（隕石）"
 
     # content\resources.rpy:377
     old "赤峰月（父亲）"
-    new ""
+    new "月（父）"
 
     # content\resources.rpy:378
     old "父亲"
-    new ""
+    new "父"
 
     # content\resources.rpy:379
     old "赤峰空（兄弟A）"
-    new ""
+    new "空（兄弟A）"
 
     # content\resources.rpy:380
     old "猫山三朗 （兄弟B）"
-    new ""
+    new "三朗（兄弟B）"
 
     # content\resources.rpy:381
     old "穗海作哉（母亲）"
-    new ""
+    new "作哉（母）"
 
     # content\resources.rpy:382
     old "母亲"
-    new ""
+    new "母"
 
     # content\resources.rpy:383
     old "陨石"
-    new ""
+    new "隕石"
 
     # content\resources.rpy:384
     old "不良A"
-    new ""
+    new "不良A"
 
     # content\resources.rpy:385
     old "不良B"
-    new ""
+    new "不良B"
 
     # content\resources.rpy:386
     old "不良C"
-    new ""
+    new "不良C"
 
     # content\resources.rpy:387
     old "师父"
-    new ""
+    new "師匠"
 
     # content\resources.rpy:388
     old "男"
-    new ""
+    new "男"
 
     # content\resources.rpy:389
     old "吹奏乐部部员A"
-    new ""
+    new "吹奏楽部員A"
 
     # content\resources.rpy:390
     old "吹奏乐部部员B"
-    new ""
+    new "吹奏楽部員B"
 
     # content\resources.rpy:391
-    old "吹奏乐部部 员C"
-    new ""
+    old "吹奏乐部部员C"
+    new "吹奏楽部員C"
 
     # content\resources.rpy:392
     old "吹奏乐部顾问"
-    new ""
+    new "顧問"
 
     # content\resources.rpy:393
     old "龙套妖怪们"
-    new ""
+    new "モブお化けたち"
 
     # content\resources.rpy:394
     old "龙套妖怪A"
-    new ""
+    new "モブお化けA"
 
     # content\resources.rpy:395
     old "龙套妖怪B"
-    new ""
+    new "モブお化けB"
 
     # content\resources.rpy:396
     old "龙套妖怪C"
-    new ""
+    new "モブお化けC"
 
     # content\resources.rpy:397
     old "龙套妖怪D"
-    new ""
+    new "モブお化けD"
 
     # content\resources.rpy:398
     old "龙套妖怪E"
-    new ""
+    new "モブお化けE"
 
     # content\resources.rpy:399
     old "龙套妖怪F"
-    new ""
+    new "モブお化けF"
 
     # content\resources.rpy:400
     old "龙套妖怪G"
-    new ""
+    new "モブお化けG"
 
     # content\resources.rpy:401
     old "妖怪A（领导）"
-    new ""
+    new "お化けA（リーダー気質）"
 
     # content\resources.rpy:403
     old "妖怪B（策士）"
-    new ""
+    new "お化けB（知的系）"
 
     # content\resources.rpy:405
     old "妖怪C（无口）"
-    new ""
+    new "お化けC（無口系）"
 
     # content\resources.rpy:407
     old "信纸"
-    new ""
+    new "手紙"
 
     # content\resources.rpy:408
     old "同学A♂"
-    new ""
+    new "クラスメイトA♂"
 
     # content\resources.rpy:409
     old "同学B♂"
-    new ""
+    new "クラスメイトB♂"
 
     # content\resources.rpy:410
     old "同学A♀"
-    new ""
+    new "クラスメイトA♀"
 
     # content\resources.rpy:411
     old "布偶A·B"
-    new ""
+    new "ぬいぐるみA·B"
 
     # content\resources.rpy:412
-    old "布 偶A"
-    new ""
+    old "布偶A"
+    new "ぬいぐるみA"
 
     # content\resources.rpy:413
     old "布偶B"
-    new ""
+    new "ぬいぐるみB"
 
     # content\resources.rpy:414
     old "可疑的和尚A"
-    new ""
+    new "胡散臭い坊さんA"
 
     # content\resources.rpy:415
     old "可疑的和尚B"
-    new ""
+    new "胡散臭い坊さんB"
 
     # content\resources.rpy:416
     old "可疑的和尚C"
-    new ""
+    new "胡散臭い坊さんC"
 
     # content\resources.rpy:417
     old "可疑的和尚们"
-    new ""
+    new "胡散臭い坊さんたち"
 
     # content\resources.rpy:418
     old "可疑的师父"
-    new ""
+    new "胡散臭い上人"
 
     # content\resources.rpy:419
     old "可疑的一帮人"
-    new ""
+    new "胡散臭い人達"
 
     # content\resources.rpy:420
     old "某工薪男"
-    new ""
+    new "サラリーマン"
 
     # content\resources.rpy:421
     old "和尚"
-    new ""
+    new "坊さん"
 
     # content\resources.rpy:422
     old "司机"
-    new ""
+    new "運転手"
 
     # content\resources.rpy:423
     old "老师"
-    new ""
+    new "先生"
 
     # content\resources.rpy:426
     old "？？？"
-    new ""
+    new "？？？"
 
     # content\resources.rpy:427
     old "未知来源的声音"
-    new ""
+    new "どこからか囁く声"
 
     # content\resources.rpy:428
     old "迷之人物"
-    new ""
+    new "謎の人物"
 
