@@ -4,25 +4,25 @@
 translate japanese block_00000AAB_c7a14f95:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "你好。今天天气真不错。\n晴朗温暖，稍不注意就会睡过去。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "こんにちは。今日も良い天気だね。\nうららかで、つい眠くなってしまう。"
 
 # game/content/file_00000A74.rpy:347
 translate japanese block_00000AAB_0722beae:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "从学校来的路上，\nY字路口右转有一间神社。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "学校からここへ来る途中、\nY字路を右に進むと神社があるだろう。"
 
 # game/content/file_00000A74.rpy:349
 translate japanese block_00000AAB_fa904329:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "那里祭祀的是很灵验的梦境之神，\n似乎能让人{color=#808000}做想做的梦{/color}。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "あそこは眠りの神様を祀る、霊験あらたかな神社でな、\n{color=#808000}お詣りをした者の望む夢{/color}が見られるそうだ。"
 
 # game/content/file_00000A74.rpy:354
 translate japanese block_00000AAB_b347f5d6:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "正好也很久没去了，\n你要不要也陪我去看看呢。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "せっかくだから、久しく詣ろうかな。\n君も一緒にどうだい。"
 
 # game/content/file_00000A74.rpy:602
 translate japanese block_00000A89_2d77f538:

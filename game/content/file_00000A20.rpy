@@ -467,7 +467,7 @@ label block_00000A73:
     show rs_image_A68CA26FBD59461E9325D30C41EC4694 as tag_3482C372784E44A89E382266A93F2B14 zorder zorder_tag_3482C372784E44A89E382266A93F2B14 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    extend "总觉得有种非常不详的预感。\n……错觉？"
+    extend "总觉得有种非常不祥的预感。\n……错觉？"
 
     if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
@@ -648,7 +648,7 @@ label block_000025D2:
     show rs_image_3D1658550AAD4B23B72B22E477CAE581 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "原来如此。"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "什么嘛，这样啊。"
 
     hide tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -894,7 +894,7 @@ label block_000025BC:
     show rs_image_4DE7491D04004FC5BE18A0FEB043C1BF as tag_E99970E1386B453DAF81C3AE2C72BE8E zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_53FF68C192E3494AB005C1909579AFFB "再说一起，抱歉，请让我拍张照。{w}\n{nw}"
+    rs_character_53FF68C192E3494AB005C1909579AFFB "再说一次，抱歉，请让我拍张照。{w}\n{nw}"
     if sys_effect2_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Inspiration 1.ogg"
@@ -1015,7 +1015,7 @@ label block_000025BC:
 
     window show
 
-    rs_character_EFC67D522B5F4615BFAE716D87F58204 "……不愧是御咲学园……和传闻一样全是怪人……"
+    rs_character_EFC67D522B5F4615BFAE716D87F58204 "……不愧是御咲学园……和传闻一样全是超有个性的人……"
 
     show rs_image_3D1658550AAD4B23B72B22E477CAE581 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01

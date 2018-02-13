@@ -4,25 +4,25 @@
 translate japanese block_00001C2A_1ad3dd41:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "你好。你是御咲学园的学生呐。\n学校生活如何？\n我还在上学的时候也很不守规矩的。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "こんにちは。君は御咲学園の学生だね。\n学校は楽しいか？\n私も学生の頃ははしゃぎ回ったものだ。"
 
 # game/content/file_00001BFC.rpy:343
 translate japanese block_00001C2A_19b3c417:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "当时学校里流传着{color=#3A00C4}禁忌之箱{/color}的传说。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "当時は、学園のどこかに{color=#3A00C4}忌まわしき箱{/color}があると噂されてな。"
 
 # game/content/file_00001BFC.rpy:348
 translate japanese block_00001C2A_27436184:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "于是和朋友在夜里偷偷四处寻找，\n结果反而被老师逮到，骂了个狗血淋头。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "友人と夜中に忍び込んで探し回ったんだが、\n逆に私たちが当直の先生に見つかり、\nお叱りを受けてしまった。"
 
 # game/content/file_00001BFC.rpy:353
 translate japanese block_00001C2A_3dfb247d:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "现在想来也是一段不错的回忆。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "今となっては良い思い出だよ。"
 
 # game/content/file_00001BFC.rpy:453
 translate japanese block_00003139_413e7169:

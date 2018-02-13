@@ -178,43 +178,43 @@ translate japanese block_000010C0_631548a5:
 translate japanese block_000010BB_27fb26ab:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "你好。你来过这家花乃汤吗？\n店长的儿子应该比你大一些。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "こんにちは。花乃湯へは入ったことはあるかい。\n番頭の子は、君たちと同い年ぐらいだろう。"
 
 # game/content/file_00001097.rpy:943
 translate japanese block_000010BB_79c1c555:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "最近经常见到慎太郎君的朋友来呢。\n……那孩子来的时候店里气氛真的非常愉快。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "最近は、慎太郎くんのお友達もよく見るよ。\n……あの子が来てから、より店が活気づいたようだ。"
 
 # game/content/file_00001097.rpy:948
 translate japanese block_000010BB_772b1d8e:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "以后会成为每天必来的休息场所吧。\n你放学后也可以来看看。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "これからは、毎日通える、憩いの場となるだろう。\n君も学校帰りに寄るといい。"
 
 # game/content/file_00001097.rpy:1003
 translate japanese block_00004270_27fb26ab:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "你好。你来过这家花乃汤吗？\n店长的儿子应该比你大一些。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "こんにちは。花乃湯へは入ったことはあるかい。\n番頭の子は、君たちと同い年ぐらいだろう。"
 
 # game/content/file_00001097.rpy:1008
 translate japanese block_00004270_4cd9aa68:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "这家店也是很有年头了。\n以前社团活动结束时总是来这里放松。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "ここは昔からある老舗の銭湯屋でな、\n部活終わりに汗を流すと、疲れもスゥッと取れるぞ。"
 
 # game/content/file_00001097.rpy:1013
 translate japanese block_00004270_23da205f:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "啊……不过，周三会有特别的客人来，那一天就算了。\n{w=0.4}{nw}"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "ああ……ただ、水曜日は特別な客が来るから、遠慮しなさい。\n{w=0.4}{nw}"
 
 # game/content/file_00001097.rpy:1017
 translate japanese block_00004270_f9ecb5d7:
 
     # extend "……那孩子也是，这么下去真的很担心啊……"
-    extend ""
+    extend "……あの子も、そうしてくれるとよいのだが。"
 
 # game/content/file_00001097.rpy:1122
 translate japanese block_000025F1_55b07c19:

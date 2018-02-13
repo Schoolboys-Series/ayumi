@@ -123,7 +123,7 @@ translate english block_00000A73_f1c21d2d:
 # game/content/file_00000A20.rpy:470
 translate english block_00000A73_877f4235:
 
-    # extend "总觉得有种非常不详的预感。\n……错觉？"
+    # extend "总觉得有种非常不祥的预感。\n……错觉？"
     extend ""
 
 # game/content/file_00000A20.rpy:479
@@ -171,7 +171,7 @@ translate english block_000025D2_87b19615:
 # game/content/file_00000A20.rpy:651
 translate english block_000025D2_2146c903:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "原来如此。"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "什么嘛，这样啊。"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00000A20.rpy:872
@@ -201,7 +201,7 @@ translate english block_000025BC_7def6f08:
 # game/content/file_00000A20.rpy:897
 translate english block_000025BC_6d4bc239:
 
-    # rs_character_53FF68C192E3494AB005C1909579AFFB "再说一起，抱歉，请让我拍张照。{w}\n{nw}"
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "再说一次，抱歉，请让我拍张照。{w}\n{nw}"
     rs_character_53FF68C192E3494AB005C1909579AFFB ""
 
 # game/content/file_00000A20.rpy:902
@@ -279,7 +279,7 @@ translate english block_000025BC_326622fa:
 # game/content/file_00000A20.rpy:1018
 translate english block_000025BC_ad228e7f:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "……不愧是御咲学园……和传闻一样全是怪人……"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "……不愧是御咲学园……和传闻一样全是超有个性的人……"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_00000A20.rpy:1023

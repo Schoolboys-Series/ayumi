@@ -334,7 +334,7 @@ init -1:
     define rs_character_7C178421D3DA4E2CB70D4336919888FB = Character(_("杉本志"), who_color="#0099FF")
     define rs_character_2F154AE49ED54A70AEA327A36C670DDB = Character(_("店长"), who_color="#0099FF")
     define rs_character_6F33979BA6C944E5A96C6C4DD753C97F = Character(_("贝——"), who_color="#0099FF")
-    define rs_character_8BBC857C6E294BDE95097DFAE78C001F = Character(_("黑——"), who_color="#0099FF")\
+    define rs_character_8BBC857C6E294BDE95097DFAE78C001F = Character(_("黑——"), who_color="#0099FF")
     define rs_character_174D79C3A78E4614A51BFD2F8EDAB6F5 = Character(_("学弟A"), who_color="#0099FF")
     define rs_character_455603C2553D4277B6ECD554559077B5 = Character(_("学弟B"), who_color="#0099FF")
     define rs_character_065976138EB54B28BD31055407272C67 = Character(_("学生A"), who_color="#0099FF")

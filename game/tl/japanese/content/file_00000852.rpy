@@ -202,7 +202,7 @@ translate japanese block_00002B0D_7da0d188:
 translate japanese block_00000894_d2b5a299:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "你好。你来过这家花乃汤吗？\n店长的儿子应该和你同年。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "こんにちは。花乃湯へは入ったことはあるかい。\n番頭の子は、君たちと同い年ぐらいだろう。"
 
 # game/content/file_00000852.rpy:1125
 translate japanese block_00000894_4cd9aa68:

@@ -428,3 +428,11 @@ translate japanese strings:
     old "正在快进"
     new "スキップ中"
 
+# TODO: Translation updated at 2018-02-13 09:35
+
+translate japanese strings:
+
+    # screens.rpy:1105
+    old "回到下一句台词，前提是看过"
+    new "ロールバック中、次の台詞に進む。"
+

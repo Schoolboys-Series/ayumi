@@ -58,91 +58,91 @@ translate japanese block_00003E16_c85a9104:
 translate japanese block_00003E35_1ad3dd41:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "你好。你是御咲学园的学生呐。\n学校生活如何？\n我还在上学的时候也很不守规矩的。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "こんにちは。君は御咲学園の学生だね。\n学校は楽しいか？\n私も学生の頃ははしゃぎ回ったものだ。"
 
 # game/content/file_00003CE2.rpy:732
 translate japanese block_00003E35_19b3c417:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "当时学校里流传着{color=#3A00C4}禁忌之箱{/color}的传说。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "当時は、学園のどこかに{color=#3A00C4}忌まわしき箱{/color}があると噂されてな。"
 
 # game/content/file_00003CE2.rpy:737
 translate japanese block_00003E35_27436184:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "于是和朋友在夜里偷偷四处寻找，\n结果反而被老师逮到，骂了个狗血淋头。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "友人と夜中に忍び込んで探し回ったんだが、\n逆に私たちが当直の先生に見つかり、\nお叱りを受けてしまった。"
 
 # game/content/file_00003CE2.rpy:742
 translate japanese block_00003E35_3dfb247d:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "现在想来也是一段不错的回忆。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "今となっては良い思い出だよ。"
 
 # game/content/file_00003CE2.rpy:771
 translate japanese block_00003E33_8479277b:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "你好。你来过这家花乃汤吗。\n店长的儿子应该和你同年。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "こんにちは。花乃湯へは入ったことはあるかい。\n番頭の子は、君たちと同い年ぐらいだろう。"
 
 # game/content/file_00003CE2.rpy:776
 translate japanese block_00003E33_4cd9aa68:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "这家店也是很有年头了。\n以前社团活动结束时总是来这里放松。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "ここは昔からある老舗の銭湯屋でな、\n部活終わりに汗を流すと、疲れもスゥッと取れるぞ。"
 
 # game/content/file_00003CE2.rpy:781
 translate japanese block_00003E33_23da205f:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "啊……不过，周三会有特别的客人来，那一天就算了。\n{w=0.4}{nw}"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "ああ……ただ、水曜日は特別な客が来るから、遠慮しなさい。\n{w=0.4}{nw}"
 
 # game/content/file_00003CE2.rpy:785
 translate japanese block_00003E33_f9ecb5d7:
 
     # extend "……那孩子也是，这么下去真的很担心啊……"
-    extend ""
+    extend "……あの子も、そうしてくれるとよいのだが。"
 
 # game/content/file_00003CE2.rpy:814
 translate japanese block_00003E34_8479277b:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "你好。你来过这家花乃汤吗。\n店长的儿子应该和你同年。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "こんにちは。花乃湯へは入ったことはあるかい。\n番頭の子は、君たちと同い年ぐらいだろう。"
 
 # game/content/file_00003CE2.rpy:819
 translate japanese block_00003E34_79c1c555:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "最近经常见到慎太郎君的朋友来呢。\n……那孩子来的时候店里气氛真的非常愉快。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "最近は、慎太郎くんのお友達もよく見るよ。\n……あの子が来てから、より店が活気づいたようだ。"
 
 # game/content/file_00003CE2.rpy:824
 translate japanese block_00003E34_772b1d8e:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "以后会成为每天必来的休息场所吧。\n你放学后也可以来看看。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "これからは、毎日通える、憩いの場となるだろう。\n君も学校帰りに寄るといい。"
 
 # game/content/file_00003CE2.rpy:853
 translate japanese block_00003E36_c7a14f95:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "你好。今天天气真不错。\n晴朗温暖，稍不注意就会睡过去。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "こんにちは。今日も良い天気だね。\nうららかで、つい眠くなってしまう。"
 
 # game/content/file_00003CE2.rpy:858
 translate japanese block_00003E36_0722beae:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "从学校来的路上，\nY字路口右转有一间神社。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "学校からここへ来る途中、\nY字路を右に進むと神社があるだろう。"
 
 # game/content/file_00003CE2.rpy:860
 translate japanese block_00003E36_fa904329:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "那里祭祀的是很灵验的梦境之神，\n似乎能让人{color=#808000}做想做的梦{/color}。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "あそこは眠りの神様を祀る、霊験あらたかな神社でな、\n{color=#808000}お詣りをした者の望む夢{/color}が見られるそうだ。"
 
 # game/content/file_00003CE2.rpy:865
 translate japanese block_00003E36_b347f5d6:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "正好也很久没去了，\n你要不要也陪我去看看呢。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 ""
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "せっかくだから、久しく詣ろうかな。\n君も一緒にどうだい。"
 
 # game/content/file_00003CE2.rpy:978
 translate japanese block_00003E84_c613b6e8:

@@ -1102,7 +1102,7 @@ screen gamepad_help():
         text _("回到上一句，很适合点得太快漏下句子的情况")
     hbox:
         label _("RB")
-        text _("ロールバック中、次の台詞に進む。")
+        text _("回到下一句台词，前提是看过")
     hbox:
         label _("D-Pad/摇杆")
         text _("当鼠标用")
