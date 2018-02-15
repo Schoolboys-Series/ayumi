@@ -63,7 +63,7 @@ translate english block_00003706_61c53ce4:
 # game/content/file_00003703.rpy:128
 translate english block_00003706_37504741:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "五、五万！？八年的零花钱……{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "五、五万！？八年的零花钱……\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003703.rpy:132
@@ -237,7 +237,7 @@ translate english block_00003706_03b8f5f9:
 # game/content/file_00003703.rpy:412
 translate english block_00003706_71909082:
 
-    # rs_character_81D16F74A3C44B8982DB528D7D934850 "可现在当然就只能决定是月了……{w}\n{nw}"
+    # rs_character_81D16F74A3C44B8982DB528D7D934850 "可现在当然就只能决定是月了……\n"
     rs_character_81D16F74A3C44B8982DB528D7D934850 ""
 
 # game/content/file_00003703.rpy:426
@@ -321,7 +321,7 @@ translate english block_00003706_ef39a9b4:
 # game/content/file_00003703.rpy:541
 translate english block_00003706_f3d2bf2f:
 
-    # rs_character_81D16F74A3C44B8982DB528D7D934850 "长点心啊班长。{w}\n{nw}"
+    # rs_character_81D16F74A3C44B8982DB528D7D934850 "长点心啊班长。\n"
     rs_character_81D16F74A3C44B8982DB528D7D934850 ""
 
 # game/content/file_00003703.rpy:545
@@ -381,7 +381,7 @@ translate english block_00003706_b276905c:
 # game/content/file_00003703.rpy:598
 translate english block_00003706_c1b32b58:
 
-    # rs_character_81D16F74A3C44B8982DB528D7D934850 "作为班长，你怎么想？{w}\n{nw}"
+    # rs_character_81D16F74A3C44B8982DB528D7D934850 "作为班长，你怎么想？\n"
     rs_character_81D16F74A3C44B8982DB528D7D934850 ""
 
 # game/content/file_00003703.rpy:603
@@ -591,7 +591,7 @@ translate english block_00003706_c7655316:
 # game/content/file_00003703.rpy:870
 translate english block_00003706_b26bd360:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "嗯，可以哦！{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "嗯，可以哦！\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003703.rpy:874
@@ -633,7 +633,7 @@ translate english block_00003706_ae3c0ddd:
 # game/content/file_00003703.rpy:965
 translate english block_00003706_67ca0d6d:
 
-    # rs_character_2F154AE49ED54A70AEA327A36C670DDB "请慢用。{w}\n{nw}"
+    # rs_character_2F154AE49ED54A70AEA327A36C670DDB "请慢用。\n"
     rs_character_2F154AE49ED54A70AEA327A36C670DDB ""
 
 # game/content/file_00003703.rpy:974
@@ -993,7 +993,7 @@ translate english block_00003707_5062fe79:
 # game/content/file_00003703.rpy:1510
 translate english block_00003707_9a0a5b49:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "啊啦，二班的各位啊！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "啊啦，二班的各位啊！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003703.rpy:1512
@@ -1095,7 +1095,7 @@ translate english block_00003707_5a97f6fc:
 # game/content/file_00003703.rpy:1677
 translate english block_00003707_12886fb6:
 
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "别那么形容别人！{w}\n{nw}"
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "别那么形容别人！\n"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00003703.rpy:1685
@@ -1107,7 +1107,7 @@ translate english block_00003707_2903c25b:
 # game/content/file_00003703.rpy:1695
 translate english block_00003707_6e420f4e:
 
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "获胜的话，要找谁去比较好呐。{w}\n{nw}"
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "获胜的话，要找谁去比较好呐。\n"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00003703.rpy:1704
@@ -1401,7 +1401,7 @@ translate english block_00003707_16fc7c9e:
 # game/content/file_00003703.rpy:2151
 translate english block_00003707_176d4ca8:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "空……{w}\n{nw}"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "空……\n"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00003703.rpy:2155
@@ -1653,7 +1653,7 @@ translate english block_00003708_44e25820:
 # game/content/file_00003703.rpy:2514
 translate english block_00003708_f3299f67:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "裁判的判定……{w}\n{nw}"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "裁判的判定……\n"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003703.rpy:2522
@@ -1935,7 +1935,7 @@ translate english block_00003708_3fd86852:
 # game/content/file_00003703.rpy:2944
 translate english block_00003708_1d9d94e2:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "……明白了，这次就由我来背负一班大家的期望了。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "……明白了，这次就由我来背负一班大家的期望了。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003703.rpy:2978
@@ -2265,7 +2265,7 @@ translate english block_00003709_82f57fa1:
 # game/content/file_00003703.rpy:3534
 translate english block_00003709_bc55958b:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "所以，对于我们被比较这件事，最近也就不那么敏感了。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "所以，对于我们被比较这件事，最近也就不那么敏感了。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003703.rpy:3538
@@ -2595,7 +2595,7 @@ translate english block_00003709_66596e64:
 # game/content/file_00003703.rpy:3933
 translate english block_00003709_00836b95:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "唔。其实，唔………{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "唔。其实，唔………\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003703.rpy:3947
@@ -2817,7 +2817,7 @@ translate english block_00003709_0c550947:
 # game/content/file_00003703.rpy:4147
 translate english block_00003709_9f49e509:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "……！{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "……！\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003703.rpy:4159
@@ -3147,7 +3147,7 @@ translate english block_00003709_e8c3d779:
 # game/content/file_00003703.rpy:4488
 translate english block_00003709_9b2d3e67:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "是吗。{w}\n{nw}"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "是吗。\n"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00003703.rpy:4492

@@ -151,10 +151,10 @@ translate japanese block_000025EE_71661e69:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "えっとね……。"
 
 # game/content/file_00000BD5.rpy:736
-translate japanese block_000025EE_146acaba:
+translate japanese block_000025EE_b4da49e6:
 
-    # rs_character_53FF68C192E3494AB005C1909579AFFB "原来如此。也就是说，传闻的“花子君”{w}\n{nw}"
-    rs_character_53FF68C192E3494AB005C1909579AFFB "なるほど。つまり、噂の『花子くん』は、{w}\n{nw}"
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "原来如此。也就是说，传闻的“花子君”\n"
+    rs_character_53FF68C192E3494AB005C1909579AFFB "なるほど。つまり、噂の『花子くん』は、\n"
 
 # game/content/file_00000BD5.rpy:741
 translate japanese block_000025EE_f4718683:
@@ -205,7 +205,7 @@ translate japanese block_000025EE_a0e3e598:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "シーン……。"
 
 # game/content/file_00000BD5.rpy:825
-translate japanese block_000025EE_48b8bc7b:
+translate japanese block_000025EE_34a5cbd4:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "啊，抱歉，森海同学。{w}\n这次也很感谢，请收好报酬。"
     rs_character_53FF68C192E3494AB005C1909579AFFB "あ、失礼しました。森海さん、\n今回もありがとうございます。{w}\nこちらが報酬です。"
@@ -323,12 +323,3 @@ translate japanese block_00000BD8_60b0e0ae:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『尽快回家为好。』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『夜道に気をつけて\nお家へ帰りましょう。』{/color}"
-
-# TODO: Translation updated at 2018-01-28 10:11
-
-# game/content/file_00000BD5.rpy:825
-translate japanese block_000025EE_34a5cbd4:
-
-    # rs_character_53FF68C192E3494AB005C1909579AFFB "啊，抱歉，森海同学。{w}\n这次也很感谢，请收好报酬。"
-    rs_character_53FF68C192E3494AB005C1909579AFFB "あ、失礼しました。森海さん、\n今回もありがとうございます。{w}\nこちらが報酬です。"
-

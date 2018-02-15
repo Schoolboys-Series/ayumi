@@ -25,10 +25,10 @@ translate japanese block_00000AAB_b347f5d6:
     rs_character_6E3CA81A269B47A3B5128DB98C414527 "せっかくだから、久しく詣ろうかな。\n君も一緒にどうだい。"
 
 # game/content/file_00000A74.rpy:602
-translate japanese block_00000A89_2d77f538:
+translate japanese block_00000A89_4ab46720:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "啊，小翼！{w}\n{nw}"
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "あ、ツバサちゃん！{w}\n{nw}"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "啊，小翼！\n"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "あ、ツバサちゃん！\n"
 
 # game/content/file_00000A74.rpy:610
 translate japanese block_00000A89_721efd69:
@@ -445,10 +445,10 @@ translate japanese block_00003A7B_354c925e:
     rs_character_87ED686ED78C4AB6909895FBBBE8A60B "クゥーン……。"
 
 # game/content/file_00000A74.rpy:1523
-translate japanese block_000025CE_abbdc765:
+translate japanese block_000025CE_7e7a1ba0:
 
-    # rs_character_EA79386263E543A88D4DC03B8BD44485 "啊，是作哉哥！{w}\n{nw}"
-    rs_character_EA79386263E543A88D4DC03B8BD44485 "あ、作兄ぃたちだ！{w}\n{nw}"
+    # rs_character_EA79386263E543A88D4DC03B8BD44485 "啊，是作哉哥！\n"
+    rs_character_EA79386263E543A88D4DC03B8BD44485 "あ、作兄ぃたちだ！\n"
 
 # game/content/file_00000A74.rpy:1527
 translate japanese block_000025CE_00b130f7:
@@ -563,4 +563,3 @@ translate japanese strings:
     # content\file_00000A74.rpy:1164
     old "{size=29}谢谢！最——喜欢四朗了！{/size}"
     new "{size=29}ありがとう！四朗だーいすき！{/size}"
-

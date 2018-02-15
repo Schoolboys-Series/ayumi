@@ -67,9 +67,9 @@ translate japanese block_00000801_dea9146c:
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000002C5.rpy:268
-translate japanese block_00000801_69ae6b65:
+translate japanese block_00000801_287d053b:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "{size=32}噫呀啊啊啊啊！有、有狗！？{/size}{w}\n{nw}"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "{size=32}噫呀啊啊啊啊！有、有狗！？{/size}\n"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000002C5.rpy:276
@@ -241,9 +241,9 @@ translate japanese block_00000800_d1ca995e:
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_000002C5.rpy:1055
-translate japanese block_00000800_59f1abdc:
+translate japanese block_00000800_83f95f96:
 
-    # rs_character_EA79386263E543A88D4DC03B8BD44485 "欸～！{w}\n{nw}"
+    # rs_character_EA79386263E543A88D4DC03B8BD44485 "欸～！\n"
     rs_character_EA79386263E543A88D4DC03B8BD44485 ""
 
 # game/content/file_000002C5.rpy:1059
@@ -339,4 +339,3 @@ translate japanese strings:
     # content\file_000002C5.rpy:900
     old "公园"
     new ""
-

@@ -91,9 +91,9 @@ translate japanese block_00003902_d2167258:
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_000038FF.rpy:252
-translate japanese block_00003902_5346a7f9:
+translate japanese block_00003902_06d674ae:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "对了你在看什么书？{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "对了你在看什么书？\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_000038FF.rpy:265
@@ -271,9 +271,9 @@ translate japanese block_00003902_3174be2f:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000038FF.rpy:450
-translate japanese block_00003902_d289d5e5:
+translate japanese block_00003902_e4af01b4:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "啊，这样，嗯……{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "啊，这样，嗯……\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_000038FF.rpy:458
@@ -655,7 +655,7 @@ translate japanese block_00003902_9d8d29ee:
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_000038FF.rpy:1063
-translate japanese block_00003902_85c17073:
+translate japanese block_00003902_2bdf527e:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "正是如此！\n这次介绍给三朗前辈的快乐源泉，正是眼前的道具！"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
@@ -1027,9 +1027,9 @@ translate japanese block_00003902_89360eed:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000038FF.rpy:1742
-translate japanese block_00003902_d45f60ed:
+translate japanese block_00003902_191a2463:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "{color=#FF80C0}哈啊、啊啊啊！！{/color}{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "{color=#FF80C0}哈啊、啊啊啊！！{/color}\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_000038FF.rpy:1747
@@ -1093,9 +1093,9 @@ translate japanese block_00003902_64b6835f:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000038FF.rpy:1843
-translate japanese block_00003902_72b77a87:
+translate japanese block_00003902_b0158e31:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "哈……哈……{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "哈……哈……\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_000038FF.rpy:1851
@@ -1141,9 +1141,9 @@ translate japanese block_00003902_f9b1873b:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000038FF.rpy:1900
-translate japanese block_00003902_e2421ecc:
+translate japanese block_00003902_9af0ebd6:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "师父……{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "师父……\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_000038FF.rpy:1908
@@ -1171,9 +1171,9 @@ translate japanese block_00003902_8bb52f72:
     rs_character_A82533A004F246E9ABF29675BC420B77 ""
 
 # game/content/file_000038FF.rpy:1988
-translate japanese block_00003902_6bdf8ea7:
+translate japanese block_00003902_b73c0832:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "委身于成人话题，追逐于无上愉悦，这就是，森海教的精髓……{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "委身于成人话题，追逐于无上愉悦，这就是，森海教的精髓……\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000038FF.rpy:2002
@@ -1483,9 +1483,9 @@ translate japanese block_00003902_eaa794cd_1:
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_000038FF.rpy:2560
-translate japanese block_00003902_4ba80393:
+translate japanese block_00003902_d6e00533:
 
-    # extend "笨蛋——{w}\n{nw}"
+    # extend "笨蛋——\n"
     extend ""
 
 # game/content/file_000038FF.rpy:2565
@@ -1499,12 +1499,3 @@ translate japanese strings:
     # content\file_000038FF.rpy:26
     old "「寻求刺激·解」"
     new ""
-
-# TODO: Translation updated at 2018-01-28 10:11
-
-# game/content/file_000038FF.rpy:1063
-translate japanese block_00003902_2bdf527e:
-
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "正是如此！\n这次介绍给三朗前辈的快乐源泉，正是眼前的道具！"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
-

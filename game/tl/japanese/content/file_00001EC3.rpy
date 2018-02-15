@@ -43,9 +43,9 @@ translate japanese block_00001F10_0b82aa43:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001EC3.rpy:283
-translate japanese block_00001F10_e8d467e0:
+translate japanese block_00001F10_c372fadc:
 
-    # rs_character_8D9249CA1389416BAF6A122851E276D0 "友、友君真是的。{w}\n{nw}"
+    # rs_character_8D9249CA1389416BAF6A122851E276D0 "友、友君真是的。\n"
     rs_character_8D9249CA1389416BAF6A122851E276D0 ""
 
 # game/content/file_00001EC3.rpy:287
@@ -61,9 +61,9 @@ translate japanese block_00001F10_a4fb3e71:
     rs_character_A751683772E84A83B9CDA0EADC2D57CE ""
 
 # game/content/file_00001EC3.rpy:311
-translate japanese block_00001F10_cd210417:
+translate japanese block_00001F10_53671144:
 
-    # rs_character_8D9249CA1389416BAF6A122851E276D0 "嗯。{w}\n{nw}"
+    # rs_character_8D9249CA1389416BAF6A122851E276D0 "嗯。\n"
     rs_character_8D9249CA1389416BAF6A122851E276D0 ""
 
 # game/content/file_00001EC3.rpy:315
@@ -79,9 +79,9 @@ translate japanese block_00001F10_3722dabe:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001EC3.rpy:333
-translate japanese block_00001F10_9f2ab4c9:
+translate japanese block_00001F10_1d90a28c:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "部内有恋人是什么样的感觉呢。\n双方都能互相关照真好。{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "部内有恋人是什么样的感觉呢。\n双方都能互相关照真好。\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001EC3.rpy:338
@@ -103,9 +103,9 @@ translate japanese block_00001F0E_4e9abc44:
     rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 ""
 
 # game/content/file_00001EC3.rpy:545
-translate japanese block_00001F0E_d73498eb:
+translate japanese block_00001F0E_7d0623fd:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哈哈。现在我也是有社团活动的好孩子了♪{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哈哈。现在我也是有社团活动的好孩子了♪\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001EC3.rpy:550
@@ -127,9 +127,9 @@ translate japanese block_00001F0E_e49d1ede:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001EC3.rpy:572
-translate japanese block_00001F0E_8ad3301f:
+translate japanese block_00001F0E_3dd1e56b:
 
-    # rs_character_81D16F74A3C44B8982DB528D7D934850 "班长听起来好伟大——{w}\n{nw}"
+    # rs_character_81D16F74A3C44B8982DB528D7D934850 "班长听起来好伟大——\n"
     rs_character_81D16F74A3C44B8982DB528D7D934850 ""
 
 # game/content/file_00001EC3.rpy:580
@@ -259,9 +259,9 @@ translate japanese block_00001F0B_d2816eec:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001EC3.rpy:1207
-translate japanese block_00001F0B_51b962b6:
+translate japanese block_00001F0B_f17436f1:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "是呐。{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "是呐。\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00001EC3.rpy:1211
@@ -313,9 +313,9 @@ translate japanese block_00001F0B_57b5715b:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001EC3.rpy:1276
-translate japanese block_00001F0B_88b296f2:
+translate japanese block_00001F0B_e1518f8c:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "这、不、这个……不、不是这样的！{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "这、不、这个……不、不是这样的！\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00001EC3.rpy:1280
@@ -331,9 +331,9 @@ translate japanese block_00001F0B_34f0cf19:
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00001EC3.rpy:1290
-translate japanese block_00001F0B_cdaf74bc:
+translate japanese block_00001F0B_e1371609:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "所、所以，我没有花心……{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "所、所以，我没有花心……\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00001EC3.rpy:1298
@@ -403,9 +403,9 @@ translate japanese block_00001F16_3ba2a778:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001EC3.rpy:1416
-translate japanese block_00001F16_7d680275:
+translate japanese block_00001F16_d7116bf3:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "嗯……是呐。{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "嗯……是呐。\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00001EC3.rpy:1420
@@ -467,4 +467,3 @@ translate japanese strings:
     # content\file_00001EC3.rpy:1505
     old "反正也是最后了……"
     new ""
-

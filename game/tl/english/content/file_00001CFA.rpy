@@ -183,7 +183,7 @@ translate english block_00001D24_2f1489c4:
 # game/content/file_00001CFA.rpy:903
 translate english block_00001D24_0b9e8528:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "哦哦——！！好萌——！！\n夕阳酱，现在这样子得分很高哦！{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "哦哦——！！好萌——！！\n夕阳酱，现在这样子得分很高哦！\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00001CFA.rpy:908
@@ -321,7 +321,7 @@ translate english block_000027F6_5425a354:
 # game/content/file_00001CFA.rpy:1249
 translate english block_000027F6_a2bd233f:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "两、两位冷静一下～！会给别人带来麻烦的～！{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "两、两位冷静一下～！会给别人带来麻烦的～！\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00001CFA.rpy:1257
@@ -431,7 +431,7 @@ translate english block_00001D24_ba18832d:
 # game/content/file_00001CFA.rpy:903
 translate english block_00001D24_4f6be67d:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "哦哦——！！好萌——！！\n夕阳酱，现在这样子得分很高哦！{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "哦哦——！！好萌——！！\n夕阳酱，现在这样子得分很高哦！\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # TODO: Translation updated at 2018-01-28 10:10

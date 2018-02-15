@@ -278,7 +278,7 @@ label block_00000FAD:
 
     window show
 
-    rs_character_87ED686ED78C4AB6909895FBBBE8A60B "嗯？\n这个人！和我有一样的气味！{w}\n{nw}"
+    rs_character_87ED686ED78C4AB6909895FBBBE8A60B "嗯？\n这个人！和我有一样的气味！\n"
     if sys_effect2_current_file != "sound/Effect Sound/Cute 3.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Cute 3.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Cute 3.ogg"
@@ -299,7 +299,7 @@ label block_00000FAD:
     show rs_image_0F53470581014EDC915440D02B59BEA0 as tag_E99970E1386B453DAF81C3AE2C72BE8E at center_bottom zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_86C6DB3C38A946C09D75722DCD2AE27B
 
-    rs_character_62324AD297554FE987C680452CEE232E "呜哇！？突然干什么！{w}\n{nw}"
+    rs_character_62324AD297554FE987C680452CEE232E "呜哇！？突然干什么！\n"
     show rs_image_B1728541CB614DC3B3B8761531DAF257 as tag_E99970E1386B453DAF81C3AE2C72BE8E zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
@@ -319,7 +319,7 @@ label block_00000FAD:
 
     rs_character_3B4C660F421B4BE392BB540B580F0339 "回来！！对不认识的人干什么！！"
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "快走了！{w}\n{nw}"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "快走了！\n"
     if sys_effect2_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Stupid 1.ogg"
@@ -823,7 +823,7 @@ label block_0000192D:
     show rs_image_79EEC8AD62B24332A4A9362795A61DC8 as tag_DD3F6E8E956D4F1BB1131F81FF9AA4F6 at center_bottom zorder zorder_tag_DD3F6E8E956D4F1BB1131F81FF9AA4F6 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_87ED686ED78C4AB6909895FBBBE8A60B "对的对的，是那样的哦！\n来玩游戏哦！四朗也要来！{w}\n{nw}"
+    rs_character_87ED686ED78C4AB6909895FBBBE8A60B "对的对的，是那样的哦！\n来玩游戏哦！四朗也要来！\n"
     if sys_effect2_current_file != "sound/Effect Sound/Attack 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Attack 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Attack 1.ogg"
@@ -1223,7 +1223,7 @@ label block_00000F89:
     show rs_image_E7FB89F14D554B59971676B5C3A3F54D as tag_A469B787E7E7466FA1613F380A4CBF41 zorder zorder_tag_A469B787E7E7466FA1613F380A4CBF41 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_87ED686ED78C4AB6909895FBBBE8A60B "因为我还是第一次来这里嘛！{w}\n{nw}"
+    rs_character_87ED686ED78C4AB6909895FBBBE8A60B "因为我还是第一次来这里嘛！\n"
     show rs_image_3C5D0D4B799A4546B33A77278DFD1EB2 as tag_A469B787E7E7466FA1613F380A4CBF41 zorder zorder_tag_A469B787E7E7466FA1613F380A4CBF41 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -1400,7 +1400,7 @@ label block_00000F89:
     show rs_image_EAA2EF7FB3CF4DC8B7F90D9F76D373E7 as tag_0C07D2341065492CB0EDF00452D574E1 zorder zorder_tag_0C07D2341065492CB0EDF00452D574E1 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "瞎说什么呢。{w}\n{nw}"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "瞎说什么呢。\n"
     show rs_image_11BEE6BBB8CC4F83AB49ED12C7653EDB as tag_0C07D2341065492CB0EDF00452D574E1 zorder zorder_tag_0C07D2341065492CB0EDF00452D574E1 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -1491,7 +1491,7 @@ label block_00000F89:
     show rs_image_D7FF18D0A8E140CE95D5B9C6EE2CC48D as tag_0C07D2341065492CB0EDF00452D574E1 at Transform(xpos=80, yalign=0.0) zorder zorder_tag_0C07D2341065492CB0EDF00452D574E1 onlayer master
     with rs_effect_BE44B9B57DE34031B0F7EB596C4CDC5E
 
-    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "诶！？哇、哇啊啊！？{w}\n{nw}"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "诶！？哇、哇啊啊！？\n"
     if sys_effect2_current_file != "sound/Effect Sound/Fall down 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Fall down 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Fall down 1.ogg"

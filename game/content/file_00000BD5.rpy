@@ -733,7 +733,7 @@ label block_000025EE:
 
     window show
 
-    rs_character_53FF68C192E3494AB005C1909579AFFB "原来如此。也就是说，传闻的“花子君”{w}\n{nw}"
+    rs_character_53FF68C192E3494AB005C1909579AFFB "原来如此。也就是说，传闻的“花子君”\n"
     if sys_effect2_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Strike 1.ogg"

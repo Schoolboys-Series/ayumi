@@ -319,9 +319,9 @@ translate japanese block_00003D94_47166e7e:
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_00003D91.rpy:386
-translate japanese block_00003D94_fa523d96:
+translate japanese block_00003D94_63571d12:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "我们明白了。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "我们明白了。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003D91.rpy:390
@@ -445,9 +445,9 @@ translate japanese block_000041F7_4ceba52f:
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00003D91.rpy:620
-translate japanese block_000041F7_7f12d51c:
+translate japanese block_000041F7_92d0bdb8:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "嗯，不过，明白得把握分寸这一点没变。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "嗯，不过，明白得把握分寸这一点没变。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003D91.rpy:624
@@ -655,9 +655,9 @@ translate japanese block_000041F7_74ed2993:
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003D91.rpy:908
-translate japanese block_000041F7_e307dcee:
+translate japanese block_000041F7_5bd8620a:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "……{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "……\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003D91.rpy:920
@@ -863,4 +863,3 @@ translate japanese strings:
     # content\file_00003D91.rpy:26
     old "「集合！御咲花车祭」"
     new ""
-

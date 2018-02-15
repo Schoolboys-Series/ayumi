@@ -25,7 +25,7 @@ translate japanese block_000016E2_29d966fc:
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_000016B7.rpy:327
-translate japanese block_000016E4_f72585cb:
+translate japanese block_000016E4_5a05b2ef:
 
     # rs_character_57471360F48A413AB843A4E46D8C5541 "森海同学他们是御咲学园的学生呢。"
     rs_character_57471360F48A413AB843A4E46D8C5541 ""
@@ -43,7 +43,7 @@ translate japanese block_000016E4_97029533:
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_000016B7.rpy:340
-translate japanese block_000016E4_79d6054b:
+translate japanese block_000016E4_fb56db34:
 
     # rs_character_57471360F48A413AB843A4E46D8C5541 "关系真近。这次一起来的人\n也觉得有些过去偶尔看到过。{w}\n尤其是奥村同学，说不定面对面见过。"
     rs_character_57471360F48A413AB843A4E46D8C5541 ""
@@ -127,7 +127,7 @@ translate japanese block_000016E4_ce5c5339:
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_000016B7.rpy:443
-translate japanese block_000016E7_9df43255:
+translate japanese block_000016E7_6f5c0657:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "阿夕{color=#008080}之前商谈的{/color}人，\n就是刚才那个吗？{nw}"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
@@ -151,9 +151,9 @@ translate japanese block_000016E7_d4a37c10:
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_000016B7.rpy:471
-translate japanese block_000016E7_6c99db1f:
+translate japanese block_000016E7_7aa3f92c:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "当然！我可是有保密义务的！{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "当然！我可是有保密义务的！\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_000016B7.rpy:479
@@ -193,7 +193,7 @@ translate japanese block_000016E7_a78e6aa1:
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_000016B7.rpy:536
-translate japanese block_000016E7_6eddb901:
+translate japanese block_000016E7_86cc8108:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "嗯嗯。也就是说，\n我们是有权利向阿夕要求礼物的！"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
@@ -223,9 +223,9 @@ translate japanese block_000016E1_a5966d5a:
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_000016B7.rpy:604
-translate japanese block_000016E1_ec36c510:
+translate japanese block_000016E1_6550a745:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "……{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "……\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_000016B7.rpy:612
@@ -241,9 +241,9 @@ translate japanese block_000016E1_5617609b:
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_000016B7.rpy:636
-translate japanese block_000016E1_b31b18d2:
+translate japanese block_000016E1_633fdfe1:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "你肯定是运动部的，肌肉挺好的。{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "你肯定是运动部的，肌肉挺好的。\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_000016B7.rpy:641
@@ -379,7 +379,7 @@ translate japanese block_000016E5_e5687595:
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_000016B7.rpy:878
-translate japanese block_000016E5_2d26a9d9:
+translate japanese block_000016E5_a2399bc3:
 
     # rs_character_EFC67D522B5F4615BFAE716D87F58204 "唔。就像是传说中的高达管家\n或者能干的Cook先生之类的？"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
@@ -403,9 +403,9 @@ translate japanese block_000016E5_36389cf6:
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_000016B7.rpy:1054
-translate japanese block_000016F0_d8715e55:
+translate japanese block_000016F0_b82fbd18:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "夕阳君的头发是橘色的……{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "夕阳君的头发是橘色的……\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000016B7.rpy:1059
@@ -475,9 +475,9 @@ translate japanese block_000016EF_c229b1a9:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000016B7.rpy:1212
-translate japanese block_000016EF_1bda1242:
+translate japanese block_000016EF_5f9a47f0:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "冷、冷静下来前辈！\n并没有那么奇怪哦？{w}\n{nw}"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "冷、冷静下来前辈！\n并没有那么奇怪哦？\n"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_000016B7.rpy:1217
@@ -511,9 +511,9 @@ translate japanese block_000016EF_23ad0da5:
     extend ""
 
 # game/content/file_000016B7.rpy:1247
-translate japanese block_000016EF_4c9e71ac:
+translate japanese block_000016EF_f0fb3155:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "诶，啊，这是魔法的副作用……{w}\n{nw}"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "诶，啊，这是魔法的副作用……\n"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_000016B7.rpy:1252
@@ -577,9 +577,9 @@ translate japanese block_000016F1_88738adb:
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_000016B7.rpy:1398
-translate japanese block_000016F1_53c75fee:
+translate japanese block_000016F1_f140591a:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "谁知道～\n一般都是纸巾之类的～？{w}\n{nw}"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "谁知道～\n一般都是纸巾之类的～？\n"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_000016B7.rpy:1403
@@ -655,9 +655,9 @@ translate japanese block_000016EC_fb78384d:
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_000016B7.rpy:1662
-translate japanese block_000016EC_a2671f68:
+translate japanese block_000016EC_a486f266:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "……也就是说，{w}\n{nw}"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "……也就是说，\n"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_000016B7.rpy:1667
@@ -817,9 +817,9 @@ translate japanese block_000016DD_8e7704de:
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_000016B7.rpy:2085
-translate japanese block_000016DD_9fa6cbce:
+translate japanese block_000016DD_6781825a:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "谢谢，能被这么说我很高兴。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "谢谢，能被这么说我很高兴。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_000016B7.rpy:2089
@@ -841,9 +841,9 @@ translate japanese block_000016DD_ed368cf1:
     extend ""
 
 # game/content/file_000016B7.rpy:2105
-translate japanese block_000016DD_e1e44dc9:
+translate japanese block_000016DD_0781a1bb:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "扫帚……这还真是个盲点。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "扫帚……这还真是个盲点。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_000016B7.rpy:2109
@@ -877,9 +877,9 @@ translate japanese block_000016DD_3bb3ea36:
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_000016B7.rpy:2177
-translate japanese block_000016DD_c9ca8008:
+translate japanese block_000016DD_c299401a:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "在听我说话吗？{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "在听我说话吗？\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_000016B7.rpy:2186
@@ -918,35 +918,4 @@ translate japanese strings:
 
 # TODO: Translation updated at 2018-01-28 08:59
 
-# game/content/file_000016B7.rpy:443
-translate japanese block_000016E7_6f5c0657:
-
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "阿夕{color=#008080}之前商谈的{/color}人，\n就是刚才那个吗？{nw}"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
-
-# game/content/file_000016B7.rpy:536
-translate japanese block_000016E7_86cc8108:
-
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "嗯嗯。也就是说，\n我们是有权利向阿夕要求礼物的！"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
-
-# TODO: Translation updated at 2018-01-28 10:11
-
-# game/content/file_000016B7.rpy:327
-translate japanese block_000016E4_5a05b2ef:
-
-    # rs_character_57471360F48A413AB843A4E46D8C5541 "森海同学他们是御咲学园的学生呢。"
-    rs_character_57471360F48A413AB843A4E46D8C5541 ""
-
-# game/content/file_000016B7.rpy:340
-translate japanese block_000016E4_fb56db34:
-
-    # rs_character_57471360F48A413AB843A4E46D8C5541 "关系真近。这次一起来的人\n也觉得有些过去偶尔看到过。{w}\n尤其是奥村同学，说不定面对面见过。"
-    rs_character_57471360F48A413AB843A4E46D8C5541 ""
-
-# game/content/file_000016B7.rpy:878
-translate japanese block_000016E5_a2399bc3:
-
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "唔。就像是传说中的高达管家\n或者能干的Cook先生之类的？"
-    rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 

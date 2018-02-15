@@ -51,7 +51,7 @@ translate english block_000023F2_53f2c498:
 # game/content/file_00000C24.rpy:589
 translate english block_000023F2_16408ba2:
 
-    # rs_character_41A906D279CA4677A6A2ED8CBE544459 "呀，欢迎，奥村君！{w}\n{nw}"
+    # rs_character_41A906D279CA4677A6A2ED8CBE544459 "呀，欢迎，奥村君！\n"
     rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
 
 # game/content/file_00000C24.rpy:593
@@ -117,7 +117,7 @@ translate english block_00000C5C_720304a4:
 # game/content/file_00000C24.rpy:700
 translate english block_00000C5C_15a70132:
 
-    # rs_character_53FF68C192E3494AB005C1909579AFFB "哦呀哦呀，如奥村同学这样的人居然都看不透我的感情。{w}\n{nw}"
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "哦呀哦呀，如奥村同学这样的人居然都看不透我的感情。\n"
     rs_character_53FF68C192E3494AB005C1909579AFFB ""
 
 # game/content/file_00000C24.rpy:704
@@ -273,7 +273,7 @@ translate english block_0000241D_744e3d61:
 # game/content/file_00000C24.rpy:1239
 translate english block_0000241D_0cf337e6:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不该出现点{color=#800080}某深夜动画{/color}那样的柴刀展开？{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不该出现点{color=#800080}某深夜动画{/color}那样的柴刀展开？\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00000C24.rpy:1253
@@ -441,7 +441,7 @@ translate english block_00000C47_e13b9cf5:
 # game/content/file_00000C24.rpy:1711
 translate english block_00000C47_67b3cead:
 
-    # rs_character_81D16F74A3C44B8982DB528D7D934850 "原来如此……{w}\n{nw}"
+    # rs_character_81D16F74A3C44B8982DB528D7D934850 "原来如此……\n"
     rs_character_81D16F74A3C44B8982DB528D7D934850 ""
 
 # game/content/file_00000C24.rpy:1724
@@ -459,7 +459,7 @@ translate english block_00000C47_ff8b2fc5:
 # game/content/file_00000C24.rpy:1739
 translate english block_00000C47_65b8d9be:
 
-    # rs_character_81D16F74A3C44B8982DB528D7D934850 "哦，没问题！{w}\n{nw}"
+    # rs_character_81D16F74A3C44B8982DB528D7D934850 "哦，没问题！\n"
     rs_character_81D16F74A3C44B8982DB528D7D934850 ""
 
 # game/content/file_00000C24.rpy:1747
@@ -591,7 +591,7 @@ translate english block_00000C44_de41fef6:
 # game/content/file_00000C24.rpy:2180
 translate english block_00000C44_2c5f597b:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "我会关注一下的。{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "我会关注一下的。\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00000C24.rpy:2185
@@ -639,7 +639,7 @@ translate english block_00000D27_bc57fa2a:
 # game/content/file_00000C24.rpy:2248
 translate english block_00000D27_c20a720d:
 
-    # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "也许？\n现在还没有这种感觉不过{w}\n{nw}"
+    # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "也许？\n现在还没有这种感觉不过\n"
     rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 ""
 
 # game/content/file_00000C24.rpy:2256
@@ -699,7 +699,7 @@ translate english block_00001F4B_a5d792f1:
 # game/content/file_00000C24.rpy:2416
 translate english block_00001F4B_338aa8ee:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "我是因为有必须去做的责任。{w}\n{nw}"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "我是因为有必须去做的责任。\n"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00000C24.rpy:2420
@@ -821,7 +821,7 @@ translate english block_000023F2_3ee096af:
 # game/content/file_00000C24.rpy:700
 translate english block_00000C5C_2229491a:
 
-    # rs_character_53FF68C192E3494AB005C1909579AFFB "哦呀哦呀，如奥村同学这样的人居然都看不透我的感情。{w}\n{nw}"
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "哦呀哦呀，如奥村同学这样的人居然都看不透我的感情。\n"
     rs_character_53FF68C192E3494AB005C1909579AFFB ""
 
 # game/content/file_00000C24.rpy:2075

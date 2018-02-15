@@ -25,13 +25,13 @@ translate japanese block_00001C2A_3dfb247d:
     rs_character_6E3CA81A269B47A3B5128DB98C414527 "今となっては良い思い出だよ。"
 
 # game/content/file_00001BFC.rpy:453
-translate japanese block_00003139_413e7169:
+translate japanese block_00003139_06586a54:
 
     # rs_character_62324AD297554FE987C680452CEE232E "忍同学，你好。"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00001BFC.rpy:458
-translate japanese block_00003139_ba924468:
+translate japanese block_00003139_f7592488:
 
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "朔同学，你好。\n能在这种地方相遇真是巧合呢。"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
@@ -139,7 +139,7 @@ translate japanese block_0000313E_54a4b59a:
     extend ""
 
 # game/content/file_00001BFC.rpy:812
-translate japanese block_0000313E_cd67aa7e:
+translate japanese block_0000313E_97040dc9:
 
     # rs_character_62324AD297554FE987C680452CEE232E "忍同学，今天就在这家店怎么样？\n能在这种地方相遇也算是缘分。"
     rs_character_62324AD297554FE987C680452CEE232E ""
@@ -175,13 +175,13 @@ translate japanese block_0000313E_6d625f01:
     rs_character_2F154AE49ED54A70AEA327A36C670DDB ""
 
 # game/content/file_00001BFC.rpy:857
-translate japanese block_0000313E_ebb0861e:
+translate japanese block_0000313E_9b28989e:
 
     # rs_character_62324AD297554FE987C680452CEE232E "没什么。那我们进去好了，忍同学。"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00001BFC.rpy:880
-translate japanese block_0000313E_be5100f8:
+translate japanese block_0000313E_7cbf968a:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#80FF80}我还没能告诉朔同学Mädchen Café\n究竟是一家什么样的店就被带到了店里。{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
@@ -205,7 +205,7 @@ translate japanese block_0000313E_946d59d5:
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_00001BFC.rpy:907
-translate japanese block_0000313E_54b8f41a:
+translate japanese block_0000313E_4931d904:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#80FF80}朔同学一开始还不愿意，最后也终于和店长关系好了一些，\n真是太好了。{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
@@ -227,42 +227,3 @@ translate japanese block_00001BFF_3f0d41bf:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『直接回家也没什么不好。』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
-
-# TODO: Translation updated at 2018-01-28 10:11
-
-# game/content/file_00001BFC.rpy:453
-translate japanese block_00003139_06586a54:
-
-    # rs_character_62324AD297554FE987C680452CEE232E "忍同学，你好。"
-    rs_character_62324AD297554FE987C680452CEE232E ""
-
-# game/content/file_00001BFC.rpy:458
-translate japanese block_00003139_f7592488:
-
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "朔同学，你好。\n能在这种地方相遇真是巧合呢。"
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
-
-# game/content/file_00001BFC.rpy:812
-translate japanese block_0000313E_97040dc9:
-
-    # rs_character_62324AD297554FE987C680452CEE232E "忍同学，今天就在这家店怎么样？\n能在这种地方相遇也算是缘分。"
-    rs_character_62324AD297554FE987C680452CEE232E ""
-
-# game/content/file_00001BFC.rpy:857
-translate japanese block_0000313E_9b28989e:
-
-    # rs_character_62324AD297554FE987C680452CEE232E "没什么。那我们进去好了，忍同学。"
-    rs_character_62324AD297554FE987C680452CEE232E ""
-
-# game/content/file_00001BFC.rpy:880
-translate japanese block_0000313E_7cbf968a:
-
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#80FF80}我还没能告诉朔同学Mädchen Café\n究竟是一家什么样的店就被带到了店里。{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
-
-# game/content/file_00001BFC.rpy:907
-translate japanese block_0000313E_4931d904:
-
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#80FF80}朔同学一开始还不愿意，最后也终于和店长关系好了一些，\n真是太好了。{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
-

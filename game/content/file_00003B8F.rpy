@@ -238,7 +238,7 @@ label block_00003B93:
     show rs_image_E47A96C261964823A2932F1C8BFCF258 as tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 zorder zorder_tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "期待什么的，说得和别人的事一样。{w}\n{nw}"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "期待什么的，说得和别人的事一样。\n"
     show rs_image_BA8F587A9CFC4AC38660F10FCCA9BD0C as tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 zorder zorder_tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -298,7 +298,7 @@ label block_00003B93:
         play effect "sound/Effect Sound/Attack 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Attack 1.ogg"
 
-    extend "正好！{w}\n{nw}"
+    extend "正好！\n"
     hide tag_3C0D2D9BB95B42AAA768FE8D105219CB
     with rs_effect_5B01D199AADA45BA90961FBE87B54477
 
@@ -870,7 +870,7 @@ label block_00003B93:
     show rs_image_F7C7F82F340647C1A7BB60DE2B1E06CA as tag_4233D225ED0D43968B3A0D890F587FEB zorder zorder_tag_4233D225ED0D43968B3A0D890F587FEB onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_7009C1117C004F51829614A203C67DE7 "倒不至于那么严重不过……{w}\n{nw}"
+    rs_character_7009C1117C004F51829614A203C67DE7 "倒不至于那么严重不过……\n"
     if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"
@@ -2580,7 +2580,7 @@ label block_00003B9F:
     show rs_image_BFEF6FC2749A4B06BF8978A9085171B6 as tag_4233D225ED0D43968B3A0D890F587FEB at center_top zorder zorder_tag_4233D225ED0D43968B3A0D890F587FEB onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_7009C1117C004F51829614A203C67DE7 "今天的午餐是我最喜欢的咖喱——♪{w}\n{nw}"
+    rs_character_7009C1117C004F51829614A203C67DE7 "今天的午餐是我最喜欢的咖喱——♪\n"
     if sys_effect_current_file != "sound/Effect Sound/Frustrated 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Frustrated 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Frustrated 1.ogg"
@@ -2603,7 +2603,7 @@ label block_00003B9F:
     show rs_image_107F1D49D8E64904B63165A87DBFC26D as tag_26CE4420E4BF43ADBA4E35F2A9784E98 at center_bottom zorder zorder_tag_26CE4420E4BF43ADBA4E35F2A9784E98 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_6C344A6C39F6479282A6BD884E3F8F11 "『此以咖……冠名之物，看似美味呐。{w}\n{nw}"
+    rs_character_6C344A6C39F6479282A6BD884E3F8F11 "『此以咖……冠名之物，看似美味呐。\n"
     if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
@@ -2710,7 +2710,7 @@ label block_00003B9F:
 
     rs_character_3B4C660F421B4BE392BB540B580F0339 "阿雪，又只剩下番茄了吗？之前也说过了，这次可不帮你了哦！"
 
-    rs_character_7009C1117C004F51829614A203C67DE7 "我知道……呜……捏住鼻子至少好点。{w}\n{nw}"
+    rs_character_7009C1117C004F51829614A203C67DE7 "我知道……呜……捏住鼻子至少好点。\n"
     if sys_effect_current_file != "sound/Effect Sound/Cute 3.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 3.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 3.ogg"
@@ -2855,7 +2855,7 @@ label block_00003B9F:
     show rs_image_7C3DD6AA3B724DE9984D6B1A9DC41316 as tag_4233D225ED0D43968B3A0D890F587FEB zorder zorder_tag_4233D225ED0D43968B3A0D890F587FEB onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_7009C1117C004F51829614A203C67DE7 "（其实还有更多详细的规则的，{w}\n{nw}"
+    rs_character_7009C1117C004F51829614A203C67DE7 "（其实还有更多详细的规则的，\n"
     if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"
@@ -3500,7 +3500,7 @@ label block_00003B9F:
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
-    rs_character_11D1DFF219FE44D6933AB9F3B6E8BBDA "贫僧知道了，谢谢小施主。{w}\n{nw}"
+    rs_character_11D1DFF219FE44D6933AB9F3B6E8BBDA "贫僧知道了，谢谢小施主。\n"
     if sys_effect_current_file != "sound/Effect Sound/Dash 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dash 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dash 1.ogg"
@@ -3682,7 +3682,7 @@ label block_00003B9F:
     show rs_image_E212CF3B4B47425FB1AEB250438B7593 as tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 zorder zorder_tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "相对的现在有人为的危险了……{w}\n{nw}"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "相对的现在有人为的危险了……\n"
     show rs_image_E47A96C261964823A2932F1C8BFCF258 as tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 zorder zorder_tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -3778,7 +3778,7 @@ label block_00003B9D:
 
     rs_character_104C616BEBAF48D8B6DC31A70290659F "唔哈哈哈，不用那么紧张。我们是来救助你的。"
 
-    rs_character_104C616BEBAF48D8B6DC31A70290659F "现在就从恶灵手中救你出来。{w}\n{nw}"
+    rs_character_104C616BEBAF48D8B6DC31A70290659F "现在就从恶灵手中救你出来。\n"
     if sys_effect_current_file != "sound/Effect Sound/Impact 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 2.ogg"
@@ -4626,7 +4626,7 @@ label block_00003B9D:
 
     rs_character_104C616BEBAF48D8B6DC31A70290659F "箱子的话这次就没什么折扣了。对了，这个工作是何处来的？"
 
-    rs_character_4DCC3C577A8D48B2BBAD4A0EEFF2D0AB "啊，是一所初高中一贯的男校。{w}\n{nw}"
+    rs_character_4DCC3C577A8D48B2BBAD4A0EEFF2D0AB "啊，是一所初高中一贯的男校。\n"
     if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"

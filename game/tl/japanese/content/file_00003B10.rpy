@@ -49,7 +49,7 @@ translate japanese block_00003B12_3cb12783:
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003B10.rpy:153
-translate japanese block_00003B12_cc89fb80:
+translate japanese block_00003B12_86f7ff4f:
 
     # rs_character_E3F6ADD43DE44A428E1224756613C694 "在听人说话嘛吗奥村同学？"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
@@ -79,9 +79,9 @@ translate japanese block_00003B12_c109bead:
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003B10.rpy:216
-translate japanese block_00003B12_9b2573aa:
+translate japanese block_00003B12_280b550a:
 
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "……新的对象……哈……算了。{w}\n{nw}"
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "……新的对象……哈……算了。\n"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00003B10.rpy:220
@@ -127,9 +127,9 @@ translate japanese block_00003B1A_3f0b45f5:
     extend ""
 
 # game/content/file_00003B10.rpy:384
-translate japanese block_00003B1A_7a8afaaa:
+translate japanese block_00003B1A_47e74501:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "其实，木村亲他……！！{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "其实，木村亲他……！！\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003B10.rpy:392
@@ -163,9 +163,9 @@ translate japanese block_00003B1A_b3450a24:
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003B10.rpy:468
-translate japanese block_00003B1A_c483347d:
+translate japanese block_00003B1A_5c1562d7:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "呼……哈……{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "呼……哈……\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003B10.rpy:476
@@ -241,9 +241,9 @@ translate japanese block_00003B27_16655726:
     rs_character_710A38AC94C841779DB701B5AC1010FD ""
 
 # game/content/file_00003B10.rpy:712
-translate japanese block_00003B27_d7ea1135:
+translate japanese block_00003B27_70579ef9:
 
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "……呼。{w=0.3}{w}\n{nw}"
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "……呼。{w=0.3}\n"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00003B10.rpy:720
@@ -343,7 +343,7 @@ translate japanese block_00003B27_95436b53:
     extend ""
 
 # game/content/file_00003B10.rpy:815
-translate japanese block_00003B27_0289b112:
+translate japanese block_00003B27_b6773955:
 
     # rs_character_E3F6ADD43DE44A428E1224756613C694 "和前任分手了。"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
@@ -517,9 +517,9 @@ translate japanese block_00003B27_4b311d4a:
     rs_character_710A38AC94C841779DB701B5AC1010FD ""
 
 # game/content/file_00003B10.rpy:1079
-translate japanese block_00003B27_923a344b:
+translate japanese block_00003B27_fe49f93b:
 
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "哦哦，很气人！！{w}\n{nw}"
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "哦哦，很气人！！\n"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00003B10.rpy:1083
@@ -889,9 +889,9 @@ translate japanese block_00003B27_54620e08:
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003B10.rpy:1632
-translate japanese block_00003B27_2603fe25:
+translate japanese block_00003B27_0e41903b:
 
-    # rs_character_710A38AC94C841779DB701B5AC1010FD "是、是嘛。那家伙确实也有经验呐！{w}\n{nw}"
+    # rs_character_710A38AC94C841779DB701B5AC1010FD "是、是嘛。那家伙确实也有经验呐！\n"
     rs_character_710A38AC94C841779DB701B5AC1010FD ""
 
 # game/content/file_00003B10.rpy:1636
@@ -1219,9 +1219,9 @@ translate japanese block_00003B1E_2997faaa:
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00003B10.rpy:2247
-translate japanese block_00003B1E_31fdf621:
+translate japanese block_00003B1E_42e1fe3e:
 
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "所以，一直窝在心里也不好，{w}\n{nw}"
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "所以，一直窝在心里也不好，\n"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00003B10.rpy:2252
@@ -1513,9 +1513,9 @@ translate japanese block_00003B1F_36e33f5a:
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00003B10.rpy:2807
-translate japanese block_00003B1F_37aa41b0:
+translate japanese block_00003B1F_a3c910b2:
 
-    # rs_character_710A38AC94C841779DB701B5AC1010FD "只要灯开着，夜里巡视的人肯定会发觉……{w}\n{nw}"
+    # rs_character_710A38AC94C841779DB701B5AC1010FD "只要灯开着，夜里巡视的人肯定会发觉……\n"
     rs_character_710A38AC94C841779DB701B5AC1010FD ""
 
 # game/content/file_00003B10.rpy:2815
@@ -1723,9 +1723,9 @@ translate japanese block_00003B1F_1c031b03:
     rs_character_710A38AC94C841779DB701B5AC1010FD ""
 
 # game/content/file_00003B10.rpy:3068
-translate japanese block_00003B1F_83ad0ff9:
+translate japanese block_00003B1F_fcbedb06:
 
-    # extend "是真的对你抱有恋爱感情！！{w}\n{nw}"
+    # extend "是真的对你抱有恋爱感情！！\n"
     extend ""
 
 # game/content/file_00003B10.rpy:3081
@@ -1837,9 +1837,9 @@ translate japanese block_00003B1F_dbfdd9bb:
     rs_character_710A38AC94C841779DB701B5AC1010FD ""
 
 # game/content/file_00003B10.rpy:3133
-translate japanese block_00003B1F_f330de33:
+translate japanese block_00003B1F_8c967d6f:
 
-    # rs_character_710A38AC94C841779DB701B5AC1010FD "……想要确认就干脆直接和我交往。{w}\n{nw}"
+    # rs_character_710A38AC94C841779DB701B5AC1010FD "……想要确认就干脆直接和我交往。\n"
     rs_character_710A38AC94C841779DB701B5AC1010FD ""
 
 # game/content/file_00003B10.rpy:3146
@@ -2053,9 +2053,9 @@ translate japanese block_00003B1F_981fbd16:
     rs_character_710A38AC94C841779DB701B5AC1010FD ""
 
 # game/content/file_00003B10.rpy:3481
-translate japanese block_00003B1F_e5280683:
+translate japanese block_00003B1F_07600845:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "嗯♪记得空出时间哦！{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "嗯♪记得空出时间哦！\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003B10.rpy:3485
@@ -2095,9 +2095,9 @@ translate japanese block_00003B1F_df3c4ee8:
     rs_character_710A38AC94C841779DB701B5AC1010FD ""
 
 # game/content/file_00003B10.rpy:3538
-translate japanese block_00003B1F_8b714f1d:
+translate japanese block_00003B1F_9992e4ef:
 
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "呼……好累啊～伊藤，毛巾拿来……{w}\n{nw}"
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "呼……好累啊～伊藤，毛巾拿来……\n"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00003B10.rpy:3543
@@ -2147,18 +2147,4 @@ translate japanese strings:
     new ""
 
 # TODO: Translation updated at 2018-01-28 10:11
-
-# game/content/file_00003B10.rpy:153
-translate japanese block_00003B12_86f7ff4f:
-
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "在听人说话嘛吗奥村同学？"
-    rs_character_E3F6ADD43DE44A428E1224756613C694 ""
-
-# TODO: Translation updated at 2018-02-04 00:48
-
-# game/content/file_00003B10.rpy:815
-translate japanese block_00003B27_b6773955:
-
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "和前任分手了。"
-    rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 

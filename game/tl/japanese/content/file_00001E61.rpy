@@ -1,9 +1,9 @@
 ﻿# TODO: Translation updated at 2018-01-27 16:27
 
 # game/content/file_00001E61.rpy:390
-translate japanese block_00001EBB_8747cda7:
+translate japanese block_00001EBB_a82c9077:
 
-    # rs_character_87ED686ED78C4AB6909895FBBBE8A60B "（狼吞虎咽……）{w}\n{nw}"
+    # rs_character_87ED686ED78C4AB6909895FBBBE8A60B "（狼吞虎咽……）\n"
     rs_character_87ED686ED78C4AB6909895FBBBE8A60B ""
 
 # game/content/file_00001E61.rpy:398
@@ -115,9 +115,9 @@ translate japanese block_00001EC1_eee946f1:
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00001E61.rpy:810
-translate japanese block_00001EC1_c9513aa3:
+translate japanese block_00001EC1_dc29bfea:
 
-    # extend "哦，白痴呆毛。{w}\n{nw}"
+    # extend "哦，白痴呆毛。\n"
     extend ""
 
 # game/content/file_00001E61.rpy:814
@@ -187,9 +187,9 @@ translate japanese block_00001E83_57b5bc2d:
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00001E61.rpy:1356
-translate japanese block_00001E83_20d0d586:
+translate japanese block_00001E83_1d6c3e90:
 
-    # rs_character_9EDF48057FB84D428D56198A69E2880E "认、认错人了～{color=#FF00FF}{b}////{/b}{/color}{w}\n{nw}"
+    # rs_character_9EDF48057FB84D428D56198A69E2880E "认、认错人了～{color=#FF00FF}{b}////{/b}{/color}\n"
     rs_character_9EDF48057FB84D428D56198A69E2880E ""
 
 # game/content/file_00001E61.rpy:1361
@@ -227,4 +227,3 @@ translate japanese block_00001E92_57ca3334:
 
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "如果友出什么意外……\n我是谁都不会放过的！"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
-

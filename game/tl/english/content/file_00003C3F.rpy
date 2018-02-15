@@ -69,7 +69,7 @@ translate english block_00003C47_35f079a1:
 # game/content/file_00003C3F.rpy:484
 translate english block_00003C47_e000e42e:
 
-    # rs_character_FB87619C890441AEA41E279A1B588CAC "哦呀哦呀，那可要快点去呐。{w}\n{nw}"
+    # rs_character_FB87619C890441AEA41E279A1B588CAC "哦呀哦呀，那可要快点去呐。\n"
     rs_character_FB87619C890441AEA41E279A1B588CAC ""
 
 # game/content/file_00003C3F.rpy:492

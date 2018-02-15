@@ -3,7 +3,7 @@
 # game/content/file_00001E61.rpy:390
 translate english block_00001EBB_8747cda7:
 
-    # rs_character_87ED686ED78C4AB6909895FBBBE8A60B "（狼吞虎咽……）{w}\n{nw}"
+    # rs_character_87ED686ED78C4AB6909895FBBBE8A60B "（狼吞虎咽……）\n"
     rs_character_87ED686ED78C4AB6909895FBBBE8A60B ""
 
 # game/content/file_00001E61.rpy:398
@@ -117,7 +117,7 @@ translate english block_00001EC1_eee946f1:
 # game/content/file_00001E61.rpy:810
 translate english block_00001EC1_c9513aa3:
 
-    # extend "哦，白痴呆毛。{w}\n{nw}"
+    # extend "哦，白痴呆毛。\n"
     extend ""
 
 # game/content/file_00001E61.rpy:814
@@ -189,7 +189,7 @@ translate english block_00001E83_57b5bc2d:
 # game/content/file_00001E61.rpy:1356
 translate english block_00001E83_20d0d586:
 
-    # rs_character_9EDF48057FB84D428D56198A69E2880E "认、认错人了～{color=#FF00FF}{b}////{/b}{/color}{w}\n{nw}"
+    # rs_character_9EDF48057FB84D428D56198A69E2880E "认、认错人了～{color=#FF00FF}{b}////{/b}{/color}\n"
     rs_character_9EDF48057FB84D428D56198A69E2880E ""
 
 # game/content/file_00001E61.rpy:1361

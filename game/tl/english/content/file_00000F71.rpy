@@ -9,7 +9,7 @@ translate english block_000024D7_fbf1e036:
 # game/content/file_00000F71.rpy:281
 translate english block_00000FAD_3b74ce91:
 
-    # rs_character_87ED686ED78C4AB6909895FBBBE8A60B "嗯？\n这个人！和我有一样的气味！{w}\n{nw}"
+    # rs_character_87ED686ED78C4AB6909895FBBBE8A60B "嗯？\n这个人！和我有一样的气味！\n"
     rs_character_87ED686ED78C4AB6909895FBBBE8A60B ""
 
 # game/content/file_00000F71.rpy:289
@@ -21,7 +21,7 @@ translate english block_00000FAD_c1bc6fe7:
 # game/content/file_00000F71.rpy:302
 translate english block_00000FAD_1730bb2c:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "呜哇！？突然干什么！{w}\n{nw}"
+    # rs_character_62324AD297554FE987C680452CEE232E "呜哇！？突然干什么！\n"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00000F71.rpy:306
@@ -39,7 +39,7 @@ translate english block_00000FAD_3ce721eb:
 # game/content/file_00000F71.rpy:322
 translate english block_00000FAD_e6841647:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "快走了！{w}\n{nw}"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "快走了！\n"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_00000F71.rpy:327
@@ -159,7 +159,7 @@ translate english block_0000192D_07dcaac6:
 # game/content/file_00000F71.rpy:826
 translate english block_0000192D_789b0912:
 
-    # rs_character_87ED686ED78C4AB6909895FBBBE8A60B "对的对的，是那样的哦！\n来玩游戏哦！四朗也要来！{w}\n{nw}"
+    # rs_character_87ED686ED78C4AB6909895FBBBE8A60B "对的对的，是那样的哦！\n来玩游戏哦！四朗也要来！\n"
     rs_character_87ED686ED78C4AB6909895FBBBE8A60B ""
 
 # game/content/file_00000F71.rpy:834
@@ -225,7 +225,7 @@ translate english block_00000F89_629da821:
 # game/content/file_00000F71.rpy:1226
 translate english block_00000F89_f1e99ae4:
 
-    # rs_character_87ED686ED78C4AB6909895FBBBE8A60B "因为我还是第一次来这里嘛！{w}\n{nw}"
+    # rs_character_87ED686ED78C4AB6909895FBBBE8A60B "因为我还是第一次来这里嘛！\n"
     rs_character_87ED686ED78C4AB6909895FBBBE8A60B ""
 
 # game/content/file_00000F71.rpy:1230
@@ -327,7 +327,7 @@ translate english block_00000F89_641426b3:
 # game/content/file_00000F71.rpy:1403
 translate english block_00000F89_b6dda0dd:
 
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "瞎说什么呢。{w}\n{nw}"
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "瞎说什么呢。\n"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
 
 # game/content/file_00000F71.rpy:1407
@@ -375,7 +375,7 @@ translate english block_00000F89_afb24bba:
 # game/content/file_00000F71.rpy:1494
 translate english block_00000F89_2444634f:
 
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "诶！？哇、哇啊啊！？{w}\n{nw}"
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "诶！？哇、哇啊啊！？\n"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
 
 # game/content/file_00000F71.rpy:1508

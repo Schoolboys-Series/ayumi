@@ -149,7 +149,7 @@ label block_00003994:
     show rs_image_8F48584787114538888D5C0B826EDE5F as tag_061CD0864C4E48C0B3AA935440B7C90D zorder zorder_tag_061CD0864C4E48C0B3AA935440B7C90D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "嗯，辛苦了。{w}\n{nw}"
+    rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "嗯，辛苦了。\n"
     show rs_image_1557B4E76EEC4D0E8F827C8C42924E5F as tag_061CD0864C4E48C0B3AA935440B7C90D zorder zorder_tag_061CD0864C4E48C0B3AA935440B7C90D onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
@@ -432,7 +432,7 @@ label block_00003994:
     show rs_image_D2BB5C80C5EC436C81AD2A89675FF109 as tag_ECFB5B509A334A868686B3435242BF90 at center_top zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哦哦——翼啾——！{w}\n{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哦哦——翼啾——！\n"
     hide tag_ECFB5B509A334A868686B3435242BF90
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -543,7 +543,7 @@ label block_00003994:
     show rs_image_F4E69F65605A49BCA7659DDD9B7624D5 as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "集合两个班，又没有老师在现场，很难维持秩序呢。{w}\n{nw}"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "集合两个班，又没有老师在现场，很难维持秩序呢。\n"
     show rs_image_08C285D4068B443CA62FFF7164C88026 as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
@@ -845,7 +845,7 @@ label block_0000398D:
 
     rs_character_D93E396B7ADB48CBAE13F206958FC08B "听到了没？真是的。"
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯～{w}\n{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯～\n"
     show rs_image_6FBF7F2D5928430F8627C4EEA3F08C63 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
@@ -889,7 +889,7 @@ label block_0000398D:
 
     window show
 
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "哦，对了，明天我早上有晨练，{w}\n{nw}"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "哦，对了，明天我早上有晨练，\n"
     hide tag_9D0001B69AD04AE9A8D1DE7AF344E0A3
     show rs_image_D3337C6701A1424493940A3CA157D89B as tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 zorder zorder_tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 onlayer master
     with rs_effect_0EEF5B963A544F2DBEA6C89B48BDD52F
@@ -983,7 +983,7 @@ label block_0000398D:
 
     window show
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯～{w}\n{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯～\n"
     if sys_music2_current_file != "sound/Effect Sound/Stupid 1.ogg":
         play music2 "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_music2_current_file = "sound/Effect Sound/Stupid 1.ogg"
@@ -1052,7 +1052,7 @@ label block_0000398D:
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔……总觉得心神不宁。{w}\n{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔……总觉得心神不宁。\n"
     show rs_image_99B6023D52BE4DE3B83DA6CA21A146C8 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 

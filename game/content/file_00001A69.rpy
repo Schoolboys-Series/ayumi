@@ -493,7 +493,7 @@ label block_0000425C:
     show rs_image_034008D743F14BD3ADD73D120F5F6179 as tag_3C7A06FF4945452D859E685A41EEAAD5 zorder zorder_tag_3C7A06FF4945452D859E685A41EEAAD5 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_EA79386263E543A88D4DC03B8BD44485 "什么嘛，一股老人气——？{w}\n{nw}"
+    rs_character_EA79386263E543A88D4DC03B8BD44485 "什么嘛，一股老人气——？\n"
     if sys_effect2_current_file != "sound/Effect Sound/Cute 3.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Cute 3.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Cute 3.ogg"
@@ -983,7 +983,7 @@ label block_000027B8:
     show rs_image_CD2255EE7C77442EA5D34AF3CB25F51A as tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 zorder zorder_tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "哈哈，毕竟发生了很多事。{w}\n{nw}"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "哈哈，毕竟发生了很多事。\n"
     show rs_image_AEEAC84D9A0D467A865EBA13D1DB3715 as tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 zorder zorder_tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
@@ -1188,7 +1188,7 @@ label block_000027B8:
     show rs_image_E390D3BA5C4D4B61AAF854D34D0E8413 as tag_A469B787E7E7466FA1613F380A4CBF41 at left_top zorder zorder_tag_A469B787E7E7466FA1613F380A4CBF41 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_87ED686ED78C4AB6909895FBBBE8A60B "呐——呐——！来玩那个游戏——♪{w}\n{nw}"
+    rs_character_87ED686ED78C4AB6909895FBBBE8A60B "呐——呐——！来玩那个游戏——♪\n"
     if sys_effect_current_file != "sound/Effect Sound/Attack 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Attack 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Attack 1.ogg"
@@ -2072,7 +2072,7 @@ label block_0000312F:
     show rs_image_829D40A27305424197B2D502DDEB3406 as tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD zorder zorder_tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_EFC67D522B5F4615BFAE716D87F58204 "不过也是想遇到能让轻敌时的我们大吃一惊的呐！{w}\n{nw}"
+    rs_character_EFC67D522B5F4615BFAE716D87F58204 "不过也是想遇到能让轻敌时的我们大吃一惊的呐！\n"
     if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
@@ -2243,7 +2243,7 @@ label block_0000312F:
     show rs_image_1654C244584349A6B0811665076020BD as tag_CC4336DE74164173AC47C2C317367F10 zorder zorder_tag_CC4336DE74164173AC47C2C317367F10 onlayer master
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
-    extend "部长不需要知道。{w}\n{nw}"
+    extend "部长不需要知道。\n"
     show rs_image_4DE7491D04004FC5BE18A0FEB043C1BF as tag_CC4336DE74164173AC47C2C317367F10 zorder zorder_tag_CC4336DE74164173AC47C2C317367F10 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
@@ -2419,7 +2419,7 @@ label block_0000312F:
     show rs_image_07383DF7F5A94166BAD98FE0E71F4768 as tag_CC4336DE74164173AC47C2C317367F10 zorder zorder_tag_CC4336DE74164173AC47C2C317367F10 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_41A906D279CA4677A6A2ED8CBE544459 "森海君……{w}\n{nw}"
+    rs_character_41A906D279CA4677A6A2ED8CBE544459 "森海君……\n"
     show rs_image_5C9006A0C6DD479B8EFFFE3A14CE4056 as tag_CC4336DE74164173AC47C2C317367F10 zorder zorder_tag_CC4336DE74164173AC47C2C317367F10 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
@@ -2727,7 +2727,7 @@ label block_000030FE:
     show rs_image_EB8AFE0130874B6E925058521DB5C8AB as tag_A77E36FB70FF4F60B12060B2747E46D1 zorder zorder_tag_A77E36FB70FF4F60B12060B2747E46D1 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不愧是三酱♪{w}\n{nw}"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不愧是三酱♪\n"
     show rs_image_AD906DE4351649D4A088A775E16D4592 as tag_A77E36FB70FF4F60B12060B2747E46D1 zorder zorder_tag_A77E36FB70FF4F60B12060B2747E46D1 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
@@ -2765,7 +2765,7 @@ label block_000030FE:
     show rs_image_14A685B89E294E398F790648705A6A46 as tag_25C83DBF35814073B3DF9FF7BCEF75AC zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "唔……原来如此……{w}\n{nw}"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "唔……原来如此……\n"
     show rs_image_50D82C35F258450C9BFE07520E310720 as tag_25C83DBF35814073B3DF9FF7BCEF75AC zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
@@ -2779,7 +2779,7 @@ label block_000030FE:
     show rs_image_075F12352E04495CB718DBEB1B7D807C as tag_25C83DBF35814073B3DF9FF7BCEF75AC zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "不是……那个……唔……{w}\n{nw}"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "不是……那个……唔……\n"
     show rs_image_53FEBB64B5034493AD43F17831AA22EB as tag_25C83DBF35814073B3DF9FF7BCEF75AC zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
@@ -3624,7 +3624,7 @@ label block_00001B5E:
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哦♪这个网站的四格终于更新了——！\n赶快看赶快看～！"
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "……不过，今天作业很多呐。{w}\n{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "……不过，今天作业很多呐。\n"
     if sys_effect2_current_file != "sound/Effect Sound/Attack 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Attack 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Attack 1.ogg"
@@ -3659,7 +3659,7 @@ label block_00001B5E:
     show rs_image_3D1658550AAD4B23B72B22E477CAE581 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哈哈哈♪这个动画超赞的～！！{w}\n{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哈哈哈♪这个动画超赞的～！！\n"
     if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Strike 1.ogg"
@@ -3716,7 +3716,7 @@ label block_00001B5E:
     show rs_image_3D1658550AAD4B23B72B22E477CAE581 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "完了！已经这个点了！！\n再不赶快做……{w}\n{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "完了！已经这个点了！！\n再不赶快做……\n"
     if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Strike 1.ogg"
@@ -4711,7 +4711,7 @@ label block_000027C7:
     show rs_image_9E0771C128CD4195A4659B2B4FBF28F2 as tag_E0B8A219896B49168D47409135D3624F at center_bottom zorder zorder_tag_E0B8A219896B49168D47409135D3624F onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "接下来就要坐新干线去东京。而且是一等车厢！\n{size=12}{color=#808080}*从大阪到东京约合人民币322元{/color}{/size}{w}\n{nw}"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "接下来就要坐新干线去东京。而且是一等车厢！\n{size=12}{color=#808080}*从大阪到东京约合人民币322元{/color}{/size}\n"
     show rs_image_BF5966E1F19E4459A8639805C22B453E as tag_E0B8A219896B49168D47409135D3624F zorder zorder_tag_E0B8A219896B49168D47409135D3624F onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 

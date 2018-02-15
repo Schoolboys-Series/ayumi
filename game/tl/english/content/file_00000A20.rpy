@@ -117,7 +117,7 @@ translate english block_00000A73_4fc8a5c8:
 # game/content/file_00000A20.rpy:466
 translate english block_00000A73_f1c21d2d:
 
-    # rs_character_C223850065F6443080205D1F61C04C98 "不过，感觉不到任何恶意。{w}\n{nw}"
+    # rs_character_C223850065F6443080205D1F61C04C98 "不过，感觉不到任何恶意。\n"
     rs_character_C223850065F6443080205D1F61C04C98 ""
 
 # game/content/file_00000A20.rpy:470
@@ -201,7 +201,7 @@ translate english block_000025BC_7def6f08:
 # game/content/file_00000A20.rpy:897
 translate english block_000025BC_6d4bc239:
 
-    # rs_character_53FF68C192E3494AB005C1909579AFFB "再说一次，抱歉，请让我拍张照。{w}\n{nw}"
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "再说一次，抱歉，请让我拍张照。\n"
     rs_character_53FF68C192E3494AB005C1909579AFFB ""
 
 # game/content/file_00000A20.rpy:902
@@ -231,7 +231,7 @@ translate english block_000025BC_c9864865:
 # game/content/file_00000A20.rpy:933
 translate english block_000025BC_cad65573:
 
-    # rs_character_53FF68C192E3494AB005C1909579AFFB "非常感谢。{w}\n{nw}"
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "非常感谢。\n"
     rs_character_53FF68C192E3494AB005C1909579AFFB ""
 
 # game/content/file_00000A20.rpy:938
@@ -453,7 +453,7 @@ translate english block_000025BB_8e923481:
 # game/content/file_00000A20.rpy:1537
 translate english block_000025BB_502230ea:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "那孩子还是一副不忙不急的样子。{w}\n{nw}"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "那孩子还是一副不忙不急的样子。\n"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_00000A20.rpy:1545
@@ -585,7 +585,7 @@ translate english block_00002604_24ecf4c9:
 # game/content/file_00000A20.rpy:2230
 translate english block_00002604_e7be8495:
 
-    # rs_character_57471360F48A413AB843A4E46D8C5541 "认真一点！怪物们还在等着我们。{w}\n{nw}"
+    # rs_character_57471360F48A413AB843A4E46D8C5541 "认真一点！怪物们还在等着我们。\n"
     rs_character_57471360F48A413AB843A4E46D8C5541 ""
 
 # game/content/file_00000A20.rpy:2238
@@ -609,7 +609,7 @@ translate english block_00002604_36079c91:
 # game/content/file_00000A20.rpy:2411
 translate english block_000025B3_e3975d42:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "打扰了……{w}\n{nw}"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "打扰了……\n"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_00000A20.rpy:2415
@@ -879,7 +879,7 @@ translate english block_000016D4_4390df6d:
 # game/content/file_00000A20.rpy:3799
 translate english block_000016D4_edc1a1cd:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哇——！哇——！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哇——！哇——！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00000A20.rpy:3804
@@ -1029,7 +1029,7 @@ translate english block_00002586_a0d7116e:
 # game/content/file_00000A20.rpy:4132
 translate english block_00002586_edadd31f:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "你的眼神和夕日很像，很投入剧情呐。{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "你的眼神和夕日很像，很投入剧情呐。\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00000A20.rpy:4140
@@ -1233,7 +1233,7 @@ translate english block_000025BD_d5a90b5b:
 # game/content/file_00000A20.rpy:4511
 translate english block_000025BD_431d6dc3:
 
-    # rs_character_2F154AE49ED54A70AEA327A36C670DDB "没，没什么……{w}\n{nw}"
+    # rs_character_2F154AE49ED54A70AEA327A36C670DDB "没，没什么……\n"
     rs_character_2F154AE49ED54A70AEA327A36C670DDB ""
 
 # game/content/file_00000A20.rpy:4516
@@ -1281,7 +1281,7 @@ translate english block_0000257C_af20e7ff:
 # game/content/file_00000A20.rpy:4717
 translate english block_0000257C_27dc0661:
 
-    # extend "……{color=#8000FF}幽霊{/color}！{w}\n{nw}"
+    # extend "……{color=#8000FF}幽霊{/color}！\n"
     extend ""
 
 # game/content/file_00000A20.rpy:4725
@@ -1305,7 +1305,7 @@ translate english block_0000257C_5b847822:
 # game/content/file_00000A20.rpy:4749
 translate english block_0000257C_0b496928:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "本来还想上一次鬼怪类节目的。{w}\n{nw}"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "本来还想上一次鬼怪类节目的。\n"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00000A20.rpy:4757
@@ -1353,7 +1353,7 @@ translate english block_0000257A_d41b7cd6:
 # game/content/file_00000A20.rpy:4892
 translate english block_0000257A_04ac58ef:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "反正迟早会知道的。{w}\n{nw}"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "反正迟早会知道的。\n"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00000A20.rpy:4897
@@ -1401,7 +1401,7 @@ translate english block_00002579_71936038:
 # game/content/file_00000A20.rpy:4992
 translate english block_00002579_35c86bf4:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "这样——真遗憾。{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "这样——真遗憾。\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00000A20.rpy:4997
@@ -1467,7 +1467,7 @@ translate english block_0000257B_49260d6a:
 # game/content/file_00000A20.rpy:5118
 translate english block_0000257B_1afb14ab:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "嗯嗯，写真集。{w}\n{nw}"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "嗯嗯，写真集。\n"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00000A20.rpy:5122
@@ -1557,7 +1557,7 @@ translate english block_00002578_1d1a356a:
 # game/content/file_00000A20.rpy:5282
 translate english block_00002578_d44c3a6f:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "MODE{size=12}{color=#C0C0C0}（日文读法MOTO）{/color}{/size}！好高大上！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "MODE{size=12}{color=#C0C0C0}（日文读法MOTO）{/color}{/size}！好高大上！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00000A20.rpy:5287
@@ -1587,7 +1587,7 @@ translate english block_00002578_9f2afecc:
 # game/content/file_00000A20.rpy:5337
 translate english block_00002578_33b749a8:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "嘛！反正这个世界可爱就是正义♪{w}\n{nw}"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "嘛！反正这个世界可爱就是正义♪\n"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00000A20.rpy:5345
@@ -1605,7 +1605,7 @@ translate english block_00002578_a18496bd:
 # game/content/file_00000A20.rpy:5372
 translate english block_00002578_2792c068:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "不愧是陆田君！\n今天的吐槽也是这么精辟呐♪{w}\n{nw}"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "不愧是陆田君！\n今天的吐槽也是这么精辟呐♪\n"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00000A20.rpy:5377
@@ -1689,7 +1689,7 @@ translate english block_00000A33_fa0a44a4:
 # game/content/file_00000A20.rpy:5620
 translate english block_00000A33_ac4349e4:
 
-    # rs_character_EA79386263E543A88D4DC03B8BD44485 "什么嘛，一股老人气——？{w}\n{nw}"
+    # rs_character_EA79386263E543A88D4DC03B8BD44485 "什么嘛，一股老人气——？\n"
     rs_character_EA79386263E543A88D4DC03B8BD44485 ""
 
 # game/content/file_00000A20.rpy:5628
@@ -1701,7 +1701,7 @@ translate english block_00000A33_b468d16d:
 # game/content/file_00000A20.rpy:5633
 translate english block_00000A33_701e2fc0:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔，年轻人就是不知轻重！我还宝刀未……{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔，年轻人就是不知轻重！我还宝刀未……\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00000A20.rpy:5638

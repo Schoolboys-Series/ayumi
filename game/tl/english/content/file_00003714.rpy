@@ -81,7 +81,7 @@ translate english block_00003720_dc238e66:
 # game/content/file_00003714.rpy:176
 translate english block_00003720_82546b66:
 
-    # rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "一之濑，概括一下你的意思是这里有社团活动？{w}\n{nw}"
+    # rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "一之濑，概括一下你的意思是这里有社团活动？\n"
     rs_character_D9F0C257FF534E79ADF7FDFE3653E326 ""
 
 # game/content/file_00003714.rpy:181
@@ -129,7 +129,7 @@ translate english block_00003720_ca9b6ecb:
 # game/content/file_00003714.rpy:249
 translate english block_00003720_fe3fd551:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "欸？嗯、嗯！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "欸？嗯、嗯！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003714.rpy:253
@@ -153,7 +153,7 @@ translate english block_00003720_d1ce4612:
 # game/content/file_00003714.rpy:284
 translate english block_00003720_fd20331c:
 
-    # extend "不论如何、{w}\n{nw}"
+    # extend "不论如何、\n"
     extend ""
 
 # game/content/file_00003714.rpy:301
@@ -219,7 +219,7 @@ translate english block_00003720_f61aae1c:
 # game/content/file_00003714.rpy:409
 translate english block_00003720_7966be67:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "欸～要、要在观众前表演？？{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "欸～要、要在观众前表演？？\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00003714.rpy:413
@@ -723,7 +723,7 @@ translate english block_00003720_e609c1a5:
 # game/content/file_00003714.rpy:1172
 translate english block_00003720_d9d02202:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "钢琴和女高音的双重演奏！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "钢琴和女高音的双重演奏！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003714.rpy:1180
@@ -783,7 +783,7 @@ translate english block_00003720_7cb15fbc:
 # game/content/file_00003714.rpy:1243
 translate english block_00003720_3a0cff71:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "是、是的～！{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "是、是的～！\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00003714.rpy:1252
@@ -861,7 +861,7 @@ translate english block_00003720_9154bf29:
 # game/content/file_00003714.rpy:1318
 translate english block_00003720_e24d3ff5:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "呼呼。那今天就到此为止。{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "呼呼。那今天就到此为止。\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003714.rpy:1330
@@ -885,7 +885,7 @@ translate english block_00003720_f5095e69:
 # game/content/file_00003714.rpy:1356
 translate english block_00003720_9e22fb64:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "成、成果一定会慢慢显现出来的……{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "成、成果一定会慢慢显现出来的……\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00003714.rpy:1367
@@ -1233,7 +1233,7 @@ translate english block_0000371F_e227b34d:
 # game/content/file_00003714.rpy:1807
 translate english block_0000371F_62c8b408:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔。总觉得看起来像是不甘，又像是在高兴……{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔。总觉得看起来像是不甘，又像是在高兴……\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003714.rpy:1812
@@ -1245,7 +1245,7 @@ translate english block_0000371F_4a7fddfb:
 # game/content/file_00003714.rpy:1822
 translate english block_0000371F_9a68b457:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "好，接下来是发音练习！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "好，接下来是发音练习！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003714.rpy:1827
@@ -1329,7 +1329,7 @@ translate english block_0000371F_feb36d3d:
 # game/content/file_00003714.rpy:1879
 translate english block_0000371F_949cf514:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "真是的～这次要看好了哦～看，就像这样……{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "真是的～这次要看好了哦～看，就像这样……\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003714.rpy:1884
@@ -1461,7 +1461,7 @@ translate english block_0000371F_63d8d768:
 # game/content/file_00003714.rpy:2055
 translate english block_0000371F_35f3e892:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "虽说每个人都不同，{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "虽说每个人都不同，\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00003714.rpy:2057
@@ -1479,7 +1479,7 @@ translate english block_0000371F_6134696d:
 # game/content/file_00003714.rpy:2070
 translate english block_0000371F_b2d340c9:
 
-    # extend "欸！？{w}\n{nw}"
+    # extend "欸！？\n"
     extend ""
 
 # game/content/file_00003714.rpy:2083
@@ -1515,7 +1515,7 @@ translate english block_0000371F_f19070ac:
 # game/content/file_00003714.rpy:2122
 translate english block_0000371F_55478f2c:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "对喜欢的人十分在意，心中无法平静，{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "对喜欢的人十分在意，心中无法平静，\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00003714.rpy:2124
@@ -1605,7 +1605,7 @@ translate english block_0000371F_7d9951cd:
 # game/content/file_00003714.rpy:2205
 translate english block_0000371F_247b29f0:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "……那个混蛋……。{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "……那个混蛋……。\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00003714.rpy:2213
@@ -1635,7 +1635,7 @@ translate english block_0000371F_135279f5:
 # game/content/file_00003714.rpy:2232
 translate english block_0000371F_35c00773:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "如果真的忍不住了没有关系！{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "如果真的忍不住了没有关系！\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00003714.rpy:2236
@@ -1713,7 +1713,7 @@ translate english block_0000371F_4760885b:
 # game/content/file_00003714.rpy:2356
 translate english block_0000371F_63c2840a:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "剩下的就是如何克服紧张发挥自己的最大实力了！{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "剩下的就是如何克服紧张发挥自己的最大实力了！\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00003714.rpy:2360
@@ -1773,7 +1773,7 @@ translate english block_0000371F_2e49566c:
 # game/content/file_00003714.rpy:2421
 translate english block_0000371F_bbd84390:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "不、不可以！{w}欲望……！{w}责任！{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "不、不可以！{w}欲望……！{w}责任！\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00003714.rpy:2426
@@ -1839,7 +1839,7 @@ translate english block_0000371F_4a032d4f:
 # game/content/file_00003714.rpy:2467
 translate english block_0000371F_50c6f05c:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "……。{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "……。\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003714.rpy:2476
@@ -1881,7 +1881,7 @@ translate english block_0000371F_cc354d74:
 # game/content/file_00003714.rpy:2527
 translate english block_0000371F_c62807b3:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "这个、那个……嗯……{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "这个、那个……嗯……\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00003714.rpy:2535
@@ -2109,7 +2109,7 @@ translate english block_00003AF5_b4dbdaca:
 # game/content/file_00003714.rpy:3013
 translate english block_00003AF5_91452cf3:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "啊咧？翼君，总觉得……{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "啊咧？翼君，总觉得……\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003714.rpy:3018
@@ -2211,7 +2211,7 @@ translate english block_00003AF5_c28ecd9f:
 # game/content/file_00003714.rpy:3091
 translate english block_00003AF5_61d6e8d2:
 
-    # extend "……。{w}\n{nw}"
+    # extend "……。\n"
     extend ""
 
 # game/content/file_00003714.rpy:3097
@@ -2271,7 +2271,7 @@ translate english block_00003AF5_beececb4:
 # game/content/file_00003714.rpy:3139
 translate english block_00003AF5_0bf9c122:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "所以，那时候说的过高的期望……就算了。{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "所以，那时候说的过高的期望……就算了。\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00003714.rpy:3143
@@ -2319,7 +2319,7 @@ translate english block_00003AF5_29bf6e6a:
 # game/content/file_00003714.rpy:3182
 translate english block_00003AF5_2461fd96:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "我希望、友君、能、亲我一口……{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "我希望、友君、能、亲我一口……\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00003714.rpy:3186
@@ -2337,7 +2337,7 @@ translate english block_00003AF5_16bf19fa:
 # game/content/file_00003714.rpy:3200
 translate english block_00003AF5_904d0c3c:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "啊！{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "啊！\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00003714.rpy:3213
@@ -2379,7 +2379,7 @@ translate english block_00003AF5_98183dd5:
 # game/content/file_00003714.rpy:3243
 translate english block_00003AF5_037cb395:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "是、是的！{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "是、是的！\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00003714.rpy:3253
@@ -2451,7 +2451,7 @@ translate english block_00003AF5_41b371eb:
 # game/content/file_00003714.rpy:3468
 translate english block_00003AF5_f4f4b78c:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "欸！！是这样吗！？{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "欸！！是这样吗！？\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003714.rpy:3476

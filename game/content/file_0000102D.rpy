@@ -408,7 +408,7 @@ label block_0000105D:
     show rs_image_DA6CE445B3C9467FBC78D762DF85BAFE as tag_346FE7CD97BB4FB18CB50E78275F4E23 zorder zorder_tag_346FE7CD97BB4FB18CB50E78275F4E23 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_EA9AA88E88D84B559B925363E2931756 "这样下去真的就……{w}\n{nw}"
+    rs_character_EA9AA88E88D84B559B925363E2931756 "这样下去真的就……\n"
     if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Strike 1.ogg"
@@ -579,7 +579,7 @@ label block_000016B5:
     show rs_image_C0BD1F4E52FF496AA98961E053D79050 as tag_26CE4420E4BF43ADBA4E35F2A9784E98 at center_bottom zorder zorder_tag_26CE4420E4BF43ADBA4E35F2A9784E98 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_710A38AC94C841779DB701B5AC1010FD "呜……这和平时根本没什么变化嘛！{w}\n{nw}"
+    rs_character_710A38AC94C841779DB701B5AC1010FD "呜……这和平时根本没什么变化嘛！\n"
     if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
@@ -783,7 +783,7 @@ label block_00001055:
     show rs_image_1236DDA666C34A83B4ECECC6FDFC4485 as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    extend "啊，那样的话友君很合适哦！{w}\n{nw}"
+    extend "啊，那样的话友君很合适哦！\n"
     if sys_effect_current_file != "sound/Effect Sound/As you wish 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/As you wish 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/As you wish 1.ogg"
@@ -801,7 +801,7 @@ label block_00001055:
     show rs_image_28337BD53259479A848D2F1B4BB9EC67 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_710A38AC94C841779DB701B5AC1010FD "友……一班那个闹腾的金发？{w}\n{nw}"
+    rs_character_710A38AC94C841779DB701B5AC1010FD "友……一班那个闹腾的金发？\n"
     if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Strike 1.ogg"
@@ -949,7 +949,7 @@ label block_0000105B:
     show rs_image_8C3DB2F9BABD40D396DB3B634865E972 as tag_F533D76D6EDF4AB39ECAAB90D8F4723D zorder zorder_tag_F533D76D6EDF4AB39ECAAB90D8F4723D onlayer master
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
-    extend "！？{w}\n{nw}"
+    extend "！？\n"
     if sys_effect2_current_file != "sound/Effect Sound/Flash 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Flash 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Flash 1.ogg"
@@ -1545,7 +1545,7 @@ label block_00001059:
     show rs_image_DF83E8681DAD43B1BF6C0CF0E3555C11 as tag_CC4336DE74164173AC47C2C317367F10 zorder zorder_tag_CC4336DE74164173AC47C2C317367F10 onlayer master
     with rs_effect_53B376EDDA024633A3328E405F058927
 
-    rs_character_41A906D279CA4677A6A2ED8CBE544459 "蓬松系……有成为流行的可能！{w}\n{nw}"
+    rs_character_41A906D279CA4677A6A2ED8CBE544459 "蓬松系……有成为流行的可能！\n"
     show rs_image_BB675405870B497F958414550471B4BF as tag_CC4336DE74164173AC47C2C317367F10 zorder zorder_tag_CC4336DE74164173AC47C2C317367F10 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -1566,7 +1566,7 @@ label block_00001059:
     hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_41A906D279CA4677A6A2ED8CBE544459 "直白了说！我们新闻部的同志里，\n小岛君绝对是合适的人选！{w}\n{nw}"
+    rs_character_41A906D279CA4677A6A2ED8CBE544459 "直白了说！我们新闻部的同志里，\n小岛君绝对是合适的人选！\n"
     show rs_image_BB675405870B497F958414550471B4BF as tag_CC4336DE74164173AC47C2C317367F10 zorder zorder_tag_CC4336DE74164173AC47C2C317367F10 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -1710,7 +1710,7 @@ label block_00001931:
     show rs_image_9C09C82BD6C4471CA272DAF35BA5D948 as tag_073D4E2B5E224963B025F95C92ED797A zorder zorder_tag_073D4E2B5E224963B025F95C92ED797A onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "唔……不是很明白，\n不过我好像并不是。{w}\n{nw}"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "唔……不是很明白，\n不过我好像并不是。\n"
     show rs_image_8EA1ED5636994E86BD457A1CCD2D9880 as tag_073D4E2B5E224963B025F95C92ED797A zorder zorder_tag_073D4E2B5E224963B025F95C92ED797A onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -2011,7 +2011,7 @@ label block_000010FF:
     show rs_image_C2A28861C0A44DC6AAE17E0ABA1BE61C as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "在找蓬松治愈系的人？{w}\n{nw}"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "在找蓬松治愈系的人？\n"
     show rs_image_A43C35FAF6E4488E87E8829D5D8E84E3 as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -2061,7 +2061,7 @@ label block_00001100:
     show rs_image_4CD2B470988044149F34AC03FDEA9A1B as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_B70215F4C83E407D8C2CA682FB6965D7
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "那当然是友君了哦——♪{w}\n{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "那当然是友君了哦——♪\n"
     show rs_image_4A3267DDFB1B4E19B289917CEF3B25BB as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 

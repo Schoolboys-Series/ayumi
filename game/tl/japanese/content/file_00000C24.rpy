@@ -49,10 +49,10 @@ translate japanese block_000023F2_53f2c498:
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "オッスー！新聞部のお二人さん♪"
 
 # game/content/file_00000C24.rpy:589
-translate japanese block_000023F2_16408ba2:
+translate japanese block_000023F2_a8b3664c:
 
-    # rs_character_41A906D279CA4677A6A2ED8CBE544459 "呀，欢迎，奥村君！{w}\n{nw}"
-    rs_character_41A906D279CA4677A6A2ED8CBE544459 "やあ、いらっしゃい奥村くん！{w}\n{nw}"
+    # rs_character_41A906D279CA4677A6A2ED8CBE544459 "呀，欢迎，奥村君！\n"
+    rs_character_41A906D279CA4677A6A2ED8CBE544459 "やあ、いらっしゃい奥村くん！\n"
 
 # game/content/file_00000C24.rpy:593
 translate japanese block_000023F2_b12b3323:
@@ -61,7 +61,7 @@ translate japanese block_000023F2_b12b3323:
     extend "あ、そうだ。\n小島くん、例のものを彼に。"
 
 # game/content/file_00000C24.rpy:602
-translate japanese block_000023F2_2ef5c754:
+translate japanese block_000023F2_3ee096af:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "明白了。{w}\n奥村同学，感谢一直为我们提供情报。"
     rs_character_53FF68C192E3494AB005C1909579AFFB "わかりました。{w}\n奥村さん、いつも情報提供してくださり\nありがとうございます。"
@@ -115,10 +115,10 @@ translate japanese block_00000C5C_720304a4:
     extend "どして？"
 
 # game/content/file_00000C24.rpy:700
-translate japanese block_00000C5C_15a70132:
+translate japanese block_00000C5C_b3fef1f3:
 
-    # rs_character_53FF68C192E3494AB005C1909579AFFB "哦呀哦呀，如奥村同学这样的人居然都看不透我的感情。{w}\n{nw}"
-    rs_character_53FF68C192E3494AB005C1909579AFFB "おやおや、奥村さんともあろう方が\n僕の気持ちすら見透かせないなんて。{w}\n{nw}"
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "哦呀哦呀，如奥村同学这样的人居然都看不透我的感情。\n"
+    rs_character_53FF68C192E3494AB005C1909579AFFB "おやおや、奥村さんともあろう方が\n僕の気持ちすら見透かせないなんて。\n"
 
 # game/content/file_00000C24.rpy:704
 translate japanese block_00000C5C_5c24ad01:
@@ -271,10 +271,10 @@ translate japanese block_0000241D_744e3d61:
     rs_character_D93E396B7ADB48CBAE13F206958FC08B "別に僕、\nアイツにそういう感情抱いてないし。"
 
 # game/content/file_00000C24.rpy:1239
-translate japanese block_0000241D_0cf337e6:
+translate japanese block_0000241D_3f938419:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不该出现点{color=#800080}某深夜动画{/color}那样的柴刀展开？{w}\n{nw}"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "もっと、{color=#800080}某深夜アニメ{/color}的な\nドロドロ展開になってもええんやで？{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不该出现点{color=#800080}某深夜动画{/color}那样的柴刀展开？\n"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "もっと、{color=#800080}某深夜アニメ{/color}的な\nドロドロ展開になってもええんやで？\n"
 
 # game/content/file_00000C24.rpy:1253
 translate japanese block_0000241D_5af14af2:
@@ -439,10 +439,10 @@ translate japanese block_00000C47_e13b9cf5:
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "だいたい、こんな感じだったかな。"
 
 # game/content/file_00000C24.rpy:1711
-translate japanese block_00000C47_67b3cead:
+translate japanese block_00000C47_d6ed999b:
 
-    # rs_character_81D16F74A3C44B8982DB528D7D934850 "原来如此……{w}\n{nw}"
-    rs_character_81D16F74A3C44B8982DB528D7D934850 "なるほど……。{w}\n{nw}"
+    # rs_character_81D16F74A3C44B8982DB528D7D934850 "原来如此……\n"
+    rs_character_81D16F74A3C44B8982DB528D7D934850 "なるほど……。\n"
 
 # game/content/file_00000C24.rpy:1724
 translate japanese block_00000C47_6ea80949:
@@ -457,10 +457,10 @@ translate japanese block_00000C47_ff8b2fc5:
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "え。大丈夫なの？イケるの？"
 
 # game/content/file_00000C24.rpy:1739
-translate japanese block_00000C47_65b8d9be:
+translate japanese block_00000C47_a666a1c7:
 
-    # rs_character_81D16F74A3C44B8982DB528D7D934850 "哦，没问题！{w}\n{nw}"
-    rs_character_81D16F74A3C44B8982DB528D7D934850 "おう。問題なし！{w}\n{nw}"
+    # rs_character_81D16F74A3C44B8982DB528D7D934850 "哦，没问题！\n"
+    rs_character_81D16F74A3C44B8982DB528D7D934850 "おう。問題なし！\n"
 
 # game/content/file_00000C24.rpy:1747
 translate japanese block_00000C47_8566e6a4:
@@ -499,7 +499,7 @@ translate japanese block_00000C44_2755f1a3:
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "やっほー！イズミン！{w}\nどうだい？例の先輩とは\nうまくやってるかーい？"
 
 # game/content/file_00000C24.rpy:2075
-translate japanese block_00000C44_301a15a0:
+translate japanese block_00000C44_f25abdc2:
 
     # rs_character_8D9249CA1389416BAF6A122851E276D0 "嗯，{w}这都是多亏\n{color=#008080}奥村同学在背后推了我一把{/color}呢。{nw}"
     rs_character_8D9249CA1389416BAF6A122851E276D0 "うん。{w}これも全部\n{color=#008080}奥村くんが僕たちの背中を\n押してくれた{/color}お陰だよ。{nw}"
@@ -589,10 +589,10 @@ translate japanese block_00000C44_de41fef6:
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "兄を取られてヤキモチ焼いてるのか。{w}\nはたまた、今の彼と破局して、\nその八つ当たりをしてるのか。"
 
 # game/content/file_00000C24.rpy:2180
-translate japanese block_00000C44_2c5f597b:
+translate japanese block_00000C44_523d2362:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "我会关注一下的。{w}\n{nw}"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "また調べておくよ。{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "我会关注一下的。\n"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "また調べておくよ。\n"
 
 # game/content/file_00000C24.rpy:2185
 translate japanese block_00000C44_b0adc498:
@@ -637,9 +637,9 @@ translate japanese block_00000D27_bc57fa2a:
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "相変わらずクールだねぇ。{w}でもさ\nその子の幸せが、まっつんが行動することで\n更にアップする可能性もあるんじゃない？"
 
 # game/content/file_00000C24.rpy:2248
-translate japanese block_00000D27_c20a720d:
+translate japanese block_00000D27_172b0bf9:
 
-    # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "也许？\n现在还没有这种感觉不过{w}\n{nw}"
+    # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "也许？\n现在还没有这种感觉不过\n"
     rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "それはどうかな？\n今のところ、その兆しは感じないが、"
 
 # game/content/file_00000C24.rpy:2256
@@ -697,9 +697,9 @@ translate japanese block_00001F4B_a5d792f1:
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "そっか。\n独りでよく頑張ったね。"
 
 # game/content/file_00000C24.rpy:2416
-translate japanese block_00001F4B_338aa8ee:
+translate japanese block_00001F4B_72fdf331:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "我是因为有必须去做的责任。{w}\n{nw}"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "我是因为有必须去做的责任。\n"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "俺には、やらなければならない\n責任があったからな。"
 
 # game/content/file_00000C24.rpy:2420
@@ -809,24 +809,3 @@ translate japanese block_00000CE0_2d8700d1:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『试着去倾听朋友们的烦恼。』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『友達の話や、悩みを\n聞いて回りましょう。』{/color}"
-
-# TODO: Translation updated at 2018-01-28 10:11
-
-# game/content/file_00000C24.rpy:602
-translate japanese block_000023F2_3ee096af:
-
-    # rs_character_53FF68C192E3494AB005C1909579AFFB "明白了。{w}\n奥村同学，感谢一直为我们提供情报。"
-    rs_character_53FF68C192E3494AB005C1909579AFFB "わかりました。{w}\n奥村さん、いつも情報提供してくださり\nありがとうございます。"
-
-# game/content/file_00000C24.rpy:700
-translate japanese block_00000C5C_2229491a:
-
-    # rs_character_53FF68C192E3494AB005C1909579AFFB "哦呀哦呀，如奥村同学这样的人居然都看不透我的感情。{w}\n{nw}"
-    rs_character_53FF68C192E3494AB005C1909579AFFB "おやおや、奥村さんともあろう方が\n僕の気持ちすら見透かせないなんて。{w}\n{nw}"
-
-# game/content/file_00000C24.rpy:2075
-translate japanese block_00000C44_f25abdc2:
-
-    # rs_character_8D9249CA1389416BAF6A122851E276D0 "嗯，{w}这都是多亏\n{color=#008080}奥村同学在背后推了我一把{/color}呢。{nw}"
-    rs_character_8D9249CA1389416BAF6A122851E276D0 "うん。{w}これも全部\n{color=#008080}奥村くんが僕たちの背中を\n押してくれた{/color}お陰だよ。{nw}"
-

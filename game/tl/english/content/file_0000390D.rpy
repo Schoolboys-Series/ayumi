@@ -171,7 +171,7 @@ translate english block_00003910_b9f3dfcb:
 # game/content/file_0000390D.rpy:275
 translate english block_00003910_93d8a650:
 
-    # rs_character_70D192FC6EC641EB9F15466FD277C78A "能像这样茁壮成长，阿姨很高兴哦。{w}\n{nw}"
+    # rs_character_70D192FC6EC641EB9F15466FD277C78A "能像这样茁壮成长，阿姨很高兴哦。\n"
     rs_character_70D192FC6EC641EB9F15466FD277C78A ""
 
 # game/content/file_0000390D.rpy:280
@@ -255,7 +255,7 @@ translate english block_00003910_22460e51:
 # game/content/file_0000390D.rpy:330
 translate english block_00003910_5eca16a3:
 
-    # rs_character_70D192FC6EC641EB9F15466FD277C78A "唔……{w}\n{nw}"
+    # rs_character_70D192FC6EC641EB9F15466FD277C78A "唔……\n"
     rs_character_70D192FC6EC641EB9F15466FD277C78A ""
 
 # game/content/file_0000390D.rpy:335
@@ -309,7 +309,7 @@ translate english block_00003910_29a253cf:
 # game/content/file_0000390D.rpy:374
 translate english block_00003910_7ec1c590:
 
-    # rs_character_70D192FC6EC641EB9F15466FD277C78A "不过，忍酱将来绝对会是美少年哦～{w}\n{nw}"
+    # rs_character_70D192FC6EC641EB9F15466FD277C78A "不过，忍酱将来绝对会是美少年哦～\n"
     rs_character_70D192FC6EC641EB9F15466FD277C78A ""
 
 # game/content/file_0000390D.rpy:386
@@ -561,7 +561,7 @@ translate english block_00003910_eb8b0953:
 # game/content/file_0000390D.rpy:743
 translate english block_00003910_584e346b:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "啊，我不是这个意……{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "啊，我不是这个意……\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_0000390D.rpy:747
@@ -597,7 +597,7 @@ translate english block_00003910_33aedd71:
 # game/content/file_0000390D.rpy:796
 translate english block_00003910_c49808a1:
 
-    # rs_character_EEA3F27AEC2B46E082EB2D2B190F32C5 "说是可怜，你自己不也……？{w}\n{nw}"
+    # rs_character_EEA3F27AEC2B46E082EB2D2B190F32C5 "说是可怜，你自己不也……？\n"
     rs_character_EEA3F27AEC2B46E082EB2D2B190F32C5 ""
 
 # game/content/file_0000390D.rpy:801
@@ -705,13 +705,13 @@ translate english block_00003910_9328d39a:
 # game/content/file_0000390D.rpy:953
 translate english block_00003910_d9829015:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "厉害，金发——{w}\n{nw}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "厉害，金发——\n"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_0000390D.rpy:958
 translate english block_00003910_5e5f2314:
 
-    # extend "有点恐怖呐……{w}\n{nw}"
+    # extend "有点恐怖呐……\n"
     extend ""
 
 # game/content/file_0000390D.rpy:963
@@ -945,7 +945,7 @@ translate english block_00003910_5805e8d0:
 # game/content/file_0000390D.rpy:1234
 translate english block_00003910_e153847a:
 
-    # rs_character_06E99199BFCE4C93B1F3942F0090429B "欸——是吗。说起来，森海头上的那个……{w}\n{nw}"
+    # rs_character_06E99199BFCE4C93B1F3942F0090429B "欸——是吗。说起来，森海头上的那个……\n"
     rs_character_06E99199BFCE4C93B1F3942F0090429B ""
 
 # game/content/file_0000390D.rpy:1238
@@ -1125,7 +1125,7 @@ translate english block_00003910_a46a422c:
 # game/content/file_0000390D.rpy:1569
 translate english block_00003910_f5875b43:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "可被这样一说……{w=1}“被欺负的正是……{w=0.5}我”。{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "可被这样一说……{w=1}“被欺负的正是……{w=0.5}我”。\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_0000390D.rpy:1573
@@ -1653,7 +1653,7 @@ translate english block_00003911_ac904cf5:
 # game/content/file_0000390D.rpy:2447
 translate english block_00003911_3127b245:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "不，没什么特别的……。{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "不，没什么特别的……。\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_0000390D.rpy:2451
@@ -1761,7 +1761,7 @@ translate english block_00003911_5ff7ee59:
 # game/content/file_0000390D.rpy:2512
 translate english block_00003911_a63c2014:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "为什么……{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "为什么……\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_0000390D.rpy:2526
@@ -1929,7 +1929,7 @@ translate english block_00003911_19c20f60:
 # game/content/file_0000390D.rpy:2727
 translate english block_00003911_108824ad:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "怎么……会是……这……呜……不……呜……{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "怎么……会是……这……呜……不……呜……\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_0000390D.rpy:2736
@@ -2295,7 +2295,7 @@ translate english block_00003911_cc56c416:
 # game/content/file_0000390D.rpy:3307
 translate english block_00003911_5c88a9fe:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#F9CE1D}YUU 抱歉，我是这个叫做“YUU”的人的朋友。{/color}{w}\n{color=#800080}flower 欸(°д°){/color}{w}\n{color=#F9CE1D}YUU 不好意思，请详细说说刚才的事。\n就是说，我的朋友遇到危险了？{/color}{w}\n{color=#800080}flower 那个……总之，我就直说了。\n你的朋友在聊天室和某个有性犯罪前科的人……{/color}{w}\n{nw}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#F9CE1D}YUU 抱歉，我是这个叫做“YUU”的人的朋友。{/color}{w}\n{color=#800080}flower 欸(°д°){/color}{w}\n{color=#F9CE1D}YUU 不好意思，请详细说说刚才的事。\n就是说，我的朋友遇到危险了？{/color}{w}\n{color=#800080}flower 那个……总之，我就直说了。\n你的朋友在聊天室和某个有性犯罪前科的人……{/color}\n"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_0000390D.rpy:3311
@@ -2517,7 +2517,7 @@ translate english block_00003911_f005c687:
 # game/content/file_0000390D.rpy:3727
 translate english block_00003911_f60f2573:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "……说起来，最近没和由实阿姨打过招呼呐。{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "……说起来，最近没和由实阿姨打过招呼呐。\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_0000390D.rpy:3731
@@ -2613,7 +2613,7 @@ translate english block_00003911_ec0aa188:
 # game/content/file_0000390D.rpy:3856
 translate english block_00003911_973fafc7:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#F9CE1D}YUU 朋友说“我家的友蒙受你们照顾了”这样的( ´△｀){/color}{w}\n{nw}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#F9CE1D}YUU 朋友说“我家的友蒙受你们照顾了”这样的( ´△｀){/color}\n"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_0000390D.rpy:3861
@@ -2643,7 +2643,7 @@ translate english block_00003911_bdcb0ec9:
 # game/content/file_0000390D.rpy:3888
 translate english block_00003911_5a3302c8:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "好了，既然再见也说了，{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "好了，既然再见也说了，\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_0000390D.rpy:3893
@@ -2661,7 +2661,7 @@ translate english block_00003911_f6cce4b4:
 # game/content/file_0000390D.rpy:3907
 translate english block_00003911_e983a0af:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "今天是纪念日！！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "今天是纪念日！！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_0000390D.rpy:3911
@@ -2727,7 +2727,7 @@ translate english block_00003911_365095d3:
 # game/content/file_0000390D.rpy:3992
 translate english block_00003911_7fcb5e08:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "逆濑后来很快就又转校了。{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "逆濑后来很快就又转校了。\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_0000390D.rpy:3996

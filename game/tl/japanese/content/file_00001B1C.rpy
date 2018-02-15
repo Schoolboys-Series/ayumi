@@ -37,9 +37,9 @@ translate japanese block_00001B6A_4ed74dc9:
     rs_character_7C3C0C2656584DDA8F77A8F6082E3A27 ""
 
 # game/content/file_00001B1C.rpy:453
-translate japanese block_00001B6A_d86da6a5:
+translate japanese block_00001B6A_396d33c9:
 
-    # rs_character_7C3C0C2656584DDA8F77A8F6082E3A27 "{color=#808080}算了，就算说出来又能如何……{/color}{w}\n{nw}"
+    # rs_character_7C3C0C2656584DDA8F77A8F6082E3A27 "{color=#808080}算了，就算说出来又能如何……{/color}\n"
     rs_character_7C3C0C2656584DDA8F77A8F6082E3A27 ""
 
 # game/content/file_00001B1C.rpy:457
@@ -73,9 +73,9 @@ translate japanese block_00002C1F_6bd7fc1b:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001B1C.rpy:719
-translate japanese block_00002C1F_060d7dd2:
+translate japanese block_00002C1F_f9ed6133:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哈哈，会不会被神明夸奖呢。{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哈哈，会不会被神明夸奖呢。\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001B1C.rpy:724
@@ -85,13 +85,13 @@ translate japanese block_00002C1F_cb0261f1:
     extend ""
 
 # game/content/file_00001B1C.rpy:907
-translate japanese block_00001B3E_d3d3930b:
+translate japanese block_00001B3E_9b7f4bfd:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "哦呀，居然会在这种时间遇到。{w}\n{nw}"
+    # rs_character_62324AD297554FE987C680452CEE232E "哦呀，居然会在这种时间遇到。\n"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00001B1C.rpy:911
-translate japanese block_00001B3E_06462c01:
+translate japanese block_00001B3E_4edc8b0f:
 
     # extend "晚上好，森海友同学。"
     extend ""
@@ -139,7 +139,7 @@ translate japanese block_00001B3E_3fcb1304:
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00001B1C.rpy:974
-translate japanese block_00001B3E_3657ba7f:
+translate japanese block_00001B3E_761b0c0c:
 
     # extend "这么说很突然，但森海同学，\n我有件事需要你帮忙。"
     extend ""
@@ -181,9 +181,9 @@ translate japanese block_00001B3E_862111bd:
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00001B1C.rpy:1058
-translate japanese block_00001B3E_5b647c15:
+translate japanese block_00001B3E_2bc5261f:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "欸？{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "欸？\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001B1C.rpy:1075
@@ -479,18 +479,3 @@ translate japanese block_00001B6D_3ce3b464:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "快点去学校拿回卷子！"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
-
-# TODO: Translation updated at 2018-01-28 10:11
-
-# game/content/file_00001B1C.rpy:911
-translate japanese block_00001B3E_4edc8b0f:
-
-    # extend "晚上好，森海友同学。"
-    extend ""
-
-# game/content/file_00001B1C.rpy:974
-translate japanese block_00001B3E_761b0c0c:
-
-    # extend "这么说很突然，但森海同学，\n我有件事需要你帮忙。"
-    extend ""
-

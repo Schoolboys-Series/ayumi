@@ -319,4 +319,3 @@ translate japanese strings:
     # content\file_00001B8D.rpy:338
     old "一定和谁约好过，再想想"
     new ""
-

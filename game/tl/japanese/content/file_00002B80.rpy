@@ -49,9 +49,9 @@ translate japanese block_00002C29_7c3fc604:
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00002B80.rpy:297
-translate japanese block_00002C29_def83be7:
+translate japanese block_00002C29_1de9f8bd:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "欸？想要看{color=#FF80C0}回到少年时代参加学园祭{/color}的梦？{w}\n{nw}"
+    # rs_character_62324AD297554FE987C680452CEE232E "欸？想要看{color=#FF80C0}回到少年时代参加学园祭{/color}的梦？\n"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00002B80.rpy:301
@@ -79,9 +79,9 @@ translate japanese block_00002BD8_9249558f:
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00002B80.rpy:568
-translate japanese block_00002BD9_ae1cebf9:
+translate japanese block_00002BD9_9abef264:
 
-    # rs_character_EE1903694D624E399209772C95A20AAA "[persistent.FirstName]桑，\n弟弟一直给你添麻烦了。{w}\n{nw}"
+    # rs_character_EE1903694D624E399209772C95A20AAA "[persistent.FirstName]桑，\n弟弟一直给你添麻烦了。\n"
     rs_character_EE1903694D624E399209772C95A20AAA ""
 
 # game/content/file_00002B80.rpy:572
@@ -91,9 +91,9 @@ translate japanese block_00002BD9_729d4891:
     extend ""
 
 # game/content/file_00002B80.rpy:604
-translate japanese block_00002BDC_023377c5:
+translate japanese block_00002BDC_17df0b04:
 
-    # rs_character_EE1903694D624E399209772C95A20AAA "真年轻，真羡慕。{w}\n{nw}"
+    # rs_character_EE1903694D624E399209772C95A20AAA "真年轻，真羡慕。\n"
     rs_character_EE1903694D624E399209772C95A20AAA ""
 
 # game/content/file_00002B80.rpy:608
@@ -121,9 +121,9 @@ translate japanese block_00002BD6_b33d73ee:
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00002B80.rpy:712
-translate japanese block_00002BD6_98403a46:
+translate japanese block_00002BD6_f7d9be80:
 
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "说什么鬼话笨蛋杉本！！{w}\n{nw}"
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "说什么鬼话笨蛋杉本！！\n"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
 
 # game/content/file_00002B80.rpy:716
@@ -133,9 +133,9 @@ translate japanese block_00002BD6_1b46394a:
     extend ""
 
 # game/content/file_00002B80.rpy:748
-translate japanese block_00002BD7_21e65091:
+translate japanese block_00002BD7_2ba7e336:
 
-    # rs_character_C223850065F6443080205D1F61C04C98 "[persistent.LastName]桑，这次真的太辛苦你了。{w}\n{nw}"
+    # rs_character_C223850065F6443080205D1F61C04C98 "[persistent.LastName]桑，这次真的太辛苦你了。\n"
     rs_character_C223850065F6443080205D1F61C04C98 ""
 
 # game/content/file_00002B80.rpy:752
@@ -145,9 +145,9 @@ translate japanese block_00002BD7_a26cb7aa:
     extend ""
 
 # game/content/file_00002B80.rpy:757
-translate japanese block_00002BD7_5ad22d8e:
+translate japanese block_00002BD7_e93d369a:
 
-    # rs_character_C223850065F6443080205D1F61C04C98 "……不过，看，可以摸到我哦。{w}\n{nw}"
+    # rs_character_C223850065F6443080205D1F61C04C98 "……不过，看，可以摸到我哦。\n"
     rs_character_C223850065F6443080205D1F61C04C98 ""
 
 # game/content/file_00002B80.rpy:761
@@ -199,9 +199,9 @@ translate japanese block_00002BDE_733d8020:
     rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
 
 # game/content/file_00002B80.rpy:959
-translate japanese block_00002BDE_2c2e3b18:
+translate japanese block_00002BDE_df3efb99:
 
-    # rs_character_41A906D279CA4677A6A2ED8CBE544459 "[persistent.LastName]桑要是有什么烦恼\n请一定让我们帮忙{w}\n{nw}"
+    # rs_character_41A906D279CA4677A6A2ED8CBE544459 "[persistent.LastName]桑要是有什么烦恼\n请一定让我们帮忙\n"
     rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
 
 # game/content/file_00002B80.rpy:967
@@ -235,15 +235,15 @@ translate japanese block_00002BDF_3b58740a:
     rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
 
 # game/content/file_00002B80.rpy:1028
-translate japanese block_00002BDF_e796807f:
+translate japanese block_00002BDF_b6b82847:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "部长，委托的对象不是\n[persistent.LastName]桑是森海同学才对吧？"
     rs_character_53FF68C192E3494AB005C1909579AFFB ""
 
 # game/content/file_00002B80.rpy:1041
-translate japanese block_00002BDF_aeeda47b:
+translate japanese block_00002BDF_db99ed98:
 
-    # rs_character_41A906D279CA4677A6A2ED8CBE544459 "嗯？这个……{w=0.45}哦，也对。\n接受的是森海君，然后[persistent.LastName]桑是……{w}\n{nw}"
+    # rs_character_41A906D279CA4677A6A2ED8CBE544459 "嗯？这个……{w=0.45}哦，也对。\n接受的是森海君，然后[persistent.LastName]桑是……\n"
     rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
 
 # game/content/file_00002B80.rpy:1049
@@ -277,9 +277,9 @@ translate japanese block_00002BE4_eac34df4:
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_00002B80.rpy:1232
-translate japanese block_00002BE4_3a84885d:
+translate japanese block_00002BE4_0f176a2e:
 
-    # rs_character_57471360F48A413AB843A4E46D8C5541 "夕阳，鼓起信心。{w}\n{nw}"
+    # rs_character_57471360F48A413AB843A4E46D8C5541 "夕阳，鼓起信心。\n"
     rs_character_57471360F48A413AB843A4E46D8C5541 ""
 
 # game/content/file_00002B80.rpy:1236
@@ -289,9 +289,9 @@ translate japanese block_00002BE4_6c648446:
     extend ""
 
 # game/content/file_00002B80.rpy:1245
-translate japanese block_00002BE4_84a99e1e:
+translate japanese block_00002BE4_32b272c8:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "有、有道理。{w}\n{nw}"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "有、有道理。\n"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_00002B80.rpy:1253
@@ -307,9 +307,9 @@ translate japanese block_00002BE5_781683fd:
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_00002B80.rpy:1300
-translate japanese block_00002BE5_4cf570d8:
+translate japanese block_00002BE5_0a69b41a:
 
-    # rs_character_57471360F48A413AB843A4E46D8C5541 "[persistent.FirstName]桑，谢谢你这么支持我们。{w}\n{nw}"
+    # rs_character_57471360F48A413AB843A4E46D8C5541 "[persistent.FirstName]桑，谢谢你这么支持我们。\n"
     rs_character_57471360F48A413AB843A4E46D8C5541 ""
 
 # game/content/file_00002B80.rpy:1304
@@ -391,9 +391,9 @@ translate japanese block_00002BEF_f5a765f8:
     rs_character_08DBDA5028CF47989118DFA6DF0E1507 ""
 
 # game/content/file_00002B80.rpy:1582
-translate japanese block_00002BF0_bde9e059:
+translate japanese block_00002BF0_7800385f:
 
-    # rs_character_08DBDA5028CF47989118DFA6DF0E1507 "欸——这样啊♪{w}\n{nw}"
+    # rs_character_08DBDA5028CF47989118DFA6DF0E1507 "欸——这样啊♪\n"
     rs_character_08DBDA5028CF47989118DFA6DF0E1507 ""
 
 # game/content/file_00002B80.rpy:1586
@@ -409,9 +409,9 @@ translate japanese block_00002BF6_8c33bcea:
     rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 ""
 
 # game/content/file_00002B80.rpy:1678
-translate japanese block_00002BF6_b6898532:
+translate japanese block_00002BF6_82cbc01b:
 
-    # rs_character_81D16F74A3C44B8982DB528D7D934850 "我也没能找到对象。{w}\n{nw}"
+    # rs_character_81D16F74A3C44B8982DB528D7D934850 "我也没能找到对象。\n"
     rs_character_81D16F74A3C44B8982DB528D7D934850 ""
 
 # game/content/file_00002B80.rpy:1686
@@ -421,9 +421,9 @@ translate japanese block_00002BF6_c13215bc:
     extend ""
 
 # game/content/file_00002B80.rpy:1723
-translate japanese block_00002BF3_222ddce0:
+translate japanese block_00002BF3_a5a6632c:
 
-    # rs_character_81D16F74A3C44B8982DB528D7D934850 "唔……真的假的。{w}\n{nw}"
+    # rs_character_81D16F74A3C44B8982DB528D7D934850 "唔……真的假的。\n"
     rs_character_81D16F74A3C44B8982DB528D7D934850 ""
 
 # game/content/file_00002B80.rpy:1727
@@ -463,9 +463,9 @@ translate japanese block_00002BF7_e8fa1743:
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00002B80.rpy:1837
-translate japanese block_00002BF7_9f2bee12:
+translate japanese block_00002BF7_0ba91170:
 
-    # rs_character_710A38AC94C841779DB701B5AC1010FD "你这家伙！思路再给我开阔点！{w}\n{nw}"
+    # rs_character_710A38AC94C841779DB701B5AC1010FD "你这家伙！思路再给我开阔点！\n"
     rs_character_710A38AC94C841779DB701B5AC1010FD ""
 
 # game/content/file_00002B80.rpy:1841
@@ -481,9 +481,9 @@ translate japanese block_00002BF8_7d2bd679:
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00002B80.rpy:1941
-translate japanese block_00002BF8_2c462b24:
+translate japanese block_00002BF8_eaaadf70:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "哦，对了，毛巾的库存用完了。{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "哦，对了，毛巾的库存用完了。\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00002B80.rpy:1946
@@ -493,9 +493,9 @@ translate japanese block_00002BF8_ebafbe7b:
     extend ""
 
 # game/content/file_00002B80.rpy:1982
-translate japanese block_00002BF9_485a9ecd:
+translate japanese block_00002BF9_7daf4d3e:
 
-    # rs_character_D34F60C882F0425E93252349E8C3BC8D "你、你好，[persistent.LastName]桑。{w}\n{nw}"
+    # rs_character_D34F60C882F0425E93252349E8C3BC8D "你、你好，[persistent.LastName]桑。\n"
     rs_character_D34F60C882F0425E93252349E8C3BC8D ""
 
 # game/content/file_00002B80.rpy:1990
@@ -505,9 +505,9 @@ translate japanese block_00002BF9_fb0995bd:
     extend ""
 
 # game/content/file_00002B80.rpy:1995
-translate japanese block_00002BF9_57f102b1:
+translate japanese block_00002BF9_81164240:
 
-    # rs_character_D34F60C882F0425E93252349E8C3BC8D "只是毛巾已经没有库存了所以……{w}\n{nw}"
+    # rs_character_D34F60C882F0425E93252349E8C3BC8D "只是毛巾已经没有库存了所以……\n"
     rs_character_D34F60C882F0425E93252349E8C3BC8D ""
 
 # game/content/file_00002B80.rpy:2003
@@ -523,9 +523,9 @@ translate japanese block_00002BFC_3d2154f8:
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00002B80.rpy:2052
-translate japanese block_00002BFC_2fc0eeee:
+translate japanese block_00002BFC_e04d70f5:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "不不，他看的不是我，\n他看的应该是哥哥才对。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "不不，他看的不是我，\n他看的应该是哥哥才对。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00002B80.rpy:2056
@@ -541,9 +541,9 @@ translate japanese block_00002BFD_003a3640:
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00002B80.rpy:2117
-translate japanese block_00002BFA_24d7884b:
+translate japanese block_00002BFA_a6456c4e:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "算了，我明白你的心情。\n退一百步，看就看。{w}\n{nw}"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "算了，我明白你的心情。\n退一百步，看就看。\n"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00002B80.rpy:2130
@@ -559,9 +559,9 @@ translate japanese block_00002BFE_3afcc6d1:
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00002B80.rpy:2167
-translate japanese block_00002BFE_a140a4de:
+translate japanese block_00002BFE_011c86ac:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "可以的话我等下帮你搓背好了。{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "可以的话我等下帮你搓背好了。\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00002B80.rpy:2171
@@ -577,9 +577,9 @@ translate japanese block_00002C03_7f03d8de:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00002B80.rpy:2274
-translate japanese block_00002C03_819441cb:
+translate japanese block_00002C03_af85c1d8:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "这个梦的世界可以和喜欢的孩子\n开心自由过上一阵子哦♪{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "这个梦的世界可以和喜欢的孩子\n开心自由过上一阵子哦♪\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00002B80.rpy:2278
@@ -595,9 +595,9 @@ translate japanese block_00002C00_77c21609:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00002B80.rpy:2352
-translate japanese block_00002C01_9cd2c28f:
+translate japanese block_00002C01_791f0865:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "真的！？太好了——♪♪{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "真的！？太好了——♪♪\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00002B80.rpy:2356
@@ -619,9 +619,9 @@ translate japanese block_00002C04_8939b042:
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00002B80.rpy:2402
-translate japanese block_00002C04_0641c618:
+translate japanese block_00002C04_9ce80e50:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "谢了——我以后会和奥村一起努力的！\n你也记得来花乃汤贡献营业额哟♪{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "谢了——我以后会和奥村一起努力的！\n你也记得来花乃汤贡献营业额哟♪\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00002B80.rpy:2410
@@ -727,9 +727,9 @@ translate japanese block_00002C0D_a3f650e5:
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00002B80.rpy:2843
-translate japanese block_00003606_deef1f20:
+translate japanese block_00003606_c89702d8:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "要不要看{color=#008080}“梦之温泉设施”{/color}的梦？{w}\n{nw}"
+    # rs_character_62324AD297554FE987C680452CEE232E "要不要看{color=#008080}“梦之温泉设施”{/color}的梦？\n"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00002B80.rpy:2847
@@ -1045,9 +1045,9 @@ translate japanese block_00003FBE_5107f08b:
     rs_character_740EF5739095488C9C0AA2EF1A78CB35 ""
 
 # game/content/file_00002B80.rpy:4843
-translate japanese block_000031A9_0145cd52:
+translate japanese block_000031A9_eafef05f:
 
-    # rs_character_740EF5739095488C9C0AA2EF1A78CB35 "说起来，为何你能找到这里？{w}\n{nw}"
+    # rs_character_740EF5739095488C9C0AA2EF1A78CB35 "说起来，为何你能找到这里？\n"
     rs_character_740EF5739095488C9C0AA2EF1A78CB35 ""
 
 # game/content/file_00002B80.rpy:4847
@@ -1063,9 +1063,9 @@ translate japanese block_000031A9_a58fe76b:
     rs_character_FB87619C890441AEA41E279A1B588CAC ""
 
 # game/content/file_00002B80.rpy:4865
-translate japanese block_000031A9_fcb86598:
+translate japanese block_000031A9_7d519757:
 
-    # extend "你手里的那张纸是……{w}\n{nw}"
+    # extend "你手里的那张纸是……\n"
     extend ""
 
 # game/content/file_00002B80.rpy:4874
@@ -1087,9 +1087,9 @@ translate japanese block_000031A9_73e10abe:
     extend ""
 
 # game/content/file_00002B80.rpy:4904
-translate japanese block_000031A9_88e6d9c8:
+translate japanese block_000031A9_0d284a53:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "唔……{w}\n{nw}"
+    # rs_character_62324AD297554FE987C680452CEE232E "唔……\n"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00002B80.rpy:4908
@@ -1261,12 +1261,3 @@ translate japanese strings:
     # content\file_00002B80.rpy:4383
     old "我对过去没有留恋"
     new ""
-
-# TODO: Translation updated at 2018-01-28 10:11
-
-# game/content/file_00002B80.rpy:1028
-translate japanese block_00002BDF_b6b82847:
-
-    # rs_character_53FF68C192E3494AB005C1909579AFFB "部长，委托的对象不是\n[persistent.LastName]桑是森海同学才对吧？"
-    rs_character_53FF68C192E3494AB005C1909579AFFB ""
-

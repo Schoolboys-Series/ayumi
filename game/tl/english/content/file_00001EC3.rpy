@@ -45,7 +45,7 @@ translate english block_00001F10_0b82aa43:
 # game/content/file_00001EC3.rpy:283
 translate english block_00001F10_e8d467e0:
 
-    # rs_character_8D9249CA1389416BAF6A122851E276D0 "友、友君真是的。{w}\n{nw}"
+    # rs_character_8D9249CA1389416BAF6A122851E276D0 "友、友君真是的。\n"
     rs_character_8D9249CA1389416BAF6A122851E276D0 ""
 
 # game/content/file_00001EC3.rpy:287
@@ -63,7 +63,7 @@ translate english block_00001F10_a4fb3e71:
 # game/content/file_00001EC3.rpy:311
 translate english block_00001F10_cd210417:
 
-    # rs_character_8D9249CA1389416BAF6A122851E276D0 "嗯。{w}\n{nw}"
+    # rs_character_8D9249CA1389416BAF6A122851E276D0 "嗯。\n"
     rs_character_8D9249CA1389416BAF6A122851E276D0 ""
 
 # game/content/file_00001EC3.rpy:315
@@ -81,7 +81,7 @@ translate english block_00001F10_3722dabe:
 # game/content/file_00001EC3.rpy:333
 translate english block_00001F10_9f2ab4c9:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "部内有恋人是什么样的感觉呢。\n双方都能互相关照真好。{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "部内有恋人是什么样的感觉呢。\n双方都能互相关照真好。\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001EC3.rpy:338
@@ -105,7 +105,7 @@ translate english block_00001F0E_4e9abc44:
 # game/content/file_00001EC3.rpy:545
 translate english block_00001F0E_d73498eb:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哈哈。现在我也是有社团活动的好孩子了♪{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哈哈。现在我也是有社团活动的好孩子了♪\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001EC3.rpy:550
@@ -129,7 +129,7 @@ translate english block_00001F0E_e49d1ede:
 # game/content/file_00001EC3.rpy:572
 translate english block_00001F0E_8ad3301f:
 
-    # rs_character_81D16F74A3C44B8982DB528D7D934850 "班长听起来好伟大——{w}\n{nw}"
+    # rs_character_81D16F74A3C44B8982DB528D7D934850 "班长听起来好伟大——\n"
     rs_character_81D16F74A3C44B8982DB528D7D934850 ""
 
 # game/content/file_00001EC3.rpy:580
@@ -261,7 +261,7 @@ translate english block_00001F0B_d2816eec:
 # game/content/file_00001EC3.rpy:1207
 translate english block_00001F0B_51b962b6:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "是呐。{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "是呐。\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00001EC3.rpy:1211
@@ -315,7 +315,7 @@ translate english block_00001F0B_57b5715b:
 # game/content/file_00001EC3.rpy:1276
 translate english block_00001F0B_88b296f2:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "这、不、这个……不、不是这样的！{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "这、不、这个……不、不是这样的！\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00001EC3.rpy:1280
@@ -333,7 +333,7 @@ translate english block_00001F0B_34f0cf19:
 # game/content/file_00001EC3.rpy:1290
 translate english block_00001F0B_cdaf74bc:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "所、所以，我没有花心……{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "所、所以，我没有花心……\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00001EC3.rpy:1298
@@ -405,7 +405,7 @@ translate english block_00001F16_3ba2a778:
 # game/content/file_00001EC3.rpy:1416
 translate english block_00001F16_7d680275:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "嗯……是呐。{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "嗯……是呐。\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00001EC3.rpy:1420

@@ -75,7 +75,7 @@ translate english block_0000278E_01b92c37:
 # game/content/file_00001C51.rpy:254
 translate english block_0000278E_257bdc08:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "嗯，非常可爱！{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "嗯，非常可爱！\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00001C51.rpy:258
@@ -147,7 +147,7 @@ translate english block_0000278E_1a975dcc:
 # game/content/file_00001C51.rpy:322
 translate english block_0000278E_2f9f317f:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "……唔……也对……{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "……唔……也对……\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00001C51.rpy:326
@@ -183,7 +183,7 @@ translate english block_0000278E_7aa14ce0:
 # game/content/file_00001C51.rpy:350
 translate english block_0000278E_3bf70cb6:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "骗你的，我也知道肯定带不走。{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "骗你的，我也知道肯定带不走。\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00001C51.rpy:354
@@ -363,7 +363,7 @@ translate english block_00002798_e8ce51ba:
 # game/content/file_00001C51.rpy:946
 translate english block_00002798_0fdb793c:
 
-    # rs_character_2F154AE49ED54A70AEA327A36C670DDB "在薄薄的煎饼上加满香料和蛋黄酱……{w}\n{nw}"
+    # rs_character_2F154AE49ED54A70AEA327A36C670DDB "在薄薄的煎饼上加满香料和蛋黄酱……\n"
     rs_character_2F154AE49ED54A70AEA327A36C670DDB ""
 
 # game/content/file_00001C51.rpy:959
@@ -393,7 +393,7 @@ translate english block_00002798_8c4abf06:
 # game/content/file_00001C51.rpy:988
 translate english block_00002798_ee5107fe:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "啊，等等，小翼不能吃。{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "啊，等等，小翼不能吃。\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00001C51.rpy:992
@@ -615,7 +615,7 @@ translate english block_00001C5F_e706135d:
 # game/content/file_00001C51.rpy:1510
 translate english block_00001C5F_aa0329a8:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "欸，翼前辈也在！{w}\n{nw}"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "欸，翼前辈也在！\n"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_00001C51.rpy:1514
@@ -651,7 +651,7 @@ translate english block_00001C8F_1ae0872c:
 # game/content/file_00001C51.rpy:1585
 translate english block_00001C8F_b8276853:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "乖乖，不要乱叫。{w}\n{nw}"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "乖乖，不要乱叫。\n"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_00001C51.rpy:1589
@@ -773,7 +773,7 @@ translate english block_00001C54_eef59b90:
 # game/content/file_00001C51.rpy:1510
 translate english block_00001C5F_e1e5cb7f:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "欸，翼前辈也在！{w}\n{nw}"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "欸，翼前辈也在！\n"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_00001C51.rpy:1563

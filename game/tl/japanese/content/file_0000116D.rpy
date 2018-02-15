@@ -665,4 +665,3 @@ translate japanese block_00002CCD_391b1d48:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "这次的非常困难，请一定要注意。{w}\n加油，准备——{w}开始！"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
-

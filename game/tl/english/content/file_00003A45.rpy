@@ -129,7 +129,7 @@ translate english block_00003A4B_35519b66:
 # game/content/file_00003A45.rpy:241
 translate english block_00003A4B_db8ab132:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "到那时候我就不得不认可绫濑作为炎之魔法使的资质了。{w}\n{nw}"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "到那时候我就不得不认可绫濑作为炎之魔法使的资质了。\n"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00003A45.rpy:245
@@ -291,7 +291,7 @@ translate english block_00003A4B_0d9ab781:
 # game/content/file_00003A45.rpy:464
 translate english block_00003A4B_b23a4290:
 
-    # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "我对这个并无兴趣，{w}\n{nw}"
+    # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "我对这个并无兴趣，\n"
     rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 ""
 
 # game/content/file_00003A45.rpy:468
@@ -555,7 +555,7 @@ translate english block_00003A4B_34a01c6f:
 # game/content/file_00003A45.rpy:974
 translate english block_00003A4B_61e2189d:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "唔，也是呐。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "唔，也是呐。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003A45.rpy:982
@@ -753,7 +753,7 @@ translate english block_00003B2B_62083979:
 # game/content/file_00003A45.rpy:1409
 translate english block_00003B2B_2b54f522:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "嘴上这么说，下面可很诚……{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "嘴上这么说，下面可很诚……\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003A45.rpy:1414
@@ -945,7 +945,7 @@ translate english block_00003B2B_ed662a77:
 # game/content/file_00003A45.rpy:1675
 translate english block_00003B2B_979a333a:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不要不要我是开玩笑的，只是个玩笑～！{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不要不要我是开玩笑的，只是个玩笑～！\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003A45.rpy:1683
@@ -1101,7 +1101,7 @@ translate english block_00003B2B_8b5124e9:
 # game/content/file_00003A45.rpy:1920
 translate english block_00003B2B_d7bc3e9b:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "我……人家的话，那个……{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "我……人家的话，那个……\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00003A45.rpy:1928
@@ -1293,7 +1293,7 @@ translate english block_00003B2B_ccec69ab:
 # game/content/file_00003A45.rpy:2095
 translate english block_00003B2B_fcfbfb25:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "啊，谢谢。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "啊，谢谢。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003A45.rpy:2108
@@ -1365,7 +1365,7 @@ translate english block_00003B2B_b08e03d2:
 # game/content/file_00003A45.rpy:2186
 translate english block_00003B2B_76ffe8e6:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "情急之下一时嘴快……{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "情急之下一时嘴快……\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00003A45.rpy:2191
@@ -1539,7 +1539,7 @@ translate english block_00003B2A_ef9767bd:
 # game/content/file_00003A45.rpy:2454
 translate english block_00003B2A_dc84a973:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "两人居然都是技安那一边的！？{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "两人居然都是技安那一边的！？\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003A45.rpy:2462
@@ -1569,7 +1569,7 @@ translate english block_00003B2A_eb907d9b:
 # game/content/file_00003A45.rpy:2563
 translate english block_00003B2A_de50cf3c:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "嗯，也对呐……{w}\n{nw}"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "嗯，也对呐……\n"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00003A45.rpy:2567
@@ -1623,7 +1623,7 @@ translate english block_00003B2A_23eab6bc:
 # game/content/file_00003A45.rpy:2677
 translate english block_00003B2A_6930d255:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "都怪哥哥捉了太多！{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "都怪哥哥捉了太多！\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003A45.rpy:2681
@@ -1731,7 +1731,7 @@ translate english block_00003B2A_0df5095a:
 # game/content/file_00003A45.rpy:2821
 translate english block_00003B2A_ee096b59:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "嗯！大家要看好哦！{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "嗯！大家要看好哦！\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003A45.rpy:2825
@@ -1785,7 +1785,7 @@ translate english block_00003B2A_a968f525:
 # game/content/file_00003A45.rpy:2979
 translate english block_00003B2A_c15de383:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "首先是，打招呼，只要这个能做好，谈话就能顺利进行下去……{w}\n{nw}"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "首先是，打招呼，只要这个能做好，谈话就能顺利进行下去……\n"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00003A45.rpy:2983
@@ -1815,7 +1815,7 @@ translate english block_00003B2C_5bc1b88e:
 # game/content/file_00003A45.rpy:3087
 translate english block_00003B2C_1770127b:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "欸？欸，啊，嗯，你好，请多指教……？？{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "欸？欸，啊，嗯，你好，请多指教……？？\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00003A45.rpy:3095
@@ -1965,7 +1965,7 @@ translate english block_00003B2C_3dbaff43:
 # game/content/file_00003A45.rpy:3253
 translate english block_00003B2C_9c0452f1:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "当然没问题。而且，这也是为了我自身的进步必须的一步。{w}\n{nw}"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "当然没问题。而且，这也是为了我自身的进步必须的一步。\n"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00003A45.rpy:3257
@@ -2055,7 +2055,7 @@ translate english block_00003B2C_8bb0fdc3:
 # game/content/file_00003A45.rpy:3335
 translate english block_00003B2C_cea5438b:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "身高背直很帅气之类的，股四头肌太诱惑人了之类的，{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "身高背直很帅气之类的，股四头肌太诱惑人了之类的，\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00003A45.rpy:3340
@@ -2187,7 +2187,7 @@ translate english block_00003B2C_51e7f9d5:
 # game/content/file_00003A45.rpy:3521
 translate english block_00003B2C_936ec6e3:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "哥哥，晚饭好了～{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "哥哥，晚饭好了～\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003A45.rpy:3525
@@ -2469,7 +2469,7 @@ translate english block_00003B2D_e6d0e434:
 # game/content/file_00003A45.rpy:4111
 translate english block_00003B2D_0550f13d:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "……谢谢，我相信空的话一定没问题的。{w}\n{nw}"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "……谢谢，我相信空的话一定没问题的。\n"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00003A45.rpy:4119
@@ -2505,7 +2505,7 @@ translate english block_00003B2D_32c838c5:
 # game/content/file_00003A45.rpy:4145
 translate english block_00003B2D_bc92aa0e:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "唔……万不得已之时再找一之濑借DVD就好了。{w}\n{nw}"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "唔……万不得已之时再找一之濑借DVD就好了。\n"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00003A45.rpy:4149
@@ -2601,7 +2601,7 @@ translate english block_00003B2D_5ff00709:
 # game/content/file_00003A45.rpy:4289
 translate english block_00003B2D_c9ea245e:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不时常保持新鲜刺激的话，对方可是会不满足的哦～{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不时常保持新鲜刺激的话，对方可是会不满足的哦～\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003A45.rpy:4297
@@ -2715,7 +2715,7 @@ translate english block_00003B2D_bba3ae3b:
 # game/content/file_00003A45.rpy:4438
 translate english block_00003B2D_0ab3a654:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "这样有力气也使不出来哦。{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "这样有力气也使不出来哦。\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00003A45.rpy:4447
@@ -2805,7 +2805,7 @@ translate english block_00003B2D_6762a5d3:
 # game/content/file_00003A45.rpy:4555
 translate english block_00003B2D_0a239824:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "（能注意周围、确定训练内容，同时保证自己的训练。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "（能注意周围、确定训练内容，同时保证自己的训练。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003A45.rpy:4559
@@ -2823,7 +2823,7 @@ translate english block_00003B2D_d7c1b19a:
 # game/content/file_00003A45.rpy:4584
 translate english block_00003B2D_a4b61eeb:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "好——！落下的部分就要用甜食来补！{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "好——！落下的部分就要用甜食来补！\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003A45.rpy:4588
@@ -2835,7 +2835,7 @@ translate english block_00003B2D_14c3dc81:
 # game/content/file_00003A45.rpy:4593
 translate english block_00003B2D_8f0ae62c:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "再说了，本来就没有敢一个人去的勇气。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "再说了，本来就没有敢一个人去的勇气。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003A45.rpy:4597
@@ -2871,7 +2871,7 @@ translate english block_00003B2D_8f1f220c:
 # game/content/file_00003A45.rpy:4654
 translate english block_00003B2D_1aae6bea:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "哥哥才是，训练很累呐。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "哥哥才是，训练很累呐。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003A45.rpy:4662

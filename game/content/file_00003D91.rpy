@@ -383,7 +383,7 @@ label block_00003D94:
     show rs_image_58B37DE9B2B24E25A37C53248345E177 as tag_073D4E2B5E224963B025F95C92ED797A zorder zorder_tag_073D4E2B5E224963B025F95C92ED797A onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "我们明白了。{w}\n{nw}"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "我们明白了。\n"
     show rs_image_EF1CA449D9DD4A1A81FB1168489462C4 as tag_073D4E2B5E224963B025F95C92ED797A zorder zorder_tag_073D4E2B5E224963B025F95C92ED797A onlayer master
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
@@ -617,7 +617,7 @@ label block_000041F7:
     show rs_image_15F70AA27431427FADF805F167EE684B as tag_073D4E2B5E224963B025F95C92ED797A zorder zorder_tag_073D4E2B5E224963B025F95C92ED797A onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "嗯，不过，明白得把握分寸这一点没变。{w}\n{nw}"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "嗯，不过，明白得把握分寸这一点没变。\n"
     show rs_image_C989D2B8472147EBAAC08D14FF060BEC as tag_073D4E2B5E224963B025F95C92ED797A zorder zorder_tag_073D4E2B5E224963B025F95C92ED797A onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -905,7 +905,7 @@ label block_000041F7:
 
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "蜘蛛先生。{w}刚才路边捡的。"
 
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "……{w}\n{nw}"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "……\n"
     if sys_effect_current_file != "sound/Effect Sound/Flee 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Flee 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Flee 1.ogg"

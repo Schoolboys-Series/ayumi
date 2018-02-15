@@ -481,7 +481,7 @@ label block_00003C47:
     show rs_image_5171C4277664485482367CFD06553623 as tag_D0357FA295AF4FCF969F3B43FCFDDE60 zorder zorder_tag_D0357FA295AF4FCF969F3B43FCFDDE60 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_FB87619C890441AEA41E279A1B588CAC "哦呀哦呀，那可要快点去呐。{w}\n{nw}"
+    rs_character_FB87619C890441AEA41E279A1B588CAC "哦呀哦呀，那可要快点去呐。\n"
     if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"

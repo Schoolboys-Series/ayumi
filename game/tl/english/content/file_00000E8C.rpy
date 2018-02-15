@@ -87,7 +87,7 @@ translate english block_0000108F_8e818727:
 # game/content/file_00000E8C.rpy:505
 translate english block_00000EBC_3cd3a67f:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "诶？穗海喜欢的东西？{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "诶？穗海喜欢的东西？\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00000E8C.rpy:509
@@ -105,7 +105,7 @@ translate english block_00000EB4_5dac386b:
 # game/content/file_00000E8C.rpy:666
 translate english block_00000EB4_a983ad41:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "哈……我为什么总是……{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "哈……我为什么总是……\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00000E8C.rpy:670
@@ -147,7 +147,7 @@ translate english block_00000EBA_ee646773:
 # game/content/file_00000E8C.rpy:789
 translate english block_00000EBA_756186e8:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "昨天关于抽烟的事，谁也不许说。{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "昨天关于抽烟的事，谁也不许说。\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00000E8C.rpy:797
@@ -399,7 +399,7 @@ translate english block_0000242E_bb7d8c35:
 # game/content/file_00000E8C.rpy:1726
 translate english block_0000242E_7f50a615:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "{color=#FF00FF}假发{/color}。刚才猫山君给的。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "{color=#FF00FF}假发{/color}。刚才猫山君给的。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00000E8C.rpy:1731
@@ -501,7 +501,7 @@ translate english block_0000242C_73004ae2:
 # game/content/file_00000E8C.rpy:2018
 translate english block_0000242C_615564cb:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "意义不明，理解不能。{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "意义不明，理解不能。\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00000E8C.rpy:2026
@@ -681,7 +681,7 @@ translate english block_00001FEB_57150536:
 # game/content/file_00000E8C.rpy:2649
 translate english block_000010FA_91ce9c56:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "穗海君喜欢的东西？{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "穗海君喜欢的东西？\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00000E8C.rpy:2653
@@ -699,7 +699,7 @@ translate english block_000010FA_30e090f4:
 # game/content/file_00000E8C.rpy:2675
 translate english block_000010FA_6ca9bb93:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "真是的，消停消停。{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "真是的，消停消停。\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00000E8C.rpy:2679

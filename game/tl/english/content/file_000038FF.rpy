@@ -93,7 +93,7 @@ translate english block_00003902_d2167258:
 # game/content/file_000038FF.rpy:252
 translate english block_00003902_5346a7f9:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "对了你在看什么书？{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "对了你在看什么书？\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_000038FF.rpy:265
@@ -273,7 +273,7 @@ translate english block_00003902_3174be2f:
 # game/content/file_000038FF.rpy:450
 translate english block_00003902_d289d5e5:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "啊，这样，嗯……{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "啊，这样，嗯……\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_000038FF.rpy:458
@@ -1029,7 +1029,7 @@ translate english block_00003902_89360eed:
 # game/content/file_000038FF.rpy:1742
 translate english block_00003902_d45f60ed:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "{color=#FF80C0}哈啊、啊啊啊！！{/color}{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "{color=#FF80C0}哈啊、啊啊啊！！{/color}\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_000038FF.rpy:1747
@@ -1095,7 +1095,7 @@ translate english block_00003902_64b6835f:
 # game/content/file_000038FF.rpy:1843
 translate english block_00003902_72b77a87:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "哈……哈……{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "哈……哈……\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_000038FF.rpy:1851
@@ -1143,7 +1143,7 @@ translate english block_00003902_f9b1873b:
 # game/content/file_000038FF.rpy:1900
 translate english block_00003902_e2421ecc:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "师父……{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "师父……\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_000038FF.rpy:1908
@@ -1173,7 +1173,7 @@ translate english block_00003902_8bb52f72:
 # game/content/file_000038FF.rpy:1988
 translate english block_00003902_6bdf8ea7:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "委身于成人话题，追逐于无上愉悦，这就是，森海教的精髓……{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "委身于成人话题，追逐于无上愉悦，这就是，森海教的精髓……\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000038FF.rpy:2002
@@ -1485,7 +1485,7 @@ translate english block_00003902_eaa794cd_1:
 # game/content/file_000038FF.rpy:2560
 translate english block_00003902_4ba80393:
 
-    # extend "笨蛋——{w}\n{nw}"
+    # extend "笨蛋——\n"
     extend ""
 
 # game/content/file_000038FF.rpy:2565

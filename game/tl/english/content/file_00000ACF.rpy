@@ -3,7 +3,7 @@
 # game/content/file_00000ACF.rpy:38
 translate english block_00002691_7b5cb7d3:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "呼～♪今天也努力了一整天呐。{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "呼～♪今天也努力了一整天呐。\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00000ACF.rpy:42
@@ -57,7 +57,7 @@ translate english block_00002691_4af65203:
 # game/content/file_00000ACF.rpy:123
 translate english block_00002691_36660e8c:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哦——！忍，说得好！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哦——！忍，说得好！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00000ACF.rpy:127
@@ -87,7 +87,7 @@ translate english block_00002691_c9e203e9:
 # game/content/file_00000ACF.rpy:150
 translate english block_00002691_094b131a:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "是呐。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "是呐。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00000ACF.rpy:154
@@ -177,7 +177,7 @@ translate english block_00000AF7_05af49a1:
 # game/content/file_00000ACF.rpy:719
 translate english block_00000AF7_ec6550e9:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "明明白天还没什么的。为什么呢。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "明明白天还没什么的。为什么呢。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00000ACF.rpy:723
@@ -237,7 +237,7 @@ translate english block_00001F57_f9cff00f:
 # game/content/file_00000ACF.rpy:1146
 translate english block_00001F57_7661940f:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "你好，一之濑君。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "你好，一之濑君。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00000ACF.rpy:1150
@@ -339,7 +339,7 @@ translate english block_00001F57_72b68da2:
 # game/content/file_00000ACF.rpy:1305
 translate english block_00001F57_704a7a16:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "快，哥哥，起来了。我们还要去社团。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "快，哥哥，起来了。我们还要去社团。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00000ACF.rpy:1313
@@ -351,7 +351,7 @@ translate english block_00001F57_c01d44e8:
 # game/content/file_00000ACF.rpy:1318
 translate english block_00001F57_7bce4165:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "打扰你们了。以后有机会我们会再来的。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "打扰你们了。以后有机会我们会再来的。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00000ACF.rpy:1335

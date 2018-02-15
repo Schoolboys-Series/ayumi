@@ -75,8 +75,8 @@ translate english block_00003C84_e1f385a7:
 # game/content/file_00003C75.rpy:204
 translate english block_00003C84_4253109d:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "别撒娇！你都多大了！一点都不可爱！{w}\n{nw}"
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "Do not act like a spoiled child! How old are you! Not cute at all!{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "别撒娇！你都多大了！一点都不可爱！\n"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "Do not act like a spoiled child! How old are you! Not cute at all!\n"
 
 # game/content/file_00003C75.rpy:217
 translate english block_00003C84_a65d7c4a:

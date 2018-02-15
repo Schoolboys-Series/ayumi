@@ -9,7 +9,7 @@ translate english block_00000FE0_d97a1000:
 # game/content/file_00000FD4.rpy:305
 translate english block_00001009_a939700e:
 
-    # rs_character_C223850065F6443080205D1F61C04C98 "抱歉，我离不开这里……{w}\n{nw}"
+    # rs_character_C223850065F6443080205D1F61C04C98 "抱歉，我离不开这里……\n"
     rs_character_C223850065F6443080205D1F61C04C98 ""
 
 # game/content/file_00000FD4.rpy:309

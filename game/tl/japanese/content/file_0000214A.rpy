@@ -577,4 +577,3 @@ translate japanese strings:
     # content\file_0000214A.rpy:83
     old "《Adagio Cantabile》，即贝多芬的《悲怆奏鸣曲》。"
     new ""
-

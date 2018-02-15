@@ -153,7 +153,7 @@ translate english block_000040B0_89c52d70:
 # game/content/file_0000405C.rpy:1133
 translate english block_000040B0_b11e926f:
 
-    # extend "嗯，是的。\n是……一样的。{w}\n{nw}"
+    # extend "嗯，是的。\n是……一样的。\n"
     extend ""
 
 # game/content/file_0000405C.rpy:1137
@@ -363,7 +363,7 @@ translate english block_000040EC_051f69dc:
 # game/content/file_0000405C.rpy:1971
 translate english block_000040EC_a4f24982:
 
-    # rs_character_8D9249CA1389416BAF6A122851E276D0 "感觉还不错。能发散压力，心情也很好♪{w}\n{nw}"
+    # rs_character_8D9249CA1389416BAF6A122851E276D0 "感觉还不错。能发散压力，心情也很好♪\n"
     rs_character_8D9249CA1389416BAF6A122851E276D0 ""
 
 # game/content/file_0000405C.rpy:1975
@@ -375,7 +375,7 @@ translate english block_000040EC_bc697f23:
 # game/content/file_0000405C.rpy:1977
 translate english block_000040EC_789b4e3d:
 
-    # rs_character_8D9249CA1389416BAF6A122851E276D0 "暗中观察了一下是SUMIRE学园的学生。{w}\n{nw}"
+    # rs_character_8D9249CA1389416BAF6A122851E276D0 "暗中观察了一下是SUMIRE学园的学生。\n"
     rs_character_8D9249CA1389416BAF6A122851E276D0 ""
 
 # game/content/file_0000405C.rpy:1985
@@ -447,7 +447,7 @@ translate english block_0000414E_d9d5840a:
 # game/content/file_0000405C.rpy:2092
 translate english block_0000414E_b12fb2b7:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "佐藤君，我有一句话送给这样的你！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "佐藤君，我有一句话送给这样的你！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_0000405C.rpy:2104
@@ -573,7 +573,7 @@ translate english block_0000407E_f4329a82:
 # game/content/file_0000405C.rpy:2502
 translate english block_0000407E_a678f04c:
 
-    # rs_character_EA9AA88E88D84B559B925363E2931756 "不过决斗……{w}\n{nw}"
+    # rs_character_EA9AA88E88D84B559B925363E2931756 "不过决斗……\n"
     rs_character_EA9AA88E88D84B559B925363E2931756 ""
 
 # game/content/file_0000405C.rpy:2506
@@ -597,7 +597,7 @@ translate english block_000040EF_fe7b918f:
 # game/content/file_0000405C.rpy:2742
 translate english block_000040EF_0861bfd4:
 
-    # rs_character_41A906D279CA4677A6A2ED8CBE544459 "哦，你是一班的森海君。{w}\n{nw}"
+    # rs_character_41A906D279CA4677A6A2ED8CBE544459 "哦，你是一班的森海君。\n"
     rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
 
 # game/content/file_0000405C.rpy:2750
@@ -831,7 +831,7 @@ translate english block_000040F4_5f8e17e6:
 # game/content/file_0000405C.rpy:3173
 translate english block_000040F4_69333eed:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "其实——之前在校庭里……{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "其实——之前在校庭里……\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_0000405C.rpy:3188
@@ -927,7 +927,7 @@ translate english block_000040DD_3402464d:
 # game/content/file_0000405C.rpy:3537
 translate english block_000040D9_98a19e05:
 
-    # rs_character_D34F60C882F0425E93252349E8C3BC8D "前段时间真的很对不起。{w}\n{nw}"
+    # rs_character_D34F60C882F0425E93252349E8C3BC8D "前段时间真的很对不起。\n"
     rs_character_D34F60C882F0425E93252349E8C3BC8D ""
 
 # game/content/file_0000405C.rpy:3541
@@ -951,7 +951,7 @@ translate english block_00004091_eaa794cd:
 # game/content/file_0000405C.rpy:3620
 translate english block_0000414F_3e964081:
 
-    # rs_character_193BCCFE681D42C8993A47A884FF2200 "哦，森海。{w}\n{nw}"
+    # rs_character_193BCCFE681D42C8993A47A884FF2200 "哦，森海。\n"
     rs_character_193BCCFE681D42C8993A47A884FF2200 ""
 
 # game/content/file_0000405C.rpy:3624
@@ -969,7 +969,7 @@ translate english block_0000414F_020a0660:
 # game/content/file_0000405C.rpy:3634
 translate english block_0000414F_01b51d1b:
 
-    # rs_character_193BCCFE681D42C8993A47A884FF2200 "是嘛……谢谢。{w}\n{nw}"
+    # rs_character_193BCCFE681D42C8993A47A884FF2200 "是嘛……谢谢。\n"
     rs_character_193BCCFE681D42C8993A47A884FF2200 ""
 
 # game/content/file_0000405C.rpy:3638

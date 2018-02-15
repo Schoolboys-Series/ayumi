@@ -1243,7 +1243,7 @@ label block_000023A2:
     show rs_image_53AE820BA9E64560B2C6D962DEE9DD33 as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "说起来{w}\n{nw}"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "说起来\n"
     if sys_effect_current_file != "sound/Effect Sound/Notice 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Notice 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Notice 1.ogg"
@@ -2231,7 +2231,7 @@ label block_00000797:
     show rs_image_FC1EB697877A47FE9D35ED5FD247302D as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "欸、欸！是、是这样吗？{w}\n{nw}"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "欸、欸！是、是这样吗？\n"
     show rs_image_F5C2E50E1E4840E8BC325EAA4E4AEC7A as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -2330,7 +2330,7 @@ label block_00000798:
     show rs_image_E836DDCE48E14FB9AE7542E0A740122B as tag_F533D76D6EDF4AB39ECAAB90D8F4723D zorder zorder_tag_F533D76D6EDF4AB39ECAAB90D8F4723D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "都怪睡觉的那位不好。{w}\n{nw}"
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "都怪睡觉的那位不好。\n"
     if sys_effect2_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Dorky 1.ogg"

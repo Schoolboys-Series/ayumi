@@ -39,7 +39,7 @@ translate english block_00001CF3_8c2f1656:
 # game/content/file_00001C9C.rpy:342
 translate english block_00001CF3_22d8cedf:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "是为了作哉君着想的事哦。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "是为了作哉君着想的事哦。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00001C9C.rpy:346
@@ -81,7 +81,7 @@ translate english block_00001CF3_e3927f37:
 # game/content/file_00001C9C.rpy:386
 translate english block_00001CF3_a03b127a:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "我、我才不会那么说！{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "我、我才不会那么说！\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00001C9C.rpy:390
@@ -129,7 +129,7 @@ translate english block_000027E8_2879d982:
 # game/content/file_00001C9C.rpy:836
 translate english block_00001CB6_85a029e4:
 
-    # rs_character_81D16F74A3C44B8982DB528D7D934850 "诶？班长？{w}\n{nw}"
+    # rs_character_81D16F74A3C44B8982DB528D7D934850 "诶？班长？\n"
     rs_character_81D16F74A3C44B8982DB528D7D934850 ""
 
 # game/content/file_00001C9C.rpy:840
@@ -141,7 +141,7 @@ translate english block_00001CB6_51d8f24f:
 # game/content/file_00001C9C.rpy:892
 translate english block_00001CF1_5ca9dcd0:
 
-    # rs_character_710A38AC94C841779DB701B5AC1010FD "嗯……？{w}\n{nw}"
+    # rs_character_710A38AC94C841779DB701B5AC1010FD "嗯……？\n"
     rs_character_710A38AC94C841779DB701B5AC1010FD ""
 
 # game/content/file_00001C9C.rpy:905
@@ -207,7 +207,7 @@ translate english block_00001CF1_1abb6d14:
 # game/content/file_00001C9C.rpy:1038
 translate english block_00001CDA_60fa37d4:
 
-    # rs_character_710A38AC94C841779DB701B5AC1010FD "诶，有没有看见过森海？{w}\n{nw}"
+    # rs_character_710A38AC94C841779DB701B5AC1010FD "诶，有没有看见过森海？\n"
     rs_character_710A38AC94C841779DB701B5AC1010FD ""
 
 # game/content/file_00001C9C.rpy:1042
@@ -267,7 +267,7 @@ translate english block_00001F0A_e5a17450:
 # game/content/file_00001C9C.rpy:1506
 translate english block_00001F0A_decd4096:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "（这个声音是……！）{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "（这个声音是……！）\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00001C9C.rpy:1518

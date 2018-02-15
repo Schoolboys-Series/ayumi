@@ -221,4 +221,3 @@ translate japanese block_00002FF4_a2333b60:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔……居然会输给小熊猫……"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
-

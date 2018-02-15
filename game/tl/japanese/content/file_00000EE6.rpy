@@ -115,9 +115,9 @@ translate japanese block_00000F3A_6d1d8fa7:
     rs_character_D9F0C257FF534E79ADF7FDFE3653E326 ""
 
 # game/content/file_00000EE6.rpy:390
-translate japanese block_00000F3A_af542490:
+translate japanese block_00000F3A_de7f7365:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "怎、怎么这样……！{w}…………{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "怎、怎么这样……！{w}…………\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00000EE6.rpy:399
@@ -187,9 +187,9 @@ translate japanese block_000023E7_dbc4afdd:
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00000EE6.rpy:749
-translate japanese block_000023E7_b985eee2:
+translate japanese block_000023E7_eaf246f1:
 
-    # rs_character_710A38AC94C841779DB701B5AC1010FD "木村，你好烦。{w}\n{nw}"
+    # rs_character_710A38AC94C841779DB701B5AC1010FD "木村，你好烦。\n"
     rs_character_710A38AC94C841779DB701B5AC1010FD ""
 
 # game/content/file_00000EE6.rpy:753
@@ -343,9 +343,9 @@ translate japanese block_00000F1C_f7d2ca1f:
     rs_character_C223850065F6443080205D1F61C04C98 ""
 
 # game/content/file_00000EE6.rpy:1287
-translate japanese block_00000F1C_46b549bf:
+translate japanese block_00000F1C_c90fdaf9:
 
-    # rs_character_C223850065F6443080205D1F61C04C98 "是呐，虽然我非常想去可……{w}\n{nw}"
+    # rs_character_C223850065F6443080205D1F61C04C98 "是呐，虽然我非常想去可……\n"
     rs_character_C223850065F6443080205D1F61C04C98 ""
 
 # game/content/file_00000EE6.rpy:1291
@@ -373,9 +373,9 @@ translate japanese block_000023ED_236003ec:
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00000EE6.rpy:1481
-translate japanese block_000023ED_78845b9b:
+translate japanese block_000023ED_c399c968:
 
-    # rs_character_81D16F74A3C44B8982DB528D7D934850 "等会等会，那么一惊一乍地什么都听不明白啊。{w}\n{nw}"
+    # rs_character_81D16F74A3C44B8982DB528D7D934850 "等会等会，那么一惊一乍地什么都听不明白啊。\n"
     rs_character_81D16F74A3C44B8982DB528D7D934850 ""
 
 # game/content/file_00000EE6.rpy:1494
@@ -463,7 +463,7 @@ translate japanese block_000023E2_b86aa0a7:
     rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
 
 # game/content/file_00000EE6.rpy:1909
-translate japanese block_000023E2_58ea88ca:
+translate japanese block_000023E2_f85242c4:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "所以说，一之濑同学来这里是有何贵干？"
     rs_character_53FF68C192E3494AB005C1909579AFFB ""
@@ -517,9 +517,9 @@ translate japanese block_000023E4_e6115e62:
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00000EE6.rpy:2141
-translate japanese block_000023E4_b5b564bf:
+translate japanese block_000023E4_ed3f1533:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "明白明白。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "明白明白。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00000EE6.rpy:2145
@@ -655,9 +655,9 @@ translate japanese block_00001B70_f9c482d6:
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00000EE6.rpy:2695
-translate japanese block_00001B70_67e29fbd:
+translate japanese block_00001B70_4c90b3df:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "说起来啊，不久前去友的家里了对不对。{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "说起来啊，不久前去友的家里了对不对。\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00000EE6.rpy:2703
@@ -785,12 +785,3 @@ translate japanese block_00000F33_a609c843:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『尽可能请求校园里所有认识的人{/color}\n{color=#0080FF}来围观练习。』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
-
-# TODO: Translation updated at 2018-01-28 10:11
-
-# game/content/file_00000EE6.rpy:1909
-translate japanese block_000023E2_f85242c4:
-
-    # rs_character_53FF68C192E3494AB005C1909579AFFB "所以说，一之濑同学来这里是有何贵干？"
-    rs_character_53FF68C192E3494AB005C1909579AFFB ""
-

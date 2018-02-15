@@ -27,7 +27,7 @@ translate english block_00003B93_fabdbb09:
 # game/content/file_00003B8F.rpy:241
 translate english block_00003B93_04d7aa64:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "期待什么的，说得和别人的事一样。{w}\n{nw}"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "期待什么的，说得和别人的事一样。\n"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_00003B8F.rpy:245
@@ -75,7 +75,7 @@ translate english block_00003B93_69821bdb:
 # game/content/file_00003B8F.rpy:301
 translate english block_00003B93_e6fb63f1:
 
-    # extend "正好！{w}\n{nw}"
+    # extend "正好！\n"
     extend ""
 
 # game/content/file_00003B8F.rpy:320
@@ -369,7 +369,7 @@ translate english block_00003B93_82b8a9e6:
 # game/content/file_00003B8F.rpy:873
 translate english block_00003B93_b51cf1ac:
 
-    # rs_character_7009C1117C004F51829614A203C67DE7 "倒不至于那么严重不过……{w}\n{nw}"
+    # rs_character_7009C1117C004F51829614A203C67DE7 "倒不至于那么严重不过……\n"
     rs_character_7009C1117C004F51829614A203C67DE7 ""
 
 # game/content/file_00003B8F.rpy:878
@@ -1209,7 +1209,7 @@ translate english block_00003B9F_cac25bb8:
 # game/content/file_00003B8F.rpy:2583
 translate english block_00003B9F_d1fcc719:
 
-    # rs_character_7009C1117C004F51829614A203C67DE7 "今天的午餐是我最喜欢的咖喱——♪{w}\n{nw}"
+    # rs_character_7009C1117C004F51829614A203C67DE7 "今天的午餐是我最喜欢的咖喱——♪\n"
     rs_character_7009C1117C004F51829614A203C67DE7 ""
 
 # game/content/file_00003B8F.rpy:2596
@@ -1221,7 +1221,7 @@ translate english block_00003B9F_985a5878:
 # game/content/file_00003B8F.rpy:2606
 translate english block_00003B9F_e5d230f0:
 
-    # rs_character_6C344A6C39F6479282A6BD884E3F8F11 "『此以咖……冠名之物，看似美味呐。{w}\n{nw}"
+    # rs_character_6C344A6C39F6479282A6BD884E3F8F11 "『此以咖……冠名之物，看似美味呐。\n"
     rs_character_6C344A6C39F6479282A6BD884E3F8F11 ""
 
 # game/content/file_00003B8F.rpy:2611
@@ -1293,7 +1293,7 @@ translate english block_00003B9F_3dda1f0b:
 # game/content/file_00003B8F.rpy:2713
 translate english block_00003B9F_7df3a578:
 
-    # rs_character_7009C1117C004F51829614A203C67DE7 "我知道……呜……捏住鼻子至少好点。{w}\n{nw}"
+    # rs_character_7009C1117C004F51829614A203C67DE7 "我知道……呜……捏住鼻子至少好点。\n"
     rs_character_7009C1117C004F51829614A203C67DE7 ""
 
 # game/content/file_00003B8F.rpy:2721
@@ -1353,7 +1353,7 @@ translate english block_00003B9F_7de6a5fb:
 # game/content/file_00003B8F.rpy:2858
 translate english block_00003B9F_45222fc5:
 
-    # rs_character_7009C1117C004F51829614A203C67DE7 "（其实还有更多详细的规则的，{w}\n{nw}"
+    # rs_character_7009C1117C004F51829614A203C67DE7 "（其实还有更多详细的规则的，\n"
     rs_character_7009C1117C004F51829614A203C67DE7 ""
 
 # game/content/file_00003B8F.rpy:2866
@@ -1659,7 +1659,7 @@ translate english block_00003B9F_f254ae70:
 # game/content/file_00003B8F.rpy:3503
 translate english block_00003B9F_6e4114e1:
 
-    # rs_character_11D1DFF219FE44D6933AB9F3B6E8BBDA "贫僧知道了，谢谢小施主。{w}\n{nw}"
+    # rs_character_11D1DFF219FE44D6933AB9F3B6E8BBDA "贫僧知道了，谢谢小施主。\n"
     rs_character_11D1DFF219FE44D6933AB9F3B6E8BBDA ""
 
 # game/content/file_00003B8F.rpy:3515
@@ -1785,7 +1785,7 @@ translate english block_00003B9F_23893d50:
 # game/content/file_00003B8F.rpy:3685
 translate english block_00003B9F_b2c47adb:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "相对的现在有人为的危险了……{w}\n{nw}"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "相对的现在有人为的危险了……\n"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_00003B8F.rpy:3689
@@ -1821,7 +1821,7 @@ translate english block_00003B9D_2875cb23:
 # game/content/file_00003B8F.rpy:3781
 translate english block_00003B9D_8561b7be:
 
-    # rs_character_104C616BEBAF48D8B6DC31A70290659F "现在就从恶灵手中救你出来。{w}\n{nw}"
+    # rs_character_104C616BEBAF48D8B6DC31A70290659F "现在就从恶灵手中救你出来。\n"
     rs_character_104C616BEBAF48D8B6DC31A70290659F ""
 
 # game/content/file_00003B8F.rpy:3789
@@ -2397,7 +2397,7 @@ translate english block_00003B9D_9ddc0d43:
 # game/content/file_00003B8F.rpy:4629
 translate english block_00003B9D_f432cfdb:
 
-    # rs_character_4DCC3C577A8D48B2BBAD4A0EEFF2D0AB "啊，是一所初高中一贯的男校。{w}\n{nw}"
+    # rs_character_4DCC3C577A8D48B2BBAD4A0EEFF2D0AB "啊，是一所初高中一贯的男校。\n"
     rs_character_4DCC3C577A8D48B2BBAD4A0EEFF2D0AB ""
 
 # game/content/file_00003B8F.rpy:4638

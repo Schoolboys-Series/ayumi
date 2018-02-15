@@ -19,9 +19,9 @@ translate japanese block_000001D6_e4bd3d95:
     rs_character_81D16F74A3C44B8982DB528D7D934850 ""
 
 # game/content/file_000001B0.rpy:322
-translate japanese block_000001D6_f7e3a892:
+translate japanese block_000001D6_6cdc00d4:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔哦！？\n加藤酱怎么了？怎么突然开始脱衣服了！？{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔哦！？\n加藤酱怎么了？怎么突然开始脱衣服了！？\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:327
@@ -91,9 +91,9 @@ translate japanese block_00000307_1dd730c7:
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_000001B0.rpy:578
-translate japanese block_0000020D_b8624b8e:
+translate japanese block_0000020D_cc98113f:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "……嗯……？{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "……嗯……？\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_000001B0.rpy:591
@@ -193,9 +193,9 @@ translate japanese block_0000020D_eecdb3ae:
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_000001B0.rpy:714
-translate japanese block_0000020D_28b6e09b:
+translate japanese block_0000020D_27828bbe:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "……所以啊……。{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "……所以啊……。\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_000001B0.rpy:729
@@ -349,9 +349,9 @@ translate japanese block_000001E9_e1f385a7:
     extend ""
 
 # game/content/file_000001B0.rpy:1338
-translate japanese block_000001E9_b2771d75:
+translate japanese block_000001E9_61729a75:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "既然翼君放学后有空，{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "既然翼君放学后有空，\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:1343
@@ -373,9 +373,9 @@ translate japanese block_000001E9_95c9e3ac:
     extend ""
 
 # game/content/file_000001B0.rpy:1356
-translate japanese block_000001E9_e5f07bec:
+translate japanese block_000001E9_329c3e51:
 
-    # extend "嗯！当然。{w}\n{nw}"
+    # extend "嗯！当然。\n"
     extend ""
 
 # game/content/file_000001B0.rpy:1369
@@ -499,9 +499,9 @@ translate japanese block_00000303_fcb78171:
     rs_character_710A38AC94C841779DB701B5AC1010FD ""
 
 # game/content/file_000001B0.rpy:1829
-translate japanese block_00000303_b4ec8608:
+translate japanese block_00000303_d2a6bd8f:
 
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "只是关注一下又怎么了？{w}\n{nw}"
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "只是关注一下又怎么了？\n"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_000001B0.rpy:1837
@@ -565,9 +565,9 @@ translate japanese block_00000303_dee15fa7:
     rs_character_710A38AC94C841779DB701B5AC1010FD ""
 
 # game/content/file_000001B0.rpy:1950
-translate japanese block_00000303_49b78d7b:
+translate japanese block_00000303_e5a067df:
 
-    # extend "……嗯？{w}\n{nw}"
+    # extend "……嗯？\n"
     extend ""
 
 # game/content/file_000001B0.rpy:1958
@@ -781,9 +781,9 @@ translate japanese block_00002437_833b5fee:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:2451
-translate japanese block_00002437_cb21c058:
+translate japanese block_00002437_01f11adb:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{size=28}{color=#FFFF00}{b}～{/b}{/color}{/size}{size=28}{color=#FFFF00}木村的热血讨论室{/color}{/size}{size=28}{color=#FFFF00}{b}～{/b}{/color}{/size}\n{size=15}{color=#00FFFF}〈{/color}{/size}{color=#00FFFF}主持{/color}{size=15}{color=#00FFFF}〉{/color}{/size}{color=#00FFFF}木村树·伊藤圭 {/color}{size=15}{color=#00FFFF}〈{/color}{/size}{color=#00FFFF}嘉宾{/color}{size=15}{color=#00FFFF}〉{/color}{/size}{color=#00FFFF}森海友・松田健治・加藤准太{/color}{w}\n{nw}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{size=28}{color=#FFFF00}{b}～{/b}{/color}{/size}{size=28}{color=#FFFF00}木村的热血讨论室{/color}{/size}{size=28}{color=#FFFF00}{b}～{/b}{/color}{/size}\n{size=15}{color=#00FFFF}〈{/color}{/size}{color=#00FFFF}主持{/color}{size=15}{color=#00FFFF}〉{/color}{/size}{color=#00FFFF}木村树·伊藤圭 {/color}{size=15}{color=#00FFFF}〈{/color}{/size}{color=#00FFFF}嘉宾{/color}{size=15}{color=#00FFFF}〉{/color}{/size}{color=#00FFFF}森海友・松田健治・加藤准太{/color}\n"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_000001B0.rpy:2456
@@ -1027,9 +1027,9 @@ translate japanese block_00000218_4b283f2b:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:2930
-translate japanese block_00000218_4a70834e:
+translate japanese block_00000218_88b09e7e:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "可是，技安那家伙，\n连道谢都不说，把自己当什么了～{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "可是，技安那家伙，\n连道谢都不说，把自己当什么了～\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:2935
@@ -1285,9 +1285,9 @@ translate japanese block_000001E8_97171fe3:
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_000001B0.rpy:3368
-translate japanese block_000001E8_b0abc650:
+translate japanese block_000001E8_00fb8644:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "诶！真的！？{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "诶！真的！？\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:3373
@@ -1417,9 +1417,9 @@ translate japanese block_000023B8_48fda06d:
     rs_character_8D9249CA1389416BAF6A122851E276D0 ""
 
 # game/content/file_000001B0.rpy:3770
-translate japanese block_000023B8_42200d33:
+translate japanese block_000023B8_7d4706a8:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "欸！那个平时不生气\n一生气就要吓死人的松田大哥！？{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "欸！那个平时不生气\n一生气就要吓死人的松田大哥！？\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:3775
@@ -1447,9 +1447,9 @@ translate japanese block_000023B8_2c887494:
     rs_character_8D9249CA1389416BAF6A122851E276D0 ""
 
 # game/content/file_000001B0.rpy:3799
-translate japanese block_000023B8_04e5a1c9:
+translate japanese block_000023B8_7e8cf279:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "不，完全不知道。{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "不，完全不知道。\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:3804
@@ -1489,9 +1489,9 @@ translate japanese block_000023BA_2f0602f7:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:3924
-translate japanese block_000023BA_2d51260c:
+translate japanese block_000023BA_146d78fb:
 
-    # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "哦——哦。我其实还挺重口的。{w}\n{nw}"
+    # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "哦——哦。我其实还挺重口的。\n"
     rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 ""
 
 # game/content/file_000001B0.rpy:3932
@@ -1519,9 +1519,9 @@ translate japanese block_00002B2E_82b1b529:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:4094
-translate japanese block_00002B2E_44e21fc6:
+translate japanese block_00002B2E_d76a7b4c:
 
-    # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "还不是怪你想歪了。{w}\n{nw}"
+    # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "还不是怪你想歪了。\n"
     rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 ""
 
 # game/content/file_000001B0.rpy:4098
@@ -1609,9 +1609,9 @@ translate japanese block_000001D0_a5a80ab6:
     rs_character_8D9249CA1389416BAF6A122851E276D0 ""
 
 # game/content/file_000001B0.rpy:4223
-translate japanese block_000001D0_9f68fd36:
+translate japanese block_000001D0_3b2330b4:
 
-    # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "好。上了，班长！{w}\n{nw}"
+    # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "好。上了，班长！\n"
     rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 ""
 
 # game/content/file_000001B0.rpy:4232
@@ -1621,9 +1621,9 @@ translate japanese block_000001D0_f06f8f38:
     extend ""
 
 # game/content/file_000001B0.rpy:4237
-translate japanese block_000001D0_c5f10c26:
+translate japanese block_000001D0_ea4348e1:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "好——！给你们看看班长的实力……{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "好——！给你们看看班长的实力……\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:4256
@@ -1645,9 +1645,9 @@ translate japanese block_000001D0_1b58f08c:
     extend ""
 
 # game/content/file_000001B0.rpy:4281
-translate japanese block_000001D0_ed573ed6:
+translate japanese block_000001D0_99dbdafe:
 
-    # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "好、好一记脸面接球……{w}\n{nw}"
+    # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "好、好一记脸面接球……\n"
     rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 ""
 
 # game/content/file_000001B0.rpy:4285
@@ -1915,7 +1915,7 @@ translate japanese block_000024BF_68589ad6:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:4954
-translate japanese block_000024BF_3e3aed57:
+translate japanese block_000024BF_4dfb7045:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "不要激动，森海同学。\n这次非常感谢，{w}来，这是报酬。"
     rs_character_53FF68C192E3494AB005C1909579AFFB ""
@@ -2017,9 +2017,9 @@ translate japanese block_000001F1_5dac486a:
     extend ""
 
 # game/content/file_000001B0.rpy:5564
-translate japanese block_000001F1_baf55cd2:
+translate japanese block_000001F1_fed72d1d:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "所以……欸？{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "所以……欸？\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:5569
@@ -2035,15 +2035,15 @@ translate japanese block_000001F1_8c69092e:
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_000001B0.rpy:5597
-translate japanese block_000001F1_ef97e333:
+translate japanese block_000001F1_e2455ce6:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "别胡说了！！怎么可能！！！{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "别胡说了！！怎么可能！！！\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_000001B0.rpy:5602
-translate japanese block_000001F1_62c3a1d6:
+translate japanese block_000001F1_2306a8e8:
 
-    # extend "我、是男人！！{w}\n{nw}"
+    # extend "我、是男人！！\n"
     extend ""
 
 # game/content/file_000001B0.rpy:5607
@@ -2089,9 +2089,9 @@ translate japanese block_000001F1_e1f385a7:
     extend ""
 
 # game/content/file_000001B0.rpy:5653
-translate japanese block_000001F1_7dc72ac3:
+translate japanese block_000001F1_d5d3de4f:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "需要寻找其他没人的好地方了。{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "需要寻找其他没人的好地方了。\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_000001B0.rpy:5657
@@ -2245,9 +2245,9 @@ translate japanese block_00000212_3358c2ad:
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_000001B0.rpy:5906
-translate japanese block_00000212_cb2d4ac7:
+translate japanese block_00000212_695e26fb:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "本是这样的，不知何时……{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "本是这样的，不知何时……\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_000001B0.rpy:5911
@@ -2515,9 +2515,9 @@ translate japanese block_000001FE_2e79a206:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:6576
-translate japanese block_000001FE_18b64d4b:
+translate japanese block_000001FE_e7f33fd6:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "等下必须交给他不可……{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "等下必须交给他不可……\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_000001B0.rpy:6584
@@ -2539,9 +2539,9 @@ translate japanese block_000001FE_bb8fd9cb:
     extend ""
 
 # game/content/file_000001B0.rpy:6596
-translate japanese block_000001FE_3c96fb6f:
+translate japanese block_000001FE_69949d77:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "要是只有翼君一个人肯定会被欺负的。{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "要是只有翼君一个人肯定会被欺负的。\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:6608
@@ -2557,9 +2557,9 @@ translate japanese block_000001FE_e404cfc8:
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_000001B0.rpy:6616
-translate japanese block_000001FE_735e2a11:
+translate japanese block_000001FE_598c635f:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "不过……对我来说……或许真是……{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "不过……对我来说……或许真是……\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_000001B0.rpy:6620
@@ -2641,9 +2641,9 @@ translate japanese block_000023AD_1b9fcea3:
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_000001B0.rpy:7226
-translate japanese block_000023A8_04060ab9:
+translate japanese block_000023A8_891de75e:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "说起来{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "说起来\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_000001B0.rpy:7231
@@ -2845,9 +2845,9 @@ translate japanese block_000001CF_0ea6432b:
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_000001B0.rpy:7729
-translate japanese block_000001CF_7340eb07:
+translate japanese block_000001CF_4100af01:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "总、总之！忍就和现在一样就好！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "总、总之！忍就和现在一样就好！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:7734
@@ -2941,9 +2941,9 @@ translate japanese block_000001F5_442650db:
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_000001B0.rpy:7871
-translate japanese block_000001F5_b64be965:
+translate japanese block_000001F5_d4033993:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "火大——！还在念叨那件事——！！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "火大——！还在念叨那件事——！！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:7876
@@ -3085,9 +3085,9 @@ translate japanese block_00000207_724d18b9:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:8335
-translate japanese block_00000207_f8ece6ff:
+translate japanese block_00000207_d19de534:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "唔～……？{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "唔～……？\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_000001B0.rpy:8351
@@ -3115,9 +3115,9 @@ translate japanese block_00000207_928cb8d0:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:8383
-translate japanese block_00000207_f0b68843:
+translate japanese block_00000207_1d6f3cbf:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "慎太郎大人，请这边走……{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "慎太郎大人，请这边走……\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:8388
@@ -3145,9 +3145,9 @@ translate japanese block_000002C1_3bc3c743:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:8491
-translate japanese block_000002C1_2b0099a2:
+translate japanese block_000002C1_a3cfc1f3:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "当然！！{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "当然！！\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_000001B0.rpy:8495
@@ -3289,9 +3289,9 @@ translate japanese block_000029BF_66a1213c:
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_000001B0.rpy:8762
-translate japanese block_000029BF_b7f9acf2:
+translate japanese block_000029BF_4f3ee43b:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "在做什么笔记呢？{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "在做什么笔记呢？\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:8773
@@ -3325,9 +3325,9 @@ translate japanese block_000029BF_457b4124:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:8807
-translate japanese block_000029BF_369d0834:
+translate japanese block_000029BF_5d918c4a:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "好好明白明白。{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "好好明白明白。\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_000001B0.rpy:8811
@@ -3469,9 +3469,9 @@ translate japanese block_000024B7_fe7b918f:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:9765
-translate japanese block_000024B7_0861bfd4:
+translate japanese block_000024B7_454aaa4d:
 
-    # rs_character_41A906D279CA4677A6A2ED8CBE544459 "哦，你是一班的森海君。{w}\n{nw}"
+    # rs_character_41A906D279CA4677A6A2ED8CBE544459 "哦，你是一班的森海君。\n"
     rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
 
 # game/content/file_000001B0.rpy:9773
@@ -3781,9 +3781,9 @@ translate japanese block_000023BD_9c0233d9:
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_000001B0.rpy:10401
-translate japanese block_000023BD_cfa9d09c:
+translate japanese block_000023BD_b978e681:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哇——！你在夫人面前说什么呢！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哇——！你在夫人面前说什么呢！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:10405
@@ -3823,9 +3823,9 @@ translate japanese block_000023BD_7cb901e1:
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_000001B0.rpy:10452
-translate japanese block_000023BD_8eb4ab61:
+translate japanese block_000023BD_64cd16d7:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "嗯嗯，加油哦。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "嗯嗯，加油哦。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_000001B0.rpy:10456
@@ -4111,9 +4111,9 @@ translate japanese block_000023AF_dbe1b583:
     extend ""
 
 # game/content/file_000001B0.rpy:11061
-translate japanese block_000023AF_97e0ace9:
+translate japanese block_000023AF_2a384a6b:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "友君……{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "友君……\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_000001B0.rpy:11065
@@ -4201,9 +4201,9 @@ translate japanese block_000001D4_b71b7ca7:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:11237
-translate japanese block_000001D4_3a1f1332:
+translate japanese block_000001D4_78bae613:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "……wwwwwwwwwww……{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "……wwwwwwwwwww……\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:11246
@@ -4255,9 +4255,9 @@ translate japanese block_000001D4_eca887ff:
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_000001B0.rpy:11288
-translate japanese block_000001D4_1be3c16d:
+translate japanese block_000001D4_33172939:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "真好啊，空已经决定了将来的梦想。\n我还什么都不知道，前途一片黑暗～{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "真好啊，空已经决定了将来的梦想。\n我还什么都不知道，前途一片黑暗～\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:11293
@@ -4315,9 +4315,9 @@ translate japanese block_000001D4_1fad8db2:
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_000001B0.rpy:11347
-translate japanese block_000001D4_572213e8:
+translate japanese block_000001D4_19ca7d59:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯！！\n……不过，那时候我们都早已长大了啊～{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯！！\n……不过，那时候我们都早已长大了啊～\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:11352
@@ -4375,9 +4375,9 @@ translate japanese block_000001EE_5f8e17e6:
     rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
 
 # game/content/file_000001B0.rpy:11546
-translate japanese block_000001EE_69333eed:
+translate japanese block_000001EE_e43b7778:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "其实——之前在校庭里……{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "其实——之前在校庭里……\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:11561
@@ -4453,9 +4453,9 @@ translate japanese block_000002C4_c60e193a:
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_000001B0.rpy:11833
-translate japanese block_000002C4_fd8e4414:
+translate japanese block_000002C4_14d67cda:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "……嗯？{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "……嗯？\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_000001B0.rpy:11841
@@ -4489,9 +4489,9 @@ translate japanese block_000002C4_354c925e:
     rs_character_87ED686ED78C4AB6909895FBBBE8A60B ""
 
 # game/content/file_000001B0.rpy:11890
-translate japanese block_000002C4_db7dda96:
+translate japanese block_000002C4_ef577674:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "啊，对不起哦小翼。{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "啊，对不起哦小翼。\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_000001B0.rpy:11898
@@ -4519,9 +4519,9 @@ translate japanese block_000001FF_f915fdfe:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:12051
-translate japanese block_000001FF_cce024bc:
+translate japanese block_000001FF_ad97a330:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "有事啊KUSO（混蛋）海。{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "有事啊KUSO（混蛋）海。\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_000001B0.rpy:12064
@@ -4621,9 +4621,9 @@ translate japanese block_000001FF_3eb41956:
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_000001B0.rpy:12183
-translate japanese block_000001FF_6d8dad25:
+translate japanese block_000001FF_8fedcbf1:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "哦……{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "哦……\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_000001B0.rpy:12187
@@ -5191,12 +5191,3 @@ translate japanese strings:
     # content\file_000001B0.rpy:12653
     old "其实木有事"
     new ""
-
-# TODO: Translation updated at 2018-01-28 10:11
-
-# game/content/file_000001B0.rpy:4954
-translate japanese block_000024BF_4dfb7045:
-
-    # rs_character_53FF68C192E3494AB005C1909579AFFB "不要激动，森海同学。\n这次非常感谢，{w}来，这是报酬。"
-    rs_character_53FF68C192E3494AB005C1909579AFFB ""
-

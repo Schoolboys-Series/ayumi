@@ -75,7 +75,7 @@ translate english block_0000425C_fa0a44a4:
 # game/content/file_00001A69.rpy:496
 translate english block_0000425C_ac4349e4:
 
-    # rs_character_EA79386263E543A88D4DC03B8BD44485 "什么嘛，一股老人气——？{w}\n{nw}"
+    # rs_character_EA79386263E543A88D4DC03B8BD44485 "什么嘛，一股老人气——？\n"
     rs_character_EA79386263E543A88D4DC03B8BD44485 ""
 
 # game/content/file_00001A69.rpy:504
@@ -147,7 +147,7 @@ translate english block_000027B8_8d42771e:
 # game/content/file_00001A69.rpy:986
 translate english block_000027B8_2e800bd7:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "哈哈，毕竟发生了很多事。{w}\n{nw}"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "哈哈，毕竟发生了很多事。\n"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_00001A69.rpy:990
@@ -255,7 +255,7 @@ translate english block_000027B8_9fc0d635:
 # game/content/file_00001A69.rpy:1191
 translate english block_000027B8_494470f2:
 
-    # rs_character_87ED686ED78C4AB6909895FBBBE8A60B "呐——呐——！来玩那个游戏——♪{w}\n{nw}"
+    # rs_character_87ED686ED78C4AB6909895FBBBE8A60B "呐——呐——！来玩那个游戏——♪\n"
     rs_character_87ED686ED78C4AB6909895FBBBE8A60B ""
 
 # game/content/file_00001A69.rpy:1196
@@ -507,7 +507,7 @@ translate english block_0000312F_29365498:
 # game/content/file_00001A69.rpy:2075
 translate english block_0000312F_bc2f1024:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "不过也是想遇到能让轻敌时的我们大吃一惊的呐！{w}\n{nw}"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "不过也是想遇到能让轻敌时的我们大吃一惊的呐！\n"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_00001A69.rpy:2083
@@ -591,7 +591,7 @@ translate english block_0000312F_67594685:
 # game/content/file_00001A69.rpy:2246
 translate english block_0000312F_364edf94:
 
-    # extend "部长不需要知道。{w}\n{nw}"
+    # extend "部长不需要知道。\n"
     extend ""
 
 # game/content/file_00001A69.rpy:2250
@@ -693,7 +693,7 @@ translate english block_0000312F_1ba75ce2:
 # game/content/file_00001A69.rpy:2422
 translate english block_0000312F_643e2413:
 
-    # rs_character_41A906D279CA4677A6A2ED8CBE544459 "森海君……{w}\n{nw}"
+    # rs_character_41A906D279CA4677A6A2ED8CBE544459 "森海君……\n"
     rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
 
 # game/content/file_00001A69.rpy:2426
@@ -843,7 +843,7 @@ translate english block_000030FE_3a41254c:
 # game/content/file_00001A69.rpy:2730
 translate english block_000030FE_6fc8f6c4:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不愧是三酱♪{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不愧是三酱♪\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00001A69.rpy:2734
@@ -891,7 +891,7 @@ translate english block_000030FE_3615be71:
 # game/content/file_00001A69.rpy:2768
 translate english block_000030FE_d8ca9acf:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "唔……原来如此……{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "唔……原来如此……\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00001A69.rpy:2772
@@ -909,7 +909,7 @@ translate english block_000030FE_4ef56ddd:
 # game/content/file_00001A69.rpy:2782
 translate english block_000030FE_2bffa07a:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "不是……那个……唔……{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "不是……那个……唔……\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00001A69.rpy:2786
@@ -1131,7 +1131,7 @@ translate english block_00001B5E_a16371c1:
 # game/content/file_00001A69.rpy:3627
 translate english block_00001B5E_9f8a0d58:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "……不过，今天作业很多呐。{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "……不过，今天作业很多呐。\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001A69.rpy:3632
@@ -1143,7 +1143,7 @@ translate english block_00001B5E_c6d0d3db:
 # game/content/file_00001A69.rpy:3662
 translate english block_00001B5E_98246fe9:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哈哈哈♪这个动画超赞的～！！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哈哈哈♪这个动画超赞的～！！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001A69.rpy:3667
@@ -1161,7 +1161,7 @@ translate english block_00001B5E_95858e50:
 # game/content/file_00001A69.rpy:3719
 translate english block_00001B5E_53010b2d:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "完了！已经这个点了！！\n再不赶快做……{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "完了！已经这个点了！！\n再不赶快做……\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001A69.rpy:3724
@@ -1341,7 +1341,7 @@ translate english block_000027C7_7f11bf8e:
 # game/content/file_00001A69.rpy:4714
 translate english block_000027C7_b52b9f5e:
 
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "接下来就要坐新干线去东京。而且是一等车厢！\n{size=12}{color=#808080}*从大阪到东京约合人民币322元{/color}{/size}{w}\n{nw}"
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "接下来就要坐新干线去东京。而且是一等车厢！\n{size=12}{color=#808080}*从大阪到东京约合人民币322元{/color}{/size}\n"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
 
 # game/content/file_00001A69.rpy:4718

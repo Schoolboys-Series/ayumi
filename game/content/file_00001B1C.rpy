@@ -450,7 +450,7 @@ label block_00001B6A:
 
     rs_character_7C3C0C2656584DDA8F77A8F6082E3A27 "{color=#808080}啊，等等……{/color}{w}\n{color=#808080}我有很重要的话要……{/color}"
 
-    rs_character_7C3C0C2656584DDA8F77A8F6082E3A27 "{color=#808080}算了，就算说出来又能如何……{/color}{w}\n{nw}"
+    rs_character_7C3C0C2656584DDA8F77A8F6082E3A27 "{color=#808080}算了，就算说出来又能如何……{/color}\n"
     hide tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
@@ -716,7 +716,7 @@ label block_00002C1F:
     show rs_image_3D1658550AAD4B23B72B22E477CAE581 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哈哈，会不会被神明夸奖呢。{w}\n{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哈哈，会不会被神明夸奖呢。\n"
     if sys_effect2_current_file != "sound/Effect Sound/As you wish 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/As you wish 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/As you wish 1.ogg"
@@ -904,7 +904,7 @@ label block_00001B3E:
 
     window show
 
-    rs_character_62324AD297554FE987C680452CEE232E "哦呀，居然会在这种时间遇到。{w}\n{nw}"
+    rs_character_62324AD297554FE987C680452CEE232E "哦呀，居然会在这种时间遇到。\n"
     show rs_image_9AD45D644515456B9DF8ED034B70000C as tag_E99970E1386B453DAF81C3AE2C72BE8E zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
@@ -1055,7 +1055,7 @@ label block_00001B3E:
 
     rs_character_62324AD297554FE987C680452CEE232E "你想去什么地方？“不勉强”是\n用强硬手段也要达到目标的意思。"
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "欸？{w}\n{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "欸？\n"
     if sys_effect2_current_file != "sound/Effect Sound/Flash 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Flash 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Flash 1.ogg"

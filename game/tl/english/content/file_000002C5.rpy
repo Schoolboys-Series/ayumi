@@ -69,7 +69,7 @@ translate english block_00000801_dea9146c:
 # game/content/file_000002C5.rpy:268
 translate english block_00000801_69ae6b65:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "{size=32}噫呀啊啊啊啊！有、有狗！？{/size}{w}\n{nw}"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "{size=32}噫呀啊啊啊啊！有、有狗！？{/size}\n"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000002C5.rpy:276
@@ -243,7 +243,7 @@ translate english block_00000800_d1ca995e:
 # game/content/file_000002C5.rpy:1055
 translate english block_00000800_59f1abdc:
 
-    # rs_character_EA79386263E543A88D4DC03B8BD44485 "欸～！{w}\n{nw}"
+    # rs_character_EA79386263E543A88D4DC03B8BD44485 "欸～！\n"
     rs_character_EA79386263E543A88D4DC03B8BD44485 ""
 
 # game/content/file_000002C5.rpy:1059

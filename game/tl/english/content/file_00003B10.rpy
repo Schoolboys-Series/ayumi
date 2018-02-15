@@ -81,7 +81,7 @@ translate english block_00003B12_c109bead:
 # game/content/file_00003B10.rpy:216
 translate english block_00003B12_9b2573aa:
 
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "……新的对象……哈……算了。{w}\n{nw}"
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "……新的对象……哈……算了。\n"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00003B10.rpy:220
@@ -129,7 +129,7 @@ translate english block_00003B1A_3f0b45f5:
 # game/content/file_00003B10.rpy:384
 translate english block_00003B1A_7a8afaaa:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "其实，木村亲他……！！{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "其实，木村亲他……！！\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003B10.rpy:392
@@ -165,7 +165,7 @@ translate english block_00003B1A_b3450a24:
 # game/content/file_00003B10.rpy:468
 translate english block_00003B1A_c483347d:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "呼……哈……{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "呼……哈……\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003B10.rpy:476
@@ -243,7 +243,7 @@ translate english block_00003B27_16655726:
 # game/content/file_00003B10.rpy:712
 translate english block_00003B27_d7ea1135:
 
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "……呼。{w=0.3}{w}\n{nw}"
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "……呼。{w=0.3}\n"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00003B10.rpy:720
@@ -519,7 +519,7 @@ translate english block_00003B27_4b311d4a:
 # game/content/file_00003B10.rpy:1079
 translate english block_00003B27_923a344b:
 
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "哦哦，很气人！！{w}\n{nw}"
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "哦哦，很气人！！\n"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00003B10.rpy:1083
@@ -891,7 +891,7 @@ translate english block_00003B27_54620e08:
 # game/content/file_00003B10.rpy:1632
 translate english block_00003B27_2603fe25:
 
-    # rs_character_710A38AC94C841779DB701B5AC1010FD "是、是嘛。那家伙确实也有经验呐！{w}\n{nw}"
+    # rs_character_710A38AC94C841779DB701B5AC1010FD "是、是嘛。那家伙确实也有经验呐！\n"
     rs_character_710A38AC94C841779DB701B5AC1010FD ""
 
 # game/content/file_00003B10.rpy:1636
@@ -1221,7 +1221,7 @@ translate english block_00003B1E_2997faaa:
 # game/content/file_00003B10.rpy:2247
 translate english block_00003B1E_31fdf621:
 
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "所以，一直窝在心里也不好，{w}\n{nw}"
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "所以，一直窝在心里也不好，\n"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00003B10.rpy:2252
@@ -1515,7 +1515,7 @@ translate english block_00003B1F_36e33f5a:
 # game/content/file_00003B10.rpy:2807
 translate english block_00003B1F_37aa41b0:
 
-    # rs_character_710A38AC94C841779DB701B5AC1010FD "只要灯开着，夜里巡视的人肯定会发觉……{w}\n{nw}"
+    # rs_character_710A38AC94C841779DB701B5AC1010FD "只要灯开着，夜里巡视的人肯定会发觉……\n"
     rs_character_710A38AC94C841779DB701B5AC1010FD ""
 
 # game/content/file_00003B10.rpy:2815
@@ -1725,7 +1725,7 @@ translate english block_00003B1F_1c031b03:
 # game/content/file_00003B10.rpy:3068
 translate english block_00003B1F_83ad0ff9:
 
-    # extend "是真的对你抱有恋爱感情！！{w}\n{nw}"
+    # extend "是真的对你抱有恋爱感情！！\n"
     extend ""
 
 # game/content/file_00003B10.rpy:3081
@@ -1839,7 +1839,7 @@ translate english block_00003B1F_dbfdd9bb:
 # game/content/file_00003B10.rpy:3133
 translate english block_00003B1F_f330de33:
 
-    # rs_character_710A38AC94C841779DB701B5AC1010FD "……想要确认就干脆直接和我交往。{w}\n{nw}"
+    # rs_character_710A38AC94C841779DB701B5AC1010FD "……想要确认就干脆直接和我交往。\n"
     rs_character_710A38AC94C841779DB701B5AC1010FD ""
 
 # game/content/file_00003B10.rpy:3146
@@ -2055,7 +2055,7 @@ translate english block_00003B1F_981fbd16:
 # game/content/file_00003B10.rpy:3481
 translate english block_00003B1F_e5280683:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "嗯♪记得空出时间哦！{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "嗯♪记得空出时间哦！\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003B10.rpy:3485
@@ -2097,7 +2097,7 @@ translate english block_00003B1F_df3c4ee8:
 # game/content/file_00003B10.rpy:3538
 translate english block_00003B1F_8b714f1d:
 
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "呼……好累啊～伊藤，毛巾拿来……{w}\n{nw}"
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "呼……好累啊～伊藤，毛巾拿来……\n"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00003B10.rpy:3543

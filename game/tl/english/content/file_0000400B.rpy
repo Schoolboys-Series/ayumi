@@ -189,7 +189,7 @@ translate english block_0000400F_b2a81b32:
 # game/content/file_0000400B.rpy:353
 translate english block_0000400F_4e491ee2:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "是呐，好像很有趣的样子。{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "是呐，好像很有趣的样子。\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_0000400B.rpy:357
@@ -543,7 +543,7 @@ translate english block_000041C8_f7ffd14e:
 # game/content/file_0000400B.rpy:1094
 translate english block_000041C8_e79858f9:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "说起来这里还有这么一片森林呐。{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "说起来这里还有这么一片森林呐。\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_0000400B.rpy:1098
@@ -561,7 +561,7 @@ translate english block_000041C8_726cd227:
 # game/content/file_0000400B.rpy:1112
 translate english block_000041C8_ea5a4d81:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不……怎么说呢～{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不……怎么说呢～\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_0000400B.rpy:1117
@@ -579,7 +579,7 @@ translate english block_000041C8_9175192e:
 # game/content/file_0000400B.rpy:1135
 translate english block_000041C8_f7114306:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不对——！！{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不对——！！\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_0000400B.rpy:1146
@@ -603,7 +603,7 @@ translate english block_000041C8_0a8813ad:
 # game/content/file_0000400B.rpy:1177
 translate english block_000041C8_4a74d5df:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不过没关系，这种超现实的话题……{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不过没关系，这种超现实的话题……\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_0000400B.rpy:1185
@@ -663,7 +663,7 @@ translate english block_000041C8_477502d4:
 # game/content/file_0000400B.rpy:1297
 translate english block_000041C8_2e1c3914:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "你们先安静。{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "你们先安静。\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_0000400B.rpy:1301
@@ -705,7 +705,7 @@ translate english block_000041C8_946b7c30:
 # game/content/file_0000400B.rpy:1383
 translate english block_000041C8_50c38617:
 
-    # rs_character_9EE015BA31314B149F5FA89B44759AA4 "噫！？{w}\n{nw}"
+    # rs_character_9EE015BA31314B149F5FA89B44759AA4 "噫！？\n"
     rs_character_9EE015BA31314B149F5FA89B44759AA4 ""
 
 # game/content/file_0000400B.rpy:1396
@@ -861,7 +861,7 @@ translate english block_000041C8_5d7acafe:
 # game/content/file_0000400B.rpy:1643
 translate english block_000041C8_56167443:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "加、加油哦绫濑君……！{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "加、加油哦绫濑君……！\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_0000400B.rpy:1656
@@ -1089,7 +1089,7 @@ translate english block_000041C8_b21a0b57:
 # game/content/file_0000400B.rpy:2057
 translate english block_000041C8_4d68b85b:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "嗯……非常在意所以……{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "嗯……非常在意所以……\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_0000400B.rpy:2061
@@ -1107,7 +1107,7 @@ translate english block_000041C8_7a31703c:
 # game/content/file_0000400B.rpy:2071
 translate english block_000041C8_c412b7e9:
 
-    # rs_character_9EDF48057FB84D428D56198A69E2880E "不不，很久没有和武斗派组队了还是很高兴的。{w}\n{nw}"
+    # rs_character_9EDF48057FB84D428D56198A69E2880E "不不，很久没有和武斗派组队了还是很高兴的。\n"
     rs_character_9EDF48057FB84D428D56198A69E2880E ""
 
 # game/content/file_0000400B.rpy:2079
@@ -1131,7 +1131,7 @@ translate english block_000041C8_9f4d6375:
 # game/content/file_0000400B.rpy:2105
 translate english block_000041C8_bcd940bc:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "啊，还有这么回事！{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "啊，还有这么回事！\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_0000400B.rpy:2109
@@ -1221,7 +1221,7 @@ translate english block_000041C8_bc208233:
 # game/content/file_0000400B.rpy:2226
 translate english block_000041C8_5d198da3:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "失礼了。{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "失礼了。\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_0000400B.rpy:2234
@@ -1521,7 +1521,7 @@ translate english block_000041C8_52619abf:
 # game/content/file_0000400B.rpy:2670
 translate english block_000041C8_9b9b5618:
 
-    # rs_character_9EDF48057FB84D428D56198A69E2880E "嗯？纸？{w}\n{nw}"
+    # rs_character_9EDF48057FB84D428D56198A69E2880E "嗯？纸？\n"
     rs_character_9EDF48057FB84D428D56198A69E2880E ""
 
 # game/content/file_0000400B.rpy:2680
@@ -1581,7 +1581,7 @@ translate english block_000041C4_c9996762:
 # game/content/file_0000400B.rpy:2775
 translate english block_000041C4_ce618c82:
 
-    # rs_character_B7D632B215DC48F886E24A21F27A219A "小时候，大家都憧憬过的，梦想的存在……{w}\n{nw}"
+    # rs_character_B7D632B215DC48F886E24A21F27A219A "小时候，大家都憧憬过的，梦想的存在……\n"
     rs_character_B7D632B215DC48F886E24A21F27A219A ""
 
 # game/content/file_0000400B.rpy:2779
@@ -1629,7 +1629,7 @@ translate english block_000041C4_f74cad05:
 # game/content/file_0000400B.rpy:2874
 translate english block_000041C4_e2b95dd9:
 
-    # rs_character_8A11E465FF654D8F813A7292784648E8 "必须要消灭{color=#8080FF}乌贼乌贼星人{/color}！！！！{w}\n{nw}"
+    # rs_character_8A11E465FF654D8F813A7292784648E8 "必须要消灭{color=#8080FF}乌贼乌贼星人{/color}！！！！\n"
     rs_character_8A11E465FF654D8F813A7292784648E8 ""
 
 # game/content/file_0000400B.rpy:2879
@@ -1851,7 +1851,7 @@ translate english block_000041C4_50c5d6b9:
 # game/content/file_0000400B.rpy:3206
 translate english block_000041C4_3a9a990a:
 
-    # rs_character_B1BD18743BEC4D0F8D7522E76D84FA51 "觉、做好觉悟～乌贼乌贼星人！{w}\n{nw}"
+    # rs_character_B1BD18743BEC4D0F8D7522E76D84FA51 "觉、做好觉悟～乌贼乌贼星人！\n"
     rs_character_B1BD18743BEC4D0F8D7522E76D84FA51 ""
 
 # game/content/file_0000400B.rpy:3210
@@ -1971,7 +1971,7 @@ translate english block_000041C4_981b76fb:
 # game/content/file_0000400B.rpy:3390
 translate english block_000041C4_d5e94997:
 
-    # rs_character_B1BD18743BEC4D0F8D7522E76D84FA51 "所以，是一眼便把你定性为坏人的我不好。{w}\n{nw}"
+    # rs_character_B1BD18743BEC4D0F8D7522E76D84FA51 "所以，是一眼便把你定性为坏人的我不好。\n"
     rs_character_B1BD18743BEC4D0F8D7522E76D84FA51 ""
 
 # game/content/file_0000400B.rpy:3394
@@ -2151,7 +2151,7 @@ translate english block_000041C4_a65f93bb:
 # game/content/file_0000400B.rpy:3651
 translate english block_000041C4_960663cf:
 
-    # rs_character_F3A62EC81C5F4C45A38223D03BAC35AE "真可怜。{w}\n{nw}"
+    # rs_character_F3A62EC81C5F4C45A38223D03BAC35AE "真可怜。\n"
     rs_character_F3A62EC81C5F4C45A38223D03BAC35AE ""
 
 # game/content/file_0000400B.rpy:3655
@@ -2403,7 +2403,7 @@ translate english block_000041C4_62373cbf:
 # game/content/file_0000400B.rpy:4109
 translate english block_000041C4_e3b4a4ad:
 
-    # rs_character_B1BD18743BEC4D0F8D7522E76D84FA51 "怎么会……怎么会这样……{w}\n{nw}"
+    # rs_character_B1BD18743BEC4D0F8D7522E76D84FA51 "怎么会……怎么会这样……\n"
     rs_character_B1BD18743BEC4D0F8D7522E76D84FA51 ""
 
 # game/content/file_0000400B.rpy:4117
@@ -2517,13 +2517,13 @@ translate english block_000041C4_6868c412:
 # game/content/file_0000400B.rpy:4325
 translate english block_000041C4_4cd5dc3a:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "完蛋了！！{w}\n{nw}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "完蛋了！！\n"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_0000400B.rpy:4337
 translate english block_000041C4_4db80f63:
 
-    # extend "世界要毁灭了！！{w}\n{nw}"
+    # extend "世界要毁灭了！！\n"
     extend ""
 
 # game/content/file_0000400B.rpy:4349
@@ -2541,7 +2541,7 @@ translate english block_000041C4_44a779f3:
 # game/content/file_0000400B.rpy:4371
 translate english block_000041C4_623d88ad:
 
-    # rs_character_B1BD18743BEC4D0F8D7522E76D84FA51 "这个世界要由我拯救！！{w}\n{nw}"
+    # rs_character_B1BD18743BEC4D0F8D7522E76D84FA51 "这个世界要由我拯救！！\n"
     rs_character_B1BD18743BEC4D0F8D7522E76D84FA51 ""
 
 # game/content/file_0000400B.rpy:4376
@@ -2709,7 +2709,7 @@ translate english block_000041C3_cc730ff8:
 # game/content/file_0000400B.rpy:4689
 translate english block_000041C3_4e225b5c:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "欸？就那种演出……？{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "欸？就那种演出……？\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_0000400B.rpy:4697
@@ -2775,7 +2775,7 @@ translate english block_000041C3_484947bc:
 # game/content/file_0000400B.rpy:4786
 translate english block_000041C3_cfb168fc:
 
-    # rs_character_57471360F48A413AB843A4E46D8C5541 "太、太大惊小怪了，你到底要多么感性？{w}\n{nw}"
+    # rs_character_57471360F48A413AB843A4E46D8C5541 "太、太大惊小怪了，你到底要多么感性？\n"
     rs_character_57471360F48A413AB843A4E46D8C5541 ""
 
 # game/content/file_0000400B.rpy:4794

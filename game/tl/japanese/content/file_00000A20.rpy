@@ -115,10 +115,10 @@ translate japanese block_00000A73_4fc8a5c8:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "？"
 
 # game/content/file_00000A20.rpy:466
-translate japanese block_00000A73_f1c21d2d:
+translate japanese block_00000A73_d05fde8a:
 
-    # rs_character_C223850065F6443080205D1F61C04C98 "不过，感觉不到任何恶意。{w}\n{nw}"
-    rs_character_C223850065F6443080205D1F61C04C98 "でも、邪な気配は感じなかったな。{w}\n{nw}"
+    # rs_character_C223850065F6443080205D1F61C04C98 "不过，感觉不到任何恶意。\n"
+    rs_character_C223850065F6443080205D1F61C04C98 "でも、邪な気配は感じなかったな。\n"
 
 # game/content/file_00000A20.rpy:470
 translate japanese block_00000A73_d85e7387:
@@ -199,10 +199,10 @@ translate japanese block_000025BC_7def6f08:
     rs_character_53FF68C192E3494AB005C1909579AFFB "どうも、ご紹介に与りました、\n小島です。初めまして。"
 
 # game/content/file_00000A20.rpy:897
-translate japanese block_000025BC_bea00dc8:
+translate japanese block_000025BC_e069f48b:
 
-    # rs_character_53FF68C192E3494AB005C1909579AFFB "再说一次，抱歉，请让我拍张照。{w}\n{nw}"
-    rs_character_53FF68C192E3494AB005C1909579AFFB "重ねて申し上げますが、ぜひ写真を撮らせてください。{w}\n{nw}"
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "再说一次，抱歉，请让我拍张照。\n"
+    rs_character_53FF68C192E3494AB005C1909579AFFB "重ねて申し上げますが、ぜひ写真を撮らせてください。\n"
 
 # game/content/file_00000A20.rpy:902
 translate japanese block_000025BC_a64911d5:
@@ -229,10 +229,10 @@ translate japanese block_000025BC_c9864865:
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "（ふふん、オレってそんなにイケてんのかな。今度マモルに自慢しよっと♪）"
 
 # game/content/file_00000A20.rpy:933
-translate japanese block_000025BC_cad65573:
+translate japanese block_000025BC_59d660e8:
 
-    # rs_character_53FF68C192E3494AB005C1909579AFFB "非常感谢。{w}\n{nw}"
-    rs_character_53FF68C192E3494AB005C1909579AFFB "ありがとうございます。{w}\n{nw}"
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "非常感谢。\n"
+    rs_character_53FF68C192E3494AB005C1909579AFFB "ありがとうございます。\n"
 
 # game/content/file_00000A20.rpy:938
 translate japanese block_000025BC_81cc3473:
@@ -451,10 +451,10 @@ translate japanese block_000025BB_8e923481:
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "あ、行っちゃった……。"
 
 # game/content/file_00000A20.rpy:1537
-translate japanese block_000025BB_502230ea:
+translate japanese block_000025BB_e9459ee0:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "那孩子还是一副不忙不急的样子。{w}\n{nw}"
-    rs_character_EFC67D522B5F4615BFAE716D87F58204 "なんだかあの子、余裕が出て雰囲気変わったな。{w}\n{nw}"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "那孩子还是一副不忙不急的样子。\n"
+    rs_character_EFC67D522B5F4615BFAE716D87F58204 "なんだかあの子、余裕が出て雰囲気変わったな。\n"
 
 # game/content/file_00000A20.rpy:1545
 translate japanese block_000025BB_fac3edf3:
@@ -583,10 +583,10 @@ translate japanese block_00002604_24ecf4c9:
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "うー、まだオレうまく切り替えれてなーい。"
 
 # game/content/file_00000A20.rpy:2230
-translate japanese block_00002604_e7be8495:
+translate japanese block_00002604_deeb6bb4:
 
-    # rs_character_57471360F48A413AB843A4E46D8C5541 "认真一点！怪物们还在等着我们。{w}\n{nw}"
-    rs_character_57471360F48A413AB843A4E46D8C5541 "しっかりしろ！モンスター達が僕達を待っている。{w}\n{nw}"
+    # rs_character_57471360F48A413AB843A4E46D8C5541 "认真一点！怪物们还在等着我们。\n"
+    rs_character_57471360F48A413AB843A4E46D8C5541 "しっかりしろ！モンスター達が僕達を待っている。\n"
 
 # game/content/file_00000A20.rpy:2238
 translate japanese block_00002604_66f12d8e:
@@ -607,10 +607,10 @@ translate japanese block_00002604_36079c91:
     extend "お、おう……♪"
 
 # game/content/file_00000A20.rpy:2411
-translate japanese block_000025B3_e3975d42:
+translate japanese block_000025B3_06fa0d2e:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "打扰了……{w}\n{nw}"
-    rs_character_EFC67D522B5F4615BFAE716D87F58204 "お邪魔します……。{w}\n{nw}"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "打扰了……\n"
+    rs_character_EFC67D522B5F4615BFAE716D87F58204 "お邪魔します……。\n"
 
 # game/content/file_00000A20.rpy:2415
 translate japanese block_000025B3_056a781c:
@@ -877,10 +877,10 @@ translate japanese block_000016D4_4390df6d:
     rs_character_D93E396B7ADB48CBAE13F206958FC08B "い、意外に速い！短い足をふんだんに動かして……！"
 
 # game/content/file_00000A20.rpy:3799
-translate japanese block_000016D4_edc1a1cd:
+translate japanese block_000016D4_608e49c4:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哇——！哇——！{w}\n{nw}"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "わー！わー！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哇——！哇——！\n"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "わー！わー！\n"
 
 # game/content/file_00000A20.rpy:3804
 translate japanese block_000016D4_cbcb0fb1:
@@ -1027,10 +1027,10 @@ translate japanese block_00002586_a0d7116e:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "キミの知ってるノリは、それ以降で見たんじゃないかな。"
 
 # game/content/file_00000A20.rpy:4132
-translate japanese block_00002586_edadd31f:
+translate japanese block_00002586_84b02468:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "你的眼神和夕日很像，很投入剧情呐。{w}\n{nw}"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "キミは見た目も夕陽にそっくりだし、相当気に入ったんだね。{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "你的眼神和夕日很像，很投入剧情呐。\n"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "キミは見た目も夕陽にそっくりだし、相当気に入ったんだね。\n"
 
 # game/content/file_00000A20.rpy:4140
 translate japanese block_00002586_e96b5fab:
@@ -1231,10 +1231,10 @@ translate japanese block_000025BD_d5a90b5b:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "わぁ、あれがモンスタークレーマー……。\n店主さんも大変ですね。"
 
 # game/content/file_00000A20.rpy:4511
-translate japanese block_000025BD_431d6dc3:
+translate japanese block_000025BD_b4e5a1fb:
 
-    # rs_character_2F154AE49ED54A70AEA327A36C670DDB "没，没什么……{w}\n{nw}"
-    rs_character_2F154AE49ED54A70AEA327A36C670DDB "いや、あはは……。{w}\n{nw}"
+    # rs_character_2F154AE49ED54A70AEA327A36C670DDB "没，没什么……\n"
+    rs_character_2F154AE49ED54A70AEA327A36C670DDB "いや、あはは……。\n"
 
 # game/content/file_00000A20.rpy:4516
 translate japanese block_000025BD_1234a129:
@@ -1279,10 +1279,10 @@ translate japanese block_0000257C_af20e7ff:
     rs_character_7C178421D3DA4E2CB70D4336919888FB "もやもやとした、白い……\n{w=0.5}{nw}"
 
 # game/content/file_00000A20.rpy:4717
-translate japanese block_0000257C_27dc0661:
+translate japanese block_0000257C_cad85ede:
 
-    # extend "……{color=#8000FF}幽霊{/color}！{w}\n{nw}"
-    extend "……{color=#8000FF}幽霊が{/color}！{w}\n{nw}"
+    # extend "……{color=#8000FF}幽霊{/color}！\n"
+    extend "……{color=#8000FF}幽霊が{/color}！\n"
 
 # game/content/file_00000A20.rpy:4725
 translate japanese block_0000257C_5114c9dc:
@@ -1303,10 +1303,10 @@ translate japanese block_0000257C_5b847822:
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "その件の取材も申し込んだんですが、断られちゃって。"
 
 # game/content/file_00000A20.rpy:4749
-translate japanese block_0000257C_0b496928:
+translate japanese block_0000257C_65a8336b:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "本来还想上一次鬼怪类节目的。{w}\n{nw}"
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "心霊番組のレポ、一度はやってみたいのになぁ。{w}\n{nw}"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "本来还想上一次鬼怪类节目的。\n"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "心霊番組のレポ、一度はやってみたいのになぁ。\n"
 
 # game/content/file_00000A20.rpy:4757
 translate japanese block_0000257C_ed5cb5de:
@@ -1345,16 +1345,16 @@ translate japanese block_0000257A_d43fbe01:
     rs_character_7C178421D3DA4E2CB70D4336919888FB "いや～♪あれは実に、チョ～可愛かったです！！"
 
 # game/content/file_00000A20.rpy:4883
-translate japanese block_0000257A_d41b7cd6:
+translate japanese block_0000257A_66aa8633:
 
     # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "这、这种小事不用告诉友同学的，笨蛋杉本！"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "い、いちいち、そんなこと友さんに報告せんでええやろ！\n馬鹿杉本！"
 
 # game/content/file_00000A20.rpy:4892
-translate japanese block_0000257A_04ac58ef:
+translate japanese block_0000257A_607a10c0:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "反正迟早会知道的。{w}\n{nw}"
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "どっちみち、知ることになるでしょ。{w}\n{nw}"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "反正迟早会知道的。\n"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "どっちみち、知ることになるでしょ。\n"
 
 # game/content/file_00000A20.rpy:4897
 translate japanese block_0000257A_f355be58:
@@ -1393,16 +1393,16 @@ translate japanese block_00002579_7875611b:
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "ぜひ観てくださいね。"
 
 # game/content/file_00000A20.rpy:4987
-translate japanese block_00002579_71936038:
+translate japanese block_00002579_0d24ea94:
 
     # extend "说是这么说，\n但这是早上十点的节目。\n友同学应该没时间看。"
     extend "と、言いたいところですけど\n平日朝１０時からの番組なんで、\n友さんはご覧になれないですね。"
 
 # game/content/file_00000A20.rpy:4992
-translate japanese block_00002579_35c86bf4:
+translate japanese block_00002579_57515f7f:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "这样——真遗憾。{w}\n{nw}"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "そっかー、残念。{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "这样——真遗憾。\n"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "そっかー、残念。\n"
 
 # game/content/file_00000A20.rpy:4997
 translate japanese block_00002579_c18a7733:
@@ -1423,7 +1423,7 @@ translate japanese block_00002579_408f0df2:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "オレの友達に、お笑い好きで\nリクスギファンの子がいるんです！\nまた今度、録ってるか聞いてみよっと。"
 
 # game/content/file_00000A20.rpy:5022
-translate japanese block_00002579_b46f938f:
+translate japanese block_00002579_0dceff65:
 
     # rs_character_7C178421D3DA4E2CB70D4336919888FB "哦～？听起来友同学好像对我们没什么兴趣呐～"
     rs_character_7C178421D3DA4E2CB70D4336919888FB "おや～？その様子だと、\n友さんは、僕らのこと\nさほど興味ないように聞こえますよ～。"
@@ -1447,7 +1447,7 @@ translate japanese block_00002579_31b1dc04:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "えぇ！えーっとぉ、それは……。"
 
 # game/content/file_00000A20.rpy:5065
-translate japanese block_00002579_033c5332:
+translate japanese block_00002579_c612d884:
 
     # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "停下杉本，友同学很困扰的。\n适可而止就好。"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "やい杉本。友さんが困ってはるやろ。\nその辺にしとき。"
@@ -1465,10 +1465,10 @@ translate japanese block_0000257B_49260d6a:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "そういうのって出す予定ないんですか？"
 
 # game/content/file_00000A20.rpy:5118
-translate japanese block_0000257B_1afb14ab:
+translate japanese block_0000257B_5db3e661:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "嗯嗯，写真集。{w}\n{nw}"
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "ふむふむ、写真集か。{w}\n{nw}"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "嗯嗯，写真集。\n"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "ふむふむ、写真集か。\n"
 
 # game/content/file_00000A20.rpy:5122
 translate japanese block_0000257B_65fc5c86:
@@ -1486,7 +1486,7 @@ translate japanese block_0000257B_c48e17ba:
 translate japanese block_0000257B_c74124d1:
 
     # rs_character_7C178421D3DA4E2CB70D4336919888FB "欸——！肯定会大卖的。"
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "えー！絶対売れると思うのに。{w}\n{nw}"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "えー！絶対売れると思うのに。\n"
 
 # game/content/file_00000A20.rpy:5153
 translate japanese block_0000257B_6204fcaf:
@@ -1555,10 +1555,10 @@ translate japanese block_00002578_1d1a356a:
     rs_character_7C178421D3DA4E2CB70D4336919888FB "お客様は神様だ……\nそれが僕らのモットーですから！"
 
 # game/content/file_00000A20.rpy:5282
-translate japanese block_00002578_d44c3a6f:
+translate japanese block_00002578_4b363adb:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "MODE{size=12}{color=#C0C0C0}（日文读法MOTO）{/color}{/size}！好高大上！{w}\n{nw}"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "モットー！いいですね！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "MODE{size=12}{color=#C0C0C0}（日文读法MOTO）{/color}{/size}！好高大上！\n"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "モットー！いいですね！\n"
 
 # game/content/file_00000A20.rpy:5287
 translate japanese block_00002578_6be49fb0:
@@ -1585,9 +1585,9 @@ translate japanese block_00002578_9f2afecc:
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "あ、ありがとうございます。\nでも本音を言うと、ビジュアルじゃなく、\n漫才を見てほしいんですけどね……。"
 
 # game/content/file_00000A20.rpy:5337
-translate japanese block_00002578_33b749a8:
+translate japanese block_00002578_16026395:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "嘛！反正这个世界可爱就是正义♪{w}\n{nw}"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "嘛！反正这个世界可爱就是正义♪\n"
     rs_character_7C178421D3DA4E2CB70D4336919888FB "ま！この世界、可愛くて損することなんて\nそうそうないって♪\n"
 
 # game/content/file_00000A20.rpy:5345
@@ -1603,10 +1603,10 @@ translate japanese block_00002578_a18496bd:
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "なんっっっでやねん！！\nそういうネタは、真に受ける人多いから\n止めろ言うてるやろ！"
 
 # game/content/file_00000A20.rpy:5372
-translate japanese block_00002578_2792c068:
+translate japanese block_00002578_343193a9:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "不愧是陆田君！\n今天的吐槽也是这么精辟呐♪{w}\n{nw}"
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "さーすが陸田くん！\n今日のツッコミも切れ味パないね♪{w}\n{nw}"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "不愧是陆田君！\n今天的吐槽也是这么精辟呐♪\n"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "さーすが陸田くん！\n今日のツッコミも切れ味パないね♪\n"
 
 # game/content/file_00000A20.rpy:5377
 translate japanese block_00002578_f0427cee:
@@ -1687,10 +1687,10 @@ translate japanese block_00000A33_fa0a44a4:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "いいともよ。それにしても、若い衆は\nホント元気いっぱいだねぇ。オレはもう\n学校でHPのほとんどを使い果たしちゃったや。"
 
 # game/content/file_00000A20.rpy:5620
-translate japanese block_00000A33_ac4349e4:
+translate japanese block_00000A33_04200d19:
 
-    # rs_character_EA79386263E543A88D4DC03B8BD44485 "什么嘛，一股老人气——？{w}\n{nw}"
-    rs_character_EA79386263E543A88D4DC03B8BD44485 "なんだそれ、もうオジサンってことー？{w}\n{nw}"
+    # rs_character_EA79386263E543A88D4DC03B8BD44485 "什么嘛，一股老人气——？\n"
+    rs_character_EA79386263E543A88D4DC03B8BD44485 "なんだそれ、もうオジサンってことー？\n"
 
 # game/content/file_00000A20.rpy:5628
 translate japanese block_00000A33_b468d16d:
@@ -1699,10 +1699,10 @@ translate japanese block_00000A33_b468d16d:
     extend "じゃあこれからは、\n“友兄ぃ”じゃなくて“友じぃ”だな。"
 
 # game/content/file_00000A20.rpy:5633
-translate japanese block_00000A33_701e2fc0:
+translate japanese block_00000A33_c24ccc3d:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔，年轻人就是不知轻重！我还宝刀未……{w}\n{nw}"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "むむ、失礼な若者じゃな！\nまだまだ夜の方は元気で……{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔，年轻人就是不知轻重！我还宝刀未……\n"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "むむ、失礼な若者じゃな！\nまだまだ夜の方は元気で……\n"
 
 # game/content/file_00000A20.rpy:5638
 translate japanese block_00000A33_48f89e4c:
@@ -1899,30 +1899,3 @@ translate japanese strings:
     # content\file_00000A20.rpy:5843
     old "以后再说"
     new "後で考える"
-
-# TODO: Translation updated at 2018-01-28 10:11
-
-# game/content/file_00000A20.rpy:4883
-translate japanese block_0000257A_66aa8633:
-
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "这、这种小事不用告诉友同学的，笨蛋杉本！"
-    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "い、いちいち、そんなこと友さんに報告せんでええやろ！\n馬鹿杉本！"
-
-# game/content/file_00000A20.rpy:4987
-translate japanese block_00002579_0d24ea94:
-
-    # extend "说是这么说，\n但这是早上十点的节目。\n友同学应该没时间看。"
-    extend "と、言いたいところですけど\n平日朝１０時からの番組なんで、\n友さんはご覧になれないですね。"
-
-# game/content/file_00000A20.rpy:5022
-translate japanese block_00002579_0dceff65:
-
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "哦～？听起来友同学好像对我们没什么兴趣呐～"
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "おや～？その様子だと、\n友さんは、僕らのこと\nさほど興味ないように聞こえますよ～。"
-
-# game/content/file_00000A20.rpy:5065
-translate japanese block_00002579_c612d884:
-
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "停下杉本，友同学很困扰的。\n适可而止就好。"
-    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "やい杉本。友さんが困ってはるやろ。\nその辺にしとき。"
-

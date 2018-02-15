@@ -153,7 +153,7 @@ translate english block_000016E7_d4a37c10:
 # game/content/file_000016B7.rpy:471
 translate english block_000016E7_6c99db1f:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "当然！我可是有保密义务的！{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "当然！我可是有保密义务的！\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_000016B7.rpy:479
@@ -225,7 +225,7 @@ translate english block_000016E1_a5966d5a:
 # game/content/file_000016B7.rpy:604
 translate english block_000016E1_ec36c510:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "……{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "……\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_000016B7.rpy:612
@@ -243,7 +243,7 @@ translate english block_000016E1_5617609b:
 # game/content/file_000016B7.rpy:636
 translate english block_000016E1_b31b18d2:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "你肯定是运动部的，肌肉挺好的。{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "你肯定是运动部的，肌肉挺好的。\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_000016B7.rpy:641
@@ -405,7 +405,7 @@ translate english block_000016E5_36389cf6:
 # game/content/file_000016B7.rpy:1054
 translate english block_000016F0_c24f6c75:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "夕阳君的头发是橘色的……{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "夕阳君的头发是橘色的……\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000016B7.rpy:1059
@@ -477,7 +477,7 @@ translate english block_000016EF_c229b1a9:
 # game/content/file_000016B7.rpy:1212
 translate english block_000016EF_1bda1242:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "冷、冷静下来前辈！\n并没有那么奇怪哦？{w}\n{nw}"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "冷、冷静下来前辈！\n并没有那么奇怪哦？\n"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_000016B7.rpy:1217
@@ -513,7 +513,7 @@ translate english block_000016EF_b5086ced:
 # game/content/file_000016B7.rpy:1247
 translate english block_000016EF_4c9e71ac:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "诶，啊，这是魔法的副作用……{w}\n{nw}"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "诶，啊，这是魔法的副作用……\n"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_000016B7.rpy:1252
@@ -579,7 +579,7 @@ translate english block_000016F1_88738adb:
 # game/content/file_000016B7.rpy:1398
 translate english block_000016F1_53c75fee:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "谁知道～\n一般都是纸巾之类的～？{w}\n{nw}"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "谁知道～\n一般都是纸巾之类的～？\n"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_000016B7.rpy:1403
@@ -657,7 +657,7 @@ translate english block_000016EC_fb78384d:
 # game/content/file_000016B7.rpy:1662
 translate english block_000016EC_a2671f68:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "……也就是说，{w}\n{nw}"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "……也就是说，\n"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_000016B7.rpy:1667
@@ -819,7 +819,7 @@ translate english block_000016DD_8e7704de:
 # game/content/file_000016B7.rpy:2085
 translate english block_000016DD_9fa6cbce:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "谢谢，能被这么说我很高兴。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "谢谢，能被这么说我很高兴。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_000016B7.rpy:2089
@@ -843,7 +843,7 @@ translate english block_000016DD_ed368cf1:
 # game/content/file_000016B7.rpy:2105
 translate english block_000016DD_e1e44dc9:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "扫帚……这还真是个盲点。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "扫帚……这还真是个盲点。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_000016B7.rpy:2109
@@ -879,7 +879,7 @@ translate english block_000016DD_3bb3ea36:
 # game/content/file_000016B7.rpy:2177
 translate english block_000016DD_c9ca8008:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "在听我说话吗？{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "在听我说话吗？\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_000016B7.rpy:2186
@@ -939,7 +939,7 @@ translate english block_000016E3_9fa46ad5:
 # game/content/file_000016B7.rpy:1054
 translate english block_000016F0_d8715e55:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "夕阳君的头发是橘色的……{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "夕阳君的头发是橘色的……\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000016B7.rpy:1232

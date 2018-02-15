@@ -599,7 +599,7 @@ label block_00000A89:
     show rs_image_F69A7F8603174D3296CF7683C5C0D06C as tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 zorder zorder_tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "啊，小翼！{w}\n{nw}"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "啊，小翼！\n"
     if sys_effect_current_file != "sound/Effect Sound/As you wish 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/As you wish 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/As you wish 1.ogg"
@@ -1520,7 +1520,7 @@ label block_000025CE:
     show rs_image_1CDB21F0CE5D4659A6BA9E03A4285F77 as tag_063DF7E916A1424E84C7F9FED562D399 at center_bottom zorder zorder_tag_063DF7E916A1424E84C7F9FED562D399 onlayer master
     with rs_effect_B70215F4C83E407D8C2CA682FB6965D7
 
-    rs_character_EA79386263E543A88D4DC03B8BD44485 "啊，是作哉哥！{w}\n{nw}"
+    rs_character_EA79386263E543A88D4DC03B8BD44485 "啊，是作哉哥！\n"
     show rs_image_0DD616D8E2914FC2859CDB40FCB50F1A as tag_063DF7E916A1424E84C7F9FED562D399 zorder zorder_tag_063DF7E916A1424E84C7F9FED562D399 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 

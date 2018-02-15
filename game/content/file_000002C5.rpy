@@ -265,7 +265,7 @@ label block_00000801:
 
     rs_character_3B4C660F421B4BE392BB540B580F0339 "！？！？"
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "{size=32}噫呀啊啊啊啊！有、有狗！？{/size}{w}\n{nw}"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "{size=32}噫呀啊啊啊啊！有、有狗！？{/size}\n"
     if sys_effect_current_file != "sound/Effect Sound/Flee 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Flee 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Flee 1.ogg"
@@ -1052,7 +1052,7 @@ label block_00000800:
     show rs_image_1FF2B98C6C1E44809702A907624A30EB as tag_3C7A06FF4945452D859E685A41EEAAD5 at center_bottom zorder zorder_tag_3C7A06FF4945452D859E685A41EEAAD5 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_EA79386263E543A88D4DC03B8BD44485 "欸～！{w}\n{nw}"
+    rs_character_EA79386263E543A88D4DC03B8BD44485 "欸～！\n"
     show rs_image_F3C56AC05CFF4764BCEAA3638847A04F as tag_3C7A06FF4945452D859E685A41EEAAD5 zorder zorder_tag_3C7A06FF4945452D859E685A41EEAAD5 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 

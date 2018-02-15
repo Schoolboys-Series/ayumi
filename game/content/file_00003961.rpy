@@ -445,7 +445,7 @@ label block_00003968:
     show rs_image_3D1658550AAD4B23B72B22E477CAE581 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "欸——不要嘛——！{w}\n{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "欸——不要嘛——！\n"
     if sys_effect2_current_file != "sound/Effect Sound/Attack 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Attack 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Attack 1.ogg"
@@ -927,7 +927,7 @@ label block_00003C5F:
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔…………"
 
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "那就和体育祭时一样问大家意向声部好了。{w}\n{nw}"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "那就和体育祭时一样问大家意向声部好了。\n"
     show rs_image_275B22DDBE294B889403F68883C99EC9 as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 

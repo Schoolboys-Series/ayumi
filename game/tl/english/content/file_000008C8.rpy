@@ -369,7 +369,7 @@ translate english block_0000251E_30a8bcc9:
 # game/content/file_000008C8.rpy:1958
 translate english block_0000251E_a79273ff:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "当然可以——☆{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "当然可以——☆\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000008C8.rpy:1963
@@ -423,7 +423,7 @@ translate english block_000018DE_910ffaac:
 # game/content/file_000008C8.rpy:2124
 translate english block_000018DE_45e2a0f7:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯？{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯？\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000008C8.rpy:2137
@@ -477,7 +477,7 @@ translate english block_000018DE_fcc17271:
 # game/content/file_000008C8.rpy:2247
 translate english block_000018DE_8261089d:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "好痛！？好痛啊！{w}\n作、作哉君，不要拉我——！{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "好痛！？好痛啊！{w}\n作、作哉君，不要拉我——！\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_000008C8.rpy:2255
@@ -717,7 +717,7 @@ translate english block_00002548_48522c91:
 # game/content/file_000008C8.rpy:3473
 translate english block_00002548_6773331c:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "唔……都说让你认真点了。{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "唔……都说让你认真点了。\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_000008C8.rpy:3477
@@ -777,7 +777,7 @@ translate english block_00002545_65756b91:
 # game/content/file_000008C8.rpy:3590
 translate english block_00002545_5f20cc68:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "欸——不要嘛——！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "欸——不要嘛——！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000008C8.rpy:3595
@@ -1029,7 +1029,7 @@ translate english block_0000250F_fe7b918f:
 # game/content/file_000008C8.rpy:4766
 translate english block_0000250F_0861bfd4:
 
-    # rs_character_41A906D279CA4677A6A2ED8CBE544459 "哦，你是一班的森海君。{w}\n{nw}"
+    # rs_character_41A906D279CA4677A6A2ED8CBE544459 "哦，你是一班的森海君。\n"
     rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
 
 # game/content/file_000008C8.rpy:4774
@@ -1299,7 +1299,7 @@ translate english block_0000250D_5f8e17e6:
 # game/content/file_000008C8.rpy:5288
 translate english block_0000250D_69333eed:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "其实——之前在校庭里……{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "其实——之前在校庭里……\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000008C8.rpy:5303
@@ -1395,7 +1395,7 @@ translate english block_00000A0C_2354c537:
 # game/content/file_000008C8.rpy:5691
 translate english block_00000A0C_d116ac4f:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "……所以，就因为你不在，\n我被强塞了班长的工作。{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "……所以，就因为你不在，\n我被强塞了班长的工作。\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_000008C8.rpy:5695
@@ -1449,7 +1449,7 @@ translate english block_00000A0C_fb4c76d0:
 # game/content/file_000008C8.rpy:5786
 translate english block_00000A0C_09ad80d2:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "怎、怎么可能！！{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "怎、怎么可能！！\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_000008C8.rpy:5790
@@ -1479,7 +1479,7 @@ translate english block_00000A0C_af623bbc:
 # game/content/file_000008C8.rpy:5837
 translate english block_00000A0C_9ec3cb09:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "唔……！！{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "唔……！！\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_000008C8.rpy:5855
@@ -1503,7 +1503,7 @@ translate english block_00000A0C_375de3fa:
 # game/content/file_000008C8.rpy:5963
 translate english block_000024FA_fc2566f0:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "……所以下周可能会变成这样。{w}\n{nw}"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "……所以下周可能会变成这样。\n"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_000008C8.rpy:5967
@@ -1515,7 +1515,7 @@ translate english block_000024FA_a3e40730:
 # game/content/file_000008C8.rpy:5976
 translate english block_000024FA_5284c4ee:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "……嗯，我明白。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "……嗯，我明白。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_000008C8.rpy:5980
@@ -1551,7 +1551,7 @@ translate english block_000024FA_a34e47bf:
 # game/content/file_000008C8.rpy:6017
 translate english block_000024FA_7b785a03:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哦原来如此！\n我也一直在为小钢琴部努力呐。{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哦原来如此！\n我也一直在为小钢琴部努力呐。\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000008C8.rpy:6022
@@ -1593,7 +1593,7 @@ translate english block_0000243E_d169d427:
 # game/content/file_000008C8.rpy:6168
 translate english block_0000243E_ed9d4f9a:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000008C8.rpy:6173
@@ -1659,7 +1659,7 @@ translate english block_0000243E_0ba12b4b:
 # game/content/file_000008C8.rpy:6279
 translate english block_0000243E_c22fe760:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "好！那事不宜迟！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "好！那事不宜迟！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000008C8.rpy:6283
@@ -1671,7 +1671,7 @@ translate english block_0000243E_7191d4d4:
 # game/content/file_000008C8.rpy:6288
 translate english block_0000243E_9181b9cf:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "那个啊，哥哥还有其他工作，今天不在。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "那个啊，哥哥还有其他工作，今天不在。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_000008C8.rpy:6292
@@ -1701,7 +1701,7 @@ translate english block_0000243E_357ebc2a:
 # game/content/file_000008C8.rpy:6354
 translate english block_0000243E_228338cb:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "对、对不起～可这个……{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "对、对不起～可这个……\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000008C8.rpy:6363
@@ -1725,7 +1725,7 @@ translate english block_0000243E_33c7f515:
 # game/content/file_000008C8.rpy:6397
 translate english block_0000243E_f544dcbc:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嘿咻嘿咻嘿咻！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嘿咻嘿咻嘿咻！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000008C8.rpy:6401
@@ -2169,7 +2169,7 @@ translate english block_000018BD_5b649be7:
 # game/content/file_000008C8.rpy:7174
 translate english block_000018BD_45459a08:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "也～许吧！最近天气很冷。{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "也～许吧！最近天气很冷。\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_000008C8.rpy:7182
@@ -2283,7 +2283,7 @@ translate english block_00002525_64fea640:
 # game/content/file_000008C8.rpy:7671
 translate english block_00002525_fa1738b0:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "呐，{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "呐，\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000008C8.rpy:7676
@@ -2367,7 +2367,7 @@ translate english block_00002528_d22baba7:
 # game/content/file_000008C8.rpy:7885
 translate english block_000008ED_406fa6ab:
 
-    # rs_character_81D16F74A3C44B8982DB528D7D934850 "马上就是期中考试了，\n至少这次不能是倒数第一。{w}\n{nw}"
+    # rs_character_81D16F74A3C44B8982DB528D7D934850 "马上就是期中考试了，\n至少这次不能是倒数第一。\n"
     rs_character_81D16F74A3C44B8982DB528D7D934850 ""
 
 # game/content/file_000008C8.rpy:7893
@@ -2379,7 +2379,7 @@ translate english block_000008ED_2ec81189:
 # game/content/file_000008C8.rpy:7898
 translate english block_000008ED_af5e445c:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔！这我可不能当做没听到！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔！这我可不能当做没听到！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000008C8.rpy:7903
@@ -2487,7 +2487,7 @@ translate english block_00002533_833b5fee:
 # game/content/file_000008C8.rpy:8418
 translate english block_00002534_c8432085:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{size=28}{color=#FFFF00}～木村的热血讨论室～{/color}{/size}\n{size=15}{color=#00FFFF}〈{/color}{/size}{color=#00FFFF}主持{/color}{size=15}{color=#00FFFF}〉{/color}{/size}{color=#00FFFF}木村树·伊藤圭 {/color}{size=15}{color=#00FFFF}〈{/color}{/size}{color=#00FFFF}嘉宾{/color}{size=15}{color=#00FFFF}〉{/color}{/size}{color=#00FFFF}森海友・一之濑翼・小岛正{/color}{w}\n{nw}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{size=28}{color=#FFFF00}～木村的热血讨论室～{/color}{/size}\n{size=15}{color=#00FFFF}〈{/color}{/size}{color=#00FFFF}主持{/color}{size=15}{color=#00FFFF}〉{/color}{/size}{color=#00FFFF}木村树·伊藤圭 {/color}{size=15}{color=#00FFFF}〈{/color}{/size}{color=#00FFFF}嘉宾{/color}{size=15}{color=#00FFFF}〉{/color}{/size}{color=#00FFFF}森海友・一之濑翼・小岛正{/color}\n"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_000008C8.rpy:8423
@@ -2595,7 +2595,7 @@ translate english block_00002534_1e4d31fa:
 # game/content/file_000008C8.rpy:8596
 translate english block_00002534_2fa84a25:
 
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "那一之濑干脆和厉害的人组队不就行了。{w}\n{nw}"
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "那一之濑干脆和厉害的人组队不就行了。\n"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_000008C8.rpy:8600
@@ -2631,7 +2631,7 @@ translate english block_00002534_70b16217:
 # game/content/file_000008C8.rpy:8651
 translate english block_00002534_3cb3e54e:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "我、我也不想互相残杀。{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "我、我也不想互相残杀。\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_000008C8.rpy:8655
@@ -2751,7 +2751,7 @@ translate english block_00002534_70ea22cf:
 # game/content/file_000008C8.rpy:8838
 translate english block_00002534_76f1af83:
 
-    # rs_character_710A38AC94C841779DB701B5AC1010FD "这解释也太牵强了……{w}\n{nw}"
+    # rs_character_710A38AC94C841779DB701B5AC1010FD "这解释也太牵强了……\n"
     rs_character_710A38AC94C841779DB701B5AC1010FD ""
 
 # game/content/file_000008C8.rpy:8847
@@ -2985,7 +2985,7 @@ translate english block_000025FB_d6672ca8:
 # game/content/file_000008C8.rpy:9592
 translate english block_000025FB_f118b6e5:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯！下次我想住迪士尼的酒店哦！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯！下次我想住迪士尼的酒店哦！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000008C8.rpy:9597
@@ -2997,7 +2997,7 @@ translate english block_000025FB_fde042fc:
 # game/content/file_000008C8.rpy:9607
 translate english block_000025FB_96eba73c:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "欸！？{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "欸！？\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_000008C8.rpy:9611
@@ -3387,7 +3387,7 @@ translate english block_000008E9_051f69dc:
 # game/content/file_000008C8.rpy:10530
 translate english block_000008E9_a4f24982:
 
-    # rs_character_8D9249CA1389416BAF6A122851E276D0 "感觉还不错。能发散压力，心情也很好♪{w}\n{nw}"
+    # rs_character_8D9249CA1389416BAF6A122851E276D0 "感觉还不错。能发散压力，心情也很好♪\n"
     rs_character_8D9249CA1389416BAF6A122851E276D0 ""
 
 # game/content/file_000008C8.rpy:10534
@@ -3399,7 +3399,7 @@ translate english block_000008E9_bc697f23:
 # game/content/file_000008C8.rpy:10536
 translate english block_000008E9_789b4e3d:
 
-    # rs_character_8D9249CA1389416BAF6A122851E276D0 "暗中观察了一下是SUMIRE学园的学生。{w}\n{nw}"
+    # rs_character_8D9249CA1389416BAF6A122851E276D0 "暗中观察了一下是SUMIRE学园的学生。\n"
     rs_character_8D9249CA1389416BAF6A122851E276D0 ""
 
 # game/content/file_000008C8.rpy:10544
@@ -3459,7 +3459,7 @@ translate english block_00000905_e1f385a7:
 # game/content/file_000008C8.rpy:10647
 translate english block_00000905_2b270eb8:
 
-    # rs_character_EA9AA88E88D84B559B925363E2931756 "这种做错事的感觉真的很糟。{w}\n{nw}"
+    # rs_character_EA9AA88E88D84B559B925363E2931756 "这种做错事的感觉真的很糟。\n"
     rs_character_EA9AA88E88D84B559B925363E2931756 ""
 
 # game/content/file_000008C8.rpy:10651
@@ -3501,7 +3501,7 @@ translate english block_00002602_e276c5b9:
 # game/content/file_000008C8.rpy:10813
 translate english block_00002602_9bc01f80:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "没、没这回事哦。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "没、没这回事哦。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_000008C8.rpy:10817
@@ -3531,7 +3531,7 @@ translate english block_00002601_4b5755ea:
 # game/content/file_000008C8.rpy:10887
 translate english block_00002601_cbf64a6a:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "在本该上学的时候做别的……\n有股不明所以的优越感呢。{w}\n{nw}"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "在本该上学的时候做别的……\n有股不明所以的优越感呢。\n"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_000008C8.rpy:10900
@@ -3597,7 +3597,7 @@ translate english block_0000254C_55043af2:
 # game/content/file_000008C8.rpy:11110
 translate english block_0000254C_41d20c2f:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "总、总之还是别摄入太多糖分为好。{w}\n{nw}"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "总、总之还是别摄入太多糖分为好。\n"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_000008C8.rpy:11118
@@ -3723,7 +3723,7 @@ translate english block_000024FD_69b71395:
 # game/content/file_000008C8.rpy:11418
 translate english block_000024FD_9ec73272:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "要注意自己有没有被坏人缠上！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "要注意自己有没有被坏人缠上！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000008C8.rpy:11423
@@ -3945,7 +3945,7 @@ translate english block_00000908_4319ec43:
 # game/content/file_000008C8.rpy:12025
 translate english block_00000908_a4a60fb1:
 
-    # extend "噫，你怎么在这！！{w}\n{nw}"
+    # extend "噫，你怎么在这！！\n"
     extend ""
 
 # game/content/file_000008C8.rpy:12033

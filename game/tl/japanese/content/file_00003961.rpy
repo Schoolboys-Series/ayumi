@@ -133,9 +133,9 @@ translate japanese block_00003968_4b7b68ca:
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00003961.rpy:448
-translate japanese block_00003968_5f20cc68:
+translate japanese block_00003968_d9df9034:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "欸——不要嘛——！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "欸——不要嘛——！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003961.rpy:453
@@ -367,9 +367,9 @@ translate japanese block_00003C5F_d6db9615:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003961.rpy:930
-translate japanese block_00003C5F_8199819a:
+translate japanese block_00003C5F_acfee6f3:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "那就和体育祭时一样问大家意向声部好了。{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "那就和体育祭时一样问大家意向声部好了。\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00003961.rpy:934
@@ -521,4 +521,3 @@ translate japanese block_00003C70_07b98885:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#000000}请保存至今为止的进度。{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
-

@@ -127,7 +127,7 @@ translate japanese block_00001D24_ba18832d:
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00001CFA.rpy:825
-translate japanese block_00001D24_72ee7006:
+translate japanese block_00001D24_495c8555:
 
     # rs_character_EFC67D522B5F4615BFAE716D87F58204 "慎、慎太郎前辈！？\n{w=0.55}{nw}"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
@@ -181,9 +181,9 @@ translate japanese block_00001D24_2f1489c4:
     extend ""
 
 # game/content/file_00001CFA.rpy:903
-translate japanese block_00001D24_4f6be67d:
+translate japanese block_00001D24_b4fa9a70:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "哦哦——！！好萌——！！\n夕阳酱，现在这样子得分很高哦！{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "哦哦——！！好萌——！！\n夕阳酱，现在这样子得分很高哦！\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00001CFA.rpy:908
@@ -193,7 +193,7 @@ translate japanese block_00001D24_d94c886d:
     extend ""
 
 # game/content/file_00001CFA.rpy:914
-translate japanese block_00001D24_02674014:
+translate japanese block_00001D24_a5348545:
 
     # rs_character_EFC67D522B5F4615BFAE716D87F58204 "果然敌不过慎太郎前辈呐……"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
@@ -319,9 +319,9 @@ translate japanese block_000027F6_5425a354:
     rs_character_C473A7F2C0A44A78A0300ED989EA3752 ""
 
 # game/content/file_00001CFA.rpy:1249
-translate japanese block_000027F6_a2bd233f:
+translate japanese block_000027F6_27a14f5e:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "两、两位冷静一下～！会给别人带来麻烦的～！{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "两、两位冷静一下～！会给别人带来麻烦的～！\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00001CFA.rpy:1257
@@ -419,18 +419,3 @@ translate japanese block_00001CFD_d2a535de:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『找到迷之超人。』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
-
-# TODO: Translation updated at 2018-01-28 10:11
-
-# game/content/file_00001CFA.rpy:825
-translate japanese block_00001D24_495c8555:
-
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "慎、慎太郎前辈！？\n{w=0.55}{nw}"
-    rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
-
-# game/content/file_00001CFA.rpy:914
-translate japanese block_00001D24_a5348545:
-
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "果然敌不过慎太郎前辈呐……"
-    rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
-

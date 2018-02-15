@@ -586,7 +586,7 @@ label block_000023F2:
     show rs_image_BB675405870B497F958414550471B4BF as tag_CC4336DE74164173AC47C2C317367F10 at center_bottom zorder zorder_tag_CC4336DE74164173AC47C2C317367F10 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_41A906D279CA4677A6A2ED8CBE544459 "呀，欢迎，奥村君！{w}\n{nw}"
+    rs_character_41A906D279CA4677A6A2ED8CBE544459 "呀，欢迎，奥村君！\n"
     show rs_image_6EACDBA5EB7B44D7A7699633252E6B7E as tag_CC4336DE74164173AC47C2C317367F10 zorder zorder_tag_CC4336DE74164173AC47C2C317367F10 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -697,7 +697,7 @@ label block_00000C5C:
     show rs_image_4DE7491D04004FC5BE18A0FEB043C1BF as tag_DCBDF256A1E242E78A25910AE27C0954 zorder zorder_tag_DCBDF256A1E242E78A25910AE27C0954 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_53FF68C192E3494AB005C1909579AFFB "哦呀哦呀，如奥村同学这样的人居然都看不透我的感情。{w}\n{nw}"
+    rs_character_53FF68C192E3494AB005C1909579AFFB "哦呀哦呀，如奥村同学这样的人居然都看不透我的感情。\n"
     show rs_image_9511CC62DD3C41CB9B75011464423CB6 as tag_DCBDF256A1E242E78A25910AE27C0954 zorder zorder_tag_DCBDF256A1E242E78A25910AE27C0954 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
@@ -1236,7 +1236,7 @@ label block_0000241D:
     show rs_image_C0F9D8B5A9384E3AA89C0CB8EB04DBC9 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不该出现点{color=#800080}某深夜动画{/color}那样的柴刀展开？{w}\n{nw}"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不该出现点{color=#800080}某深夜动画{/color}那样的柴刀展开？\n"
     hide tag_9D0001B69AD04AE9A8D1DE7AF344E0A3
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -1708,7 +1708,7 @@ label block_00000C47:
     show rs_image_36E75A5BA4504559920E625E0462334C as tag_61A891D6A6D047DC93695DA12E13CC75 zorder zorder_tag_61A891D6A6D047DC93695DA12E13CC75 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_81D16F74A3C44B8982DB528D7D934850 "原来如此……{w}\n{nw}"
+    rs_character_81D16F74A3C44B8982DB528D7D934850 "原来如此……\n"
     if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
@@ -1736,7 +1736,7 @@ label block_00000C47:
     show rs_image_C5C9A2538FCB4FCB827FE1BBFE20727F as tag_61A891D6A6D047DC93695DA12E13CC75 zorder zorder_tag_61A891D6A6D047DC93695DA12E13CC75 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_81D16F74A3C44B8982DB528D7D934850 "哦，没问题！{w}\n{nw}"
+    rs_character_81D16F74A3C44B8982DB528D7D934850 "哦，没问题！\n"
     if sys_effect_current_file != "sound/Effect Sound/As you wish 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/As you wish 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/As you wish 1.ogg"
@@ -2177,7 +2177,7 @@ label block_00000C44:
 
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "可能只是对哥哥被夺走吃醋了。{w}\n也说不定是和男朋友相处不愉快\n只是在没事找事而已。"
 
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "我会关注一下的。{w}\n{nw}"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "我会关注一下的。\n"
     if sys_effect_current_file != "sound/Effect Sound/Cute 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 2.ogg"
@@ -2245,7 +2245,7 @@ label block_00000D27:
     show rs_image_670819AC463C49439D1F729E8DF40D29 as tag_61A891D6A6D047DC93695DA12E13CC75 zorder zorder_tag_61A891D6A6D047DC93695DA12E13CC75 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "也许？\n现在还没有这种感觉不过{w}\n{nw}"
+    rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "也许？\n现在还没有这种感觉不过\n"
     if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
@@ -2413,7 +2413,7 @@ label block_00001F4B:
     show rs_image_7838A3FA6F98494CACA2B6E04E3C82B2 as tag_81DF0CF91B224EAAA16B0366711BA01F at center_bottom zorder zorder_tag_81DF0CF91B224EAAA16B0366711BA01F onlayer master
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "我是因为有必须去做的责任。{w}\n{nw}"
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "我是因为有必须去做的责任。\n"
     show rs_image_4F3E2E3628734329904C89EF6859F2DC as tag_81DF0CF91B224EAAA16B0366711BA01F zorder zorder_tag_81DF0CF91B224EAAA16B0366711BA01F onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 

@@ -389,4 +389,3 @@ translate japanese strings:
     # content\file_000020C1.rpy:1948
     old "到此为止！"
     new ""
-

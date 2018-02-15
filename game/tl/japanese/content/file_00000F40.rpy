@@ -73,9 +73,9 @@ translate japanese block_00000F6B_7607b959:
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_00000F40.rpy:437
-translate japanese block_00000F6B_9f80cfb7:
+translate japanese block_00000F6B_f32fd334:
 
-    # rs_character_7009C1117C004F51829614A203C67DE7 "四朗又在这么说了。{w}\n{nw}"
+    # rs_character_7009C1117C004F51829614A203C67DE7 "四朗又在这么说了。\n"
     rs_character_7009C1117C004F51829614A203C67DE7 ""
 
 # game/content/file_00000F40.rpy:442
@@ -149,4 +149,3 @@ translate japanese block_00000F5F_dda904d0:
 
     # rs_character_3B4C660F421B4BE392BB540B580F0339 "什么都没有哦！！"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
-

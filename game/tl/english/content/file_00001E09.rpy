@@ -171,7 +171,7 @@ translate english block_00001E54_6c02ba17:
 # game/content/file_00001E09.rpy:602
 translate english block_00001E54_8a26f60c:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "恶！！谁会对那种家伙！{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "恶！！谁会对那种家伙！\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00001E09.rpy:606
@@ -285,7 +285,7 @@ translate english block_00001E5B_5a4ca323:
 # game/content/file_00001E09.rpy:877
 translate english block_00001E5B_2b024fe8:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "大家都很厉害。{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "大家都很厉害。\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001E09.rpy:881
@@ -357,7 +357,7 @@ translate english block_00001E5B_02d53041:
 # game/content/file_00001E09.rpy:935
 translate english block_00001E5B_76a2c490:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哦哦……！！感觉多了一个好强大的盟友呐！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哦哦……！！感觉多了一个好强大的盟友呐！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001E09.rpy:939
@@ -495,7 +495,7 @@ translate english block_00001E5D_6684c638:
 # game/content/file_00001E09.rpy:1305
 translate english block_00001E5D_9cd2c28f:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "真的！？太好了——♪♪{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "真的！？太好了——♪♪\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001E09.rpy:1313
@@ -549,7 +549,7 @@ translate english block_00001E5A_70b1cb8d:
 # game/content/file_00001E09.rpy:1534
 translate english block_00001E5A_a476b1df:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "……还有啊，三酱。{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "……还有啊，三酱。\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00001E09.rpy:1539

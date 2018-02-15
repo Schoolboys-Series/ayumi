@@ -1,10 +1,10 @@
 ﻿# TODO: Translation updated at 2018-01-27 16:27
 
 # game/content/file_00000ACF.rpy:38
-translate japanese block_00002691_7b5cb7d3:
+translate japanese block_00002691_db37da3b:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "呼～♪今天也努力了一整天呐。{w}\n{nw}"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "ふぃ～♪今日も一日、がんばりましたっと。{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "呼～♪今天也努力了一整天呐。\n"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "ふぃ～♪今日も一日、がんばりましたっと。\n"
 
 # game/content/file_00000ACF.rpy:42
 translate japanese block_00002691_5a637ce0:
@@ -55,10 +55,10 @@ translate japanese block_00002691_4af65203:
     rs_character_D93E396B7ADB48CBAE13F206958FC08B "まあまあ。友は帰宅した後、家事全般一人でやってるんだし、\nこう見えて、結構忙しいんだと思うよ。"
 
 # game/content/file_00000ACF.rpy:123
-translate japanese block_00002691_36660e8c:
+translate japanese block_00002691_aeb74d84:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哦——！忍，说得好！{w}\n{nw}"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "おー！しのぶ、ナイスフォローだよ！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哦——！忍，说得好！\n"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "おー！しのぶ、ナイスフォローだよ！\n"
 
 # game/content/file_00000ACF.rpy:127
 translate japanese block_00002691_8feda1d8:
@@ -85,10 +85,10 @@ translate japanese block_00002691_c9e203e9:
     extend "さーてと、\nそんじゃあ、今日はこれにて解散といたしましょうか。"
 
 # game/content/file_00000ACF.rpy:150
-translate japanese block_00002691_094b131a:
+translate japanese block_00002691_32d940a5:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "是呐。{w}\n{nw}"
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "そうだね。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "是呐。\n"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "そうだね。\n"
 
 # game/content/file_00000ACF.rpy:154
 translate japanese block_00002691_6c61e552:
@@ -175,10 +175,10 @@ translate japanese block_00000AF7_05af49a1:
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "ここってさ、\n日が暮れるとちょっと不気味な\n雰囲気になるよね。"
 
 # game/content/file_00000ACF.rpy:719
-translate japanese block_00000AF7_ec6550e9:
+translate japanese block_00000AF7_3b17aee5:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "明明白天还没什么的。为什么呢。{w}\n{nw}"
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "朝、昼の時は特に何も感じないのに、\nどうしてだろ。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "明明白天还没什么的。为什么呢。\n"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "朝、昼の時は特に何も感じないのに、\nどうしてだろ。\n"
 
 # game/content/file_00000ACF.rpy:723
 translate japanese block_00000AF7_b736c594:
@@ -235,10 +235,10 @@ translate japanese block_00001F57_f9cff00f:
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "こ、これは\nエリック・サティの『ジムノペディ第一番』です。"
 
 # game/content/file_00000ACF.rpy:1146
-translate japanese block_00001F57_7661940f:
+translate japanese block_00001F57_7f6559a5:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "你好，一之濑君。{w}\n{nw}"
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "こんにちは、一ノ瀬くん。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "你好，一之濑君。\n"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "こんにちは、一ノ瀬くん。\n"
 
 # game/content/file_00000ACF.rpy:1150
 translate japanese block_00001F57_103bc824:
@@ -337,10 +337,10 @@ translate japanese block_00001F57_72b68da2:
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "友くんの演奏が相当心地よかったみたい。"
 
 # game/content/file_00000ACF.rpy:1305
-translate japanese block_00001F57_704a7a16:
+translate japanese block_00001F57_3b45954c:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "快，哥哥，起来了。我们还要去社团。{w}\n{nw}"
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "ほら、兄さん起きて。僕らも部活に行かないと。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "快，哥哥，起来了。我们还要去社团。\n"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "ほら、兄さん起きて。僕らも部活に行かないと。\n"
 
 # game/content/file_00000ACF.rpy:1313
 translate japanese block_00001F57_c01d44e8:
@@ -349,10 +349,10 @@ translate japanese block_00001F57_c01d44e8:
     extend "って、うわ。もう結構な時間じゃん。"
 
 # game/content/file_00000ACF.rpy:1318
-translate japanese block_00001F57_7bce4165:
+translate japanese block_00001F57_a876d717:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "打扰你们了。以后有机会我们会再来的。{w}\n{nw}"
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "どうもお邪魔しました。また聴きに来るね。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "打扰你们了。以后有机会我们会再来的。\n"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "どうもお邪魔しました。また聴きに来るね。\n"
 
 # game/content/file_00000ACF.rpy:1335
 translate japanese block_00001F57_2827b917:
@@ -491,4 +491,3 @@ translate japanese block_00000B8B_2e77b68c:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『要进行社团活动，为此请前往武道场。』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『部活をしに、武道場へ向かいましょう。』{/color}"
-

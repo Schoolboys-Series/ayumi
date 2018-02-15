@@ -357,7 +357,7 @@ translate english block_00001F22_e11e9bdf:
 # game/content/file_00000128.rpy:1246
 translate english block_000023A2_04060ab9:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "说起来{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "说起来\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00000128.rpy:1251
@@ -681,7 +681,7 @@ translate english block_00000797_16b50417:
 # game/content/file_00000128.rpy:2234
 translate english block_00000797_c18ec84f:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "欸、欸！是、是这样吗？{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "欸、欸！是、是这样吗？\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00000128.rpy:2238
@@ -729,7 +729,7 @@ translate english block_00000798_d008308e:
 # game/content/file_00000128.rpy:2333
 translate english block_00000798_c8c40f96:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "都怪睡觉的那位不好。{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "都怪睡觉的那位不好。\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00000128.rpy:2341

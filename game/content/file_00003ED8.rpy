@@ -663,7 +663,7 @@ label block_00003F0A:
     show rs_image_3D1658550AAD4B23B72B22E477CAE581 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哈哈，会不会被神明夸奖呐。{w}\n{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哈哈，会不会被神明夸奖呐。\n"
     if sys_effect2_current_file != "sound/Effect Sound/As you wish 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/As you wish 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/As you wish 1.ogg"
@@ -851,7 +851,7 @@ label block_00003EF6:
 
     window show
 
-    rs_character_62324AD297554FE987C680452CEE232E "哦呀，居然会在这种时间遇到。{w}\n{nw}"
+    rs_character_62324AD297554FE987C680452CEE232E "哦呀，居然会在这种时间遇到。\n"
     show rs_image_9AD45D644515456B9DF8ED034B70000C as tag_E99970E1386B453DAF81C3AE2C72BE8E zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 

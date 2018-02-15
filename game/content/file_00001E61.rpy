@@ -387,7 +387,7 @@ label block_00001EBB:
     show rs_image_5DE0260CCB144839AFC115F333936DDB as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_87ED686ED78C4AB6909895FBBBE8A60B "（狼吞虎咽……）{w}\n{nw}"
+    rs_character_87ED686ED78C4AB6909895FBBBE8A60B "（狼吞虎咽……）\n"
     if sys_effect2_current_file != "sound/Effect Sound/Cute 3.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Cute 3.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Cute 3.ogg"
@@ -807,7 +807,7 @@ label block_00001EC1:
     show rs_image_2D9B1EC399964A72B8522AF0303743B1 as tag_25C83DBF35814073B3DF9FF7BCEF75AC zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    extend "哦，白痴呆毛。{w}\n{nw}"
+    extend "哦，白痴呆毛。\n"
     show rs_image_512D84169CAF435BAC0E0577296E3EEC as tag_25C83DBF35814073B3DF9FF7BCEF75AC zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -1353,7 +1353,7 @@ label block_00001E83:
     show rs_image_CD2EEFA824144E4EA57A4C040DABF455 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_9EDF48057FB84D428D56198A69E2880E "认、认错人了～{color=#FF00FF}{b}////{/b}{/color}{w}\n{nw}"
+    rs_character_9EDF48057FB84D428D56198A69E2880E "认、认错人了～{color=#FF00FF}{b}////{/b}{/color}\n"
     if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"

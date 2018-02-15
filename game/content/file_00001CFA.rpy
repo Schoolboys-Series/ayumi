@@ -900,7 +900,7 @@ label block_00001D24:
     hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "哦哦——！！好萌——！！\n夕阳酱，现在这样子得分很高哦！{w}\n{nw}"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "哦哦——！！好萌——！！\n夕阳酱，现在这样子得分很高哦！\n"
     if sys_effect2_current_file != "sound/Effect Sound/Cute 3.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Cute 3.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Cute 3.ogg"
@@ -1246,7 +1246,7 @@ label block_000027F6:
     show rs_image_CDE407350E4A49AC8933C6D199FE9A13 as tag_C389451CCE5A4CEAB24DEF9A7C02635D at center_top zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "两、两位冷静一下～！会给别人带来麻烦的～！{w}\n{nw}"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "两、两位冷静一下～！会给别人带来麻烦的～！\n"
     if sys_effect2_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Surprise 1.ogg"

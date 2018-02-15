@@ -21,7 +21,7 @@ translate english block_00001DBE_2d0338d4:
 # game/content/file_00001D35.rpy:252
 translate english block_00001DCA_f4f9d8ff:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "呀吼——！今年也来参加祭典了哦！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "呀吼——！今年也来参加祭典了哦！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001D35.rpy:260
@@ -933,7 +933,7 @@ translate english block_00001DE9_6b22dce7:
 # game/content/file_00001D35.rpy:3442
 translate english block_00001DE9_3ae9baaf:
 
-    # rs_character_81D16F74A3C44B8982DB528D7D934850 "啊——没被你知道其实挺好。{w}\n{nw}"
+    # rs_character_81D16F74A3C44B8982DB528D7D934850 "啊——没被你知道其实挺好。\n"
     rs_character_81D16F74A3C44B8982DB528D7D934850 ""
 
 # game/content/file_00001D35.rpy:3446
@@ -1017,7 +1017,7 @@ translate english block_00001DE1_5b893696:
 # game/content/file_00001D35.rpy:3633
 translate english block_00001DE1_0e59570f:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "扛着它的叔叔们也很厉害，{w}\n{nw}"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "扛着它的叔叔们也很厉害，\n"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_00001D35.rpy:3637
@@ -1149,7 +1149,7 @@ translate english block_00001DDF_314b2703:
 # game/content/file_00001D35.rpy:3919
 translate english block_00001DDF_0ae9648f:
 
-    # extend "今年……！{w}\n{nw}"
+    # extend "今年……！\n"
     extend ""
 
 # game/content/file_00001D35.rpy:3937
@@ -1215,7 +1215,7 @@ translate english block_00001DF8_da270650:
 # game/content/file_00001D35.rpy:4211
 translate english block_00001DF8_bac7614f:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "什么什么？作酱也想穿？{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "什么什么？作酱也想穿？\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00001D35.rpy:4216
@@ -1281,7 +1281,7 @@ translate english block_00003638_7f0e6e75:
 # game/content/file_00001D35.rpy:4500
 translate english block_00003638_82bc4df9:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "不，感觉有什么很有趣的味道。{w}\n{nw}"
+    # rs_character_62324AD297554FE987C680452CEE232E "不，感觉有什么很有趣的味道。\n"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00001D35.rpy:4504
@@ -1305,7 +1305,7 @@ translate english block_00003638_444c4a4e:
 # game/content/file_00001D35.rpy:4524
 translate english block_00003638_324e2b21:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "能详细听听吗？{w}\n{nw}"
+    # rs_character_62324AD297554FE987C680452CEE232E "能详细听听吗？\n"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00001D35.rpy:4532
@@ -1341,7 +1341,7 @@ translate english block_00003638_0955990e:
 # game/content/file_00001D35.rpy:4672
 translate english block_00001DFB_024b56fc:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "哇啊！？吓我一跳！{w}\n{nw}"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "哇啊！？吓我一跳！\n"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_00001D35.rpy:4676
@@ -1383,7 +1383,7 @@ translate english block_00001DFB_81ddafc2:
 # game/content/file_00001D35.rpy:4811
 translate english block_00001DD6_5cd48b26:
 
-    # rs_character_EA79386263E543A88D4DC03B8BD44485 "啊！花车来了——！{w}\n{nw}"
+    # rs_character_EA79386263E543A88D4DC03B8BD44485 "啊！花车来了——！\n"
     rs_character_EA79386263E543A88D4DC03B8BD44485 ""
 
 # game/content/file_00001D35.rpy:4819
@@ -1437,7 +1437,7 @@ translate english block_00001DD6_71d41b47:
 # game/content/file_00001D35.rpy:4986
 translate english block_00001DFE_1bbecd1e:
 
-    # rs_character_87ED686ED78C4AB6909895FBBBE8A60B "哇哦！有好多人类——！{w}\n{nw}"
+    # rs_character_87ED686ED78C4AB6909895FBBBE8A60B "哇哦！有好多人类——！\n"
     rs_character_87ED686ED78C4AB6909895FBBBE8A60B ""
 
 # game/content/file_00001D35.rpy:4994
@@ -1449,7 +1449,7 @@ translate english block_00001DFE_8d179b9e:
 # game/content/file_00001D35.rpy:4999
 translate english block_00001DFE_abea87f1:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "哇！？干什么这孩子！{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "哇！？干什么这孩子！\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00001D35.rpy:5004
@@ -1593,7 +1593,7 @@ translate english block_00001DD9_61c88e92:
 # game/content/file_00001D35.rpy:5520
 translate english block_00001DD9_c2f8b232:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "大、大家好。{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "大、大家好。\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00001D35.rpy:5524
@@ -1677,7 +1677,7 @@ translate english block_00001DF1_c37d85ab:
 # game/content/file_00001D35.rpy:5659
 translate english block_00001DF1_c198c19c:
 
-    # rs_character_EA9AA88E88D84B559B925363E2931756 "是的。而且去年也因为社团活动没能去看。\n不过，看起来比想像中还要有趣呐。{w}\n{nw}"
+    # rs_character_EA9AA88E88D84B559B925363E2931756 "是的。而且去年也因为社团活动没能去看。\n不过，看起来比想像中还要有趣呐。\n"
     rs_character_EA9AA88E88D84B559B925363E2931756 ""
 
 # game/content/file_00001D35.rpy:5667
@@ -1701,7 +1701,7 @@ translate english block_00001DF1_bcf2770e:
 # game/content/file_00001D35.rpy:5682
 translate english block_00001DF1_6d8300cf:
 
-    # extend "{size=16}……{/size}也对，不可能在呐{size=16}……{/size}{w}\n{nw}"
+    # extend "{size=16}……{/size}也对，不可能在呐{size=16}……{/size}\n"
     extend ""
 
 # game/content/file_00001D35.rpy:5686

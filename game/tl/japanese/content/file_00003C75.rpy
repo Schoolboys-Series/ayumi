@@ -73,9 +73,9 @@ translate japanese block_00003C84_e1f385a7:
     extend ""
 
 # game/content/file_00003C75.rpy:204
-translate japanese block_00003C84_4253109d:
+translate japanese block_00003C84_aed60ce0:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "别撒娇！你都多大了！一点都不可爱！{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "别撒娇！你都多大了！一点都不可爱！\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00003C75.rpy:217
@@ -173,4 +173,3 @@ translate japanese block_00003C7B_d4088c77:
 
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "……呵呵～"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
-

@@ -249,7 +249,7 @@ label block_00003902:
     show rs_image_C0489618AF3A47C089B8F4BA43A59A66 as tag_25C83DBF35814073B3DF9FF7BCEF75AC zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "对了你在看什么书？{w}\n{nw}"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "对了你在看什么书？\n"
     if sys_effect_current_file != "sound/Effect Sound/Frustrated 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Frustrated 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Frustrated 1.ogg"
@@ -447,7 +447,7 @@ label block_00003902:
     show rs_image_375D6778444E478BBE6E5FCB29DBAEE8 as tag_25C83DBF35814073B3DF9FF7BCEF75AC zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "啊，这样，嗯……{w}\n{nw}"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "啊，这样，嗯……\n"
     if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
@@ -1739,7 +1739,7 @@ label block_00003902:
         play effect2 "sound/Effect Sound/Kirakira 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Kirakira 1.ogg"
 
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "{color=#FF80C0}哈啊、啊啊啊！！{/color}{w}\n{nw}"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "{color=#FF80C0}哈啊、啊啊啊！！{/color}\n"
     if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"
@@ -1840,7 +1840,7 @@ label block_00003902:
     show rs_image_242595F448274BE08CADD1467C9F10E9 as tag_25C83DBF35814073B3DF9FF7BCEF75AC at left_top zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "哈……哈……{w}\n{nw}"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "哈……哈……\n"
     if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
@@ -1897,7 +1897,7 @@ label block_00003902:
     show rs_image_577B6B1ACE9B48BAAAE5FB9EB32B6984 as tag_25C83DBF35814073B3DF9FF7BCEF75AC at center_top zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "师父……{w}\n{nw}"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "师父……\n"
     show rs_image_9F5B97FCC06442B7A0F5C2891E985C72 as tag_25C83DBF35814073B3DF9FF7BCEF75AC zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -1985,7 +1985,7 @@ label block_00003902:
 
     pause 0.3
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "委身于成人话题，追逐于无上愉悦，这就是，森海教的精髓……{w}\n{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "委身于成人话题，追逐于无上愉悦，这就是，森海教的精髓……\n"
     hide tag_ECFB5B509A334A868686B3435242BF90
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -2557,7 +2557,7 @@ label block_00003902:
         play effect "sound/Effect Sound/Crow 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Crow 2.ogg"
 
-    extend "笨蛋——{w}\n{nw}"
+    extend "笨蛋——\n"
     if sys_effect2_current_file != "sound/Effect Sound/Crow 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Crow 2.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Crow 2.ogg"

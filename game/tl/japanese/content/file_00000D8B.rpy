@@ -4,31 +4,31 @@
 translate japanese block_00001F4D_7ffc2f2b:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "……果然，一如既往地不安宁啊。"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "……やはり、いつものこの面子は\n落ち着くな。"
 
 # game/content/file_00000D8B.rpy:220
 translate japanese block_00001F4D_4ca82f59:
 
     # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "怎么了？有事？"
-    rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 ""
+    rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "どうした？何かあったのか？"
 
 # game/content/file_00000D8B.rpy:225
 translate japanese block_00001F4D_a07fe6de:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "不，没什么。"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "いや。なんでもない。"
 
 # game/content/file_00000D8B.rpy:290
 translate japanese block_00000DC1_878b729e:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "……二班的佐藤。\n我记得你应该是吹奏乐部的。{w}\n你究竟是演奏什么乐器的？"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "……２組の佐藤。\nキミは確か吹奏楽部だったな。{w}\n楽器は一体何を担当しているんだ？"
 
 # game/content/file_00000D8B.rpy:296
-translate japanese block_00000DC1_a40d36ec:
+translate japanese block_00000DC1_91405bc3:
 
-    # rs_character_EA9AA88E88D84B559B925363E2931756 "哇，是赤峰君，居然会找我说话真是稀奇。{w}\n{nw}"
-    rs_character_EA9AA88E88D84B559B925363E2931756 ""
+    # rs_character_EA9AA88E88D84B559B925363E2931756 "哇，是赤峰君，居然会找我说话真是稀奇。\n"
+    rs_character_EA9AA88E88D84B559B925363E2931756 "わお。赤峰君から、話しかけてくるなんて珍しい。\n"
 
 # game/content/file_00000D8B.rpy:300
 translate japanese block_00000DC1_d3803d9d:
@@ -55,9 +55,9 @@ translate japanese block_00000DC1_0df25573:
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00000D8B.rpy:344
-translate japanese block_00000DC1_0d5b5731:
+translate japanese block_00000DC1_c29b85b5:
 
-    # rs_character_EA9AA88E88D84B559B925363E2931756 "萨克斯哦！“萨”克斯！！{w}\n{nw}"
+    # rs_character_EA9AA88E88D84B559B925363E2931756 "萨克斯哦！“萨”克斯！！\n"
     rs_character_EA9AA88E88D84B559B925363E2931756 ""
 
 # game/content/file_00000D8B.rpy:348
@@ -67,9 +67,9 @@ translate japanese block_00000DC1_c952fc11:
     extend ""
 
 # game/content/file_00000D8B.rpy:353
-translate japanese block_00000DC1_13bc79c7:
+translate japanese block_00000DC1_681f3cd8:
 
-    # rs_character_EA9AA88E88D84B559B925363E2931756 "对这个有兴趣？那要不要我来教你～？{w}\n{nw}"
+    # rs_character_EA9AA88E88D84B559B925363E2931756 "对这个有兴趣？那要不要我来教你～？\n"
     rs_character_EA9AA88E88D84B559B925363E2931756 ""
 
 # game/content/file_00000D8B.rpy:361
@@ -127,9 +127,9 @@ translate japanese block_00000DBF_c8c96526:
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00000D8B.rpy:604
-translate japanese block_00000DBF_72248623:
+translate japanese block_00000DBF_e164667e:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "多、多谢。{w}\n{nw}"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "多、多谢。\n"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00000D8B.rpy:616
@@ -139,9 +139,9 @@ translate japanese block_00000DBF_ee268aeb:
     extend ""
 
 # game/content/file_00000D8B.rpy:622
-translate japanese block_00000DBF_3861d32b:
+translate japanese block_00000DBF_7f7a0cba:
 
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "啊哈哈，不好意思。{w}\n{nw}"
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "啊哈哈，不好意思。\n"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00000D8B.rpy:626
@@ -283,9 +283,9 @@ translate japanese block_00000DC4_dee0215e:
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00000D8B.rpy:907
-translate japanese block_00000DC4_09392dde:
+translate japanese block_00000DC4_38c0a7b5:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "这、这种事情……{w}\n{nw}"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "这、这种事情……\n"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00000D8B.rpy:912
@@ -325,9 +325,9 @@ translate japanese block_00000DC5_e1441fd3:
     extend ""
 
 # game/content/file_00000D8B.rpy:1472
-translate japanese block_00000DC5_13862cc2:
+translate japanese block_00000DC5_70a028e4:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "不是“二郎”是“三朗”！{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "不是“二郎”是“三朗”！\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00000D8B.rpy:1476
@@ -403,9 +403,9 @@ translate japanese block_00000DC5_e1bd317a:
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00000D8B.rpy:1555
-translate japanese block_00000DC5_c79e3665:
+translate japanese block_00000DC5_781c90e9:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "不过，我会找奥村说的。{w}\n{nw}"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "不过，我会找奥村说的。\n"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00000D8B.rpy:1560
@@ -427,9 +427,9 @@ translate japanese block_00000DC5_019738a4:
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00000D8B.rpy:1577
-translate japanese block_00000DC5_bfdaf55d:
+translate japanese block_00000DC5_9c37d9be:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "既然都已经听说了，自然就要考虑对策，\n慢悠悠地去做是不行的。{w}\n{nw}"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "既然都已经听说了，自然就要考虑对策，\n慢悠悠地去做是不行的。\n"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00000D8B.rpy:1582
@@ -581,4 +581,3 @@ translate japanese block_00000E46_1cc6c131:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "就像空那样，\n我也要做到能和别人深入交流为止。"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
-

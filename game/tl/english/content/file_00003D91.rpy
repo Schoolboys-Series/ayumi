@@ -321,7 +321,7 @@ translate english block_00003D94_47166e7e:
 # game/content/file_00003D91.rpy:386
 translate english block_00003D94_fa523d96:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "我们明白了。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "我们明白了。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003D91.rpy:390
@@ -447,7 +447,7 @@ translate english block_000041F7_4ceba52f:
 # game/content/file_00003D91.rpy:620
 translate english block_000041F7_7f12d51c:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "嗯，不过，明白得把握分寸这一点没变。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "嗯，不过，明白得把握分寸这一点没变。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003D91.rpy:624
@@ -657,7 +657,7 @@ translate english block_000041F7_74ed2993:
 # game/content/file_00003D91.rpy:908
 translate english block_000041F7_e307dcee:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "……{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "……\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003D91.rpy:920

@@ -502,7 +502,7 @@ label block_00000EBC:
 
     window show
 
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "诶？穗海喜欢的东西？{w}\n{nw}"
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "诶？穗海喜欢的东西？\n"
     show rs_image_F454E39E17AB417EAFAD03FC09D7C631 as tag_346FE7CD97BB4FB18CB50E78275F4E23 zorder zorder_tag_346FE7CD97BB4FB18CB50E78275F4E23 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -663,7 +663,7 @@ label block_00000EB4:
     hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "哈……我为什么总是……{w}\n{nw}"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "哈……我为什么总是……\n"
     show rs_image_C1F668B282CC46B789CFCE1FCEC65D91 as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
@@ -786,7 +786,7 @@ label block_00000EBA:
     show rs_image_DFF6C096971C4020B3AD59E666124B0B as tag_F533D76D6EDF4AB39ECAAB90D8F4723D zorder zorder_tag_F533D76D6EDF4AB39ECAAB90D8F4723D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "昨天关于抽烟的事，谁也不许说。{w}\n{nw}"
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "昨天关于抽烟的事，谁也不许说。\n"
     if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
@@ -1723,7 +1723,7 @@ label block_0000242E:
     show rs_image_1100577F1808415DBCDF7EAD33DE321E as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "{color=#FF00FF}假发{/color}。刚才猫山君给的。{w}\n{nw}"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "{color=#FF00FF}假发{/color}。刚才猫山君给的。\n"
     if sys_effect_current_file != "sound/Effect Sound/Attack 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Attack 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Attack 1.ogg"
@@ -2015,7 +2015,7 @@ label block_0000242C:
     show rs_image_14CD0F42E7E7472DA340494245426445 as tag_25C83DBF35814073B3DF9FF7BCEF75AC zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "意义不明，理解不能。{w}\n{nw}"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "意义不明，理解不能。\n"
     if sys_effect_current_file != "sound/Effect Sound/As you wish 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/As you wish 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/As you wish 1.ogg"
@@ -2646,7 +2646,7 @@ label block_000010FA:
 
     window show
 
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "穗海君喜欢的东西？{w}\n{nw}"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "穗海君喜欢的东西？\n"
     show rs_image_C2A28861C0A44DC6AAE17E0ABA1BE61C as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -2672,7 +2672,7 @@ label block_000010FA:
     show rs_image_F3E109E6C4624269B4F22936B1279BBF as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 at center_bottom zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "真是的，消停消停。{w}\n{nw}"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "真是的，消停消停。\n"
     show rs_image_9133C483CCA9460C804D7FCD561DE619 as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 

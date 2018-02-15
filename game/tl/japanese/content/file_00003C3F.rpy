@@ -67,9 +67,9 @@ translate japanese block_00003C47_35f079a1:
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00003C3F.rpy:484
-translate japanese block_00003C47_e000e42e:
+translate japanese block_00003C47_c155da22:
 
-    # rs_character_FB87619C890441AEA41E279A1B588CAC "哦呀哦呀，那可要快点去呐。{w}\n{nw}"
+    # rs_character_FB87619C890441AEA41E279A1B588CAC "哦呀哦呀，那可要快点去呐。\n"
     rs_character_FB87619C890441AEA41E279A1B588CAC ""
 
 # game/content/file_00003C3F.rpy:492
@@ -185,4 +185,3 @@ translate japanese strings:
     # content\file_00003C3F.rpy:383
     old "主房前"
     new ""
-

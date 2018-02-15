@@ -1025,4 +1025,3 @@ translate japanese strings:
     # content\file_000027FC.rpy:2037
     old "和小翼很要好的小熊猫。\n不知为何不待见友。"
     new ""
-

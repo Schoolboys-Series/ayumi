@@ -75,7 +75,7 @@ translate english block_00000F6B_7607b959:
 # game/content/file_00000F40.rpy:437
 translate english block_00000F6B_9f80cfb7:
 
-    # rs_character_7009C1117C004F51829614A203C67DE7 "四朗又在这么说了。{w}\n{nw}"
+    # rs_character_7009C1117C004F51829614A203C67DE7 "四朗又在这么说了。\n"
     rs_character_7009C1117C004F51829614A203C67DE7 ""
 
 # game/content/file_00000F40.rpy:442

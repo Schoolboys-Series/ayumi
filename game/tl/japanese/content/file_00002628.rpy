@@ -89,4 +89,3 @@ translate japanese block_00002685_7b1e222a:
 
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "那就快走，会赶不上电车的。"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
-

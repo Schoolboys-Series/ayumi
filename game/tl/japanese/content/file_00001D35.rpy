@@ -19,9 +19,9 @@ translate japanese block_00001DBE_2d0338d4:
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_00001D35.rpy:252
-translate japanese block_00001DCA_f4f9d8ff:
+translate japanese block_00001DCA_b84d685e:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "呀吼——！今年也来参加祭典了哦！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "呀吼——！今年也来参加祭典了哦！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001D35.rpy:260
@@ -931,9 +931,9 @@ translate japanese block_00001DE9_6b22dce7:
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00001D35.rpy:3443
-translate japanese block_00001DE9_3ae9baaf:
+translate japanese block_00001DE9_df856b50:
 
-    # rs_character_81D16F74A3C44B8982DB528D7D934850 "啊——没被你知道其实挺好。{w}\n{nw}"
+    # rs_character_81D16F74A3C44B8982DB528D7D934850 "啊——没被你知道其实挺好。\n"
     rs_character_81D16F74A3C44B8982DB528D7D934850 ""
 
 # game/content/file_00001D35.rpy:3447
@@ -1015,9 +1015,9 @@ translate japanese block_00001DE1_5b893696:
     rs_character_7009C1117C004F51829614A203C67DE7 ""
 
 # game/content/file_00001D35.rpy:3634
-translate japanese block_00001DE1_0e59570f:
+translate japanese block_00001DE1_1fd96ee8:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "扛着它的叔叔们也很厉害，{w}\n{nw}"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "扛着它的叔叔们也很厉害，\n"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_00001D35.rpy:3638
@@ -1147,9 +1147,9 @@ translate japanese block_00001DDF_314b2703:
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00001D35.rpy:3920
-translate japanese block_00001DDF_0ae9648f:
+translate japanese block_00001DDF_666a6f51:
 
-    # extend "今年……！{w}\n{nw}"
+    # extend "今年……！\n"
     extend ""
 
 # game/content/file_00001D35.rpy:3938
@@ -1213,9 +1213,9 @@ translate japanese block_00001DF8_da270650:
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00001D35.rpy:4212
-translate japanese block_00001DF8_bac7614f:
+translate japanese block_00001DF8_5e3425ea:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "什么什么？作酱也想穿？{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "什么什么？作酱也想穿？\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00001D35.rpy:4217
@@ -1279,9 +1279,9 @@ translate japanese block_00003638_7f0e6e75:
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00001D35.rpy:4501
-translate japanese block_00003638_82bc4df9:
+translate japanese block_00003638_fc727171:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "不，感觉有什么很有趣的味道。{w}\n{nw}"
+    # rs_character_62324AD297554FE987C680452CEE232E "不，感觉有什么很有趣的味道。\n"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00001D35.rpy:4505
@@ -1303,9 +1303,9 @@ translate japanese block_00003638_444c4a4e:
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00001D35.rpy:4525
-translate japanese block_00003638_324e2b21:
+translate japanese block_00003638_978d240e:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "能详细听听吗？{w}\n{nw}"
+    # rs_character_62324AD297554FE987C680452CEE232E "能详细听听吗？\n"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00001D35.rpy:4533
@@ -1339,9 +1339,9 @@ translate japanese block_00003638_0955990e:
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_00001D35.rpy:4673
-translate japanese block_00001DFB_024b56fc:
+translate japanese block_00001DFB_01241f82:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "哇啊！？吓我一跳！{w}\n{nw}"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "哇啊！？吓我一跳！\n"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_00001D35.rpy:4677
@@ -1381,9 +1381,9 @@ translate japanese block_00001DFB_1135d2ba:
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_00001D35.rpy:4812
-translate japanese block_00001DD6_5cd48b26:
+translate japanese block_00001DD6_eb8aa921:
 
-    # rs_character_EA79386263E543A88D4DC03B8BD44485 "啊！花车来了——！{w}\n{nw}"
+    # rs_character_EA79386263E543A88D4DC03B8BD44485 "啊！花车来了——！\n"
     rs_character_EA79386263E543A88D4DC03B8BD44485 ""
 
 # game/content/file_00001D35.rpy:4820
@@ -1435,9 +1435,9 @@ translate japanese block_00001DD6_71d41b47:
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_00001D35.rpy:4987
-translate japanese block_00001DFE_1bbecd1e:
+translate japanese block_00001DFE_3a5457d3:
 
-    # rs_character_87ED686ED78C4AB6909895FBBBE8A60B "哇哦！有好多人类——！{w}\n{nw}"
+    # rs_character_87ED686ED78C4AB6909895FBBBE8A60B "哇哦！有好多人类——！\n"
     rs_character_87ED686ED78C4AB6909895FBBBE8A60B ""
 
 # game/content/file_00001D35.rpy:4995
@@ -1447,9 +1447,9 @@ translate japanese block_00001DFE_8d179b9e:
     extend ""
 
 # game/content/file_00001D35.rpy:5000
-translate japanese block_00001DFE_abea87f1:
+translate japanese block_00001DFE_7b6fd1b5:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "哇！？干什么这孩子！{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "哇！？干什么这孩子！\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00001D35.rpy:5005
@@ -1591,9 +1591,9 @@ translate japanese block_00001DD9_61c88e92:
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00001D35.rpy:5521
-translate japanese block_00001DD9_c2f8b232:
+translate japanese block_00001DD9_ff47c5e4:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "大、大家好。{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "大、大家好。\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00001D35.rpy:5525
@@ -1675,9 +1675,9 @@ translate japanese block_00001DF1_c37d85ab:
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00001D35.rpy:5660
-translate japanese block_00001DF1_c198c19c:
+translate japanese block_00001DF1_09cec8ae:
 
-    # rs_character_EA9AA88E88D84B559B925363E2931756 "是的。而且去年也因为社团活动没能去看。\n不过，看起来比想像中还要有趣呐。{w}\n{nw}"
+    # rs_character_EA9AA88E88D84B559B925363E2931756 "是的。而且去年也因为社团活动没能去看。\n不过，看起来比想像中还要有趣呐。\n"
     rs_character_EA9AA88E88D84B559B925363E2931756 ""
 
 # game/content/file_00001D35.rpy:5668
@@ -1699,9 +1699,9 @@ translate japanese block_00001DF1_bcf2770e:
     rs_character_EA9AA88E88D84B559B925363E2931756 ""
 
 # game/content/file_00001D35.rpy:5683
-translate japanese block_00001DF1_6d8300cf:
+translate japanese block_00001DF1_26c08de2:
 
-    # extend "{size=16}……{/size}也对，不可能在呐{size=16}……{/size}{w}\n{nw}"
+    # extend "{size=16}……{/size}也对，不可能在呐{size=16}……{/size}\n"
     extend ""
 
 # game/content/file_00001D35.rpy:5687
@@ -1755,4 +1755,3 @@ translate japanese strings:
     # content\file_00001D35.rpy:410
     old "确定"
     new ""
-

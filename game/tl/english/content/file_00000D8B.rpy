@@ -27,7 +27,7 @@ translate english block_00000DC1_878b729e:
 # game/content/file_00000D8B.rpy:296
 translate english block_00000DC1_a40d36ec:
 
-    # rs_character_EA9AA88E88D84B559B925363E2931756 "哇，是赤峰君，居然会找我说话真是稀奇。{w}\n{nw}"
+    # rs_character_EA9AA88E88D84B559B925363E2931756 "哇，是赤峰君，居然会找我说话真是稀奇。\n"
     rs_character_EA9AA88E88D84B559B925363E2931756 ""
 
 # game/content/file_00000D8B.rpy:300
@@ -57,7 +57,7 @@ translate english block_00000DC1_0df25573:
 # game/content/file_00000D8B.rpy:344
 translate english block_00000DC1_0d5b5731:
 
-    # rs_character_EA9AA88E88D84B559B925363E2931756 "萨克斯哦！“萨”克斯！！{w}\n{nw}"
+    # rs_character_EA9AA88E88D84B559B925363E2931756 "萨克斯哦！“萨”克斯！！\n"
     rs_character_EA9AA88E88D84B559B925363E2931756 ""
 
 # game/content/file_00000D8B.rpy:348
@@ -69,7 +69,7 @@ translate english block_00000DC1_c952fc11:
 # game/content/file_00000D8B.rpy:353
 translate english block_00000DC1_13bc79c7:
 
-    # rs_character_EA9AA88E88D84B559B925363E2931756 "对这个有兴趣？那要不要我来教你～？{w}\n{nw}"
+    # rs_character_EA9AA88E88D84B559B925363E2931756 "对这个有兴趣？那要不要我来教你～？\n"
     rs_character_EA9AA88E88D84B559B925363E2931756 ""
 
 # game/content/file_00000D8B.rpy:361
@@ -129,7 +129,7 @@ translate english block_00000DBF_c8c96526:
 # game/content/file_00000D8B.rpy:604
 translate english block_00000DBF_72248623:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "多、多谢。{w}\n{nw}"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "多、多谢。\n"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00000D8B.rpy:616
@@ -141,7 +141,7 @@ translate english block_00000DBF_ee268aeb:
 # game/content/file_00000D8B.rpy:622
 translate english block_00000DBF_3861d32b:
 
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "啊哈哈，不好意思。{w}\n{nw}"
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "啊哈哈，不好意思。\n"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00000D8B.rpy:626
@@ -285,7 +285,7 @@ translate english block_00000DC4_dee0215e:
 # game/content/file_00000D8B.rpy:907
 translate english block_00000DC4_09392dde:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "这、这种事情……{w}\n{nw}"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "这、这种事情……\n"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00000D8B.rpy:912
@@ -327,7 +327,7 @@ translate english block_00000DC5_e1441fd3:
 # game/content/file_00000D8B.rpy:1472
 translate english block_00000DC5_13862cc2:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "不是“二郎”是“三朗”！{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "不是“二郎”是“三朗”！\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00000D8B.rpy:1476
@@ -405,7 +405,7 @@ translate english block_00000DC5_e1bd317a:
 # game/content/file_00000D8B.rpy:1555
 translate english block_00000DC5_c79e3665:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "不过，我会找奥村说的。{w}\n{nw}"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "不过，我会找奥村说的。\n"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00000D8B.rpy:1560
@@ -429,7 +429,7 @@ translate english block_00000DC5_019738a4:
 # game/content/file_00000D8B.rpy:1577
 translate english block_00000DC5_bfdaf55d:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "既然都已经听说了，自然就要考虑对策，\n慢悠悠地去做是不行的。{w}\n{nw}"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "既然都已经听说了，自然就要考虑对策，\n慢悠悠地去做是不行的。\n"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00000D8B.rpy:1582

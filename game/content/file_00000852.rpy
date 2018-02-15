@@ -184,7 +184,7 @@ label block_000023D4:
     show rs_image_38E2853E83D641CFA189A9FC46AB7AD5 as tag_E99970E1386B453DAF81C3AE2C72BE8E zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_62324AD297554FE987C680452CEE232E "哦，你就是传说中的那个。从忍君那里听说了。{w}\n{nw}"
+    rs_character_62324AD297554FE987C680452CEE232E "哦，你就是传说中的那个。从忍君那里听说了。\n"
     if sys_effect_current_file != "sound/Effect Sound/As you wish 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/As you wish 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/As you wish 1.ogg"
@@ -1646,7 +1646,7 @@ label block_00002429:
     show rs_image_645DF0E195CF42798B8F728CE5EAEEE2 as tag_063DF7E916A1424E84C7F9FED562D399 at center_bottom zorder zorder_tag_063DF7E916A1424E84C7F9FED562D399 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_9A978AAD07624C598B6179F23F51FB2D "啊，友哥！{w}\n{nw}"
+    rs_character_9A978AAD07624C598B6179F23F51FB2D "啊，友哥！\n"
     show rs_image_7AB112E4EED34DAFBB2FA71D1F060DBF as tag_063DF7E916A1424E84C7F9FED562D399 zorder zorder_tag_063DF7E916A1424E84C7F9FED562D399 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
@@ -1721,7 +1721,7 @@ label block_00002429:
     show rs_image_BEF9DE93926B41AEA207953580E58EC3 as tag_063DF7E916A1424E84C7F9FED562D399 at center_bottom zorder zorder_tag_063DF7E916A1424E84C7F9FED562D399 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_9A978AAD07624C598B6179F23F51FB2D "请多多关照，绫濑哥。\n小林酱虽然那么说了，但我将来……{w}\n{nw}"
+    rs_character_9A978AAD07624C598B6179F23F51FB2D "请多多关照，绫濑哥。\n小林酱虽然那么说了，但我将来……\n"
     if sys_effect_current_file != "sound/Effect Sound/Cute 3.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 3.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 3.ogg"

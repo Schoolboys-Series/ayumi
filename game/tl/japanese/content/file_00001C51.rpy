@@ -73,9 +73,9 @@ translate japanese block_0000278E_01b92c37:
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00001C51.rpy:254
-translate japanese block_0000278E_257bdc08:
+translate japanese block_0000278E_08890d47:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "嗯，非常可爱！{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "嗯，非常可爱！\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00001C51.rpy:258
@@ -145,9 +145,9 @@ translate japanese block_0000278E_1a975dcc:
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00001C51.rpy:322
-translate japanese block_0000278E_2f9f317f:
+translate japanese block_0000278E_b6aa6a16:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "……唔……也对……{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "……唔……也对……\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00001C51.rpy:326
@@ -181,9 +181,9 @@ translate japanese block_0000278E_7aa14ce0:
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00001C51.rpy:350
-translate japanese block_0000278E_3bf70cb6:
+translate japanese block_0000278E_ee921d1f:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "骗你的，我也知道肯定带不走。{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "骗你的，我也知道肯定带不走。\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00001C51.rpy:354
@@ -361,9 +361,9 @@ translate japanese block_00002798_e8ce51ba:
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_00001C51.rpy:946
-translate japanese block_00002798_0fdb793c:
+translate japanese block_00002798_9f39f8f5:
 
-    # rs_character_2F154AE49ED54A70AEA327A36C670DDB "在薄薄的煎饼上加满香料和蛋黄酱……{w}\n{nw}"
+    # rs_character_2F154AE49ED54A70AEA327A36C670DDB "在薄薄的煎饼上加满香料和蛋黄酱……\n"
     rs_character_2F154AE49ED54A70AEA327A36C670DDB ""
 
 # game/content/file_00001C51.rpy:959
@@ -391,9 +391,9 @@ translate japanese block_00002798_8c4abf06:
     extend ""
 
 # game/content/file_00001C51.rpy:988
-translate japanese block_00002798_ee5107fe:
+translate japanese block_00002798_a9b9f472:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "啊，等等，小翼不能吃。{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "啊，等等，小翼不能吃。\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00001C51.rpy:992
@@ -613,9 +613,9 @@ translate japanese block_00001C5F_e706135d:
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00001C51.rpy:1510
-translate japanese block_00001C5F_aa0329a8:
+translate japanese block_00001C5F_65f84437:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "欸，翼前辈也在！{w}\n{nw}"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "欸，翼前辈也在！\n"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_00001C51.rpy:1514
@@ -637,7 +637,7 @@ translate japanese block_00001C5F_5ef04c50:
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00001C51.rpy:1563
-translate japanese block_00001C8F_fb359309:
+translate japanese block_00001C8F_1ed9f272:
 
     # rs_character_7009C1117C004F51829614A203C67DE7 "作哉前辈，下午好～"
     rs_character_7009C1117C004F51829614A203C67DE7 ""
@@ -649,9 +649,9 @@ translate japanese block_00001C8F_1ae0872c:
     rs_character_87ED686ED78C4AB6909895FBBBE8A60B ""
 
 # game/content/file_00001C51.rpy:1585
-translate japanese block_00001C8F_b8276853:
+translate japanese block_00001C8F_ae06204d:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "乖乖，不要乱叫。{w}\n{nw}"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "乖乖，不要乱叫。\n"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_00001C51.rpy:1589
@@ -767,18 +767,3 @@ translate japanese block_00001C54_eef59b90:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『带小翼在学校周围散步。』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ツバサと一緒に、\n学園の周りを散歩しましょう。』{/color}"
-
-# TODO: Translation updated at 2018-01-28 10:11
-
-# game/content/file_00001C51.rpy:1510
-translate japanese block_00001C5F_e1e5cb7f:
-
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "欸，翼前辈也在！{w}\n{nw}"
-    rs_character_3B4C660F421B4BE392BB540B580F0339 ""
-
-# game/content/file_00001C51.rpy:1563
-translate japanese block_00001C8F_1ed9f272:
-
-    # rs_character_7009C1117C004F51829614A203C67DE7 "作哉前辈，下午好～"
-    rs_character_7009C1117C004F51829614A203C67DE7 ""
-

@@ -19,9 +19,9 @@ translate japanese block_00003EA6_278e9b65:
     rs_character_079949A107134E47B24110C78D2FA0CF ""
 
 # game/content/file_00003EA0.rpy:197
-translate japanese block_00003EA6_a6e9b1f2:
+translate japanese block_00003EA6_28fff111:
 
-    # rs_character_079949A107134E47B24110C78D2FA0CF "但那也是遥不可及的愿望……{w}\n{nw}"
+    # rs_character_079949A107134E47B24110C78D2FA0CF "但那也是遥不可及的愿望……\n"
     rs_character_079949A107134E47B24110C78D2FA0CF ""
 
 # game/content/file_00003EA0.rpy:213
@@ -151,9 +151,9 @@ translate japanese block_00003EA6_270f2210:
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00003EA0.rpy:582
-translate japanese block_00003EA6_fc918026:
+translate japanese block_00003EA6_5773ee0a:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "翼君，什么时候来的！？{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "翼君，什么时候来的！？\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003EA0.rpy:591
@@ -205,9 +205,9 @@ translate japanese block_00003EA6_268e0e3c:
     rs_character_710A38AC94C841779DB701B5AC1010FD ""
 
 # game/content/file_00003EA0.rpy:700
-translate japanese block_00003EA6_828e2969:
+translate japanese block_00003EA6_8b35c309:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "嗯？什么人啊这些大叔，学校里有来着？{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "嗯？什么人啊这些大叔，学校里有来着？\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00003EA0.rpy:709
@@ -235,9 +235,9 @@ translate japanese block_00003EA6_77eefd08:
     extend ""
 
 # game/content/file_00003EA0.rpy:738
-translate japanese block_00003EA6_73eda73e:
+translate japanese block_00003EA6_ca64d97a:
 
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "什么！？给我起来大叔！！{w}\n{nw}"
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "什么！？给我起来大叔！！\n"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00003EA0.rpy:750
@@ -265,9 +265,9 @@ translate japanese block_00003EA6_7b07fd27:
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00003EA0.rpy:876
-translate japanese block_00003EA6_558f8e13:
+translate japanese block_00003EA6_ec4415d4:
 
-    # rs_character_710A38AC94C841779DB701B5AC1010FD "！？{w}\n{nw}"
+    # rs_character_710A38AC94C841779DB701B5AC1010FD "！？\n"
     rs_character_710A38AC94C841779DB701B5AC1010FD ""
 
 # game/content/file_00003EA0.rpy:888
@@ -607,9 +607,9 @@ translate japanese block_00003EA6_001d2579:
     extend ""
 
 # game/content/file_00003EA0.rpy:1505
-translate japanese block_00003EA6_bb16855a:
+translate japanese block_00003EA6_2e506581:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "怪物……？{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "怪物……？\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00003EA0.rpy:1509
@@ -781,9 +781,9 @@ translate japanese block_00003EA6_9c3eca7e:
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00003EA0.rpy:1802
-translate japanese block_00003EA6_ac1df3c5:
+translate japanese block_00003EA6_a007b825:
 
-    # rs_character_6C344A6C39F6479282A6BD884E3F8F11 "不错。子言极是。{w}\n{nw}"
+    # rs_character_6C344A6C39F6479282A6BD884E3F8F11 "不错。子言极是。\n"
     rs_character_6C344A6C39F6479282A6BD884E3F8F11 ""
 
 # game/content/file_00003EA0.rpy:1815
@@ -1597,7 +1597,7 @@ translate japanese block_00003EA4_80d57e17:
     rs_character_C223850065F6443080205D1F61C04C98 ""
 
 # game/content/file_00003EA0.rpy:3425
-translate japanese block_00003EA4_7c1409d0:
+translate japanese block_00003EA4_f06b211c:
 
     # rs_character_7009C1117C004F51829614A203C67DE7 "作哉前辈，一直不说话呢，怎么回事？"
     rs_character_7009C1117C004F51829614A203C67DE7 ""
@@ -2047,9 +2047,9 @@ translate japanese block_00003EA4_858a0f04:
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003EA0.rpy:4228
-translate japanese block_00003EA4_b3128481:
+translate japanese block_00003EA4_0a5aba34:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "奥村……既然已经和我交往，这样的结果便是无可奈何。{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "奥村……既然已经和我交往，这样的结果便是无可奈何。\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00003EA0.rpy:4232
@@ -2413,7 +2413,7 @@ translate japanese block_00003EA4_20fda86b:
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00003EA0.rpy:4962
-translate japanese block_00003EA4_40a680c5:
+translate japanese block_00003EA4_90532fca:
 
     # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "绫、绫濑同学……"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
@@ -2575,7 +2575,7 @@ translate japanese block_00003EA4_8386cf7a:
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00003EA0.rpy:5345
-translate japanese block_00003EA4_7c1f551d:
+translate japanese block_00003EA4_90c0d11b:
 
     # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "哈……哈……之前从常磐前辈那里得到的。绫、绫濑君说起“底牌”时突然想到……"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
@@ -2761,9 +2761,9 @@ translate japanese block_00003EA4_24ce13da:
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00003EA0.rpy:5740
-translate japanese block_00003EA4_4edd0342:
+translate japanese block_00003EA4_5d98bad4:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "前辈守备范围真广……话说原来猫也可以。{w}\n{nw}"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "前辈守备范围真广……话说原来猫也可以。\n"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_00003EA0.rpy:5744
@@ -2887,9 +2887,9 @@ translate japanese block_00003EA4_611eede6:
     extend ""
 
 # game/content/file_00003EA0.rpy:5933
-translate japanese block_00003EA4_7ba98944:
+translate japanese block_00003EA4_07b0489a:
 
-    # rs_character_6C344A6C39F6479282A6BD884E3F8F11 "可于吾前卖弄身姿，实乃汝之辞世好礼。{w}\n{nw}"
+    # rs_character_6C344A6C39F6479282A6BD884E3F8F11 "可于吾前卖弄身姿，实乃汝之辞世好礼。\n"
     rs_character_6C344A6C39F6479282A6BD884E3F8F11 ""
 
 # game/content/file_00003EA0.rpy:5944
@@ -3205,9 +3205,9 @@ translate japanese block_00003EAE_c7f70949:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003EA0.rpy:6912
-translate japanese block_00003EAE_70d17d4d:
+translate japanese block_00003EAE_16a4d3d3:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "不，我只是投了一张纸过去……{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "不，我只是投了一张纸过去……\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00003EA0.rpy:6916
@@ -3271,9 +3271,9 @@ translate japanese block_00003EB0_0a95bf80:
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003EA0.rpy:7031
-translate japanese block_00003EB0_b6d44329:
+translate japanese block_00003EB0_9d615850:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "说什么话……{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "说什么话……\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00003EA0.rpy:7035
@@ -3331,9 +3331,9 @@ translate japanese block_00003EB2_81fc3361:
     rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
 
 # game/content/file_00003EA0.rpy:7195
-translate japanese block_00003EB2_31843be0:
+translate japanese block_00003EB2_50742fed:
 
-    # rs_character_53FF68C192E3494AB005C1909579AFFB "毕竟也是出现了真正的幽灵呐。\n本来还以为能拍到更加有冲击力的照片的，{w}\n{nw}"
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "毕竟也是出现了真正的幽灵呐。\n本来还以为能拍到更加有冲击力的照片的，\n"
     rs_character_53FF68C192E3494AB005C1909579AFFB ""
 
 # game/content/file_00003EA0.rpy:7203
@@ -3439,9 +3439,9 @@ translate japanese block_00003EAF_c09fdc25:
     rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 ""
 
 # game/content/file_00003EA0.rpy:7462
-translate japanese block_00003EAF_e67799a0:
+translate japanese block_00003EAF_551a7e77:
 
-    # rs_character_81D16F74A3C44B8982DB528D7D934850 "嗯……说的也是。成不了大人就太无聊了，{w}\n{nw}"
+    # rs_character_81D16F74A3C44B8982DB528D7D934850 "嗯……说的也是。成不了大人就太无聊了，\n"
     rs_character_81D16F74A3C44B8982DB528D7D934850 ""
 
 # game/content/file_00003EA0.rpy:7470
@@ -3505,9 +3505,9 @@ translate japanese block_00003FDD_f5113aca:
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003EA0.rpy:7632
-translate japanese block_00003FDD_06d6f492:
+translate japanese block_00003FDD_2e2068d4:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "嗯。不过，\n每晚的练习究竟能不能锻炼精神力呢……{w}\n{nw}"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "嗯。不过，\n每晚的练习究竟能不能锻炼精神力呢……\n"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00003EA0.rpy:7637
@@ -3551,24 +3551,3 @@ translate japanese strings:
     # content\file_00003EA0.rpy:6818
     old "我来接你了哦\n九尾"
     new ""
-
-# TODO: Translation updated at 2018-01-28 10:11
-
-# game/content/file_00003EA0.rpy:3425
-translate japanese block_00003EA4_f06b211c:
-
-    # rs_character_7009C1117C004F51829614A203C67DE7 "作哉前辈，一直不说话呢，怎么回事？"
-    rs_character_7009C1117C004F51829614A203C67DE7 ""
-
-# game/content/file_00003EA0.rpy:4962
-translate japanese block_00003EA4_90532fca:
-
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "绫、绫濑同学……"
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
-
-# game/content/file_00003EA0.rpy:5345
-translate japanese block_00003EA4_90c0d11b:
-
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "哈……哈……之前从常磐前辈那里得到的。绫、绫濑君说起“底牌”时突然想到……"
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
-

@@ -21,7 +21,7 @@ translate english block_00003F0A_6bd7fc1b:
 # game/content/file_00003ED8.rpy:666
 translate english block_00003F0A_85070eb3:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哈哈，会不会被神明夸奖呐。{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哈哈，会不会被神明夸奖呐。\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003ED8.rpy:671
@@ -33,7 +33,7 @@ translate english block_00003F0A_cb0261f1:
 # game/content/file_00003ED8.rpy:854
 translate english block_00003EF6_d3d3930b:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "哦呀，居然会在这种时间遇到。{w}\n{nw}"
+    # rs_character_62324AD297554FE987C680452CEE232E "哦呀，居然会在这种时间遇到。\n"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00003ED8.rpy:858

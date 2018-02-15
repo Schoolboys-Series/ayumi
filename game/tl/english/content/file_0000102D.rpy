@@ -51,7 +51,7 @@ translate english block_0000105D_7359af7d:
 # game/content/file_0000102D.rpy:411
 translate english block_0000105D_d66c7672:
 
-    # rs_character_EA9AA88E88D84B559B925363E2931756 "这样下去真的就……{w}\n{nw}"
+    # rs_character_EA9AA88E88D84B559B925363E2931756 "这样下去真的就……\n"
     rs_character_EA9AA88E88D84B559B925363E2931756 ""
 
 # game/content/file_0000102D.rpy:419
@@ -93,7 +93,7 @@ translate english block_000016B5_3e861f35:
 # game/content/file_0000102D.rpy:582
 translate english block_000016B5_4b78bcca:
 
-    # rs_character_710A38AC94C841779DB701B5AC1010FD "呜……这和平时根本没什么变化嘛！{w}\n{nw}"
+    # rs_character_710A38AC94C841779DB701B5AC1010FD "呜……这和平时根本没什么变化嘛！\n"
     rs_character_710A38AC94C841779DB701B5AC1010FD ""
 
 # game/content/file_0000102D.rpy:587
@@ -123,7 +123,7 @@ translate english block_00001055_21dcca05:
 # game/content/file_0000102D.rpy:786
 translate english block_00001055_5fa54474:
 
-    # extend "啊，那样的话友君很合适哦！{w}\n{nw}"
+    # extend "啊，那样的话友君很合适哦！\n"
     extend ""
 
 # game/content/file_0000102D.rpy:799
@@ -135,7 +135,7 @@ translate english block_00001055_f92a71f7:
 # game/content/file_0000102D.rpy:804
 translate english block_00001055_2d492684:
 
-    # rs_character_710A38AC94C841779DB701B5AC1010FD "友……一班那个闹腾的金发？{w}\n{nw}"
+    # rs_character_710A38AC94C841779DB701B5AC1010FD "友……一班那个闹腾的金发？\n"
     rs_character_710A38AC94C841779DB701B5AC1010FD ""
 
 # game/content/file_0000102D.rpy:809
@@ -177,7 +177,7 @@ translate english block_0000105B_653cde66:
 # game/content/file_0000102D.rpy:952
 translate english block_0000105B_9e338364:
 
-    # extend "！？{w}\n{nw}"
+    # extend "！？\n"
     extend ""
 
 # game/content/file_0000102D.rpy:968
@@ -207,7 +207,7 @@ translate english block_00002425_cf4d912f:
 # game/content/file_0000102D.rpy:1548
 translate english block_00001059_bd90dfce:
 
-    # rs_character_41A906D279CA4677A6A2ED8CBE544459 "蓬松系……有成为流行的可能！{w}\n{nw}"
+    # rs_character_41A906D279CA4677A6A2ED8CBE544459 "蓬松系……有成为流行的可能！\n"
     rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
 
 # game/content/file_0000102D.rpy:1552
@@ -219,7 +219,7 @@ translate english block_00001059_09af194d:
 # game/content/file_0000102D.rpy:1569
 translate english block_00001059_1d3e34e7:
 
-    # rs_character_41A906D279CA4677A6A2ED8CBE544459 "直白了说！我们新闻部的同志里，\n小岛君绝对是合适的人选！{w}\n{nw}"
+    # rs_character_41A906D279CA4677A6A2ED8CBE544459 "直白了说！我们新闻部的同志里，\n小岛君绝对是合适的人选！\n"
     rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
 
 # game/content/file_0000102D.rpy:1573
@@ -249,7 +249,7 @@ translate english block_00001931_4d3631df:
 # game/content/file_0000102D.rpy:1713
 translate english block_00001931_833c08a5:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "唔……不是很明白，\n不过我好像并不是。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "唔……不是很明白，\n不过我好像并不是。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_0000102D.rpy:1717
@@ -297,7 +297,7 @@ translate english block_0000105C_55c06c0e:
 # game/content/file_0000102D.rpy:2014
 translate english block_000010FF_48aa9343:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "在找蓬松治愈系的人？{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "在找蓬松治愈系的人？\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_0000102D.rpy:2018
@@ -321,7 +321,7 @@ translate english block_00001100_a3c711cc:
 # game/content/file_0000102D.rpy:2064
 translate english block_00001100_edcaf784:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "那当然是友君了哦——♪{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "那当然是友君了哦——♪\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_0000102D.rpy:2068

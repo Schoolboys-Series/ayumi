@@ -61,9 +61,9 @@ translate japanese block_00003706_61c53ce4:
     extend ""
 
 # game/content/file_00003703.rpy:128
-translate japanese block_00003706_37504741:
+translate japanese block_00003706_e5148ceb:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "五、五万！？八年的零花钱……{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "五、五万！？八年的零花钱……\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003703.rpy:132
@@ -235,9 +235,9 @@ translate japanese block_00003706_03b8f5f9:
     rs_character_81D16F74A3C44B8982DB528D7D934850 ""
 
 # game/content/file_00003703.rpy:412
-translate japanese block_00003706_71909082:
+translate japanese block_00003706_400be356:
 
-    # rs_character_81D16F74A3C44B8982DB528D7D934850 "可现在当然就只能决定是月了……{w}\n{nw}"
+    # rs_character_81D16F74A3C44B8982DB528D7D934850 "可现在当然就只能决定是月了……\n"
     rs_character_81D16F74A3C44B8982DB528D7D934850 ""
 
 # game/content/file_00003703.rpy:426
@@ -319,9 +319,9 @@ translate japanese block_00003706_ef39a9b4:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003703.rpy:541
-translate japanese block_00003706_f3d2bf2f:
+translate japanese block_00003706_c565f98d:
 
-    # rs_character_81D16F74A3C44B8982DB528D7D934850 "长点心啊班长。{w}\n{nw}"
+    # rs_character_81D16F74A3C44B8982DB528D7D934850 "长点心啊班长。\n"
     rs_character_81D16F74A3C44B8982DB528D7D934850 ""
 
 # game/content/file_00003703.rpy:545
@@ -379,9 +379,9 @@ translate japanese block_00003706_b276905c:
     rs_character_81D16F74A3C44B8982DB528D7D934850 ""
 
 # game/content/file_00003703.rpy:598
-translate japanese block_00003706_c1b32b58:
+translate japanese block_00003706_51622680:
 
-    # rs_character_81D16F74A3C44B8982DB528D7D934850 "作为班长，你怎么想？{w}\n{nw}"
+    # rs_character_81D16F74A3C44B8982DB528D7D934850 "作为班长，你怎么想？\n"
     rs_character_81D16F74A3C44B8982DB528D7D934850 ""
 
 # game/content/file_00003703.rpy:603
@@ -589,9 +589,9 @@ translate japanese block_00003706_c7655316:
     rs_character_81D16F74A3C44B8982DB528D7D934850 ""
 
 # game/content/file_00003703.rpy:870
-translate japanese block_00003706_b26bd360:
+translate japanese block_00003706_157a14bc:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "嗯，可以哦！{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "嗯，可以哦！\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003703.rpy:874
@@ -631,9 +631,9 @@ translate japanese block_00003706_ae3c0ddd:
     rs_character_2F154AE49ED54A70AEA327A36C670DDB ""
 
 # game/content/file_00003703.rpy:965
-translate japanese block_00003706_67ca0d6d:
+translate japanese block_00003706_74c080ac:
 
-    # rs_character_2F154AE49ED54A70AEA327A36C670DDB "请慢用。{w}\n{nw}"
+    # rs_character_2F154AE49ED54A70AEA327A36C670DDB "请慢用。\n"
     rs_character_2F154AE49ED54A70AEA327A36C670DDB ""
 
 # game/content/file_00003703.rpy:974
@@ -991,9 +991,9 @@ translate japanese block_00003707_5062fe79:
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00003703.rpy:1510
-translate japanese block_00003707_9a0a5b49:
+translate japanese block_00003707_42426f80:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "啊啦，二班的各位啊！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "啊啦，二班的各位啊！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003703.rpy:1512
@@ -1093,9 +1093,9 @@ translate japanese block_00003707_5a97f6fc:
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00003703.rpy:1677
-translate japanese block_00003707_12886fb6:
+translate japanese block_00003707_2d7e3475:
 
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "别那么形容别人！{w}\n{nw}"
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "别那么形容别人！\n"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00003703.rpy:1685
@@ -1105,9 +1105,9 @@ translate japanese block_00003707_2903c25b:
     extend ""
 
 # game/content/file_00003703.rpy:1695
-translate japanese block_00003707_6e420f4e:
+translate japanese block_00003707_7fcf2a71:
 
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "获胜的话，要找谁去比较好呐。{w}\n{nw}"
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "获胜的话，要找谁去比较好呐。\n"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00003703.rpy:1704
@@ -1261,7 +1261,7 @@ translate japanese block_00003707_cf09e79f:
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00003703.rpy:1951
-translate japanese block_00003707_0fc5c967:
+translate japanese block_00003707_a19c637f:
 
     # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "请看！赤峰同学华丽的出招！！"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
@@ -1339,7 +1339,7 @@ translate japanese block_00003707_42396e4b:
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003703.rpy:2044
-translate japanese block_00003707_77a37f21:
+translate japanese block_00003707_3ae6fd11:
 
     # rs_character_7C178421D3DA4E2CB70D4336919888FB "啊！你是赤峰月同学的弟弟！确实很像呐。{w}\n和帅气型的哥哥不同，气场很温柔呐。"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
@@ -1399,9 +1399,9 @@ translate japanese block_00003707_16fc7c9e:
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003703.rpy:2151
-translate japanese block_00003707_176d4ca8:
+translate japanese block_00003707_0b4c55b9:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "空……{w}\n{nw}"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "空……\n"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00003703.rpy:2155
@@ -1435,7 +1435,7 @@ translate japanese block_00003707_37a7a99b:
     rs_character_710A38AC94C841779DB701B5AC1010FD ""
 
 # game/content/file_00003703.rpy:2207
-translate japanese block_00003707_1a45ac43:
+translate japanese block_00003707_2b6f52ba:
 
     # rs_character_7C178421D3DA4E2CB70D4336919888FB "刚才对木村同学的应援真是狂热呢…………"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
@@ -1477,7 +1477,7 @@ translate japanese block_00003707_d6bbbebb:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003703.rpy:2277
-translate japanese block_00003707_bfa1c5d2:
+translate japanese block_00003707_c69151af:
 
     # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "好的，终于到决战了！！\n果然双方和之前预想中的一样呢，杉本先生。"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
@@ -1585,7 +1585,7 @@ translate japanese block_00003708_d40513b8:
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00003703.rpy:2442
-translate japanese block_00003708_93fb8d0c:
+translate japanese block_00003708_df9f95bd:
 
     # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "哦哦！！木村同学的上手投！{w}\n……可惜！赤峰同学没能完全出局！！"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
@@ -1627,7 +1627,7 @@ translate japanese block_00003708_459a31eb:
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00003703.rpy:2499
-translate japanese block_00003708_ece409e8:
+translate japanese block_00003708_68ada1cc:
 
     # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "哦哦！！赤峰同学把对方押倒了～！"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
@@ -1639,7 +1639,7 @@ translate japanese block_00003708_ccbee105:
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00003703.rpy:2510
-translate japanese block_00003708_7d1157c2:
+translate japanese block_00003708_77ed38ea:
 
     # rs_character_7C178421D3DA4E2CB70D4336919888FB "啊！！比起木村同学赤峰同学的手先着地了！"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
@@ -1651,9 +1651,9 @@ translate japanese block_00003708_44e25820:
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003703.rpy:2514
-translate japanese block_00003708_f3299f67:
+translate japanese block_00003708_62c4ddbe:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "裁判的判定……{w}\n{nw}"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "裁判的判定……\n"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003703.rpy:2522
@@ -1663,7 +1663,7 @@ translate japanese block_00003708_71d286d7:
     extend ""
 
 # game/content/file_00003703.rpy:2531
-translate japanese block_00003708_735c2579:
+translate japanese block_00003708_e1a60ee1:
 
     # extend "{color=#FFFF00}赤峰同学的胜利！！！{/color}"
     extend ""
@@ -1897,25 +1897,25 @@ translate japanese block_00003708_6e7d3136:
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
 
 # game/content/file_00003703.rpy:2890
-translate japanese block_00003708_aadc4510:
+translate japanese block_00003708_7da6c28d:
 
     # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "之前一直在观众席加油的赤峰同学的弟弟，现在作为赤峰军的里BOSS登场了！"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
 
 # game/content/file_00003703.rpy:2892
-translate japanese block_00003708_c79e06d0:
+translate japanese block_00003708_2013e9c8:
 
     # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "然后，根据赤峰同学和木村同学的意见，将会再举行一场比赛！！"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
 
 # game/content/file_00003703.rpy:2894
-translate japanese block_00003708_3627b66e:
+translate japanese block_00003708_3cba8e89:
 
     # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "这对木村同学来说可谓是难得的复活战！"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
 
 # game/content/file_00003703.rpy:2921
-translate japanese block_00003708_d4804c96:
+translate japanese block_00003708_c8d1551d:
 
     # rs_character_7C178421D3DA4E2CB70D4336919888FB "击败赤峰同学的情况下，木村同学将会获得大赛的优胜，以上可否？"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
@@ -1933,9 +1933,9 @@ translate japanese block_00003708_3fd86852:
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003703.rpy:2944
-translate japanese block_00003708_1d9d94e2:
+translate japanese block_00003708_cfbb4410:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "……明白了，这次就由我来背负一班大家的期望了。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "……明白了，这次就由我来背负一班大家的期望了。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003703.rpy:2978
@@ -2041,7 +2041,7 @@ translate japanese block_00003708_83ca6228:
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003703.rpy:3159
-translate japanese block_00003708_911e35d9:
+translate japanese block_00003708_6b85532b:
 
     # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "赤峰同学突然绕到了对手身后，见机击倒对方了——！！"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
@@ -2263,9 +2263,9 @@ translate japanese block_00003709_82f57fa1:
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003703.rpy:3534
-translate japanese block_00003709_bc55958b:
+translate japanese block_00003709_77719130:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "所以，对于我们被比较这件事，最近也就不那么敏感了。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "所以，对于我们被比较这件事，最近也就不那么敏感了。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003703.rpy:3538
@@ -2593,9 +2593,9 @@ translate japanese block_00003709_66596e64:
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003703.rpy:3933
-translate japanese block_00003709_00836b95:
+translate japanese block_00003709_872df69f:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "唔。其实，唔………{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "唔。其实，唔………\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003703.rpy:3947
@@ -2815,9 +2815,9 @@ translate japanese block_00003709_0c550947:
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00003703.rpy:4147
-translate japanese block_00003709_9f49e509:
+translate japanese block_00003709_f8e783cb:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "……！{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "……！\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003703.rpy:4159
@@ -3145,9 +3145,9 @@ translate japanese block_00003709_e8c3d779:
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00003703.rpy:4488
-translate japanese block_00003709_9b2d3e67:
+translate japanese block_00003709_358e68f1:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "是吗。{w}\n{nw}"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "是吗。\n"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00003703.rpy:4492
@@ -3233,84 +3233,3 @@ translate japanese strings:
     # content\file_00003703.rpy:26
     old "「大家来相扑」"
     new ""
-
-# TODO: Translation updated at 2018-01-28 10:11
-
-# game/content/file_00003703.rpy:1951
-translate japanese block_00003707_a19c637f:
-
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "请看！赤峰同学华丽的出招！！"
-    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
-
-# game/content/file_00003703.rpy:2044
-translate japanese block_00003707_3ae6fd11:
-
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "啊！你是赤峰月同学的弟弟！确实很像呐。{w}\n和帅气型的哥哥不同，气场很温柔呐。"
-    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
-
-# game/content/file_00003703.rpy:2207
-translate japanese block_00003707_2b6f52ba:
-
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "刚才对木村同学的应援真是狂热呢…………"
-    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
-
-# game/content/file_00003703.rpy:2277
-translate japanese block_00003707_c69151af:
-
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "好的，终于到决战了！！\n果然双方和之前预想中的一样呢，杉本先生。"
-    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
-
-# game/content/file_00003703.rpy:2442
-translate japanese block_00003708_df9f95bd:
-
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "哦哦！！木村同学的上手投！{w}\n……可惜！赤峰同学没能完全出局！！"
-    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
-
-# game/content/file_00003703.rpy:2499
-translate japanese block_00003708_68ada1cc:
-
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "哦哦！！赤峰同学把对方押倒了～！"
-    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
-
-# game/content/file_00003703.rpy:2510
-translate japanese block_00003708_77ed38ea:
-
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "啊！！比起木村同学赤峰同学的手先着地了！"
-    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
-
-# game/content/file_00003703.rpy:2531
-translate japanese block_00003708_e1a60ee1:
-
-    # extend "{color=#FFFF00}赤峰同学的胜利！！！{/color}"
-    extend ""
-
-# game/content/file_00003703.rpy:2890
-translate japanese block_00003708_7da6c28d:
-
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "之前一直在观众席加油的赤峰同学的弟弟，现在作为赤峰军的里BOSS登场了！"
-    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
-
-# game/content/file_00003703.rpy:2892
-translate japanese block_00003708_2013e9c8:
-
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "然后，根据赤峰同学和木村同学的意见，将会再举行一场比赛！！"
-    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
-
-# game/content/file_00003703.rpy:2894
-translate japanese block_00003708_3cba8e89:
-
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "这对木村同学来说可谓是难得的复活战！"
-    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
-
-# game/content/file_00003703.rpy:2921
-translate japanese block_00003708_c8d1551d:
-
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "击败赤峰同学的情况下，木村同学将会获得大赛的优胜，以上可否？"
-    rs_character_7C178421D3DA4E2CB70D4336919888FB ""
-
-# game/content/file_00003703.rpy:3159
-translate japanese block_00003708_6b85532b:
-
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "赤峰同学突然绕到了对手身后，见机击倒对方了——！！"
-    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
-

@@ -325,7 +325,7 @@ label block_000023F8:
     show rs_image_C9317C0E65354F3E9224B31EF2E574BD as tag_2C4A74BADF6540698EF3E9A300893D1A zorder zorder_tag_2C4A74BADF6540698EF3E9A300893D1A onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_E3F6ADD43DE44A428E1224756613C694 "好好，明白了，我会告诉他们的。{w}\n{nw}"
+    rs_character_E3F6ADD43DE44A428E1224756613C694 "好好，明白了，我会告诉他们的。\n"
     show rs_image_75C80A83F7F041D68B6E846A9F01B148 as tag_2C4A74BADF6540698EF3E9A300893D1A zorder zorder_tag_2C4A74BADF6540698EF3E9A300893D1A onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -488,7 +488,7 @@ label block_00002406:
     hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_E3F6ADD43DE44A428E1224756613C694 "哈，早上就出了好多汗呐。{w}\n{nw}"
+    rs_character_E3F6ADD43DE44A428E1224756613C694 "哈，早上就出了好多汗呐。\n"
     show rs_image_AD32BE71FC11444A8598BBF482AF95D0 as tag_2C4A74BADF6540698EF3E9A300893D1A zorder zorder_tag_2C4A74BADF6540698EF3E9A300893D1A onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -516,7 +516,7 @@ label block_00002406:
     show rs_image_7E33B6A2BAF943F9980E42242F194C48 as tag_2C4A74BADF6540698EF3E9A300893D1A at center_bottom zorder zorder_tag_2C4A74BADF6540698EF3E9A300893D1A onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_E3F6ADD43DE44A428E1224756613C694 "欸～总觉得伊藤酱有点嫌恶的样子呐？不觉得很冷淡吗？{w}\n{nw}"
+    rs_character_E3F6ADD43DE44A428E1224756613C694 "欸～总觉得伊藤酱有点嫌恶的样子呐？不觉得很冷淡吗？\n"
     if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"
@@ -581,7 +581,7 @@ label block_00002406:
     show rs_image_952F244A7CFB4533820FFCEB6B3D761A as tag_2C4A74BADF6540698EF3E9A300893D1A at center_bottom zorder zorder_tag_2C4A74BADF6540698EF3E9A300893D1A onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_E3F6ADD43DE44A428E1224756613C694 "欸——！！有那么生气？！{w}\n{nw}"
+    rs_character_E3F6ADD43DE44A428E1224756613C694 "欸——！！有那么生气？！\n"
     show rs_image_4271CF98C3494E2FA007048FB141D469 as tag_2C4A74BADF6540698EF3E9A300893D1A zorder zorder_tag_2C4A74BADF6540698EF3E9A300893D1A onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
@@ -1007,7 +1007,7 @@ label block_000023F9:
     show rs_image_39E6D29FE80C465594D4446F8137BE4F as tag_2D6D26BC65EB40CCB22A2D540F9DE0E3 zorder zorder_tag_2D6D26BC65EB40CCB22A2D540F9DE0E3 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_8D9249CA1389416BAF6A122851E276D0 "欸！……啊，嗯，是的。{w}\n{nw}"
+    rs_character_8D9249CA1389416BAF6A122851E276D0 "欸！……啊，嗯，是的。\n"
     show rs_image_47A1CF95832441F79773CE6246CC941C as tag_2D6D26BC65EB40CCB22A2D540F9DE0E3 zorder zorder_tag_2D6D26BC65EB40CCB22A2D540F9DE0E3 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -1030,7 +1030,7 @@ label block_000023F9:
     show rs_image_4270FFC84A7349BBA09AEC87EEEB8374 as tag_25C83DBF35814073B3DF9FF7BCEF75AC zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "反正奥村又管不住嘴。那家伙真的很喜欢这种话题。{w}\n{nw}"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "反正奥村又管不住嘴。那家伙真的很喜欢这种话题。\n"
     show rs_image_13B7182BD8624D30A2A9822B541AB274 as tag_25C83DBF35814073B3DF9FF7BCEF75AC zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
@@ -1434,7 +1434,7 @@ label block_0000112D:
     show rs_image_F454E39E17AB417EAFAD03FC09D7C631 as tag_346FE7CD97BB4FB18CB50E78275F4E23 zorder zorder_tag_346FE7CD97BB4FB18CB50E78275F4E23 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_EA9AA88E88D84B559B925363E2931756 "也是呢。一群人一起去洗个澡有时也不错。{w}\n{nw}"
+    rs_character_EA9AA88E88D84B559B925363E2931756 "也是呢。一群人一起去洗个澡有时也不错。\n"
     show rs_image_BB8AF3FC831D491CB97BFAC1E2913125 as tag_346FE7CD97BB4FB18CB50E78275F4E23 zorder zorder_tag_346FE7CD97BB4FB18CB50E78275F4E23 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -1927,7 +1927,7 @@ label block_00002402:
     show rs_image_CD9A9B1423D0463AA2EB596EBC4A4796 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "啊，算我没说清楚。{w}\n{nw}"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "啊，算我没说清楚。\n"
     if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
@@ -2200,7 +2200,7 @@ label block_0000240C:
 
     window show
 
-    rs_character_C223850065F6443080205D1F61C04C98 "这座学园……不，这个城镇，是那种\n不管什么都不需隐藏会被好好接受的地方呐。{w}\n{nw}"
+    rs_character_C223850065F6443080205D1F61C04C98 "这座学园……不，这个城镇，是那种\n不管什么都不需隐藏会被好好接受的地方呐。\n"
     show rs_image_2917E94D246C4B5DBB7438FB372D005B as tag_3482C372784E44A89E382266A93F2B14 zorder zorder_tag_3482C372784E44A89E382266A93F2B14 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
@@ -2233,7 +2233,7 @@ label block_00001137:
 
     window show
 
-    rs_character_C223850065F6443080205D1F61C04C98 "泡澡啊……这么一说好久没做过了呢。{w}\n{nw}"
+    rs_character_C223850065F6443080205D1F61C04C98 "泡澡啊……这么一说好久没做过了呢。\n"
     show rs_image_B7BD90C9E0F94D39B930CB8F323D6C2F as tag_3482C372784E44A89E382266A93F2B14 zorder zorder_tag_3482C372784E44A89E382266A93F2B14 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
@@ -2552,7 +2552,7 @@ label block_00002409:
     show rs_image_4DE7491D04004FC5BE18A0FEB043C1BF as tag_CC4336DE74164173AC47C2C317367F10 at center_bottom zorder zorder_tag_CC4336DE74164173AC47C2C317367F10 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_53FF68C192E3494AB005C1909579AFFB "部长如果想去的话请务必带上我。{w}\n{nw}"
+    rs_character_53FF68C192E3494AB005C1909579AFFB "部长如果想去的话请务必带上我。\n"
     if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
@@ -3061,7 +3061,7 @@ label block_00002407:
     hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "坦、坦诚相见——！{w}\n{nw}"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "坦、坦诚相见——！\n"
     if sys_effect2_current_file != "sound/Effect Sound/Break 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Break 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Break 1.ogg"
@@ -3083,7 +3083,7 @@ label block_00002407:
     show rs_image_9EDC3EE156E74145AE331B832A3FECD5 as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 at center_bottom zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_B70215F4C83E407D8C2CA682FB6965D7
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "花乃汤啊——！还从没和忍以及翼君一起去过呐，\n去一次也不错嘛！{w}\n{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "花乃汤啊——！还从没和忍以及翼君一起去过呐，\n去一次也不错嘛！\n"
     show rs_image_A2A2562FBABF4208B2B506D085FAA1E9 as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -3112,7 +3112,7 @@ label block_00002407:
     show rs_image_CE498AFB1E3D4DA78B270436EF373DE6 as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 at center_bottom zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "澡堂……确实想去一次不过，{w}\n{nw}"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "澡堂……确实想去一次不过，\n"
     show rs_image_9A5BB450BFF940D3A659C94F81A93685 as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
@@ -3152,7 +3152,7 @@ label block_00002407:
     show rs_image_A28CBCA902704F978F416697C605F321 as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 at center_bottom zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "就是啊，装什么独立——！{w}\n{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "就是啊，装什么独立——！\n"
     show rs_image_D60429DAF0284BDCB5B611CF6A797177 as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -3170,7 +3170,7 @@ label block_00002407:
     show rs_image_CD9A9B1423D0463AA2EB596EBC4A4796 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "嗯嗯！{w=0.5}……嗯？{w}\n{nw}"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "嗯嗯！{w=0.5}……嗯？\n"
     if sys_effect_current_file != "sound/Effect Sound/Surprise 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 2.ogg"
@@ -3515,7 +3515,7 @@ label block_000023F7:
     show rs_image_2FAEAC19AC5347FDA2819CA4500CD703 as tag_B39F35D20D9C4757BBAD349BA7DBED23 zorder zorder_tag_B39F35D20D9C4757BBAD349BA7DBED23 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_41A906D279CA4677A6A2ED8CBE544459 "连在新闻部的我都不知道……{w}\n{nw}"
+    rs_character_41A906D279CA4677A6A2ED8CBE544459 "连在新闻部的我都不知道……\n"
     if sys_effect_current_file != "sound/Effect Sound/Cute 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 1.ogg"
@@ -4133,7 +4133,7 @@ label block_000023F6:
     hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_81D16F74A3C44B8982DB528D7D934850 "是男人肯定会憧憬！就算看看也是保养眼睛……{w}\n{nw}"
+    rs_character_81D16F74A3C44B8982DB528D7D934850 "是男人肯定会憧憬！就算看看也是保养眼睛……\n"
     if sys_effect2_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Strike 1.ogg"
@@ -4621,7 +4621,7 @@ label block_00001130:
     show rs_image_8EE7142C4184467CB3B458996136342D as tag_724406A84D7141298EFF0D864FAE1534 at Transform(xpos=-80, yalign=0.0) zorder zorder_tag_724406A84D7141298EFF0D864FAE1534 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "不是！{w}\n{nw}"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "不是！\n"
     show rs_image_D544765C4BA64EC6B46D01C4A92BD5D1 as tag_25C83DBF35814073B3DF9FF7BCEF75AC zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 

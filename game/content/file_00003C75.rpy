@@ -201,7 +201,7 @@ label block_00003C84:
     show rs_image_D8F88F968B9E4B3CBEED302C0FA2B323 as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 at right_top zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "别撒娇！你都多大了！一点都不可爱！{w}\n{nw}"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "别撒娇！你都多大了！一点都不可爱！\n"
     if sys_effect2_current_file != "sound/Effect Sound/Pa 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Pa 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Pa 1.ogg"

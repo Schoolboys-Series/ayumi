@@ -45,7 +45,7 @@ translate english block_00003AA6_1aa4bea1:
 # game/content/file_00003AA2.rpy:71
 translate english block_00003AA6_4fc61620:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "欸？我不会痛。{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "欸？我不会痛。\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00003AA2.rpy:76
@@ -105,7 +105,7 @@ translate english block_00003AA6_512ea023:
 # game/content/file_00003AA2.rpy:107
 translate english block_00003AA6_89c033a5:
 
-    # rs_character_6E824DBDDF4448E1ADD5937984ABFE61 "那为了回应这股努力，{w}\n{nw}"
+    # rs_character_6E824DBDDF4448E1ADD5937984ABFE61 "那为了回应这股努力，\n"
     rs_character_6E824DBDDF4448E1ADD5937984ABFE61 ""
 
 # game/content/file_00003AA2.rpy:119
@@ -189,7 +189,7 @@ translate english block_00003AA6_6ab0d52b:
 # game/content/file_00003AA2.rpy:295
 translate english block_00003AA6_9a66acb0:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "负责警戒的猫呢！！？{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "负责警戒的猫呢！！？\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00003AA2.rpy:300
@@ -267,7 +267,7 @@ translate english block_00003AA6_ac4b788e:
 # game/content/file_00003AA2.rpy:342
 translate english block_00003AA6_1373ef50:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "我绝对不是那个意思！{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "我绝对不是那个意思！\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00003AA2.rpy:347
@@ -411,7 +411,7 @@ translate english block_00003AA9_7e24520a:
 # game/content/file_00003AA2.rpy:645
 translate english block_00003AA9_e3fd9dec:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "唔！！什么飞过来了！{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "唔！！什么飞过来了！\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00003AA2.rpy:654
@@ -513,7 +513,7 @@ translate english block_00003AA9_033e82cd:
 # game/content/file_00003AA2.rpy:827
 translate english block_00003AA9_d7b9d587:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "“被某中学生哥哥好好讽刺了一顿”{w}\n{nw}"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "“被某中学生哥哥好好讽刺了一顿”\n"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:832
@@ -537,7 +537,7 @@ translate english block_00003AA9_c4a11f83:
 # game/content/file_00003AA2.rpy:856
 translate english block_00003AA9_05dd6ef8:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "是哦，大哥，要是受的话还好点，不过洞可是会被填得满满的哦。{w}\n{nw}"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "是哦，大哥，要是受的话还好点，不过洞可是会被填得满满的哦。\n"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:866
@@ -603,7 +603,7 @@ translate english block_00003AA9_0037f31d:
 # game/content/file_00003AA2.rpy:943
 translate english block_00003AA9_d4a66b05:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "不，你才是那个迷路的。{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "不，你才是那个迷路的。\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00003AA2.rpy:947
@@ -621,7 +621,7 @@ translate english block_00003AA9_94ff8a3a:
 # game/content/file_00003AA2.rpy:957
 translate english block_00003AA9_540a99b8:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "原来如此，我被那里的学生冷嘲热讽了！{w}\n{nw}"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "原来如此，我被那里的学生冷嘲热讽了！\n"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:965
@@ -1323,7 +1323,7 @@ translate english block_00003AAE_d870eaa0:
 # game/content/file_00003AA2.rpy:2419
 translate english block_00003AAE_051a9ee6:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "拒绝和我一起入浴可是不会被粉丝们原谅的！{w}\n{nw}"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "拒绝和我一起入浴可是不会被粉丝们原谅的！\n"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:2429
@@ -1377,7 +1377,7 @@ translate english block_00003AAE_23829f05:
 # game/content/file_00003AA2.rpy:2510
 translate english block_00003AAE_e2bc2744:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "朋友什么的，是我的甜心！！{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "朋友什么的，是我的甜心！！\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003AA2.rpy:2518
@@ -1473,7 +1473,7 @@ translate english block_00003AAE_85c01c08:
 # game/content/file_00003AA2.rpy:2652
 translate english block_00003AAE_6fe4beed:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "哦♪慎太郎前辈跃跃欲试！！{w}\n{nw}"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "哦♪慎太郎前辈跃跃欲试！！\n"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:2678
@@ -1545,7 +1545,7 @@ translate english block_00003AAE_db16b080:
 # game/content/file_00003AA2.rpy:2795
 translate english block_00003AAE_ec184719:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "感冒什么的早就被兴奋给冲没了！！{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "感冒什么的早就被兴奋给冲没了！！\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003AA2.rpy:2799
@@ -1755,7 +1755,7 @@ translate english block_00003AAE_3db1f71a:
 # game/content/file_00003AA2.rpy:3112
 translate english block_00003AAE_d87e82a9:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "那么进入下一个环节，{w}\n{nw}"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "那么进入下一个环节，\n"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:3125
@@ -1827,7 +1827,7 @@ translate english block_00003AAE_86957b49:
 # game/content/file_00003AA2.rpy:3165
 translate english block_00003AAE_a1797614:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "同性恋什么的，也不过是事后才有的分类。{w}\n{nw}"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "同性恋什么的，也不过是事后才有的分类。\n"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:3187
@@ -2007,7 +2007,7 @@ translate english block_00003AAE_70535a0a:
 # game/content/file_00003AA2.rpy:3478
 translate english block_00003AAE_4579b805:
 
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "真是的，算了。{w}\n{nw}"
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "真是的，算了。\n"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
 
 # game/content/file_00003AA2.rpy:3482
@@ -2043,7 +2043,7 @@ translate english block_00003AAE_2de5ead2:
 # game/content/file_00003AA2.rpy:3519
 translate english block_00003AAE_c03ab85a:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "真的，很厉害啊，你们。{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "真的，很厉害啊，你们。\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00003AA2.rpy:3525
@@ -2103,7 +2103,7 @@ translate english block_00003AAE_4c7c7711:
 # game/content/file_00003AA2.rpy:3613
 translate english block_00003AAE_23a7df24:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "小孩子怎么可能做容易生病的工作。{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "小孩子怎么可能做容易生病的工作。\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00003AA2.rpy:3621
@@ -2235,7 +2235,7 @@ translate english block_00003AAE_957f70c9:
 # game/content/file_00003AA2.rpy:3779
 translate english block_00003AAE_98e1694c:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "忍快住手！！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "忍快住手！！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003AA2.rpy:3784
@@ -2313,7 +2313,7 @@ translate english block_00003AAE_5f3a63c2:
 # game/content/file_00003AA2.rpy:3933
 translate english block_00003AAE_57b9272f:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "嗯，不可或缺的。{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "嗯，不可或缺的。\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00003AA2.rpy:3937
@@ -2325,7 +2325,7 @@ translate english block_00003AAE_f0e329d1:
 # game/content/file_00003AA2.rpy:3958
 translate english block_00003AAE_43a641c2:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "失礼了……{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "失礼了……\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00003AA2.rpy:3966
@@ -2397,7 +2397,7 @@ translate english block_00003AAE_5b9cf9b6:
 # game/content/file_00003AA2.rpy:4058
 translate english block_00003AAE_5ce913fa:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "别、别胡说笨蛋！{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "别、别胡说笨蛋！\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00003AA2.rpy:4062
@@ -2499,7 +2499,7 @@ translate english block_00003AAE_3255c1ce:
 # game/content/file_00003AA2.rpy:4248
 translate english block_00003AAE_46c120f2:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "欸——！诶、诶！？{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "欸——！诶、诶！？\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003AA2.rpy:4253
@@ -2775,7 +2775,7 @@ translate english block_00003AAE_38a791ff:
 # game/content/file_00003AA2.rpy:4585
 translate english block_00003AAE_70bb6098:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不管是我的事，还是圈子里的事，他们都不知道。{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不管是我的事，还是圈子里的事，他们都不知道。\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003AA2.rpy:4589
@@ -3105,7 +3105,7 @@ translate english block_00003AB5_c3c26844:
 # game/content/file_00003AA2.rpy:5043
 translate english block_00003AB5_10ef8fd8:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "已经毕业了哦。{w}\n{nw}"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "已经毕业了哦。\n"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:5051
@@ -3251,7 +3251,7 @@ translate english block_00003AAE_fc3054dd:
 # game/content/file_00003AA2.rpy:2652
 translate english block_00003AAE_1cd4d157:
 
-    # rs_character_7C178421D3DA4E2CB70D4336919888FB "哦♪慎太郎前辈跃跃欲试！！{w}\n{nw}"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "哦♪慎太郎前辈跃跃欲试！！\n"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""
 
 # game/content/file_00003AA2.rpy:2691

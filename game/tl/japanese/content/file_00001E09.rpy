@@ -169,9 +169,9 @@ translate japanese block_00001E54_6c02ba17:
     rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 ""
 
 # game/content/file_00001E09.rpy:602
-translate japanese block_00001E54_8a26f60c:
+translate japanese block_00001E54_1c2df442:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "恶！！谁会对那种家伙！{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "恶！！谁会对那种家伙！\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00001E09.rpy:606
@@ -283,9 +283,9 @@ translate japanese block_00001E5B_5a4ca323:
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00001E09.rpy:877
-translate japanese block_00001E5B_2b024fe8:
+translate japanese block_00001E5B_1ab1229d:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "大家都很厉害。{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "大家都很厉害。\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001E09.rpy:881
@@ -355,9 +355,9 @@ translate japanese block_00001E5B_02d53041:
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_00001E09.rpy:935
-translate japanese block_00001E5B_76a2c490:
+translate japanese block_00001E5B_7dc32a6e:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哦哦……！！感觉多了一个好强大的盟友呐！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哦哦……！！感觉多了一个好强大的盟友呐！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001E09.rpy:939
@@ -493,9 +493,9 @@ translate japanese block_00001E5D_6684c638:
     rs_character_D9F0C257FF534E79ADF7FDFE3653E326 ""
 
 # game/content/file_00001E09.rpy:1305
-translate japanese block_00001E5D_9cd2c28f:
+translate japanese block_00001E5D_791f0865:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "真的！？太好了——♪♪{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "真的！？太好了——♪♪\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001E09.rpy:1313
@@ -547,9 +547,9 @@ translate japanese block_00001E5A_70b1cb8d:
     extend ""
 
 # game/content/file_00001E09.rpy:1534
-translate japanese block_00001E5A_a476b1df:
+translate japanese block_00001E5A_f0205fdd:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "……还有啊，三酱。{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "……还有啊，三酱。\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00001E09.rpy:1539
@@ -755,4 +755,3 @@ translate japanese block_000027F1_97f21ab2:
 
     # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "友君，再多散散步如何。"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
-

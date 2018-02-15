@@ -857,4 +857,3 @@ translate japanese block_00002487_09f1eb7a:
 
     # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "后面会练出更多好看的发型的，记得常来哦♪"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
-

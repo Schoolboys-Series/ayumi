@@ -2341,7 +2341,7 @@ label block_00003D76:
     show rs_image_3D1658550AAD4B23B72B22E477CAE581 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "那是……？{w}\n{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "那是……？\n"
     if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
@@ -2399,7 +2399,7 @@ label block_00003D76:
     show rs_image_3D1658550AAD4B23B72B22E477CAE581 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "啊哇哇，请扶着我的肩膀～{w}\n{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "啊哇哇，请扶着我的肩膀～\n"
     if sys_effect2_current_file != "sound/Effect Sound/Fall down 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Fall down 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Fall down 1.ogg"
@@ -2490,7 +2490,7 @@ label block_00003D76:
     show rs_image_3D1658550AAD4B23B72B22E477CAE581 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "好、好的。{w}\n{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "好、好的。\n"
     show rs_image_3D1658550AAD4B23B72B22E477CAE581 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_5558577FCB4F4A43A84362ED9AD414E8
 
@@ -2575,7 +2575,7 @@ label block_00003D76:
     show rs_image_E7458EFE02794CB892F408100FED199D as tag_A45595F91B474CC9A0810932B96DD8EC zorder zorder_tag_A45595F91B474CC9A0810932B96DD8EC onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_EE1903694D624E399209772C95A20AAA "你是我的救命恩人。{w}\n{nw}"
+    rs_character_EE1903694D624E399209772C95A20AAA "你是我的救命恩人。\n"
     show rs_image_73EF5544F6AC4B8594FC88222E471CC6 as tag_A45595F91B474CC9A0810932B96DD8EC zorder zorder_tag_A45595F91B474CC9A0810932B96DD8EC onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
@@ -2618,7 +2618,7 @@ label block_00003D76:
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "不不，我不是说这个～！"
 
-    rs_character_EE1903694D624E399209772C95A20AAA "今天要不醉不归。{w}\n{nw}"
+    rs_character_EE1903694D624E399209772C95A20AAA "今天要不醉不归。\n"
     if sys_effect_current_file != "sound/Effect Sound/As you wish 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/As you wish 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/As you wish 2.ogg"
@@ -2670,7 +2670,7 @@ label block_00003D76:
 
     rs_character_EE1903694D624E399209772C95A20AAA "13岁……差一岁。真是的，真该向你学习学习。"
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯～？？在说什么呐～？{w}\n{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯～？？在说什么呐～？\n"
     if sys_effect_current_file != "sound/Effect Sound/Attack 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Attack 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Attack 1.ogg"
@@ -2707,7 +2707,7 @@ label block_00003D76:
 
     window show
 
-    rs_character_62324AD297554FE987C680452CEE232E "晦哥，前几天忘记的东西我给你送……{w}\n{nw}"
+    rs_character_62324AD297554FE987C680452CEE232E "晦哥，前几天忘记的东西我给你送……\n"
     show rs_image_F33F4D4959B947DB9755DD0A59FB7942 as tag_E99970E1386B453DAF81C3AE2C72BE8E zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
@@ -3145,7 +3145,7 @@ label block_00003D73:
     show rs_image_B529C82B396F4FA3BCCBE474E43543C1 as tag_2E1D5DC8F2184C56BA3702E2A2AB70E9 at center_bottom zorder zorder_tag_2E1D5DC8F2184C56BA3702E2A2AB70E9 onlayer master
     with rs_effect_BE44B9B57DE34031B0F7EB596C4CDC5E
 
-    rs_character_06E99199BFCE4C93B1F3942F0090429B "谢了。{w}\n{nw}"
+    rs_character_06E99199BFCE4C93B1F3942F0090429B "谢了。\n"
     show rs_image_8CB4D9283544433DAD6FA4C4EA2EBF07 as tag_2E1D5DC8F2184C56BA3702E2A2AB70E9 zorder zorder_tag_2E1D5DC8F2184C56BA3702E2A2AB70E9 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -3596,7 +3596,7 @@ label block_00003E82:
     show rs_image_0B4D1CA8EB3342D881C010956B338E02 as tag_346FE7CD97BB4FB18CB50E78275F4E23 zorder zorder_tag_346FE7CD97BB4FB18CB50E78275F4E23 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_EA9AA88E88D84B559B925363E2931756 "欸——原来新闻部是冈岛创立的啊。{w}\n{nw}"
+    rs_character_EA9AA88E88D84B559B925363E2931756 "欸——原来新闻部是冈岛创立的啊。\n"
     show rs_image_96013754928A470894D94BAC81A99E0D as tag_346FE7CD97BB4FB18CB50E78275F4E23 zorder zorder_tag_346FE7CD97BB4FB18CB50E78275F4E23 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 

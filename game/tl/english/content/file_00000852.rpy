@@ -39,7 +39,7 @@ translate english block_000023D4_7322698e:
 # game/content/file_00000852.rpy:187
 translate english block_000023D4_27ec4a11:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "哦，你就是传说中的那个。从忍君那里听说了。{w}\n{nw}"
+    # rs_character_62324AD297554FE987C680452CEE232E "哦，你就是传说中的那个。从忍君那里听说了。\n"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00000852.rpy:192
@@ -243,7 +243,7 @@ translate english block_00002429_f59f275d:
 # game/content/file_00000852.rpy:1648
 translate english block_00002429_9274a0aa:
 
-    # rs_character_9A978AAD07624C598B6179F23F51FB2D "啊，友哥！{w}\n{nw}"
+    # rs_character_9A978AAD07624C598B6179F23F51FB2D "啊，友哥！\n"
     rs_character_9A978AAD07624C598B6179F23F51FB2D ""
 
 # game/content/file_00000852.rpy:1652
@@ -309,7 +309,7 @@ translate english block_00002429_5957abf3:
 # game/content/file_00000852.rpy:1723
 translate english block_00002429_79d3c33a:
 
-    # rs_character_9A978AAD07624C598B6179F23F51FB2D "请多多关照，绫濑哥。\n小林酱虽然那么说了，但我将来……{w}\n{nw}"
+    # rs_character_9A978AAD07624C598B6179F23F51FB2D "请多多关照，绫濑哥。\n小林酱虽然那么说了，但我将来……\n"
     rs_character_9A978AAD07624C598B6179F23F51FB2D ""
 
 # game/content/file_00000852.rpy:1731

@@ -117,7 +117,7 @@ translate english block_00000F3A_6d1d8fa7:
 # game/content/file_00000EE6.rpy:390
 translate english block_00000F3A_af542490:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "怎、怎么这样……！{w}…………{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "怎、怎么这样……！{w}…………\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00000EE6.rpy:399
@@ -189,7 +189,7 @@ translate english block_000023E7_dbc4afdd:
 # game/content/file_00000EE6.rpy:749
 translate english block_000023E7_b985eee2:
 
-    # rs_character_710A38AC94C841779DB701B5AC1010FD "木村，你好烦。{w}\n{nw}"
+    # rs_character_710A38AC94C841779DB701B5AC1010FD "木村，你好烦。\n"
     rs_character_710A38AC94C841779DB701B5AC1010FD ""
 
 # game/content/file_00000EE6.rpy:753
@@ -345,7 +345,7 @@ translate english block_00000F1C_f7d2ca1f:
 # game/content/file_00000EE6.rpy:1287
 translate english block_00000F1C_46b549bf:
 
-    # rs_character_C223850065F6443080205D1F61C04C98 "是呐，虽然我非常想去可……{w}\n{nw}"
+    # rs_character_C223850065F6443080205D1F61C04C98 "是呐，虽然我非常想去可……\n"
     rs_character_C223850065F6443080205D1F61C04C98 ""
 
 # game/content/file_00000EE6.rpy:1291
@@ -375,7 +375,7 @@ translate english block_000023ED_236003ec:
 # game/content/file_00000EE6.rpy:1481
 translate english block_000023ED_78845b9b:
 
-    # rs_character_81D16F74A3C44B8982DB528D7D934850 "等会等会，那么一惊一乍地什么都听不明白啊。{w}\n{nw}"
+    # rs_character_81D16F74A3C44B8982DB528D7D934850 "等会等会，那么一惊一乍地什么都听不明白啊。\n"
     rs_character_81D16F74A3C44B8982DB528D7D934850 ""
 
 # game/content/file_00000EE6.rpy:1494
@@ -519,7 +519,7 @@ translate english block_000023E4_e6115e62:
 # game/content/file_00000EE6.rpy:2141
 translate english block_000023E4_b5b564bf:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "明白明白。{w}\n{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "明白明白。\n"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00000EE6.rpy:2145
@@ -657,7 +657,7 @@ translate english block_00001B70_f9c482d6:
 # game/content/file_00000EE6.rpy:2695
 translate english block_00001B70_67e29fbd:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "说起来啊，不久前去友的家里了对不对。{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "说起来啊，不久前去友的家里了对不对。\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00000EE6.rpy:2703

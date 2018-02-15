@@ -13,9 +13,9 @@ translate japanese block_00003994_1ed61377:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003984.rpy:152
-translate japanese block_00003994_1a2f345b:
+translate japanese block_00003994_8cb261af:
 
-    # rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "嗯，辛苦了。{w}\n{nw}"
+    # rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "嗯，辛苦了。\n"
     rs_character_D9F0C257FF534E79ADF7FDFE3653E326 ""
 
 # game/content/file_00003984.rpy:156
@@ -175,9 +175,9 @@ translate japanese block_00003994_e8439480:
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00003984.rpy:435
-translate japanese block_00003994_873211af:
+translate japanese block_00003994_38b0a154:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哦哦——翼啾——！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哦哦——翼啾——！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003984.rpy:448
@@ -241,9 +241,9 @@ translate japanese block_00003994_a95447ce:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003984.rpy:546
-translate japanese block_00003994_3fca5e5f:
+translate japanese block_00003994_0ecd7781:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "集合两个班，又没有老师在现场，很难维持秩序呢。{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "集合两个班，又没有老师在现场，很难维持秩序呢。\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00003984.rpy:550
@@ -457,9 +457,9 @@ translate japanese block_0000398D_d35afaa6:
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00003984.rpy:848
-translate japanese block_0000398D_a19597f3:
+translate japanese block_0000398D_2ff47e12:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯～{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯～\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003984.rpy:852
@@ -493,9 +493,9 @@ translate japanese block_0000398D_02dbb2a3:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003984.rpy:892
-translate japanese block_0000398D_a8a6947a:
+translate japanese block_0000398D_b5985cf8:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "哦，对了，明天我早上有晨练，{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "哦，对了，明天我早上有晨练，\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00003984.rpy:897
@@ -528,11 +528,6 @@ translate japanese block_0000398D_20763a7a:
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯～"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
-# game/content/file_00003984.rpy:986
-translate japanese block_0000398D_a19597f3_1:
-
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯～{w}\n{nw}"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003984.rpy:994
 translate japanese block_0000398D_e122b2d7:
@@ -553,9 +548,9 @@ translate japanese block_0000398D_a074da64:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003984.rpy:1055
-translate japanese block_0000398D_53d1d407:
+translate japanese block_0000398D_1af724ba:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔……总觉得心神不宁。{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔……总觉得心神不宁。\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003984.rpy:1059
@@ -587,4 +582,3 @@ translate japanese block_0000398D_07b98885:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#000000}请保存至今为止的进度。{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
-

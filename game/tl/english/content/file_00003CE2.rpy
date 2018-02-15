@@ -225,7 +225,7 @@ translate english block_00003E11_9b33efab:
 # game/content/file_00003CE2.rpy:2344
 translate english block_00003D76_ef1fafda:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "那是……？{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "那是……？\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003CE2.rpy:2357
@@ -273,7 +273,7 @@ translate english block_00003D76_b01437c4:
 # game/content/file_00003CE2.rpy:2402
 translate english block_00003D76_feddf5bf:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "啊哇哇，请扶着我的肩膀～{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "啊哇哇，请扶着我的肩膀～\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003CE2.rpy:2410
@@ -327,7 +327,7 @@ translate english block_00003D76_e2dc03bc:
 # game/content/file_00003CE2.rpy:2493
 translate english block_00003D76_2d31f043:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "好、好的。{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "好、好的。\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003CE2.rpy:2501
@@ -387,7 +387,7 @@ translate english block_00003D76_3732fafb:
 # game/content/file_00003CE2.rpy:2578
 translate english block_00003D76_41efa078:
 
-    # rs_character_EE1903694D624E399209772C95A20AAA "你是我的救命恩人。{w}\n{nw}"
+    # rs_character_EE1903694D624E399209772C95A20AAA "你是我的救命恩人。\n"
     rs_character_EE1903694D624E399209772C95A20AAA ""
 
 # game/content/file_00003CE2.rpy:2582
@@ -423,7 +423,7 @@ translate english block_00003D76_c4045aba:
 # game/content/file_00003CE2.rpy:2621
 translate english block_00003D76_9bdad495:
 
-    # rs_character_EE1903694D624E399209772C95A20AAA "今天要不醉不归。{w}\n{nw}"
+    # rs_character_EE1903694D624E399209772C95A20AAA "今天要不醉不归。\n"
     rs_character_EE1903694D624E399209772C95A20AAA ""
 
 # game/content/file_00003CE2.rpy:2626
@@ -477,7 +477,7 @@ translate english block_00003D76_829c8a6d:
 # game/content/file_00003CE2.rpy:2673
 translate english block_00003D76_a4a4c88a:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯～？？在说什么呐～？{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯～？？在说什么呐～？\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003CE2.rpy:2678
@@ -495,7 +495,7 @@ translate english block_00003D76_d300e2e1:
 # game/content/file_00003CE2.rpy:2710
 translate english block_00003D76_236d60bf:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "晦哥，前几天忘记的东西我给你送……{w}\n{nw}"
+    # rs_character_62324AD297554FE987C680452CEE232E "晦哥，前几天忘记的东西我给你送……\n"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00003CE2.rpy:2714
@@ -753,7 +753,7 @@ translate english block_00003D73_01db6691:
 # game/content/file_00003CE2.rpy:3148
 translate english block_00003D73_3adbf7bc:
 
-    # rs_character_06E99199BFCE4C93B1F3942F0090429B "谢了。{w}\n{nw}"
+    # rs_character_06E99199BFCE4C93B1F3942F0090429B "谢了。\n"
     rs_character_06E99199BFCE4C93B1F3942F0090429B ""
 
 # game/content/file_00003CE2.rpy:3152
@@ -951,7 +951,7 @@ translate english block_00003E82_fe7a00e7:
 # game/content/file_00003CE2.rpy:3599
 translate english block_00003E82_4a82a549:
 
-    # rs_character_EA9AA88E88D84B559B925363E2931756 "欸——原来新闻部是冈岛创立的啊。{w}\n{nw}"
+    # rs_character_EA9AA88E88D84B559B925363E2931756 "欸——原来新闻部是冈岛创立的啊。\n"
     rs_character_EA9AA88E88D84B559B925363E2931756 ""
 
 # game/content/file_00003CE2.rpy:3603

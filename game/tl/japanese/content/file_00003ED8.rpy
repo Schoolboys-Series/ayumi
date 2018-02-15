@@ -19,9 +19,9 @@ translate japanese block_00003F0A_6bd7fc1b:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003ED8.rpy:666
-translate japanese block_00003F0A_85070eb3:
+translate japanese block_00003F0A_bc02c108:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哈哈，会不会被神明夸奖呐。{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哈哈，会不会被神明夸奖呐。\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003ED8.rpy:671
@@ -31,13 +31,13 @@ translate japanese block_00003F0A_cb0261f1:
     extend ""
 
 # game/content/file_00003ED8.rpy:854
-translate japanese block_00003EF6_d3d3930b:
+translate japanese block_00003EF6_9b7f4bfd:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "哦呀，居然会在这种时间遇到。{w}\n{nw}"
+    # rs_character_62324AD297554FE987C680452CEE232E "哦呀，居然会在这种时间遇到。\n"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00003ED8.rpy:858
-translate japanese block_00003EF6_06462c01:
+translate japanese block_00003EF6_4edc8b0f:
 
     # extend "晚上好，森海友同学。"
     extend ""
@@ -85,7 +85,7 @@ translate japanese block_00003EF6_3fcb1304:
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00003ED8.rpy:921
-translate japanese block_00003EF6_d28f281f:
+translate japanese block_00003EF6_478a7f8d:
 
     # extend "这么说很突然，但森海同学，我有件事需要你帮忙。"
     extend ""
@@ -257,18 +257,3 @@ translate japanese block_00003F0E_4d5a838c:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "（好长的独白——）"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "（大きい独り言だなー。）"
-
-# TODO: Translation updated at 2018-01-28 10:11
-
-# game/content/file_00003ED8.rpy:858
-translate japanese block_00003EF6_4edc8b0f:
-
-    # extend "晚上好，森海友同学。"
-    extend ""
-
-# game/content/file_00003ED8.rpy:921
-translate japanese block_00003EF6_478a7f8d:
-
-    # extend "这么说很突然，但森海同学，我有件事需要你帮忙。"
-    extend ""
-

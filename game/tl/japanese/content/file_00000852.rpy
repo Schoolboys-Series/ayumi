@@ -1,13 +1,13 @@
 ﻿# TODO: Translation updated at 2018-01-27 16:27
 
 # game/content/file_00000852.rpy:137
-translate japanese block_000023D4_9355a4c0:
+translate japanese block_000023D4_73949461:
 
     # rs_character_9EDF48057FB84D428D56198A69E2880E "这不是忍同学嘛。"
     rs_character_9EDF48057FB84D428D56198A69E2880E ""
 
 # game/content/file_00000852.rpy:152
-translate japanese block_000023D4_34ab4a55:
+translate japanese block_000023D4_79a70484:
 
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "{color=#3A00C4}朔{/color}同学，真是奇遇，好久不见。"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
@@ -19,7 +19,7 @@ translate japanese block_000023D4_131d70c5:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00000852.rpy:167
-translate japanese block_000023D4_797d1820:
+translate japanese block_000023D4_510a2ec3:
 
     # rs_character_62324AD297554FE987C680452CEE232E "这位是忍同学的朋友？"
     rs_character_62324AD297554FE987C680452CEE232E ""
@@ -37,9 +37,9 @@ translate japanese block_000023D4_7322698e:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00000852.rpy:187
-translate japanese block_000023D4_27ec4a11:
+translate japanese block_000023D4_e7529205:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "哦，你就是传说中的那个。从忍君那里听说了。{w}\n{nw}"
+    # rs_character_62324AD297554FE987C680452CEE232E "哦，你就是传说中的那个。从忍君那里听说了。\n"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00000852.rpy:192
@@ -73,7 +73,7 @@ translate japanese block_000023D4_bbbf7d0a:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00000852.rpy:239
-translate japanese block_000023D4_13daf81e:
+translate japanese block_000023D4_34b23982:
 
     # rs_character_62324AD297554FE987C680452CEE232E "哈哈，关系真好呐。{w}\n忍同学，等以后有时间再一起喝个茶如何。{w}\n这次务必也请友同学光临。"
     rs_character_62324AD297554FE987C680452CEE232E ""
@@ -241,9 +241,9 @@ translate japanese block_00002429_f59f275d:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00000852.rpy:1649
-translate japanese block_00002429_9274a0aa:
+translate japanese block_00002429_a71fd861:
 
-    # rs_character_9A978AAD07624C598B6179F23F51FB2D "啊，友哥！{w}\n{nw}"
+    # rs_character_9A978AAD07624C598B6179F23F51FB2D "啊，友哥！\n"
     rs_character_9A978AAD07624C598B6179F23F51FB2D ""
 
 # game/content/file_00000852.rpy:1653
@@ -307,9 +307,9 @@ translate japanese block_00002429_5957abf3:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00000852.rpy:1724
-translate japanese block_00002429_79d3c33a:
+translate japanese block_00002429_298f4bb7:
 
-    # rs_character_9A978AAD07624C598B6179F23F51FB2D "请多多关照，绫濑哥。\n小林酱虽然那么说了，但我将来……{w}\n{nw}"
+    # rs_character_9A978AAD07624C598B6179F23F51FB2D "请多多关照，绫濑哥。\n小林酱虽然那么说了，但我将来……\n"
     rs_character_9A978AAD07624C598B6179F23F51FB2D ""
 
 # game/content/file_00000852.rpy:1732
@@ -407,30 +407,3 @@ translate japanese strings:
     # content\file_00000852.rpy:1448
     old "宝咲上学路"
     new ""
-
-# TODO: Translation updated at 2018-01-28 10:11
-
-# game/content/file_00000852.rpy:137
-translate japanese block_000023D4_73949461:
-
-    # rs_character_9EDF48057FB84D428D56198A69E2880E "这不是忍同学嘛。"
-    rs_character_9EDF48057FB84D428D56198A69E2880E ""
-
-# game/content/file_00000852.rpy:152
-translate japanese block_000023D4_79a70484:
-
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "{color=#3A00C4}朔{/color}同学，真是奇遇，好久不见。"
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
-
-# game/content/file_00000852.rpy:167
-translate japanese block_000023D4_510a2ec3:
-
-    # rs_character_62324AD297554FE987C680452CEE232E "这位是忍同学的朋友？"
-    rs_character_62324AD297554FE987C680452CEE232E ""
-
-# game/content/file_00000852.rpy:239
-translate japanese block_000023D4_34b23982:
-
-    # rs_character_62324AD297554FE987C680452CEE232E "哈哈，关系真好呐。{w}\n忍同学，等以后有时间再一起喝个茶如何。{w}\n这次务必也请友同学光临。"
-    rs_character_62324AD297554FE987C680452CEE232E ""
-

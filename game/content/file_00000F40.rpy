@@ -434,7 +434,7 @@ label block_00000F6B:
     show rs_image_0412D7C59F8F4DAA842AEE5AC12FB89D as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_7009C1117C004F51829614A203C67DE7 "四朗又在这么说了。{w}\n{nw}"
+    rs_character_7009C1117C004F51829614A203C67DE7 "四朗又在这么说了。\n"
     if sys_effect_current_file != "sound/Effect Sound/Attack 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Attack 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Attack 1.ogg"

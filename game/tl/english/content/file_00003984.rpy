@@ -15,7 +15,7 @@ translate english block_00003994_1ed61377:
 # game/content/file_00003984.rpy:152
 translate english block_00003994_1a2f345b:
 
-    # rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "嗯，辛苦了。{w}\n{nw}"
+    # rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "嗯，辛苦了。\n"
     rs_character_D9F0C257FF534E79ADF7FDFE3653E326 ""
 
 # game/content/file_00003984.rpy:156
@@ -177,7 +177,7 @@ translate english block_00003994_e8439480:
 # game/content/file_00003984.rpy:435
 translate english block_00003994_873211af:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哦哦——翼啾——！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哦哦——翼啾——！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003984.rpy:448
@@ -243,7 +243,7 @@ translate english block_00003994_a95447ce:
 # game/content/file_00003984.rpy:546
 translate english block_00003994_3fca5e5f:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "集合两个班，又没有老师在现场，很难维持秩序呢。{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "集合两个班，又没有老师在现场，很难维持秩序呢。\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00003984.rpy:550
@@ -459,7 +459,7 @@ translate english block_0000398D_d35afaa6:
 # game/content/file_00003984.rpy:848
 translate english block_0000398D_a19597f3:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯～{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯～\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003984.rpy:852
@@ -495,7 +495,7 @@ translate english block_0000398D_02dbb2a3:
 # game/content/file_00003984.rpy:892
 translate english block_0000398D_a8a6947a:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "哦，对了，明天我早上有晨练，{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "哦，对了，明天我早上有晨练，\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00003984.rpy:897
@@ -531,7 +531,7 @@ translate english block_0000398D_20763a7a:
 # game/content/file_00003984.rpy:986
 translate english block_0000398D_a19597f3_1:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯～{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯～\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003984.rpy:994
@@ -555,7 +555,7 @@ translate english block_0000398D_a074da64:
 # game/content/file_00003984.rpy:1055
 translate english block_0000398D_53d1d407:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔……总觉得心神不宁。{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔……总觉得心神不宁。\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003984.rpy:1059

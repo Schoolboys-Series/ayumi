@@ -45,7 +45,7 @@ translate english block_000023F8_84efd86b:
 # game/content/file_00001105.rpy:328
 translate english block_000023F8_cfc46ecb:
 
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "好好，明白了，我会告诉他们的。{w}\n{nw}"
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "好好，明白了，我会告诉他们的。\n"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00001105.rpy:332
@@ -93,7 +93,7 @@ translate english block_00002418_4fc359b7:
 # game/content/file_00001105.rpy:491
 translate english block_00002406_5e922ba9:
 
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "哈，早上就出了好多汗呐。{w}\n{nw}"
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "哈，早上就出了好多汗呐。\n"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00001105.rpy:495
@@ -111,7 +111,7 @@ translate english block_00002406_26ac8a68:
 # game/content/file_00001105.rpy:519
 translate english block_00002406_3d23cf0d:
 
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "欸～总觉得伊藤酱有点嫌恶的样子呐？不觉得很冷淡吗？{w}\n{nw}"
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "欸～总觉得伊藤酱有点嫌恶的样子呐？不觉得很冷淡吗？\n"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00001105.rpy:527
@@ -147,7 +147,7 @@ translate english block_00002406_a516ff5f:
 # game/content/file_00001105.rpy:584
 translate english block_00002406_e4faa9cf:
 
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "欸——！！有那么生气？！{w}\n{nw}"
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "欸——！！有那么生气？！\n"
     rs_character_E3F6ADD43DE44A428E1224756613C694 ""
 
 # game/content/file_00001105.rpy:588
@@ -261,7 +261,7 @@ translate english block_000023F9_35536920:
 # game/content/file_00001105.rpy:1010
 translate english block_000023F9_3e7768c6:
 
-    # rs_character_8D9249CA1389416BAF6A122851E276D0 "欸！……啊，嗯，是的。{w}\n{nw}"
+    # rs_character_8D9249CA1389416BAF6A122851E276D0 "欸！……啊，嗯，是的。\n"
     rs_character_8D9249CA1389416BAF6A122851E276D0 ""
 
 # game/content/file_00001105.rpy:1014
@@ -285,7 +285,7 @@ translate english block_000023F9_7878a7e5:
 # game/content/file_00001105.rpy:1033
 translate english block_000023F9_54cd4902:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "反正奥村又管不住嘴。那家伙真的很喜欢这种话题。{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "反正奥村又管不住嘴。那家伙真的很喜欢这种话题。\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00001105.rpy:1037
@@ -513,7 +513,7 @@ translate english block_0000112D_b01302cd:
 # game/content/file_00001105.rpy:1437
 translate english block_0000112D_80520208:
 
-    # rs_character_EA9AA88E88D84B559B925363E2931756 "也是呢。一群人一起去洗个澡有时也不错。{w}\n{nw}"
+    # rs_character_EA9AA88E88D84B559B925363E2931756 "也是呢。一群人一起去洗个澡有时也不错。\n"
     rs_character_EA9AA88E88D84B559B925363E2931756 ""
 
 # game/content/file_00001105.rpy:1441
@@ -663,7 +663,7 @@ translate english block_00002402_5b94b21f:
 # game/content/file_00001105.rpy:1930
 translate english block_00002402_d19f5790:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "啊，算我没说清楚。{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "啊，算我没说清楚。\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00001105.rpy:1935
@@ -711,7 +711,7 @@ translate english block_00002410_1f8fe78d:
 # game/content/file_00001105.rpy:2203
 translate english block_0000240C_bc2e5bff:
 
-    # rs_character_C223850065F6443080205D1F61C04C98 "这座学园……不，这个城镇，是那种\n不管什么都不需隐藏会被好好接受的地方呐。{w}\n{nw}"
+    # rs_character_C223850065F6443080205D1F61C04C98 "这座学园……不，这个城镇，是那种\n不管什么都不需隐藏会被好好接受的地方呐。\n"
     rs_character_C223850065F6443080205D1F61C04C98 ""
 
 # game/content/file_00001105.rpy:2207
@@ -723,7 +723,7 @@ translate english block_0000240C_6421fc63:
 # game/content/file_00001105.rpy:2236
 translate english block_00001137_f87af637:
 
-    # rs_character_C223850065F6443080205D1F61C04C98 "泡澡啊……这么一说好久没做过了呢。{w}\n{nw}"
+    # rs_character_C223850065F6443080205D1F61C04C98 "泡澡啊……这么一说好久没做过了呢。\n"
     rs_character_C223850065F6443080205D1F61C04C98 ""
 
 # game/content/file_00001105.rpy:2240
@@ -801,7 +801,7 @@ translate english block_00002409_1e4c2ccd:
 # game/content/file_00001105.rpy:2555
 translate english block_00002409_542d8502:
 
-    # rs_character_53FF68C192E3494AB005C1909579AFFB "部长如果想去的话请务必带上我。{w}\n{nw}"
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "部长如果想去的话请务必带上我。\n"
     rs_character_53FF68C192E3494AB005C1909579AFFB ""
 
 # game/content/file_00001105.rpy:2563
@@ -879,7 +879,7 @@ translate english block_00002407_177235eb:
 # game/content/file_00001105.rpy:3064
 translate english block_00002407_64fe86f3:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "坦、坦诚相见——！{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "坦、坦诚相见——！\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00001105.rpy:3072
@@ -891,7 +891,7 @@ translate english block_00002407_f935d931:
 # game/content/file_00001105.rpy:3086
 translate english block_00002407_658f1498:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "花乃汤啊——！还从没和忍以及翼君一起去过呐，\n去一次也不错嘛！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "花乃汤啊——！还从没和忍以及翼君一起去过呐，\n去一次也不错嘛！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001105.rpy:3090
@@ -915,7 +915,7 @@ translate english block_00002407_d8edb582:
 # game/content/file_00001105.rpy:3115
 translate english block_00002407_89811448:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "澡堂……确实想去一次不过，{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "澡堂……确实想去一次不过，\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00001105.rpy:3119
@@ -945,7 +945,7 @@ translate english block_00002407_1e051ce1:
 # game/content/file_00001105.rpy:3155
 translate english block_00002407_825ec077:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "就是啊，装什么独立——！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "就是啊，装什么独立——！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001105.rpy:3159
@@ -963,7 +963,7 @@ translate english block_00002407_1a67f90a:
 # game/content/file_00001105.rpy:3173
 translate english block_00002407_b1112d5f:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "嗯嗯！{w=0.5}……嗯？{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "嗯嗯！{w=0.5}……嗯？\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00001105.rpy:3186
@@ -1017,7 +1017,7 @@ translate english block_000023F7_c402631e:
 # game/content/file_00001105.rpy:3518
 translate english block_000023F7_6dab38ba:
 
-    # rs_character_41A906D279CA4677A6A2ED8CBE544459 "连在新闻部的我都不知道……{w}\n{nw}"
+    # rs_character_41A906D279CA4677A6A2ED8CBE544459 "连在新闻部的我都不知道……\n"
     rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
 
 # game/content/file_00001105.rpy:3526
@@ -1209,7 +1209,7 @@ translate english block_000023F6_092eca88:
 # game/content/file_00001105.rpy:4136
 translate english block_000023F6_bf5760fc:
 
-    # rs_character_81D16F74A3C44B8982DB528D7D934850 "是男人肯定会憧憬！就算看看也是保养眼睛……{w}\n{nw}"
+    # rs_character_81D16F74A3C44B8982DB528D7D934850 "是男人肯定会憧憬！就算看看也是保养眼睛……\n"
     rs_character_81D16F74A3C44B8982DB528D7D934850 ""
 
 # game/content/file_00001105.rpy:4145
@@ -1407,7 +1407,7 @@ translate english block_00001130_518c2b07:
 # game/content/file_00001105.rpy:4624
 translate english block_00001130_7afee251:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "不是！{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "不是！\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00001105.rpy:4630

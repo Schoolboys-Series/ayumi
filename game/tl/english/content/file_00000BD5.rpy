@@ -153,7 +153,7 @@ translate english block_000025EE_71661e69:
 # game/content/file_00000BD5.rpy:736
 translate english block_000025EE_146acaba:
 
-    # rs_character_53FF68C192E3494AB005C1909579AFFB "原来如此。也就是说，传闻的“花子君”{w}\n{nw}"
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "原来如此。也就是说，传闻的“花子君”\n"
     rs_character_53FF68C192E3494AB005C1909579AFFB ""
 
 # game/content/file_00000BD5.rpy:741

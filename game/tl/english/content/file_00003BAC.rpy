@@ -393,7 +393,7 @@ translate english block_00003BAE_b0f3d4e6:
 # game/content/file_00003BAC.rpy:781
 translate english block_00003BAE_1d369200:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "……不管怎样我们都是没问题的。{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "……不管怎样我们都是没问题的。\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00003BAC.rpy:785
@@ -423,7 +423,7 @@ translate english block_00003BAE_cbce203c:
 # game/content/file_00003BAC.rpy:831
 translate english block_00003BAE_70bea55a:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "哦！同时中奖绝对是有缘分。{w}\n{nw}"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "哦！同时中奖绝对是有缘分。\n"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_00003BAC.rpy:836
@@ -453,7 +453,7 @@ translate english block_00003BAE_c862b4c0:
 # game/content/file_00003BAC.rpy:864
 translate english block_00003BAE_1ff82486:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "啊啊啊……那个、那个……{w}\n{nw}"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "啊啊啊……那个、那个……\n"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_00003BAC.rpy:872
@@ -801,7 +801,7 @@ translate english block_00003BAE_24229eb0:
 # game/content/file_00003BAC.rpy:1547
 translate english block_00003BAE_cedc2b3a:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "这句话原封不动还给你。你们这群人来这家酒店……{w}\n{nw}"
+    # rs_character_62324AD297554FE987C680452CEE232E "这句话原封不动还给你。你们这群人来这家酒店……\n"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00003BAC.rpy:1552
@@ -1113,7 +1113,7 @@ translate english block_00003C0E_59266859:
 # game/content/file_00003BAC.rpy:2072
 translate english block_00003C0E_4c21bd66:
 
-    # rs_character_57471360F48A413AB843A4E46D8C5541 "就算那样也不会吧……{w}\n{nw}"
+    # rs_character_57471360F48A413AB843A4E46D8C5541 "就算那样也不会吧……\n"
     rs_character_57471360F48A413AB843A4E46D8C5541 ""
 
 # game/content/file_00003BAC.rpy:2076
@@ -1221,7 +1221,7 @@ translate english block_00003C0E_8d62becd:
 # game/content/file_00003BAC.rpy:2242
 translate english block_00003C0E_dbac04c1:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "快去快去！{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "快去快去！\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003BAC.rpy:2246
@@ -1299,7 +1299,7 @@ translate english block_00003C0E_c40a4446:
 # game/content/file_00003BAC.rpy:2375
 translate english block_00003C0E_e2951452:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "欸——真假的。以防万一还是看看天气应用……{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "欸——真假的。以防万一还是看看天气应用……\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00003BAC.rpy:2383
@@ -1551,7 +1551,7 @@ translate english block_00003C0E_7ea8cec0:
 # game/content/file_00003BAC.rpy:2725
 translate english block_00003C0E_bef3f0a9:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "哈！那就由我来提问！{w}\n{nw}"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "哈！那就由我来提问！\n"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_00003BAC.rpy:2729
@@ -1815,7 +1815,7 @@ translate english block_00003C0E_db6117a5:
 # game/content/file_00003BAC.rpy:3341
 translate english block_00003C0E_4ceabb1d:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "好不容易能随便放开吃，都浪费了！！{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "好不容易能随便放开吃，都浪费了！！\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00003BAC.rpy:3345
@@ -1995,7 +1995,7 @@ translate english block_00003C10_bd60f854:
 # game/content/file_00003BAC.rpy:3713
 translate english block_00003C10_5b65ae22:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "那是昨天找友亲借的电摩的声音！{w}\n{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "那是昨天找友亲借的电摩的声音！\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003BAC.rpy:3721
@@ -2121,7 +2121,7 @@ translate english block_00003C18_8e0727bc:
 # game/content/file_00003BAC.rpy:4010
 translate english block_00003C18_9850887a:
 
-    # extend "不，那家伙，看上去那样运动神经还是很好的，{w}\n{nw}"
+    # extend "不，那家伙，看上去那样运动神经还是很好的，\n"
     extend ""
 
 # game/content/file_00003BAC.rpy:4018
@@ -2241,7 +2241,7 @@ translate english block_00003C18_f3c16a07:
 # game/content/file_00003BAC.rpy:4235
 translate english block_00003C18_4d42603a:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "地毯式搜索也没有找到。{w}\n{nw}"
+    # rs_character_62324AD297554FE987C680452CEE232E "地毯式搜索也没有找到。\n"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00003BAC.rpy:4239
@@ -2307,7 +2307,7 @@ translate english block_00003C18_341b2917:
 # game/content/file_00003BAC.rpy:4337
 translate english block_00003C18_75f2c6ba:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "那个是、这个……没想到真的被借出去了什么的……{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "那个是、这个……没想到真的被借出去了什么的……\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00003BAC.rpy:4345
@@ -2343,7 +2343,7 @@ translate english block_00003C18_52f229af:
 # game/content/file_00003BAC.rpy:4370
 translate english block_00003C18_8ceaebb0:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "嗯…………{size=12}我下次借借试试……{/size}{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "嗯…………{size=12}我下次借借试试……{/size}\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00003BAC.rpy:4374
@@ -2409,7 +2409,7 @@ translate english block_00003C18_bd0e55b5:
 # game/content/file_00003BAC.rpy:4471
 translate english block_00003C18_28bcd40b:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "诶？嗯、嗯。{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "诶？嗯、嗯。\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00003BAC.rpy:4475
@@ -2535,7 +2535,7 @@ translate english block_00003C18_554cf60d:
 # game/content/file_00003BAC.rpy:4674
 translate english block_00003C18_b2b20f35:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "那么，我们四个去搜索。{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "那么，我们四个去搜索。\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00003BAC.rpy:4682
@@ -2691,7 +2691,7 @@ translate english block_00003C18_c5cca838:
 # game/content/file_00003BAC.rpy:4987
 translate english block_00003C18_e7b51e5f:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "这不是特技！真是的～扫都没扫干净～{w}\n{nw}"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "这不是特技！真是的～扫都没扫干净～\n"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
 
 # game/content/file_00003BAC.rpy:4992
@@ -3093,7 +3093,7 @@ translate english block_00003C22_6ec513b1_2:
 # game/content/file_00003BAC.rpy:6039
 translate english block_00003C22_402ce0eb:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "想活命就趁现在了。{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "想活命就趁现在了。\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00003BAC.rpy:6044
@@ -3189,7 +3189,7 @@ translate english block_00003C22_3f8a9956:
 # game/content/file_00003BAC.rpy:6205
 translate english block_00003C22_17afe471:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "这样……{w}\n{nw}"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "这样……\n"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_00003BAC.rpy:6213
@@ -3357,7 +3357,7 @@ translate english block_00003C23_407cc908:
 # game/content/file_00003BAC.rpy:6530
 translate english block_00003C23_7424615a:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "不过，那家伙很明确地说了，{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "不过，那家伙很明确地说了，\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00003BAC.rpy:6535
@@ -3393,7 +3393,7 @@ translate english block_00003C23_d8244e57:
 # game/content/file_00003BAC.rpy:6584
 translate english block_00003C23_46c6d3e4:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "我、我也不是！可以对绳子做指纹检查的！{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "我、我也不是！可以对绳子做指纹检查的！\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00003BAC.rpy:6592
@@ -3513,7 +3513,7 @@ translate english block_00003C23_7d31cf0d:
 # game/content/file_00003BAC.rpy:6806
 translate english block_00003C23_00771704:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "我、我该怎么办……{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "我、我该怎么办……\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00003BAC.rpy:6810
@@ -3849,7 +3849,7 @@ translate english block_00003BBB_6c812da4:
 # game/content/file_00003BAC.rpy:7985
 translate english block_00003BBB_aa4058b0:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "我对这个并不关心。{w}\n{nw}"
+    # rs_character_62324AD297554FE987C680452CEE232E "我对这个并不关心。\n"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00003BAC.rpy:7989
@@ -3975,7 +3975,7 @@ translate english block_00003BBB_ff8e6dce:
 # game/content/file_00003BAC.rpy:8121
 translate english block_00003BBB_f208c8d1:
 
-    # rs_character_EE1903694D624E399209772C95A20AAA "还是那么不坦率呐。{w}\n{nw}"
+    # rs_character_EE1903694D624E399209772C95A20AAA "还是那么不坦率呐。\n"
     rs_character_EE1903694D624E399209772C95A20AAA ""
 
 # game/content/file_00003BAC.rpy:8129
@@ -4149,7 +4149,7 @@ translate english block_00003C3D_ee17a6a9:
 # game/content/file_00003BAC.rpy:8522
 translate english block_00003C27_eda9cc4d:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "我们之中才不会有叛徒！{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "我们之中才不会有叛徒！\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003BAC.rpy:8526

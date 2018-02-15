@@ -223,9 +223,9 @@ translate japanese block_00003E11_9b33efab:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003CE2.rpy:2344
-translate japanese block_00003D76_ef1fafda:
+translate japanese block_00003D76_43fd742f:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "那是……？{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "那是……？\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003CE2.rpy:2357
@@ -271,9 +271,9 @@ translate japanese block_00003D76_b01437c4:
     extend ""
 
 # game/content/file_00003CE2.rpy:2402
-translate japanese block_00003D76_feddf5bf:
+translate japanese block_00003D76_c1ac92f9:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "啊哇哇，请扶着我的肩膀～{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "啊哇哇，请扶着我的肩膀～\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003CE2.rpy:2410
@@ -325,9 +325,9 @@ translate japanese block_00003D76_e2dc03bc:
     rs_character_9EDF48057FB84D428D56198A69E2880E ""
 
 # game/content/file_00003CE2.rpy:2493
-translate japanese block_00003D76_2d31f043:
+translate japanese block_00003D76_61e7b682:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "好、好的。{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "好、好的。\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003CE2.rpy:2501
@@ -385,9 +385,9 @@ translate japanese block_00003D76_3732fafb:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003CE2.rpy:2578
-translate japanese block_00003D76_41efa078:
+translate japanese block_00003D76_9d12e745:
 
-    # rs_character_EE1903694D624E399209772C95A20AAA "你是我的救命恩人。{w}\n{nw}"
+    # rs_character_EE1903694D624E399209772C95A20AAA "你是我的救命恩人。\n"
     rs_character_EE1903694D624E399209772C95A20AAA ""
 
 # game/content/file_00003CE2.rpy:2582
@@ -421,9 +421,9 @@ translate japanese block_00003D76_c4045aba:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003CE2.rpy:2621
-translate japanese block_00003D76_9bdad495:
+translate japanese block_00003D76_dc977e91:
 
-    # rs_character_EE1903694D624E399209772C95A20AAA "今天要不醉不归。{w}\n{nw}"
+    # rs_character_EE1903694D624E399209772C95A20AAA "今天要不醉不归。\n"
     rs_character_EE1903694D624E399209772C95A20AAA ""
 
 # game/content/file_00003CE2.rpy:2626
@@ -475,13 +475,13 @@ translate japanese block_00003D76_829c8a6d:
     rs_character_EE1903694D624E399209772C95A20AAA ""
 
 # game/content/file_00003CE2.rpy:2673
-translate japanese block_00003D76_a4a4c88a:
+translate japanese block_00003D76_c7274f88:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯～？？在说什么呐～？{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯～？？在说什么呐～？\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003CE2.rpy:2678
-translate japanese block_00003D76_33fcd298:
+translate japanese block_00003D76_b810f6ab:
 
     # extend "对了！我也想听听晦大哥的事～"
     extend ""
@@ -493,9 +493,9 @@ translate japanese block_00003D76_d300e2e1:
     rs_character_EE1903694D624E399209772C95A20AAA ""
 
 # game/content/file_00003CE2.rpy:2710
-translate japanese block_00003D76_236d60bf:
+translate japanese block_00003D76_c8d2f0fa:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "晦哥，前几天忘记的东西我给你送……{w}\n{nw}"
+    # rs_character_62324AD297554FE987C680452CEE232E "晦哥，前几天忘记的东西我给你送……\n"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00003CE2.rpy:2714
@@ -571,7 +571,7 @@ translate japanese block_00003D76_12933ead:
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00003CE2.rpy:2834
-translate japanese block_00003D76_254cb087:
+translate japanese block_00003D76_c3fb7d80:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "你啊——！谁是外人——！！我和晦大哥可是有很深的羁绊的——！！"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
@@ -751,9 +751,9 @@ translate japanese block_00003D73_01db6691:
     extend ""
 
 # game/content/file_00003CE2.rpy:3148
-translate japanese block_00003D73_3adbf7bc:
+translate japanese block_00003D73_964153f9:
 
-    # rs_character_06E99199BFCE4C93B1F3942F0090429B "谢了。{w}\n{nw}"
+    # rs_character_06E99199BFCE4C93B1F3942F0090429B "谢了。\n"
     rs_character_06E99199BFCE4C93B1F3942F0090429B ""
 
 # game/content/file_00003CE2.rpy:3152
@@ -949,9 +949,9 @@ translate japanese block_00003E82_fe7a00e7:
     rs_character_53FF68C192E3494AB005C1909579AFFB ""
 
 # game/content/file_00003CE2.rpy:3599
-translate japanese block_00003E82_4a82a549:
+translate japanese block_00003E82_cb8ccfdd:
 
-    # rs_character_EA9AA88E88D84B559B925363E2931756 "欸——原来新闻部是冈岛创立的啊。{w}\n{nw}"
+    # rs_character_EA9AA88E88D84B559B925363E2931756 "欸——原来新闻部是冈岛创立的啊。\n"
     rs_character_EA9AA88E88D84B559B925363E2931756 ""
 
 # game/content/file_00003CE2.rpy:3603
@@ -1001,18 +1001,3 @@ translate japanese block_00003E82_dc2ea255:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "哈哈。"
     rs_character_53FF68C192E3494AB005C1909579AFFB ""
-
-# TODO: Translation updated at 2018-01-28 10:11
-
-# game/content/file_00003CE2.rpy:2678
-translate japanese block_00003D76_b810f6ab:
-
-    # extend "对了！我也想听听晦大哥的事～"
-    extend ""
-
-# game/content/file_00003CE2.rpy:2834
-translate japanese block_00003D76_c3fb7d80:
-
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "你啊——！谁是外人——！！我和晦大哥可是有很深的羁绊的——！！"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
-

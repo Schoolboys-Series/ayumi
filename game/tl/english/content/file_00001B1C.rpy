@@ -39,7 +39,7 @@ translate english block_00001B6A_4ed74dc9:
 # game/content/file_00001B1C.rpy:453
 translate english block_00001B6A_d86da6a5:
 
-    # rs_character_7C3C0C2656584DDA8F77A8F6082E3A27 "{color=#808080}算了，就算说出来又能如何……{/color}{w}\n{nw}"
+    # rs_character_7C3C0C2656584DDA8F77A8F6082E3A27 "{color=#808080}算了，就算说出来又能如何……{/color}\n"
     rs_character_7C3C0C2656584DDA8F77A8F6082E3A27 ""
 
 # game/content/file_00001B1C.rpy:457
@@ -75,7 +75,7 @@ translate english block_00002C1F_6bd7fc1b:
 # game/content/file_00001B1C.rpy:719
 translate english block_00002C1F_060d7dd2:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哈哈，会不会被神明夸奖呢。{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哈哈，会不会被神明夸奖呢。\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001B1C.rpy:724
@@ -87,7 +87,7 @@ translate english block_00002C1F_cb0261f1:
 # game/content/file_00001B1C.rpy:907
 translate english block_00001B3E_d3d3930b:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "哦呀，居然会在这种时间遇到。{w}\n{nw}"
+    # rs_character_62324AD297554FE987C680452CEE232E "哦呀，居然会在这种时间遇到。\n"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00001B1C.rpy:911
@@ -183,7 +183,7 @@ translate english block_00001B3E_862111bd:
 # game/content/file_00001B1C.rpy:1058
 translate english block_00001B3E_5b647c15:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "欸？{w}\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "欸？\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001B1C.rpy:1075

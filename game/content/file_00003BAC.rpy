@@ -778,7 +778,7 @@ label block_00003BAE:
 
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "算了算了，作哉君。这种机会也不多见，不要那么说开心去玩就好！"
 
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "……不管怎样我们都是没问题的。{w}\n{nw}"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "……不管怎样我们都是没问题的。\n"
     show rs_image_AB838172A2DB46ABA7F4AC2B3C09693D as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
@@ -828,7 +828,7 @@ label block_00003BAE:
     show rs_image_34FE71D3EB71405D8A5DEB69161B5815 as tag_FD7EEC63649F4ABB88B3E11A041AF5A6 at Transform(xpos=430, yalign=0.0) zorder zorder_tag_FD7EEC63649F4ABB88B3E11A041AF5A6 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_EFC67D522B5F4615BFAE716D87F58204 "哦！同时中奖绝对是有缘分。{w}\n{nw}"
+    rs_character_EFC67D522B5F4615BFAE716D87F58204 "哦！同时中奖绝对是有缘分。\n"
     show rs_image_5AE10526B987417DB3A2B8B5DFDA6F3A as tag_FD7EEC63649F4ABB88B3E11A041AF5A6 zorder zorder_tag_FD7EEC63649F4ABB88B3E11A041AF5A6 onlayer master
     show rs_image_1382C936693A4354B456F9C02B592547 as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
@@ -861,7 +861,7 @@ label block_00003BAE:
     show rs_image_13B2B8013F16410E97AC3B196323838B as tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD zorder zorder_tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_EFC67D522B5F4615BFAE716D87F58204 "啊啊啊……那个、那个……{w}\n{nw}"
+    rs_character_EFC67D522B5F4615BFAE716D87F58204 "啊啊啊……那个、那个……\n"
     if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Strike 1.ogg"
@@ -1544,7 +1544,7 @@ label block_00003BAE:
     show rs_image_A477062F5CFB45259A5183ED5584C4A5 as tag_E99970E1386B453DAF81C3AE2C72BE8E at left_top zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_62324AD297554FE987C680452CEE232E "这句话原封不动还给你。你们这群人来这家酒店……{w}\n{nw}"
+    rs_character_62324AD297554FE987C680452CEE232E "这句话原封不动还给你。你们这群人来这家酒店……\n"
     if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"
@@ -2069,7 +2069,7 @@ label block_00003C0E:
     show rs_image_3E667A569CC54E86B612A79E21C9EC9E as tag_FD7EEC63649F4ABB88B3E11A041AF5A6 zorder zorder_tag_FD7EEC63649F4ABB88B3E11A041AF5A6 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_57471360F48A413AB843A4E46D8C5541 "就算那样也不会吧……{w}\n{nw}"
+    rs_character_57471360F48A413AB843A4E46D8C5541 "就算那样也不会吧……\n"
     show rs_image_34FE71D3EB71405D8A5DEB69161B5815 as tag_FD7EEC63649F4ABB88B3E11A041AF5A6 zorder zorder_tag_FD7EEC63649F4ABB88B3E11A041AF5A6 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -2239,7 +2239,7 @@ label block_00003C0E:
     show rs_image_EA4ACE3D61BB4E55AC643AD05DFE8DD0 as tag_A77E36FB70FF4F60B12060B2747E46D1 zorder zorder_tag_A77E36FB70FF4F60B12060B2747E46D1 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "快去快去！{w}\n{nw}"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "快去快去！\n"
     show rs_image_A6E2B83133264FE2AC7ED2F9767DAB76 as tag_A77E36FB70FF4F60B12060B2747E46D1 zorder zorder_tag_A77E36FB70FF4F60B12060B2747E46D1 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -2372,7 +2372,7 @@ label block_00003C0E:
     show rs_image_5FBD78374DA74E3DAE8DB6DA14DD5616 as tag_25C83DBF35814073B3DF9FF7BCEF75AC zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "欸——真假的。以防万一还是看看天气应用……{w}\n{nw}"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "欸——真假的。以防万一还是看看天气应用……\n"
     if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
@@ -2722,7 +2722,7 @@ label block_00003C0E:
     show rs_image_15C5A93E72CC49F7B52D2031A6D69DEE as tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD zorder zorder_tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_EFC67D522B5F4615BFAE716D87F58204 "哈！那就由我来提问！{w}\n{nw}"
+    rs_character_EFC67D522B5F4615BFAE716D87F58204 "哈！那就由我来提问！\n"
     show rs_image_07F2639BB0524AEBB4F93F1989365243 as tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD zorder zorder_tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -3338,7 +3338,7 @@ label block_00003C0E:
     show rs_image_13EEE138043542FB90557CFB44BADDE4 as tag_25C83DBF35814073B3DF9FF7BCEF75AC at Transform(xpos=430, yalign=0.0) zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "好不容易能随便放开吃，都浪费了！！{w}\n{nw}"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "好不容易能随便放开吃，都浪费了！！\n"
     show rs_image_178EB238919E4D3E993E1EDC3E68F09B as tag_25C83DBF35814073B3DF9FF7BCEF75AC zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -3710,7 +3710,7 @@ label block_00003C10:
     show rs_image_511A1885AB154028AF647FB028BA2458 as tag_A77E36FB70FF4F60B12060B2747E46D1 at center_bottom zorder zorder_tag_A77E36FB70FF4F60B12060B2747E46D1 onlayer master
     with rs_effect_BABCD5D2E5A54EBD81AEB01B3A0580F7
 
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "那是昨天找友亲借的电摩的声音！{w}\n{nw}"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "那是昨天找友亲借的电摩的声音！\n"
     if sys_effect_current_file != "sound/Effect Sound/As you wish 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/As you wish 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/As you wish 1.ogg"
@@ -4007,7 +4007,7 @@ label block_00003C18:
     show rs_image_4B64C623E7064EDA84B3D0A997F99470 as tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD zorder zorder_tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    extend "不，那家伙，看上去那样运动神经还是很好的，{w}\n{nw}"
+    extend "不，那家伙，看上去那样运动神经还是很好的，\n"
     if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
@@ -4232,7 +4232,7 @@ label block_00003C18:
 
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "到底去什么地方了，那家伙……"
 
-    rs_character_62324AD297554FE987C680452CEE232E "地毯式搜索也没有找到。{w}\n{nw}"
+    rs_character_62324AD297554FE987C680452CEE232E "地毯式搜索也没有找到。\n"
     show rs_image_351932D89641414887A798BAE92493AB as tag_E99970E1386B453DAF81C3AE2C72BE8E zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -4334,7 +4334,7 @@ label block_00003C18:
     show rs_image_514BF37F25964D04836F39E1B71FFD28 as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "那个是、这个……没想到真的被借出去了什么的……{w}\n{nw}"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "那个是、这个……没想到真的被借出去了什么的……\n"
     if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
@@ -4367,7 +4367,7 @@ label block_00003C18:
     show rs_image_CF5AA529110045B9AA052BA9023E6FA3 as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "嗯…………{size=12}我下次借借试试……{/size}{w}\n{nw}"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "嗯…………{size=12}我下次借借试试……{/size}\n"
     show rs_image_A20D31D533CF44CDA4A7F67CEC353CDE as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -4468,7 +4468,7 @@ label block_00003C18:
     show rs_image_9D0666C01E89408289145D59F704EFAB as tag_C389451CCE5A4CEAB24DEF9A7C02635D at center_top zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "诶？嗯、嗯。{w}\n{nw}"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "诶？嗯、嗯。\n"
     show rs_image_275B22DDBE294B889403F68883C99EC9 as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
@@ -4671,7 +4671,7 @@ label block_00003C18:
     show rs_image_0B30A99001644A018C47ABCD41C30F9A as tag_F533D76D6EDF4AB39ECAAB90D8F4723D at right_top zorder zorder_tag_F533D76D6EDF4AB39ECAAB90D8F4723D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "那么，我们四个去搜索。{w}\n{nw}"
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "那么，我们四个去搜索。\n"
     if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"
@@ -4984,7 +4984,7 @@ label block_00003C18:
 
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "那个喷嚏难道就有什么用？"
 
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "这不是特技！真是的～扫都没扫干净～{w}\n{nw}"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "这不是特技！真是的～扫都没扫干净～\n"
     if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Strike 1.ogg"
@@ -6036,7 +6036,7 @@ label block_00003C22:
 
     rs_character_3AD49134E90444729FD2EFC8D1296F7D "……"
 
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "想活命就趁现在了。{w}\n{nw}"
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "想活命就趁现在了。\n"
     if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
@@ -6202,7 +6202,7 @@ label block_00003C22:
     show rs_image_07F2639BB0524AEBB4F93F1989365243 as tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD at center_top zorder zorder_tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD onlayer master
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
-    rs_character_EFC67D522B5F4615BFAE716D87F58204 "这样……{w}\n{nw}"
+    rs_character_EFC67D522B5F4615BFAE716D87F58204 "这样……\n"
     if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"
@@ -6527,7 +6527,7 @@ label block_00003C23:
     show rs_image_862E41C0B01E451EB9C2E88AECBFEDBB as tag_F533D76D6EDF4AB39ECAAB90D8F4723D at center_top zorder zorder_tag_F533D76D6EDF4AB39ECAAB90D8F4723D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "不过，那家伙很明确地说了，{w}\n{nw}"
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "不过，那家伙很明确地说了，\n"
     if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
@@ -6581,7 +6581,7 @@ label block_00003C23:
 
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "我、我不是！！对，对了，我有不在场证明！！\n晚饭后一直在和穗海聊天，然后又和奥村……"
 
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "我、我也不是！可以对绳子做指纹检查的！{w}\n{nw}"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "我、我也不是！可以对绳子做指纹检查的！\n"
     if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Strike 1.ogg"
@@ -6803,7 +6803,7 @@ label block_00003C23:
     show rs_image_514BF37F25964D04836F39E1B71FFD28 as tag_C389451CCE5A4CEAB24DEF9A7C02635D at center_top zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "我、我该怎么办……{w}\n{nw}"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "我、我该怎么办……\n"
     show rs_image_328406EB66B449C99EAA3BC3E5C0EE95 as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
@@ -7982,7 +7982,7 @@ label block_00003BBB:
     show rs_image_3149C4BF55744A498D9A6BE1CAAF3483 as tag_E99970E1386B453DAF81C3AE2C72BE8E zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_62324AD297554FE987C680452CEE232E "我对这个并不关心。{w}\n{nw}"
+    rs_character_62324AD297554FE987C680452CEE232E "我对这个并不关心。\n"
     show rs_image_D41773CA35204737A4DF7ACE459D6756 as tag_E99970E1386B453DAF81C3AE2C72BE8E zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
@@ -8118,7 +8118,7 @@ label block_00003BBB:
     show rs_image_2F430E02CF774048BDB58B5FE52C418B as tag_A45595F91B474CC9A0810932B96DD8EC zorder zorder_tag_A45595F91B474CC9A0810932B96DD8EC onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_EE1903694D624E399209772C95A20AAA "还是那么不坦率呐。{w}\n{nw}"
+    rs_character_EE1903694D624E399209772C95A20AAA "还是那么不坦率呐。\n"
     if sys_effect2_current_file != "sound/Effect Sound/Wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Wind 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Wind 1.ogg"
@@ -8519,7 +8519,7 @@ label block_00003C27:
 
     window show
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "我们之中才不会有叛徒！{w}\n{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "我们之中才不会有叛徒！\n"
     show rs_image_8DC6F44BF4644738BCD14828D87C2679 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 

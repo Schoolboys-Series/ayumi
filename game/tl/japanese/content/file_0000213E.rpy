@@ -37,4 +37,3 @@ translate japanese strings:
     # content\file_0000213E.rpy:340
     old "播放"
     new ""
-

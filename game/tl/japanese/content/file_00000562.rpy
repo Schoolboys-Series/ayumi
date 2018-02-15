@@ -161,4 +161,3 @@ translate japanese strings:
     # content\file_00000562.rpy:273
     old "男低音"
     new ""
-

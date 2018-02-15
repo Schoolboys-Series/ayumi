@@ -7,9 +7,9 @@ translate japanese block_00000FE0_d97a1000:
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00000FD4.rpy:305
-translate japanese block_00001009_a939700e:
+translate japanese block_00001009_a3dc2aad:
 
-    # rs_character_C223850065F6443080205D1F61C04C98 "抱歉，我离不开这里……{w}\n{nw}"
+    # rs_character_C223850065F6443080205D1F61C04C98 "抱歉，我离不开这里……\n"
     rs_character_C223850065F6443080205D1F61C04C98 ""
 
 # game/content/file_00000FD4.rpy:309
@@ -71,4 +71,3 @@ translate japanese block_00001020_4dda4c65:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『赶快找到能救小翼的人。』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
-

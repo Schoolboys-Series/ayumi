@@ -157,4 +157,3 @@ translate japanese strings:
     # content\file_00000332.rpy:660
     old "胜利"
     new ""
-

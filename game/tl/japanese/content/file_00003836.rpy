@@ -761,4 +761,3 @@ translate japanese strings:
     # content\file_00003836.rpy:246
     old "难易度：困难"
     new ""
-

@@ -355,9 +355,9 @@ translate japanese block_00001F22_e11e9bdf:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00000128.rpy:1246
-translate japanese block_000023A2_04060ab9:
+translate japanese block_000023A2_891de75e:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "说起来{w}\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "说起来\n"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00000128.rpy:1251
@@ -469,7 +469,7 @@ translate japanese block_000007A5_853a47d7:
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00000128.rpy:1587
-translate japanese block_0000079C_c4a6117c:
+translate japanese block_0000079C_15a13b77:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "新学期刚一开始就制造笑料了呐，友同学。{w}\n作为横扫无聊假期的新的开始再好不过了。"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
@@ -679,9 +679,9 @@ translate japanese block_00000797_16b50417:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00000128.rpy:2234
-translate japanese block_00000797_c18ec84f:
+translate japanese block_00000797_6d904dd3:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "欸、欸！是、是这样吗？{w}\n{nw}"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "欸、欸！是、是这样吗？\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00000128.rpy:2238
@@ -727,9 +727,9 @@ translate japanese block_00000798_d008308e:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00000128.rpy:2333
-translate japanese block_00000798_c8c40f96:
+translate japanese block_00000798_b5d55205:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "都怪睡觉的那位不好。{w}\n{nw}"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "都怪睡觉的那位不好。\n"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00000128.rpy:2341
@@ -869,12 +869,3 @@ translate japanese strings:
     # content\file_00000128.rpy:2162
     old "校门"
     new ""
-
-# TODO: Translation updated at 2018-01-28 10:11
-
-# game/content/file_00000128.rpy:1587
-translate japanese block_0000079C_15a13b77:
-
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "新学期刚一开始就制造笑料了呐，友同学。{w}\n作为横扫无聊假期的新的开始再好不过了。"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
-
