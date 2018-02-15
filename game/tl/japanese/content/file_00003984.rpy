@@ -456,8 +456,8 @@ translate japanese block_0000398D_d35afaa6:
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "听到了没？真是的。"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
-# game/content/file_00003984.rpy:848
-translate japanese block_0000398D_2ff47e12:
+# game/content/file_00003984.rpy:986
+translate japanese block_0000398D_2ff47e12_1:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯～\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
@@ -582,3 +582,11 @@ translate japanese block_0000398D_07b98885:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#000000}请保存至今为止的进度。{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+# TODO: Translation updated at 2018-02-15 16:31
+
+# game/content/file_00003984.rpy:848
+translate japanese block_0000398D_2ff47e12:
+
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯～\n"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+

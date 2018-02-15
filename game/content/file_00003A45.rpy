@@ -451,7 +451,7 @@ label block_00003A4B:
     show rs_image_7B5C5A077F444A129B34E79C86B664D1 as tag_724406A84D7141298EFF0D864FAE1534 zorder zorder_tag_724406A84D7141298EFF0D864FAE1534 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "笨——蛋，肯定不行。\n抽起来根本没地方藏，就这个还是我从大哥那里拿来的。"
+    rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "笨——蛋，肯定不行。\n抽起来根本没地方藏，再说了是我家大哥的。。"
 
     show rs_image_DC032925F8E44CCD8BEB9B1A25FD6E70 as tag_F533D76D6EDF4AB39ECAAB90D8F4723D zorder zorder_tag_F533D76D6EDF4AB39ECAAB90D8F4723D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -633,7 +633,7 @@ label block_00003A4B:
     show rs_image_DDA00DBFDDC245EC9D675EA5711B37C9 as tag_F533D76D6EDF4AB39ECAAB90D8F4723D zorder zorder_tag_F533D76D6EDF4AB39ECAAB90D8F4723D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "哈？你突然冒出来算什么东西？{w}那东西谁也没说不让。"
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "哈？你算老几啊？{w}那东西谁也没说不让。"
 
     if sys_effect_current_file != "sound/Effect Sound/Cute 3.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 3.ogg" noloop
@@ -2835,6 +2835,11 @@ label block_00003B2A:
 
     pause 1.5
 
+    show center_title (_("其实想来，空总是善于会友")) as center_title zorder 1000
+    with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
+
+    pause 4
+
     show center_title (_("面对不擅长这个的我\n空的朋友们与我慢慢熟识\n让我不至于孤独一人")) as center_title zorder 1000
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
@@ -4286,7 +4291,7 @@ label block_00003B2D:
     show rs_image_40F4B3A56AFE46FCB14F4500CD625791 as tag_A77E36FB70FF4F60B12060B2747E46D1 zorder zorder_tag_A77E36FB70FF4F60B12060B2747E46D1 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不时常保持新鲜刺激的话，对方可是会不满足的哦～\n"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不时常保持新鲜刺激的话，对方可是会出轨的哦～\n"
     if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"
@@ -4463,12 +4468,12 @@ label block_00003B2D:
     hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    extend "\n{nw}"
+    extend ""
 
     show rs_image_32D03B1B0EA34051AEC7EDA0B618F93C as tag_81DF0CF91B224EAAA16B0366711BA01F zorder zorder_tag_81DF0CF91B224EAAA16B0366711BA01F onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    extend "味道很不错，买点去。"
+    extend "\n味道很不错，买点去。"
 
     show rs_image_E683F1ECE3314055A6535AFF3A0F039A as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -4594,7 +4599,7 @@ label block_00003B2D:
     show rs_image_9A51889A5B884F76838CF8C5D3725812 as tag_073D4E2B5E224963B025F95C92ED797A zorder zorder_tag_073D4E2B5E224963B025F95C92ED797A onlayer master
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
-    extend "……啊。\n{nw}"
+    extend "……啊。"
     if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"

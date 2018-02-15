@@ -279,7 +279,7 @@ translate english block_00003A4B_f3b5e74b:
 # game/content/file_00003A45.rpy:454
 translate english block_00003A4B_71575a67:
 
-    # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "笨——蛋，肯定不行。\n抽起来根本没地方藏，就这个还是我从大哥那里拿来的。"
+    # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "笨——蛋，肯定不行。\n抽起来根本没地方藏，再说了是我家大哥的。。"
     rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 ""
 
 # game/content/file_00003A45.rpy:459
@@ -375,7 +375,7 @@ translate english block_00003A4B_b60bf9de:
 # game/content/file_00003A45.rpy:636
 translate english block_00003A4B_ccb20c25:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "哈？你突然冒出来算什么东西？{w}那东西谁也没说不让。"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "哈？你算老几啊？{w}那东西谁也没说不让。"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00003A45.rpy:645
@@ -2601,7 +2601,7 @@ translate english block_00003B2D_5ff00709:
 # game/content/file_00003A45.rpy:4289
 translate english block_00003B2D_c9ea245e:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不时常保持新鲜刺激的话，对方可是会不满足的哦～\n"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不时常保持新鲜刺激的话，对方可是会出轨的哦～\n"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
 
 # game/content/file_00003A45.rpy:4297
@@ -2733,7 +2733,7 @@ translate english block_00003B2D_42320828:
 # game/content/file_00003A45.rpy:4466
 translate english block_00003B2D_93f92546:
 
-    # extend "\n{nw}"
+    # extend ""
     extend ""
 
 # game/content/file_00003A45.rpy:4471
@@ -2841,7 +2841,7 @@ translate english block_00003B2D_8f0ae62c:
 # game/content/file_00003A45.rpy:4597
 translate english block_00003B2D_ff6a41bc:
 
-    # extend "……啊。\n{nw}"
+    # extend "……啊。"
     extend ""
 
 # game/content/file_00003A45.rpy:4606
