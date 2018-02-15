@@ -237,7 +237,7 @@ translate english block_00000A89_c2a6ff3f:
 # game/content/file_00000A74.rpy:979
 translate english block_00000A89_ab1e73e2:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "啊，{color=#00FFFF}这个地方{/color}是！"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "啊，{color=#00FFFF}这棵树{/color}是！"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_00000A74.rpy:1000
@@ -550,7 +550,7 @@ translate english block_00000ABF_97f125f0:
 translate english block_00000A76_cc97427d:
 
     # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "今天也要好好散步\n把该处理的都处理了呐♪"
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "今日も元気よく散歩して、\nウンチとチッチを出そうな♪"
 
 # game/content/file_00000A74.rpy:1799
 translate english block_00000A77_eef59b90:

@@ -976,7 +976,7 @@ label block_00000A89:
     show rs_image_9A3415044879409B866CD2472C9CB897 as tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 at Transform(xpos=430, yalign=0.0) zorder zorder_tag_8E7A1CAFAF9A498EA9AED7966C7C96F6 onlayer master
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "啊，{color=#00FFFF}这个地方{/color}是！"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "啊，{color=#00FFFF}这棵树{/color}是！"
 
     window hide
 
@@ -1093,7 +1093,7 @@ label block_00000A89:
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "四朗！你在干什么！下来！！"
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "四朗！你在干什么！下来！！" # 四朗！危ないから降りろ！コラ！！ 按中文习惯“你在干什么”会更贴切一些
 
     pause 0.3
 

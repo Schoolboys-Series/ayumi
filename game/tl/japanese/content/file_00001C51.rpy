@@ -694,13 +694,13 @@ translate japanese block_00001C8F_53a5885a:
 translate japanese block_00001C69_110ad9eb:
 
     # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "STAY，小翼。{w}\n前面人太多，太危险了。"
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "ＳＴＡＹ、ツバサ。\n{w}ここは人通りが多いから、危ないんだ。"
 
 # game/content/file_00001C51.rpy:1744
 translate japanese block_00001C69_354c925e:
 
     # rs_character_87ED686ED78C4AB6909895FBBBE8A60B "汪……"
-    rs_character_87ED686ED78C4AB6909895FBBBE8A60B ""
+    rs_character_87ED686ED78C4AB6909895FBBBE8A60B "クゥーン……。"
 
 # game/content/file_00001C51.rpy:1856
 translate japanese block_0000278F_b134d168:
@@ -724,37 +724,37 @@ translate japanese block_0000278F_dd44d732:
 translate japanese block_00002794_7091d7b0:
 
     # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "STAY，小翼。{w}\n狗不能进入车站，前面不能走了。"
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "ＳＴＡＹ,ツバサ。これ以上進んじゃダメだぞ。{w}\n駅の中へはワンちゃんは入れないんだ。"
 
 # game/content/file_00001C51.rpy:2097
 translate japanese block_00002794_a6958640:
 
     # rs_character_87ED686ED78C4AB6909895FBBBE8A60B "汪？"
-    rs_character_87ED686ED78C4AB6909895FBBBE8A60B ""
+    rs_character_87ED686ED78C4AB6909895FBBBE8A60B "ワン？"
 
 # game/content/file_00001C51.rpy:2102
 translate japanese block_00002794_509510ac:
 
     # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "不过，像是导盲犬那种\n受过训练的可以进去的样子。"
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "でもな、盲導犬といった\n特別な訓練を受けたワンちゃんは入れるんだ。"
 
 # game/content/file_00001C51.rpy:2104
 translate japanese block_00002794_d6c299e1:
 
     # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "小翼也想去考一个试试？"
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "ツバサも資格を取ってみたいか？"
 
 # game/content/file_00001C51.rpy:2114
 translate japanese block_00002794_1ae0872c:
 
     # rs_character_87ED686ED78C4AB6909895FBBBE8A60B "汪！"
-    rs_character_87ED686ED78C4AB6909895FBBBE8A60B ""
+    rs_character_87ED686ED78C4AB6909895FBBBE8A60B "ワン！"
 
 # game/content/file_00001C51.rpy:2119
 translate japanese block_00002794_97f125f0:
 
     # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "嗯嗯，不错的回答呐。\n小翼这么聪明，说不定能考上呢♪"
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "ふふ、良い返事だ。{w}\nツバサの賢さなら、本当になれちゃうかもな♪"
 
 # game/content/file_00001C51.rpy:2177
 translate japanese block_00001C53_377af4bd:
@@ -766,7 +766,7 @@ translate japanese block_00001C53_377af4bd:
 translate japanese block_00001C54_eef59b90:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『带小翼在学校周围散步。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ツバサと一緒に、\n学園の周りを散歩しましょう。』{/color}"
 
 # TODO: Translation updated at 2018-01-28 10:11
 

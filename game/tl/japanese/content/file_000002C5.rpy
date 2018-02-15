@@ -154,49 +154,49 @@ translate japanese block_0000080D_5df12ff7:
 translate japanese block_000008B1_7091d7b0:
 
     # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "STAY，小翼。{w}\n狗不能进入车站，前面不能走了。"
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "ＳＴＡＹ,ツバサ。これ以上進んじゃダメだぞ。{w}\n駅の中へはワンちゃんは入れないんだ。"
 
 # game/content/file_000002C5.rpy:746
 translate japanese block_000008B1_a6958640:
 
     # rs_character_87ED686ED78C4AB6909895FBBBE8A60B "汪？"
-    rs_character_87ED686ED78C4AB6909895FBBBE8A60B ""
+    rs_character_87ED686ED78C4AB6909895FBBBE8A60B "ワン？"
 
 # game/content/file_000002C5.rpy:751
 translate japanese block_000008B1_eebdad52:
 
     # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "不过，\n像是导盲犬那种受过训练的可以进去的样子。"
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "でもな、盲導犬といった\n特別な訓練を受けたワンちゃんは入れるんだ。"
 
 # game/content/file_000002C5.rpy:753
 translate japanese block_000008B1_d6c299e1:
 
     # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "小翼也想去考一个试试？"
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "ツバサも資格を取ってみたいか？"
 
 # game/content/file_000002C5.rpy:763
 translate japanese block_000008B1_1ae0872c:
 
     # rs_character_87ED686ED78C4AB6909895FBBBE8A60B "汪！"
-    rs_character_87ED686ED78C4AB6909895FBBBE8A60B ""
+    rs_character_87ED686ED78C4AB6909895FBBBE8A60B "ワン！"
 
 # game/content/file_000002C5.rpy:768
 translate japanese block_000008B1_97f125f0:
 
     # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "嗯嗯，不错的回答呐。\n小翼这么聪明，说不定能考上呢♪"
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "ふふ、良い返事だ。{w}\nツバサの賢さなら、本当になれちゃうかもな♪"
 
 # game/content/file_000002C5.rpy:861
 translate japanese block_00000818_110ad9eb:
 
     # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "STAY，小翼。{w}\n前面人太多，太危险了。"
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "ＳＴＡＹ、ツバサ。\n{w}ここは人通りが多いから、危ないんだ。"
 
 # game/content/file_000002C5.rpy:868
 translate japanese block_00000818_354c925e:
 
     # rs_character_87ED686ED78C4AB6909895FBBBE8A60B "汪……"
-    rs_character_87ED686ED78C4AB6909895FBBBE8A60B ""
+    rs_character_87ED686ED78C4AB6909895FBBBE8A60B "クゥーン……。"
 
 # game/content/file_000002C5.rpy:982
 translate japanese block_00000800_403bc37c:
@@ -298,7 +298,7 @@ translate japanese block_00000800_3673064a:
 translate japanese block_000007EE_cc97427d:
 
     # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "今天也要好好散步\n把该处理的都处理了呐♪"
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "今日も元気よく散歩して、\nウンチとチッチを出そうな♪"
 
 # game/content/file_000002C5.rpy:1236
 translate japanese block_000007EF_1b9fcea3:

@@ -766,7 +766,7 @@ translate english block_00001C53_377af4bd:
 translate english block_00001C54_eef59b90:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『带小翼在学校周围散步。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ツバサと一緒に、\n学園の周りを散歩しましょう。』{/color}"
 
 # TODO: Translation updated at 2018-01-28 10:10
 
