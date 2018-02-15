@@ -4,115 +4,115 @@
 translate japanese block_00002FE7_f12a8cf1:
 
     # rs_character_9A978AAD07624C598B6179F23F51FB2D "你好——友哥。放学回家吗？\n中学生这么晚还在上学呐。"
-    rs_character_9A978AAD07624C598B6179F23F51FB2D ""
+    rs_character_9A978AAD07624C598B6179F23F51FB2D "やっほー友兄ぃ。\n今学校終わったところなの？\n中学生ってこんな遅くまで授業があるんだね。"
 
 # game/content/file_00001A69.rpy:202
 translate japanese block_00002FE4_63109e34:
 
     # rs_character_EA79386263E543A88D4DC03B8BD44485 "要一起来玩歌牌吗？"
-    rs_character_EA79386263E543A88D4DC03B8BD44485 ""
+    rs_character_EA79386263E543A88D4DC03B8BD44485 "カルタゲーム、一緒にやる？"
 
 # game/content/file_00001A69.rpy:270
 translate japanese block_00002FE8_de739dec:
 
     # rs_character_EA79386263E543A88D4DC03B8BD44485 "啊——好好玩♪\n下次也要一起哦，友哥！"
-    rs_character_EA79386263E543A88D4DC03B8BD44485 ""
+    rs_character_EA79386263E543A88D4DC03B8BD44485 "あー楽しかった♪またやろうな、友兄ぃ！"
 
 # game/content/file_00001A69.rpy:279
 translate japanese block_00002FE8_d16fa1c9:
 
     # rs_character_9A978AAD07624C598B6179F23F51FB2D "不过，每次都是一样的牌就太没意思了。"
-    rs_character_9A978AAD07624C598B6179F23F51FB2D ""
+    rs_character_9A978AAD07624C598B6179F23F51FB2D "でも、また同じ札じゃつまらないよね。"
 
 # game/content/file_00001A69.rpy:284
 translate japanese block_00002FE8_35f181e2:
 
     # rs_character_9A978AAD07624C598B6179F23F51FB2D "虽然不知道是什么时候，\n但下次遇到爷爷时我们会\n多要一些牌的。"
-    rs_character_9A978AAD07624C598B6179F23F51FB2D ""
+    rs_character_9A978AAD07624C598B6179F23F51FB2D "いつになるかわからないけど、\nおじさんに会ったときに、\n違う札が欲しいって言っておくね。"
 
 # game/content/file_00001A69.rpy:308
 translate japanese block_00003DB3_5f7b095c:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『委托成功结束』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『クエストを達成しました。』{/color}"
 
 # game/content/file_00001A69.rpy:358
 translate japanese block_00002FE0_0c323824:
 
     # rs_character_9A978AAD07624C598B6179F23F51FB2D "要看友哥所有拿到的牌吗？"
-    rs_character_9A978AAD07624C598B6179F23F51FB2D ""
+    rs_character_9A978AAD07624C598B6179F23F51FB2D "今まで友兄ぃがゲットできたカルタの札、\n見ていくー？"
 
 # game/content/file_00001A69.rpy:409
 translate japanese block_00002FDF_92603f1b:
 
     # rs_character_EA79386263E543A88D4DC03B8BD44485 "啊！是友哥！\n呐——呐——！和我们玩！和我们玩！"
-    rs_character_EA79386263E543A88D4DC03B8BD44485 ""
+    rs_character_EA79386263E543A88D4DC03B8BD44485 "あ！友兄ぃだ！\nなーなー！遊ぼ！遊ぼーぜ！"
 
 # game/content/file_00001A69.rpy:414
 translate japanese block_00002FDF_11635c4e:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "抱歉，现在友哥很忙，\n所以下次再说好吗。"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "ごめんよ。今、友お兄ちゃんは\nお取り込み中なんだ。\nだから、また今度ね。"
 
 # game/content/file_00001A69.rpy:420
 translate japanese block_00002FDF_09eb0249:
 
     # rs_character_EA79386263E543A88D4DC03B8BD44485 "欸——好的——下次见——"
-    rs_character_EA79386263E543A88D4DC03B8BD44485 ""
+    rs_character_EA79386263E543A88D4DC03B8BD44485 "えー。わかったー。じゃあ、またねー。"
 
 # game/content/file_00001A69.rpy:485
 translate japanese block_0000425C_92603f1b:
 
     # rs_character_EA79386263E543A88D4DC03B8BD44485 "啊！是友哥！\n呐——呐——！和我们玩！和我们玩！"
-    rs_character_EA79386263E543A88D4DC03B8BD44485 ""
+    rs_character_EA79386263E543A88D4DC03B8BD44485 "あ！友兄ぃだ！\nなーなー！遊ぼ！遊ぼーぜ！"
 
 # game/content/file_00001A69.rpy:490
 translate japanese block_0000425C_fa0a44a4:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "可以哦。年轻人就是好，\n我在学校都快用光HP了。"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "いいともよ。それにしても、若い衆は\nホント元気いっぱいだねぇ。オレはもう\n学校でHPのほとんどを使い果たしちゃったや。"
 
 # game/content/file_00001A69.rpy:496
 translate japanese block_0000425C_ac4349e4:
 
     # rs_character_EA79386263E543A88D4DC03B8BD44485 "什么嘛，一股老人气——？{w}\n{nw}"
-    rs_character_EA79386263E543A88D4DC03B8BD44485 ""
+    rs_character_EA79386263E543A88D4DC03B8BD44485 "なんだそれ、もうオジサンってことー？{w}\n{nw}"
 
 # game/content/file_00001A69.rpy:504
 translate japanese block_0000425C_b468d16d:
 
     # extend "那下次就不叫“友哥”改叫“友叔”好了。"
-    extend ""
+    extend "じゃあこれからは、\n“友兄ぃ”じゃなくて“友じぃ”だな。"
 
 # game/content/file_00001A69.rpy:509
 translate japanese block_0000425C_6243dd5b:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔，年轻人就是不知轻重！\n我还宝刀未……"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "むむ、失礼な若者じゃな！\nまだまだ夜の方は元気で……{w}\n{nw}"
 
 # game/content/file_00001A69.rpy:514
 translate japanese block_0000425C_8d7622dc:
 
     # extend "不不不，\n这个梗对你们还太早了。"
-    extend ""
+    extend "おっとっと、このネタはまだ二人には早かったね。"
 
 # game/content/file_00001A69.rpy:516
 translate japanese block_0000425C_6496cc2d:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "说起来，今天想玩什么？"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "ところで、今日は何して遊ぶの？"
 
 # game/content/file_00001A69.rpy:526
 translate japanese block_0000425C_553d8faa:
 
     # rs_character_EA79386263E543A88D4DC03B8BD44485 "是会让友叔大吃一惊的游戏哦！"
-    rs_character_EA79386263E543A88D4DC03B8BD44485 ""
+    rs_character_EA79386263E543A88D4DC03B8BD44485 "ちょうど、友じぃに\nピッタリなゲームがあるんだ！"
 
 # game/content/file_00001A69.rpy:539
 translate japanese block_0000425C_2a2dd7e5:
 
     # rs_character_9A978AAD07624C598B6179F23F51FB2D "不久前从认识爷爷那里得到的！\n最近我们一直在玩，大家一起来♪"
-    rs_character_9A978AAD07624C598B6179F23F51FB2D ""
+    rs_character_9A978AAD07624C598B6179F23F51FB2D "この前、知り合いのおじさんにもらったの！\n最近僕らもハマってるんだ。\nみんなでやろう♪"
 
 # game/content/file_00001A69.rpy:792
 translate japanese block_000027B7_4115b725:
@@ -1390,13 +1390,13 @@ translate japanese block_000027C2_b2135ef1:
 translate japanese block_00001A6B_bb5ea1d8:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "今天一天也辛苦了呐！\n{w}祝贺我自己♪"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "今日も一日、\nお勤めご苦労様でしたー！{w}オレ♪"
 
 # game/content/file_00001A69.rpy:5003
 translate japanese block_00001A6C_5dd031d1:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『放学后自由放松就好。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『放課後を自由に満喫しましょう。』{/color}"
 
 translate japanese strings:
 

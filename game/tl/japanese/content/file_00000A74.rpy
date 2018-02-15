@@ -562,5 +562,5 @@ translate japanese strings:
 
     # content\file_00000A74.rpy:1164
     old "{size=29}谢谢！最——喜欢四朗了！{/size}"
-    new ""
+    new "{size=29}ありがとう！四朗だーいすき！{/size}"
 

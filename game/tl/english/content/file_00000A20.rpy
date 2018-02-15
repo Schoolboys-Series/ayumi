@@ -1383,7 +1383,7 @@ translate english block_00002579_360b2bd9:
 # game/content/file_00000A20.rpy:4978
 translate english block_00002579_b7783dbe:
 
-    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "因为有个节目“好孩子——！”一直在这附近取景。"
+    # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "因为有个节目“Yo~i Go!”一直在这附近取景。"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 ""
 
 # game/content/file_00000A20.rpy:4983

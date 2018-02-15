@@ -4,43 +4,43 @@
 translate japanese block_00003E2D_f12a8cf1:
 
     # rs_character_9A978AAD07624C598B6179F23F51FB2D "你好——友哥。放学回家吗？\n中学生这么晚还在上学呐。"
-    rs_character_9A978AAD07624C598B6179F23F51FB2D ""
+    rs_character_9A978AAD07624C598B6179F23F51FB2D "やっほー友兄ぃ。\n今学校終わったところなの？\n中学生ってこんな遅くまで授業があるんだね。"
 
 # game/content/file_00003CE2.rpy:206
 translate japanese block_00003E2B_63109e34:
 
     # rs_character_EA79386263E543A88D4DC03B8BD44485 "要一起来玩歌牌吗？"
-    rs_character_EA79386263E543A88D4DC03B8BD44485 ""
+    rs_character_EA79386263E543A88D4DC03B8BD44485 "カルタゲーム、一緒にやる？"
 
 # game/content/file_00003CE2.rpy:274
 translate japanese block_00003E2E_de739dec:
 
     # rs_character_EA79386263E543A88D4DC03B8BD44485 "啊——好好玩♪\n下次也要一起哦，友哥！"
-    rs_character_EA79386263E543A88D4DC03B8BD44485 ""
+    rs_character_EA79386263E543A88D4DC03B8BD44485 "あー楽しかった♪またやろうな、友兄ぃ！"
 
 # game/content/file_00003CE2.rpy:283
 translate japanese block_00003E2E_d16fa1c9:
 
     # rs_character_9A978AAD07624C598B6179F23F51FB2D "不过，每次都是一样的牌就太没意思了。"
-    rs_character_9A978AAD07624C598B6179F23F51FB2D ""
+    rs_character_9A978AAD07624C598B6179F23F51FB2D "でも、また同じ札じゃつまらないよね。"
 
 # game/content/file_00003CE2.rpy:288
 translate japanese block_00003E2E_35f181e2:
 
     # rs_character_9A978AAD07624C598B6179F23F51FB2D "虽然不知道是什么时候，\n但下次遇到爷爷时我们会\n多要一些牌的。"
-    rs_character_9A978AAD07624C598B6179F23F51FB2D ""
+    rs_character_9A978AAD07624C598B6179F23F51FB2D "いつになるかわからないけど、\nおじさんに会ったときに、\n違う札が欲しいって言っておくね。"
 
 # game/content/file_00003CE2.rpy:312
 translate japanese block_00003E51_5f7b095c:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『委托成功结束』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『クエストを達成しました。』{/color}"
 
 # game/content/file_00003CE2.rpy:362
 translate japanese block_00003E29_0c323824:
 
     # rs_character_9A978AAD07624C598B6179F23F51FB2D "要看友哥所有拿到的牌吗？"
-    rs_character_9A978AAD07624C598B6179F23F51FB2D ""
+    rs_character_9A978AAD07624C598B6179F23F51FB2D "今まで友兄ぃがゲットできたカルタの札、\n見ていくー？"
 
 # game/content/file_00003CE2.rpy:612
 translate japanese block_00003E16_4115b725:
@@ -808,13 +808,13 @@ translate japanese block_00003E8B_d83bda6d:
 translate japanese block_00003DD9_bb5ea1d8:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "今天一天也辛苦了呐！\n{w}祝贺我自己♪"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "今日も一日、\nお勤めご苦労様でしたー！{w}オレ♪"
 
 # game/content/file_00003CE2.rpy:3424
 translate japanese block_00003DDA_5dd031d1:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『放学后自由放松就好。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『放課後を自由に満喫しましょう。』{/color}"
 
 # game/content/file_00003CE2.rpy:3490
 translate japanese block_00003E82_93dbd39f:
