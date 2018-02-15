@@ -247,7 +247,7 @@ translate japanese block_00000F89_1c561cac:
     rs_character_87ED686ED78C4AB6909895FBBBE8A60B ""
 
 # game/content/file_00000F71.rpy:1286
-translate japanese block_00000F89_9416c5bd:
+translate japanese block_00000F89_3416e06c:
 
     # rs_character_7C178421D3DA4E2CB70D4336919888FB "好的，今天的“Yo~i Go!”也要开始了！{w}\n主持是我，杉本！以及……"
     rs_character_7C178421D3DA4E2CB70D4336919888FB ""

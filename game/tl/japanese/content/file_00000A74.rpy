@@ -235,7 +235,7 @@ translate japanese block_00000A89_c2a6ff3f:
     rs_character_87ED686ED78C4AB6909895FBBBE8A60B "ガシガシ……。ワンワン！"
 
 # game/content/file_00000A74.rpy:979
-translate japanese block_00000A89_ab1e73e2:
+translate japanese block_00000A89_3ac142ac:
 
     # rs_character_3B4C660F421B4BE392BB540B580F0339 "啊，{color=#00FFFF}这棵树{/color}是！"
     rs_character_3B4C660F421B4BE392BB540B580F0339 "ああ、{color=#00FFFF}この木！{/color}"

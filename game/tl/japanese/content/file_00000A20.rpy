@@ -121,7 +121,7 @@ translate japanese block_00000A73_f1c21d2d:
     rs_character_C223850065F6443080205D1F61C04C98 "でも、邪な気配は感じなかったな。{w}\n{nw}"
 
 # game/content/file_00000A20.rpy:470
-translate japanese block_00000A73_877f4235:
+translate japanese block_00000A73_d85e7387:
 
     # extend "总觉得有种非常不祥的预感。\n……错觉？"
     extend "非常に恐ろしいモノだと聞いていたのに。\n……気のせいかな？"
@@ -169,7 +169,7 @@ translate japanese block_000025D2_87b19615:
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "あ、えっと……御咲学園には、\n部活などで何度か来たことあるんで。"
 
 # game/content/file_00000A20.rpy:651
-translate japanese block_000025D2_2146c903:
+translate japanese block_000025D2_0ffc138b:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "什么嘛，这样啊。"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "なぁんだ。"
@@ -199,7 +199,7 @@ translate japanese block_000025BC_7def6f08:
     rs_character_53FF68C192E3494AB005C1909579AFFB "どうも、ご紹介に与りました、\n小島です。初めまして。"
 
 # game/content/file_00000A20.rpy:897
-translate japanese block_000025BC_6d4bc239:
+translate japanese block_000025BC_bea00dc8:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "再说一次，抱歉，请让我拍张照。{w}\n{nw}"
     rs_character_53FF68C192E3494AB005C1909579AFFB "重ねて申し上げますが、ぜひ写真を撮らせてください。{w}\n{nw}"
@@ -277,7 +277,7 @@ translate japanese block_000025BC_326622fa:
     extend "……ありがとうございました。では、失礼します。"
 
 # game/content/file_00000A20.rpy:1018
-translate japanese block_000025BC_ad228e7f:
+translate japanese block_000025BC_9356cb4a:
 
     # rs_character_EFC67D522B5F4615BFAE716D87F58204 "……不愧是御咲学园……和传闻一样全是超有个性的人……"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "……さすがは御咲学園……。\n噂どおり、キャククタの濃い人がいらっしゃいますねー。"
@@ -1381,7 +1381,7 @@ translate japanese block_00002579_360b2bd9:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "そういえば、二人はどうしてまだ\n御咲にいるんです？"
 
 # game/content/file_00000A20.rpy:4978
-translate japanese block_00002579_b7783dbe:
+translate japanese block_00002579_3ef7dfd9:
 
     # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "因为有个节目“Yo~i Go!”一直在这附近取景。"
     rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "レギュラーで出させてもらってる\n『よーいゴー！』の収録が\n連続してこの辺りであるんです。"

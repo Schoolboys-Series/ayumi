@@ -723,7 +723,7 @@ translate english block_00001F4B_0eb481a9:
 # game/content/file_00000C24.rpy:2435
 translate english block_00001F4B_8c92519a:
 
-    # extend "也只有在{color=#FF00FF}阿月想要一个人包揽全部{/color}\n的时候不是吗？"
+    # extend "也只有在{color=#FF00FF}阿月想要一个人“包揽”全部{/color}\n的时候不是吗？"
     extend ""
 
 # game/content/file_00000C24.rpy:2437

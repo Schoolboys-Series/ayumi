@@ -2432,7 +2432,7 @@ label block_00001F4B:
         play effect "sound/Effect Sound/As you wish 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/As you wish 1.ogg"
 
-    extend "也只有在{color=#FF00FF}阿月想要一个人包揽全部{/color}\n的时候不是吗？"
+    extend "也只有在{color=#FF00FF}阿月想要一个人“包揽”全部{/color}\n的时候不是吗？"
 
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "其他事一定会被接受的。"
 
