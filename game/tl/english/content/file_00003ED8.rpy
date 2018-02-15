@@ -226,7 +226,7 @@ translate english block_00003F17_1dee1942:
 translate english block_00003EDA_e5bbe010:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "已经这么晚，必须赶快回家了。"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "遅くなっちゃった。\nそろそろ家に帰ろっと。"
 
 # game/content/file_00003ED8.rpy:1431
 translate english block_00003EDB_60b0e0ae:

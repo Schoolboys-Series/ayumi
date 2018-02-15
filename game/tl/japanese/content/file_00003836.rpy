@@ -82,7 +82,7 @@ translate japanese block_00003F3C_86c01321:
 translate japanese block_000038AD_5f7b095c:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『委托成功结束』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『クエストを達成しました。』{/color}"
 
 # game/content/file_00003836.rpy:564
 translate japanese block_00003F3B_d515dbad:

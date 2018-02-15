@@ -244,7 +244,7 @@ translate japanese block_0000278E_f8f15c12:
 translate japanese block_0000278D_5f7b095c:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『委托成功结束』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『クエストを達成しました。』{/color}"
 
 # game/content/file_00001C51.rpy:744
 translate japanese block_00001C79_1ad3dd41:
@@ -592,7 +592,7 @@ translate japanese block_00002798_6997d612:
 translate japanese block_00002797_5f7b095c:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『委托成功结束』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『クエストを達成しました。』{/color}"
 
 # game/content/file_00001C51.rpy:1493
 translate japanese block_00001C5F_ab6211c5:

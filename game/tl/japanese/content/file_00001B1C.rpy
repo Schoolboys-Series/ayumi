@@ -256,7 +256,7 @@ translate japanese block_00001B3E_e2bee34a:
 translate japanese block_00002C1C_5f7b095c:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『委托成功结束』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『クエストを達成しました。』{/color}"
 
 # game/content/file_00001B1C.rpy:1361
 translate japanese block_00001B6C_83e13aa9:
@@ -442,37 +442,37 @@ translate japanese block_00002693_6a3d0338:
 translate japanese block_00001B1E_e5bbe010:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "已经这么晚，必须赶快回家了。"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "遅くなっちゃった。\nそろそろ家に帰ろっと。"
 
 # game/content/file_00001B1C.rpy:2022
 translate japanese block_00001B1F_60b0e0ae:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『尽快回家为好。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『夜道に気をつけて\nお家へ帰りましょう。』{/color}"
 
 # game/content/file_00001B1C.rpy:2139
 translate japanese block_000034BF_c1abb272:
 
     # rs_character_57471360F48A413AB843A4E46D8C5541 "哈……累死了。\n今天的任务也算结束了。"
-    rs_character_57471360F48A413AB843A4E46D8C5541 ""
+    rs_character_57471360F48A413AB843A4E46D8C5541 "はー疲れた。\n今日のミッション完了っと。"
 
 # game/content/file_00001B1C.rpy:2144
 translate japanese block_000034BF_5d30035e:
 
     # rs_character_57471360F48A413AB843A4E46D8C5541 "分时段交替巡逻是不错，\n但这样对方在夜班时会不会很辛苦呐。\n毕竟生活节奏每天都会变来变去。"
-    rs_character_57471360F48A413AB843A4E46D8C5541 ""
+    rs_character_57471360F48A413AB843A4E46D8C5541 "昼夜交代してパトロールをするのはいいけど、\n向こうは夜担当で大丈夫なのかな。\n生活リズムが乱れなければいいけど。"
 
 # game/content/file_00001B1C.rpy:2149
 translate japanese block_000034BF_2f12b9a7:
 
     # rs_character_57471360F48A413AB843A4E46D8C5541 "要是比现在出席率再降低就麻烦了。\n下次必须和他好好谈谈。"
-    rs_character_57471360F48A413AB843A4E46D8C5541 ""
+    rs_character_57471360F48A413AB843A4E46D8C5541 "今まで以上に、学校休んじゃうように\nなったら大変だから、\nそれを踏まえて相談し直さないとな。"
 
 # game/content/file_00001B1C.rpy:2155
 translate japanese block_000034BF_4d5a838c:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "（好长的独白——）"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "（大きい独り言だなー。）"
 
 # game/content/file_00001B1C.rpy:2181
 translate japanese block_00001B6D_3ce3b464:
