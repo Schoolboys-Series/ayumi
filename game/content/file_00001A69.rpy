@@ -4463,7 +4463,7 @@ label block_000027C4:
     show rs_image_107F1D49D8E64904B63165A87DBFC26D as tag_26CE4420E4BF43ADBA4E35F2A9784E98 at center_bottom zorder zorder_tag_26CE4420E4BF43ADBA4E35F2A9784E98 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "（哦？{color=#0080FF}杉本先生{/color}居然在那里。{w}\n还有一个大叔……）"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "（哦？{color=#0080FF}杉本君{/color}居然在那里。{w}\n还有一个大叔……）"
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "（……难道……{w}\n不不不，怎么可能。\n肯定是经理或者什么人。）"
 

@@ -156,7 +156,7 @@ translate japanese strings:
 
     # content\resources.rpy:267
     old "夕阳·世依木守"
-    new "ユウヒ·守"
+    new "ユウヒ·マモル"
 
     # content\resources.rpy:268
     old "夕阳·森海友"

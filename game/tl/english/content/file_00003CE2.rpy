@@ -243,7 +243,7 @@ translate english block_00003D76_c5fe5ba5:
 # game/content/file_00003CE2.rpy:2373
 translate english block_00003D76_c3f7a41e:
 
-    # rs_character_9EDF48057FB84D428D56198A69E2880E "……天……亮了？"
+    # rs_character_9EDF48057FB84D428D56198A69E2880E "……朝……阳？"
     rs_character_9EDF48057FB84D428D56198A69E2880E ""
 
 # game/content/file_00003CE2.rpy:2379

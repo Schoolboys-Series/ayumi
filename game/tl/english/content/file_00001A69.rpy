@@ -1257,7 +1257,7 @@ translate english block_000034BD_e5ce1941:
 # game/content/file_00001A69.rpy:4466
 translate english block_000027C4_9539e075:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "（哦？{color=#0080FF}杉本先生{/color}居然在那里。{w}\n还有一个大叔……）"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "（哦？{color=#0080FF}杉本君{/color}居然在那里。{w}\n还有一个大叔……）"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001A69.rpy:4468
@@ -1427,7 +1427,7 @@ translate english block_000027B8_c2850c20:
 # game/content/file_00001A69.rpy:4466
 translate english block_000027C4_a8f18db6:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "（哦？{color=#0080FF}杉本先生{/color}居然在那里。{w}\n还有一个大叔……）"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "（哦？{color=#0080FF}杉本君{/color}居然在那里。{w}\n还有一个大叔……）"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001A69.rpy:4655
