@@ -225,7 +225,7 @@ translate english block_000036FE_83e4cd91:
 # game/content/file_000036FA.rpy:327
 translate english block_000036FE_584819c2:
 
-    # extend "{color=#00FFFF}那个魔术师{/color}的话……\n就睁一只眼闭一只眼好了。"
+    # extend "{color=#00FFFF}那个魔法师{/color}的话……\n就睁一只眼闭一只眼好了。"
     extend ""
 
 # game/content/file_000036FA.rpy:353
@@ -861,7 +861,7 @@ translate english block_000036FE_bc7c5493:
 # game/content/file_000036FA.rpy:1208
 translate english block_000036FE_eb878ae6:
 
-    # rs_character_3B4C660F421B4BE392BB540B580F0339 "可做这种事我也很困扰的！"
+    # rs_character_3B4C660F421B4BE392BB540B580F0339 "我可是为这件事很烦恼的！"
     rs_character_3B4C660F421B4BE392BB540B580F0339 ""
 
 # game/content/file_000036FA.rpy:1213

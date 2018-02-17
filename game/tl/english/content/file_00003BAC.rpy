@@ -1713,7 +1713,7 @@ translate english block_00003C0E_9193ee05:
 # game/content/file_00003BAC.rpy:2935
 translate english block_00003C0E_553410bd:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "真是令人无语的魔术师。一般来说，目标身边的一切不是早就该调查到了吗。"
+    # rs_character_62324AD297554FE987C680452CEE232E "真是令人无语的魔法师。一般来说，目标身边的一切不是早就该调查到了吗。"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00003BAC.rpy:2940

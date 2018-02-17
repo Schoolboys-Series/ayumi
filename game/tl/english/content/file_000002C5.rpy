@@ -279,7 +279,7 @@ translate english block_00000800_6ae86752:
 # game/content/file_000002C5.rpy:1105
 translate english block_00000800_9a571538:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "不行就是不行！{w}{w}\n等会再见，你们先去玩好了。\n来小翼，说再见。"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "不行就是不行！{w}\n等会再见，你们先去玩好了。\n来小翼，说再见。"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_000002C5.rpy:1131

@@ -1711,9 +1711,9 @@ translate japanese block_00003C0E_9193ee05:
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00003BAC.rpy:2935
-translate japanese block_00003C0E_553410bd:
+translate japanese block_00003C0E_bac22b84:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "真是令人无语的魔术师。一般来说，目标身边的一切不是早就该调查到了吗。"
+    # rs_character_62324AD297554FE987C680452CEE232E "真是令人无语的魔法师。一般来说，目标身边的一切不是早就该调查到了吗。"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00003BAC.rpy:2940
@@ -4293,9 +4293,3 @@ translate japanese strings:
     # content\file_00003BAC.rpy:8357
     old "「欢迎来到食人狼之馆」"
     new ""
-
-# TODO: Translation updated at 2018-01-28 08:59
-
-
-
-

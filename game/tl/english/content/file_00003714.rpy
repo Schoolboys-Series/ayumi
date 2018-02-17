@@ -873,7 +873,7 @@ translate english block_00003720_f6034893:
 # game/content/file_00003714.rpy:1343
 translate english block_00003720_eb0d6505:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "……什么的！！\n有点像{color=#8080FF}某魔术师漫画里的大反派{/color}一样的台词呐！！"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "……什么的！！\n有点像{color=#8080FF}某魔法师漫画里的大反派{/color}一样的台词呐！！"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00003714.rpy:1345
@@ -1191,7 +1191,7 @@ translate english block_0000371F_541cdb00:
 # game/content/file_00003714.rpy:1773
 translate english block_0000371F_b2ffc458:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "……说起来，友君，{w}之前说过那是\n{color=#8080FF}某（魔术师）漫画中大反派{/color}的台词呐。"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "……说起来，友君，{w}之前说过那是\n{color=#8080FF}某（魔法师）漫画中大反派{/color}的台词呐。"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
 
 # game/content/file_00003714.rpy:1775

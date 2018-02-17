@@ -2883,7 +2883,7 @@ translate english block_000041C3_a86ee873:
 # game/content/file_0000400B.rpy:4923
 translate english block_000041C3_98761881:
 
-    # rs_character_57471360F48A413AB843A4E46D8C5541 "哈哈，加油，官能的魔术师君♪"
+    # rs_character_57471360F48A413AB843A4E46D8C5541 "哈哈，加油，官能的魔法师君♪"
     rs_character_57471360F48A413AB843A4E46D8C5541 ""
 
 # game/content/file_0000400B.rpy:4937

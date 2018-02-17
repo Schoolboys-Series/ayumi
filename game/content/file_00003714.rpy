@@ -1340,7 +1340,7 @@ label block_00003720:
     hide tag_3C0D2D9BB95B42AAA768FE8D105219CB
     with rs_effect_9B79BC7F460B4E06BA4FDB458B5423C1
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "……什么的！！\n有点像{color=#8080FF}某魔术师漫画里的大反派{/color}一样的台词呐！！"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "……什么的！！\n有点像{color=#8080FF}某魔法师漫画里的大反派{/color}一样的台词呐！！"
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "翼君，你很努力了！"
 
@@ -1770,7 +1770,7 @@ label block_0000371F:
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "好好，再加把劲，这次再怎么抱怨辛苦也不会停下的哦～"
 
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "……说起来，友君，{w}之前说过那是\n{color=#8080FF}某（魔术师）漫画中大反派{/color}的台词呐。"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "……说起来，友君，{w}之前说过那是\n{color=#8080FF}某（魔法师）漫画中大反派{/color}的台词呐。"
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "欸？嗯，是这样没错。"
 

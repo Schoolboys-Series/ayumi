@@ -2881,9 +2881,9 @@ translate japanese block_000041C3_a86ee873:
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_0000400B.rpy:4923
-translate japanese block_000041C3_98761881:
+translate japanese block_000041C3_bdc31e9d:
 
-    # rs_character_57471360F48A413AB843A4E46D8C5541 "哈哈，加油，官能的魔术师君♪"
+    # rs_character_57471360F48A413AB843A4E46D8C5541 "哈哈，加油，官能的魔法师君♪"
     rs_character_57471360F48A413AB843A4E46D8C5541 ""
 
 # game/content/file_0000400B.rpy:4937

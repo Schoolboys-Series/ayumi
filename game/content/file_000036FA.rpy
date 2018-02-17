@@ -324,7 +324,7 @@ label block_000036FE:
         play effect2 "sound/Effect Sound/Notice 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Notice 1.ogg"
 
-    extend "{color=#00FFFF}那个魔术师{/color}的话……\n就睁一只眼闭一只眼好了。"
+    extend "{color=#00FFFF}那个魔法师{/color}的话……\n就睁一只眼闭一只眼好了。"
 
     hide tag_3C0D2D9BB95B42AAA768FE8D105219CB
     hide tag_D0357FA295AF4FCF969F3B43FCFDDE60
@@ -1205,7 +1205,7 @@ label block_000036FE:
 
     rs_character_3B4C660F421B4BE392BB540B580F0339 "我确实对阿雪说了比起我这种接近猫的类型，\n穗海前辈更喜欢狗一样的孩子。"
 
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "可做这种事我也很困扰的！"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "我可是为这件事很烦恼的！"
 
     show rs_image_F7C7F82F340647C1A7BB60DE2B1E06CA as tag_4233D225ED0D43968B3A0D890F587FEB zorder zorder_tag_4233D225ED0D43968B3A0D890F587FEB onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01

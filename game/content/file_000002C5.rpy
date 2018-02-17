@@ -1102,7 +1102,7 @@ label block_00000800:
     show rs_image_E862399617D0416D954F0F9E73A9355E as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "不行就是不行！{w}{w}\n等会再见，你们先去玩好了。\n来小翼，说再见。"
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "不行就是不行！{w}\n等会再见，你们先去玩好了。\n来小翼，说再见。"
 
     window hide
 
