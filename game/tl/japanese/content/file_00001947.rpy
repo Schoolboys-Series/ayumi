@@ -76,7 +76,7 @@ translate japanese block_00001A10_f2c5eb94:
 translate japanese block_00001A10_82bd685f:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『事件已开始。请试着寻找下一个同类{/color}{color=#0000FF}事件{/color}{color=#0080FF}。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『フラグが発生しました。次の{/color}{color=#0000FF}フラグ{/color}{color=#0080FF}を探しましょう。』{/color}"
 
 # game/content/file_00001947.rpy:354
 translate japanese block_00001A10_b8375cc1:
@@ -94,7 +94,7 @@ translate japanese block_00001A10_888d6964:
 translate japanese block_00002754_753082d7:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『请试着寻找下一个同类{/color}{color=#0000FF}事件{/color}{color=#0080FF}。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『次の{/color}{color=#0000FF}フラグ{/color}{color=#0080FF}を探しましょう。』{/color}"
 
 # game/content/file_00001947.rpy:527
 translate japanese block_000026F4_4c40fd5e:
@@ -364,25 +364,25 @@ translate japanese block_00003FF2_8ac654f5:
 translate japanese block_00004234_b49311b3:
 
     # rs_character_FB87619C890441AEA41E279A1B588CAC "你想要从梦中醒来，回到现实吗？"
-    rs_character_FB87619C890441AEA41E279A1B588CAC ""
+    rs_character_FB87619C890441AEA41E279A1B588CAC "夢から目覚め、現実へとお戻りになりますか？"
 
 # game/content/file_00001947.rpy:1413
 translate japanese block_00004246_b49311b3:
 
     # rs_character_FB87619C890441AEA41E279A1B588CAC "你想要从梦中醒来，回到现实吗？"
-    rs_character_FB87619C890441AEA41E279A1B588CAC ""
+    rs_character_FB87619C890441AEA41E279A1B588CAC "夢から目覚め、現実へとお戻りになりますか？"
 
 # game/content/file_00001947.rpy:1418
 translate japanese block_00004246_1a396498:
 
     # rs_character_FB87619C890441AEA41E279A1B588CAC "哦？稍等。现在你正进行着{color=#008080}事件{/color}或{color=#FF8000}委托{/color}。"
-    rs_character_FB87619C890441AEA41E279A1B588CAC ""
+    rs_character_FB87619C890441AEA41E279A1B588CAC "おや？お待ちください。\n現在、{color=#008080}フラグ{/color}集めか、\nもしくは{color=#FF8000}クエスト{/color}の途中のようですね。"
 
 # game/content/file_00001947.rpy:1423
 translate japanese block_00004246_e241191c:
 
     # rs_character_FB87619C890441AEA41E279A1B588CAC "要醒来的话，就请先{color=#0080FF}完成{/color}或{color=#0080FF}放弃{/color}它们。"
-    rs_character_FB87619C890441AEA41E279A1B588CAC ""
+    rs_character_FB87619C890441AEA41E279A1B588CAC "現実へお戻りになる場合は、\nお手数ですが、それらを{color=#0080FF}成し遂げる{/color}か、\n{color=#0080FF}中止{/color}してからにしてくださいませ。"
 
 # game/content/file_00001947.rpy:1502
 translate japanese block_00003109_9e175236:
@@ -412,31 +412,31 @@ translate japanese block_00002775_18924a2c:
 translate japanese block_00003023_51992523:
 
     # rs_character_41A906D279CA4677A6A2ED8CBE544459 "任何情报请速来告知！"
-    rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
+    rs_character_41A906D279CA4677A6A2ED8CBE544459 "目新しい情報があれば\nすぐに伝えにきてほしい！"
 
 # game/content/file_00001947.rpy:1803
 translate japanese block_00003023_62b57049:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "啊，说起来……"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "あっ。そういえば……。"
 
 # game/content/file_00001947.rpy:1818
 translate japanese block_00003023_5f8e17e6:
 
     # rs_character_41A906D279CA4677A6A2ED8CBE544459 "哦呀！这个反应，想到什么了对不。"
-    rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
+    rs_character_41A906D279CA4677A6A2ED8CBE544459 "おや！その反応は、\n何か掴んでいるみたいだね。"
 
 # game/content/file_00001947.rpy:1823
 translate japanese block_00003023_e43b7778:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "其实——之前在校庭里……\n"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "あのねー。\n実は、この前校庭に……、\n"
 
 # game/content/file_00001947.rpy:1838
 translate japanese block_00003023_378d6d4e:
 
     # extend "{color=#008080}看到{/color}{size=28}{color=#008080}套套君{/color}{/size}{color=#008080}了——！{/color}{nw}"
-    extend ""
+    extend "{size=28}{color=#008080}コンドーさん{/size}が落ちてたんだー！{/color}{nw}"
 
 # game/content/file_00001947.rpy:1847
 translate japanese block_00003023_e1f385a7:
@@ -448,79 +448,79 @@ translate japanese block_00003023_e1f385a7:
 translate japanese block_00003023_f07658e7:
 
     # rs_character_41A906D279CA4677A6A2ED8CBE544459 "唔，这种情报有点……"
-    rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
+    rs_character_41A906D279CA4677A6A2ED8CBE544459 "うッ。そういうのは、ちょっと……。"
 
 # game/content/file_00001947.rpy:1873
 translate japanese block_00003023_e58a83bc:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "森海君，请不要对纯洁的部长灌输邪恶思想。"
-    rs_character_53FF68C192E3494AB005C1909579AFFB ""
+    rs_character_53FF68C192E3494AB005C1909579AFFB "森海くん。\nピュアな部長に\n変なことを吹き込まないでください。"
 
 # game/content/file_00001947.rpy:1882
 translate japanese block_00003023_3bafb7bc:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "欸——我还以为是个好新闻的。"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "えー、良かれと思って言ったのに。"
 
 # game/content/file_00001947.rpy:1939
 translate japanese block_00003020_20919dd6:
 
     # rs_character_41A906D279CA4677A6A2ED8CBE544459 "任何新情报请速来告知！"
-    rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
+    rs_character_41A906D279CA4677A6A2ED8CBE544459 "目新しい情報があれば\nすぐに伝えにきてほしい！"
 
 # game/content/file_00001947.rpy:1944
 translate japanese block_00003020_87458966:
 
     # rs_character_41A906D279CA4677A6A2ED8CBE544459 "啊，记得必须是全年龄的哦。"
-    rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
+    rs_character_41A906D279CA4677A6A2ED8CBE544459 "た、ただし、健全なやつをな。"
 
 # game/content/file_00001947.rpy:1972
 translate japanese block_0000301C_517ea167:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "之前的委托，就拜托你了。"
-    rs_character_53FF68C192E3494AB005C1909579AFFB ""
+    rs_character_53FF68C192E3494AB005C1909579AFFB "依頼の件、よろしくお願いします。"
 
 # game/content/file_00001947.rpy:1995
 translate japanese block_0000301D_d3522409:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "照片，要来一张吗？"
-    rs_character_53FF68C192E3494AB005C1909579AFFB ""
+    rs_character_53FF68C192E3494AB005C1909579AFFB "お写真、一枚よろしいでしょうか？"
 
 # game/content/file_00001947.rpy:2004
 translate japanese block_0000301D_31c6d9c1:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "可以哦！YEAH☆CHEESE☆"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "いいよ！イエーイ☆ピース☆"
 
 # game/content/file_00001947.rpy:2010
 translate japanese block_0000301D_84bea413:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "拍出来的照片如果有不错的，\n可以允许我们洗出来使用吗？"
-    rs_character_53FF68C192E3494AB005C1909579AFFB ""
+    rs_character_53FF68C192E3494AB005C1909579AFFB "出来上がった写真、\n気に入った方がいらっしゃったら、\n焼き回して差し上げてもいいですか？"
 
 # game/content/file_00001947.rpy:2019
 translate japanese block_0000301D_9e24b098:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "诶？嗯，可以。"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "え？うん、まぁ。"
 
 # game/content/file_00001947.rpy:2025
 translate japanese block_0000301D_74167292:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "交涉成立。{w=0.5}\n{nw}"
-    rs_character_53FF68C192E3494AB005C1909579AFFB ""
+    rs_character_53FF68C192E3494AB005C1909579AFFB "交渉成立。\n{w=0.5}{nw}。"
 
 # game/content/file_00001947.rpy:2029
 translate japanese block_0000301D_4f469c83:
 
     # extend "那么，CHEESE。"
-    extend ""
+    extend "はい、チーズ。"
 
 # game/content/file_00001947.rpy:2045
 translate japanese block_0000301D_1b0c3634:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "感谢配合。"
-    rs_character_53FF68C192E3494AB005C1909579AFFB ""
+    rs_character_53FF68C192E3494AB005C1909579AFFB "ありがとうございました。"
 
 # game/content/file_00001947.rpy:2094
 translate japanese block_00003021_eab6455b:
@@ -556,157 +556,157 @@ translate japanese block_00003021_7a66f537:
 translate japanese block_00003022_545bff5f:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『委托已经开始，请达成目标。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『クエストが発生しました。目的を遂行しましょう。』{/color}"
 
 # game/content/file_00001947.rpy:2167
 translate japanese block_00003022_5a7e237a:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『该委托可以和其他任意事件、委托{/color}{color=#FF00FF}同时进行{/color}{color=#0080FF}。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『このクエストは、他のフラグやクエストの回収と\n{/color}{color=#FF00FF}同時に進められます{/color}{color=#0080FF}。』{/color}"
 
 # game/content/file_00001947.rpy:2169
 translate japanese block_00003022_8eea4856:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『但并不能持续到{/color}{color=#FF0080}二周目{/color}{color=#0080FF}。\n所以请{/color}{color=#FF0000}务必在本章完成{/color}{color=#0080FF}。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ただし、{/color}{color=#FF0080}二週目{/color}{color=#0080FF}までに遂行しないと、\n{/color}{color=#FF0000}依頼は取り消されます{/color}{color=#0080FF}。』{/color}"
 
 # game/content/file_00001947.rpy:2277
 translate japanese block_0000301E_fe7b918f:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "打扰了！不知为何就来了。"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "お邪魔しまーす！\nなんとなく来ちゃった。"
 
 # game/content/file_00001947.rpy:2285
 translate japanese block_0000301E_454aaa4d:
 
     # rs_character_41A906D279CA4677A6A2ED8CBE544459 "哦，你是一班的森海君。\n"
-    rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
+    rs_character_41A906D279CA4677A6A2ED8CBE544459 "おっ、キミは一組の森海くんだね。\n"
 
 # game/content/file_00001947.rpy:2293
 translate japanese block_0000301E_2b797d27:
 
     # extend "欢迎来到{color=#00FFFF}新闻部{/color}。看看我们的杰作如何！"
-    extend ""
+    extend "ようこそ、{color=#00FFFF}新聞部{/color}へ。我らの傑作を存分にご覧あれ！"
 
 # game/content/file_00001947.rpy:2298
 translate japanese block_0000301E_fdbf725a:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "请自由参观～"
-    rs_character_53FF68C192E3494AB005C1909579AFFB ""
+    rs_character_53FF68C192E3494AB005C1909579AFFB "ごゆっくり～。"
 
 # game/content/file_00001947.rpy:2303
 translate japanese block_0000301E_a73e7729:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "谢谢！{w=0.5}{nw}"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "ありがと！{w=0.5}{nw}"
 
 # game/content/file_00001947.rpy:2317
 translate japanese block_0000301E_18c5590b:
 
     # extend "……嗯嗯，哦哦——"
-    extend ""
+    extend "……ふむふむ、ほほー。"
 
 # game/content/file_00001947.rpy:2321
 translate japanese block_0000301E_f8e8e578:
 
     # extend "嗯？所有报纸都是\n冈岛君和小岛君署名的。新闻部的其他人呢？"
-    extend ""
+    extend "ん？どの号も、筆者が\n岡島くんと小島くんだけど、新聞部員って二人しかいないの？"
 
 # game/content/file_00001947.rpy:2330
 translate japanese block_0000301E_e49dc05a:
 
     # rs_character_41A906D279CA4677A6A2ED8CBE544459 "嗯，因为去年刚创立，"
-    rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
+    rs_character_41A906D279CA4677A6A2ED8CBE544459 "ああ、昨年度に創部したばかりだからね。"
 
 # game/content/file_00001947.rpy:2334
 translate japanese block_0000301E_a0080093:
 
     # extend "基本没什么传承，\n知道的人很少，新生也没人来……"
-    extend ""
+    extend "まだ歴史は浅く、\n認知度も低い。当然ながら、新入生にも人気はない……。"
 
 # game/content/file_00001947.rpy:2348
 translate japanese block_0000301E_679f3ef7:
 
     # rs_character_41A906D279CA4677A6A2ED8CBE544459 "然而！总有一天我们势必会搞个大新闻，\n让所有人知道我们！！"
-    rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
+    rs_character_41A906D279CA4677A6A2ED8CBE544459 "だが！いつか必ず大事件を取り上げ、\n全生徒に我らの新聞を読んでもらう！！"
 
 # game/content/file_00001947.rpy:2353
 translate japanese block_0000301E_7ee4a24a:
 
     # rs_character_41A906D279CA4677A6A2ED8CBE544459 "在此还要感谢刚创立就马上入部的小岛君！"
-    rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
+    rs_character_41A906D279CA4677A6A2ED8CBE544459 "創部からついて来てくれた小島くんには感謝しているぞ！"
 
 # game/content/file_00001947.rpy:2362
 translate japanese block_0000301E_1348a492:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "无需感谢。从小事开始慢慢做起即可。"
-    rs_character_53FF68C192E3494AB005C1909579AFFB ""
+    rs_character_53FF68C192E3494AB005C1909579AFFB "礼には及びません。\n小さなことからコツコツと。がんばります。"
 
 # game/content/file_00001947.rpy:2371
 translate japanese block_0000301E_71d1bfb7:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯……好关心部长呐。"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "ふーん……立派な心掛けだねえ。"
 
 # game/content/file_00001947.rpy:2379
 translate japanese block_0000301E_8aa04422:
 
     # extend "啊，这张和床一样大的纸\n是还在写的新闻？放在地上不会被弄坏吗？"
-    extend ""
+    extend "あ、床にある大きな紙が\n作りかけの新聞？こんな所に置いて、間違って踏まないの？"
 
 # game/content/file_00001947.rpy:2392
 translate japanese block_0000301E_32dbb0f3:
 
     # rs_character_41A906D279CA4677A6A2ED8CBE544459 "哈！我们怎么可能会在第二学期第一刊上犯那种低级错误！"
-    rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
+    rs_character_41A906D279CA4677A6A2ED8CBE544459 "うむ！二学期の第一弾として気合いを入れている我々に、\nそのようなケアレスミスはありえない！"
 
 # game/content/file_00001947.rpy:2397
 translate japanese block_0000301E_912dd97b:
 
     # rs_character_41A906D279CA4677A6A2ED8CBE544459 "森海君也记住绝对不许走过去啊！"
-    rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
+    rs_character_41A906D279CA4677A6A2ED8CBE544459 "森海くんも、\nくれぐれも踏まないように気をつけてくれたまえ！"
 
 # game/content/file_00001947.rpy:2410
 translate japanese block_0000301E_5e9eedf1:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "当然当然——！不会有问题的～"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "あいあいさー！間違っても踏まないよ～。"
 
 # game/content/file_00001947.rpy:2423
 translate japanese block_0000301E_c6c975f4:
 
     # rs_character_41A906D279CA4677A6A2ED8CBE544459 "绝对不许过去啊！过去也要避开走啊！"
-    rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
+    rs_character_41A906D279CA4677A6A2ED8CBE544459 "踏んでくれるなよ！ぜーったいに踏んではならないぞ！"
 
 # game/content/file_00001947.rpy:2436
 translate japanese block_0000301E_89ae36c6:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "没关系！我发誓要是真的不小心，\n这辈子都娶……{w=0.6}{nw}"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "大丈夫！オレ、新聞を踏まずに部室を出たら、結婚……{w=0.6}{nw}"
 
 # game/content/file_00001947.rpy:2444
 translate japanese block_0000301E_e3d9a0bf:
 
     # extend "呜，啊哇！？！？"
-    extend ""
+    extend "って、おわ！？！？"
 
 # game/content/file_00001947.rpy:2473
 translate japanese block_0000301E_3ff4c3c0:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "哐当——咕噜——\n{w=0.4}{nw}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "ステーン！ゴロン！\n{w=0.4}{nw}"
 
 # game/content/file_00001947.rpy:2483
 translate japanese block_0000301E_4c55b39b:
 
     # extend "{nw}"
-    extend ""
+    extend "ビリリ。{nw}"
 
 # game/content/file_00001947.rpy:2486
 translate japanese block_0000301E_5259a771:
 
     # extend "………{nw}"
-    extend ""
+    extend "………{nw}"
 
 # game/content/file_00001947.rpy:2489
 translate japanese block_0000301E_e1f385a7:
@@ -718,85 +718,85 @@ translate japanese block_0000301E_e1f385a7:
 translate japanese block_0000301E_65c0ad0a:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "啊。{w=0.2}{nw}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "あ。{w=0.2}\n{nw}"
 
 # game/content/file_00001947.rpy:2508
 translate japanese block_0000301E_22748bf9:
 
     # extend "啊。\n{w=0.2}{nw}"
-    extend ""
+    extend "あ。\n{w=0.2}{nw}"
 
 # game/content/file_00001947.rpy:2513
 translate japanese block_0000301E_b6db922b:
 
     # extend "啊。"
-    extend ""
+    extend "あ。"
 
 # game/content/file_00001947.rpy:2541
 translate japanese block_0000301E_9ad4f9cf:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "有在反省么……森海君，还有，部长。"
-    rs_character_53FF68C192E3494AB005C1909579AFFB ""
+    rs_character_53FF68C192E3494AB005C1909579AFFB "反省の弁を……森海さん、そして、部長。"
 
 # game/content/file_00001947.rpy:2551
 translate japanese block_0000301E_aa148df8:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "是、是的……对不起……！"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "は、はいぃ……すみませんでした……！"
 
 # game/content/file_00001947.rpy:2557
 translate japanese block_0000301E_1e9f5d23:
 
     # rs_character_41A906D279CA4677A6A2ED8CBE544459 "为、为何我也要……"
-    rs_character_41A906D279CA4677A6A2ED8CBE544459 ""
+    rs_character_41A906D279CA4677A6A2ED8CBE544459 "な、なぜ、僕も……。"
 
 # game/content/file_00001947.rpy:2562
 translate japanese block_0000301E_21f388bf:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "因为你在乱立FLAG。"
-    rs_character_53FF68C192E3494AB005C1909579AFFB ""
+    rs_character_53FF68C192E3494AB005C1909579AFFB "フラグ建築はご法度です。"
 
 # game/content/file_00001947.rpy:2579
 translate japanese block_0000301E_c56225a0:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "因此，森海君。"
-    rs_character_53FF68C192E3494AB005C1909579AFFB ""
+    rs_character_53FF68C192E3494AB005C1909579AFFB "それでは、森海くん。"
 
 # game/content/file_00001947.rpy:2581
 translate japanese block_0000301E_8b91f1df:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "是！"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "はい！"
 
 # game/content/file_00001947.rpy:2591
 translate japanese block_0000301E_02700427:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "为了弥补毁掉原稿的错误，{w}\n接下来你必须帮助我们，帮助新闻部收集情报。"
-    rs_character_53FF68C192E3494AB005C1909579AFFB ""
+    rs_character_53FF68C192E3494AB005C1909579AFFB "あなたには、原稿を台無しにした責任を取っていただきます。{w}具体的には、新聞部の情報収集に協力し、挽回してください。"
 
 # game/content/file_00001947.rpy:2596
 translate japanese block_0000301E_553e08ee:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "收集到什么情报时请前来汇报，到时候就拜托了。"
-    rs_character_53FF68C192E3494AB005C1909579AFFB ""
+    rs_character_53FF68C192E3494AB005C1909579AFFB "収集したい情報が見つかったら声をかけますから、\nその際はよろしくお願いします。"
 
 # game/content/file_00001947.rpy:2611
 translate japanese block_0000301E_faf7e6c5:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "在、在下听令！如果这样就能原谅我的话\n不管什么我都会做……"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "しょ、承知いたしました！それで赦していただけるのであれば、\nいくらでもこき使ってくださいまし……。"
 
 # game/content/file_00001947.rpy:2616
 translate japanese block_0000301E_ee2b6fac:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "嗯，很好。"
-    rs_character_53FF68C192E3494AB005C1909579AFFB ""
+    rs_character_53FF68C192E3494AB005C1909579AFFB "ふふ、よいお返事です。"
 
 # game/content/file_00001947.rpy:2767
 translate japanese block_000026B5_1b9fcea3:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『请试着寻找下一个同类{/color}{color=#008000}事件{/color}{color=#0080FF}。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『次の{/color}{color=#008000}フラグ{/color}{color=#0080FF}を探しましょう。』{/color}"
 
 # game/content/file_00001947.rpy:2829
 translate japanese block_000026B1_2b1faf8f:
@@ -880,7 +880,7 @@ translate japanese block_000026B1_c0d958cb:
 translate japanese block_0000268E_4bf32eb9:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『事件已开始。请试着寻找下一个同类{/color}{color=#008000}事件{/color}{color=#0080FF}。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『フラグが発生しました。次の{/color}{color=#008000}フラグ{/color}{color=#0080FF}を探しましょう。』{/color}"
 
 # game/content/file_00001947.rpy:2979
 translate japanese block_0000277D_801d6e53:
@@ -994,7 +994,7 @@ translate japanese block_0000277D_a3146bdf:
 translate japanese block_000027CD_545bff5f:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『委托已经开始，请达成目标。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『クエストが発生しました。目的を遂行しましょう。』{/color}"
 
 # game/content/file_00001947.rpy:3203
 translate japanese block_0000277C_c85c8f89:
@@ -1348,31 +1348,31 @@ translate japanese block_000026DF_d6039e47:
 translate japanese block_0000275A_e6fcd299:
 
     # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "那个，白痴呆毛～♪{w}\n有件事想拜托你，能听听不～？"
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "なぁアホ毛～♪{w}\nちょいと頼みがあんねん。聞いてくれるか～？"
 
 # game/content/file_00001947.rpy:4142
 translate japanese block_0000275A_1501fccc:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "什么——什么事——？"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "なにー、どうしたのー？"
 
 # game/content/file_00001947.rpy:4148
 translate japanese block_0000275A_c0f76599:
 
     # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "给我弄弄……"
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "弄らせろ……。"
 
 # game/content/file_00001947.rpy:4157
 translate japanese block_0000275A_cf80723f:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "呃、呃？"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "は、はい？"
 
 # game/content/file_00001947.rpy:4172
 translate japanese block_0000275A_da3cc9a2:
 
     # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "{size=28}把你头发拿来给我弄弄——！！！{/size}"
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "{size=28}お前の髪、弄らせろー！！！{/size}"
 
 # game/content/file_00001947.rpy:4290
 translate japanese block_00001981_cadd03c5:
@@ -1420,7 +1420,7 @@ translate japanese block_00001981_05b014a0:
 translate japanese block_0000275B_ad6bae79:
 
     # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "要转换形象么？"
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "イメチェンしていくか？"
 
 # game/content/file_00001947.rpy:4483
 translate japanese block_00001E03_b55af736:
@@ -1530,12 +1530,6 @@ translate japanese block_00001E03_2a9fd6ba:
     # rs_character_EA9AA88E88D84B559B925363E2931756 "森海，机会难得，请听我一言。"
     rs_character_EA9AA88E88D84B559B925363E2931756 ""
 
-# game/content/file_00001947.rpy:4638
-translate japanese block_00001977_0f655fc8:
-
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『要弹钢琴么？』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
-
 # game/content/file_00001947.rpy:4778
 translate japanese block_00001E01_96558507:
 
@@ -1552,7 +1546,7 @@ translate japanese block_00001E01_1d489620:
 translate japanese block_00001E02_49587efd:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『事件已开始。请试着寻找下一个同类{/color}{color=#800000}事件{/color}{color=#0080FF}。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『フラグが発生しました。次の{/color}{color=#800000}フラグ{/color}{color=#0080FF}を探しましょう。』{/color}"
 
 # game/content/file_00001947.rpy:5198
 translate japanese block_0000277B_723d738f:
@@ -2032,7 +2026,7 @@ translate japanese block_00001965_88cd7b64:
 translate japanese block_000030AF_c3286010:
 
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "要挑战问题吗？"
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "クイズに挑戦する？"
 
 # game/content/file_00001947.rpy:6166
 translate japanese block_00002724_43f6b166:
@@ -2062,7 +2056,7 @@ translate japanese block_00002724_2f5d039d:
 translate japanese block_00004054_1b9fcea3:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『请试着寻找下一个同类{/color}{color=#008000}事件{/color}{color=#0080FF}。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『次の{/color}{color=#008000}フラグ{/color}{color=#0080FF}を探しましょう。』{/color}"
 
 # game/content/file_00001947.rpy:6252
 translate japanese block_00004051_4e9e956e:
@@ -2224,7 +2218,7 @@ translate japanese block_00001968_71e9ced9:
 translate japanese block_000030E5_65a59fb8:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "{color=#008A45}人物详细笔记{/color}，要看吗？"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 ""
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "{color=#008A45}人物詳細ノート{/color}見ていくかい？"
 
 # game/content/file_00001947.rpy:6698
 translate japanese block_00004050_6e89691b:
@@ -2254,7 +2248,7 @@ translate japanese block_0000404F_f39bf9e6:
 translate japanese block_00004053_85724bea:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『请试着寻找下一个同类{/color}{color=#AA0055}事件{/color}{color=#0080FF}。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『次の{/color}{color=#AA0055}フラグ{/color}{color=#0080FF}を探しましょう。』{/color}"
 
 # game/content/file_00001947.rpy:6851
 translate japanese block_0000404C_ca44cff0:
@@ -2266,7 +2260,7 @@ translate japanese block_0000404C_ca44cff0:
 translate japanese block_0000404D_b9c35f18:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『快进到{/color}{color=#FF8000}放学后{/color}{color=#0080FF}。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『{/color}{color=#FF8000}放課後モード{/color}{color=#0080FF}に\n切り替えましょう。』{/color}"
 
 # game/content/file_00001947.rpy:6978
 translate japanese block_00004049_0e97e08e:
@@ -2275,10 +2269,10 @@ translate japanese block_00004049_0e97e08e:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_00001947.rpy:6997
-translate japanese block_0000404A_3cc05aec:
+translate japanese block_0000404A_1ed60226:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}尽可能收集更多{/color}{color=#008080}事件{/color}{color=#0080FF}和{/color}{color=#FF8000}委托{/color}{color=#0080FF}！』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『尽可能收集更多{/color}{color=#008080}事件{/color}{color=#0080FF}和{/color}{color=#FF8000}委托{/color}{color=#0080FF}！』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『{/color}{color=#008080}フラグ{/color}{color=#0080FF}や{/color}{color=#FF8000}クエスト{/color}{color=#0080FF}を見つけに\n歩き回りましょう！』{/color}"
 
 # game/content/file_00001947.rpy:7153
 translate japanese block_000026EF_30a36854:
@@ -2656,13 +2650,13 @@ translate japanese block_00002538_b3797964:
 translate japanese block_0000304A_bdab4771:
 
     # rs_character_E3F6ADD43DE44A428E1224756613C694 "知道吗？伊藤按摩超级好的。"
-    rs_character_E3F6ADD43DE44A428E1224756613C694 ""
+    rs_character_E3F6ADD43DE44A428E1224756613C694 "知ってるか？\n伊藤ってマッサージが超上手いんだぜ。"
 
 # game/content/file_00001947.rpy:8003
 translate japanese block_0000304A_0caf3489:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "那种“按摩”？"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "それってイヤラシイやつ？"
 
 # game/content/file_00001947.rpy:8009
 translate japanese block_0000304A_882259b3:
@@ -3028,37 +3022,37 @@ translate japanese block_000026DD_6bbf1ed5:
 translate japanese block_00002762_14b1d000:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "森海，来得好。{w}现在我们在准备训练，你也一起如何？"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "森海、良い所へ来た。{w}\n今からトレーニングへ向かうところなんだが、\n一緒にどうだ？"
 
 # game/content/file_00001947.rpy:9011
 translate japanese block_00002762_4d04fd14:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "训练？听起来……不过我不要出汗。"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "トレーニング？\nえぇー、でも余計な汗掻きたくないしぃ。"
 
 # game/content/file_00001947.rpy:9017
 translate japanese block_00002762_ca01d189:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "放心，是精神力训练，不是体力。"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "安心しろ。\n体力でなく、精神力を鍛えるものだ。"
 
 # game/content/file_00001947.rpy:9026
-translate japanese block_00002762_00621d6d:
+translate japanese block_00002762_444c8a09:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "哦，那就换一个说法……"
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "哦，是例行的那个呀……"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "お、例のアレを今からやるんだね。"
 
 # game/content/file_00001947.rpy:9031
 translate japanese block_00002762_af0d5597:
 
     # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "友君，这个训练并不难，只是类似游戏一样的东西。\n如何，想不想试试？"
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "友くん、このトレーニングは\n決して難しいものじゃなく、ちょっとした\nゲームみたいなものだから、一度やってみたら？"
 
 # game/content/file_00001947.rpy:9036
 translate japanese block_00002762_b60a826e:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哦哦，听起来很有意思呐，我就试试好了。"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "ほうほう。なんだか面白そうだし、\nちょっと挑戦してみようかな。"
 
 # game/content/file_00001947.rpy:9150
 translate japanese block_0000312D_1a9e797e:
@@ -3208,7 +3202,7 @@ translate japanese block_00001A33_90b670f6:
 translate japanese block_00003103_383d3372:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "继续训练？"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "トレーニングに挑戦するか？"
 
 # game/content/file_00001947.rpy:9537
 translate japanese block_00003106_f9fb0866:
@@ -3316,7 +3310,7 @@ translate japanese block_00002783_2535296d:
 translate japanese block_00002784_545bff5f:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『委托已经开始，请达成目标。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『クエストが発生しました。目的を遂行しましょう。』{/color}"
 
 # game/content/file_00001947.rpy:9927
 translate japanese block_000026B9_fab80175:
@@ -3388,7 +3382,7 @@ translate japanese block_000026B9_7ef38e2d:
 translate japanese block_00002778_4bf32eb9:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『事件已开始。请试着寻找下一个同类{/color}{color=#008000}事件{/color}{color=#0080FF}。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『フラグが発生しました。次の{/color}{color=#008000}フラグ{/color}{color=#0080FF}を探しましょう。』{/color}"
 
 # game/content/file_00001947.rpy:10106
 translate japanese block_000026D7_dca72234:
@@ -3766,37 +3760,37 @@ translate japanese block_00002799_ba79f1e3:
 translate japanese block_0000303F_7e11a52c:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "呀，你好。看鞋子的颜色，你是二年级学生呐。{w}\n我是三年级的{color=#008A45}常磐进{/color}。"
-    rs_character_C223850065F6443080205D1F61C04C98 ""
+    rs_character_C223850065F6443080205D1F61C04C98 "やあ。こんにちは。\n上靴の色を見るに、キミは二年生の子かな。{w}\\n僕は、３年生の{color=#008A45}常磐進（ときわ　すすむ）{/color}。"
 
 # game/content/file_00001947.rpy:10852
 translate japanese block_0000303F_1f14e9f6:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "我喜欢打听一些各种各样的有趣的事情。{w}\n所以，如果你在寻找{color=#008080}事件{/color}或{color=#FF8000}委托{/color}时遇到了困难，\n来找我，我会给你一些{color=#FF0000}提示{/color}的。"
-    rs_character_C223850065F6443080205D1F61C04C98 ""
+    rs_character_C223850065F6443080205D1F61C04C98 "いろいろなことの調査や観察が趣味なんだ。{w}\nだから、キミが{color=#008080}フラグ{/color}や{color=#FF8000}クエスト{/color}集めに\n困った際、{color=#FF0000}ヒント{/color}を教えてあげれると思うよ。"
 
 # game/content/file_00001947.rpy:10857
 translate japanese block_0000303F_72ac759c:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "能帮上你的忙我也会很高兴的。待会见。"
-    rs_character_C223850065F6443080205D1F61C04C98 ""
+    rs_character_C223850065F6443080205D1F61C04C98 "少しでも、役に立てたらうれしいな。\nじゃあね。"
 
 # game/content/file_00001947.rpy:10895
 translate japanese block_0000303C_3ebf0b0c:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "{color=#008080}事件{/color}或{color=#FF8000}委托{/color}的途中如果不知如何是好，\n就试着看看{color=#FF00FF}目标{/color}。{w=0.7}{nw}"
-    rs_character_C223850065F6443080205D1F61C04C98 ""
+    rs_character_C223850065F6443080205D1F61C04C98 "もし{color=#008080}クエスト{/color}や{color=#FF8000}フラグ{/color}の最中に\nどうすればいいかわからなくなったら、\n{color=#FF00FF}目標を確認してみるといいよ{/color}。{w=0.7}{nw}"
 
 # game/content/file_00001947.rpy:10899
 translate japanese block_0000303C_c9734af7:
 
     # extend "加油哦。"
-    extend ""
+    extend "がんばってね。"
 
 # game/content/file_00001947.rpy:10928
 translate japanese block_0000303E_565f42bd:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "怎么了？有什么在意的事情吗？"
-    rs_character_C223850065F6443080205D1F61C04C98 ""
+    rs_character_C223850065F6443080205D1F61C04C98 "どうしたの？\n何か、聞きたいことでもある？"
 
 # game/content/file_00001947.rpy:11008
 translate japanese block_00003036_e0c6013b:
@@ -3808,7 +3802,7 @@ translate japanese block_00003036_e0c6013b:
 translate japanese block_00003036_4b6aefe7:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "还有什么想要问的事情吗？"
-    rs_character_C223850065F6443080205D1F61C04C98 ""
+    rs_character_C223850065F6443080205D1F61C04C98 "他に聞きたいことはある？"
 
 # game/content/file_00001947.rpy:11034
 translate japanese block_00003033_9933b465:
@@ -3820,7 +3814,7 @@ translate japanese block_00003033_9933b465:
 translate japanese block_00003033_4b6aefe7:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "还有什么想要问的事情吗？"
-    rs_character_C223850065F6443080205D1F61C04C98 ""
+    rs_character_C223850065F6443080205D1F61C04C98 "他に聞きたいことはある？"
 
 # game/content/file_00001947.rpy:11060
 translate japanese block_00003037_922fbae4:
@@ -3832,7 +3826,7 @@ translate japanese block_00003037_922fbae4:
 translate japanese block_00003037_4b6aefe7:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "还有什么想要问的事情吗？"
-    rs_character_C223850065F6443080205D1F61C04C98 ""
+    rs_character_C223850065F6443080205D1F61C04C98 "他に聞きたいことはある？"
 
 # game/content/file_00001947.rpy:11086
 translate japanese block_00003034_09795df9:
@@ -3844,7 +3838,7 @@ translate japanese block_00003034_09795df9:
 translate japanese block_00003034_4b6aefe7:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "还有什么想要问的事情吗？"
-    rs_character_C223850065F6443080205D1F61C04C98 ""
+    rs_character_C223850065F6443080205D1F61C04C98 "他に聞きたいことはある？"
 
 # game/content/file_00001947.rpy:11112
 translate japanese block_00003039_d38126ac:
@@ -3862,7 +3856,7 @@ translate japanese block_00003039_49d942a2:
 translate japanese block_00003039_4b6aefe7:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "还有什么想要问的事情吗？"
-    rs_character_C223850065F6443080205D1F61C04C98 ""
+    rs_character_C223850065F6443080205D1F61C04C98 "他に聞きたいことはある？"
 
 # game/content/file_00001947.rpy:11142
 translate japanese block_00003250_5571e44b:
@@ -3874,7 +3868,7 @@ translate japanese block_00003250_5571e44b:
 translate japanese block_00003250_4b6aefe7:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "还有什么想要问的事情吗？"
-    rs_character_C223850065F6443080205D1F61C04C98 ""
+    rs_character_C223850065F6443080205D1F61C04C98 "他に聞きたいことはある？"
 
 # game/content/file_00001947.rpy:11168
 translate japanese block_0000302D_4e3af636:
@@ -3886,7 +3880,7 @@ translate japanese block_0000302D_4e3af636:
 translate japanese block_0000302D_4b6aefe7:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "还有什么想要问的事情吗？"
-    rs_character_C223850065F6443080205D1F61C04C98 ""
+    rs_character_C223850065F6443080205D1F61C04C98 "他に聞きたいことはある？"
 
 # game/content/file_00001947.rpy:11194
 translate japanese block_0000302C_f850d197:
@@ -3898,7 +3892,7 @@ translate japanese block_0000302C_f850d197:
 translate japanese block_0000302C_4b6aefe7:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "还有什么想要问的事情吗？"
-    rs_character_C223850065F6443080205D1F61C04C98 ""
+    rs_character_C223850065F6443080205D1F61C04C98 "他に聞きたいことはある？"
 
 # game/content/file_00001947.rpy:11220
 translate japanese block_00003031_a59a06ac:
@@ -3910,7 +3904,7 @@ translate japanese block_00003031_a59a06ac:
 translate japanese block_00003031_4b6aefe7:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "还有什么想要问的事情吗？"
-    rs_character_C223850065F6443080205D1F61C04C98 ""
+    rs_character_C223850065F6443080205D1F61C04C98 "他に聞きたいことはある？"
 
 # game/content/file_00001947.rpy:11246
 translate japanese block_000032A4_df2c5374:
@@ -3922,7 +3916,7 @@ translate japanese block_000032A4_df2c5374:
 translate japanese block_000032A4_4b6aefe7:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "还有什么想要问的事情吗？"
-    rs_character_C223850065F6443080205D1F61C04C98 ""
+    rs_character_C223850065F6443080205D1F61C04C98 "他に聞きたいことはある？"
 
 # game/content/file_00001947.rpy:11272
 translate japanese block_000032A5_5ab0cbf4:
@@ -3934,7 +3928,7 @@ translate japanese block_000032A5_5ab0cbf4:
 translate japanese block_000032A5_4b6aefe7:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "还有什么想要问的事情吗？"
-    rs_character_C223850065F6443080205D1F61C04C98 ""
+    rs_character_C223850065F6443080205D1F61C04C98 "他に聞きたいことはある？"
 
 # game/content/file_00001947.rpy:11298
 translate japanese block_00003030_433ea7b4:
@@ -3952,7 +3946,7 @@ translate japanese block_00003030_f882d47e:
 translate japanese block_00003030_4b6aefe7:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "还有什么想要问的事情吗？"
-    rs_character_C223850065F6443080205D1F61C04C98 ""
+    rs_character_C223850065F6443080205D1F61C04C98 "他に聞きたいことはある？"
 
 # game/content/file_00001947.rpy:11326
 translate japanese block_00003032_aebd19cd:
@@ -3964,7 +3958,7 @@ translate japanese block_00003032_aebd19cd:
 translate japanese block_00003032_4b6aefe7:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "还有什么想要问的事情吗？"
-    rs_character_C223850065F6443080205D1F61C04C98 ""
+    rs_character_C223850065F6443080205D1F61C04C98 "他に聞きたいことはある？"
 
 # game/content/file_00001947.rpy:11352
 translate japanese block_0000303A_17fec7df:
@@ -3976,7 +3970,7 @@ translate japanese block_0000303A_17fec7df:
 translate japanese block_0000303A_4b6aefe7:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "还有什么想要问的事情吗？"
-    rs_character_C223850065F6443080205D1F61C04C98 ""
+    rs_character_C223850065F6443080205D1F61C04C98 "他に聞きたいことはある？"
 
 # game/content/file_00001947.rpy:11378
 translate japanese block_0000302E_d7483871:
@@ -3988,55 +3982,55 @@ translate japanese block_0000302E_d7483871:
 translate japanese block_0000302E_4b6aefe7:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "还有什么想要问的事情吗？"
-    rs_character_C223850065F6443080205D1F61C04C98 ""
+    rs_character_C223850065F6443080205D1F61C04C98 "他に聞きたいことはある？"
 
 # game/content/file_00001947.rpy:11408
 translate japanese block_0000302F_41d3a034:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "{color=#FF8000}新闻部活动室{/color}，还是老样子。"
-    rs_character_C223850065F6443080205D1F61C04C98 ""
+    rs_character_C223850065F6443080205D1F61C04C98 "今は特に\n教えてあげられることはないかな。"
 
 # game/content/file_00001947.rpy:11413
 translate japanese block_0000302F_4b6aefe7:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "还有什么想要问的事情吗？"
-    rs_character_C223850065F6443080205D1F61C04C98 ""
+    rs_character_C223850065F6443080205D1F61C04C98 "他に聞きたいことはある？"
 
 # game/content/file_00001947.rpy:11430
 translate japanese block_00003035_b9f4e3d9:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "现在已经没有什么其他有趣的事情了。"
-    rs_character_C223850065F6443080205D1F61C04C98 ""
+    rs_character_C223850065F6443080205D1F61C04C98 "今は特に\n教えてあげられることはないかな。"
 
 # game/content/file_00001947.rpy:11435
 translate japanese block_00003035_4b6aefe7:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "还有什么想要问的事情吗？"
-    rs_character_C223850065F6443080205D1F61C04C98 ""
+    rs_character_C223850065F6443080205D1F61C04C98 "他に聞きたいことはある？"
 
 # game/content/file_00001947.rpy:11457
 translate japanese block_00001992_b6425e0e:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}私立御咲学园是某县（省）的宝咲市所拥有的\n一所初高中男子校。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『御咲（みさき）学園中高等学校。\n某県宝咲（たからさき）市に所在し、\n中高一貫教育を施す私立の男子校である。』{/color}"
 
 # game/content/file_00001947.rpy:11459
-translate japanese block_00001992_639dcb59:
+translate japanese block_00001992_7b32f081:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}……。\n……。\n重点是，{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『……。\n……。\n重点是，{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『……。\n……。\n……。\nまた、{/color}"
 
 # game/content/file_00001947.rpy:11464
 translate japanese block_00001992_46732696:
 
     # extend "{color=#0080FF}校内恋爱非常繁荣，赫赫有名。』{/color}"
-    extend ""
+    extend "{color=#0080FF}学内恋愛が非常に盛んだと有名である。』{/color}"
 
 # game/content/file_00001947.rpy:11534
 translate japanese block_000026C8_1b9fcea3:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『请试着寻找下一个同类{/color}{color=#008000}事件{/color}{color=#0080FF}。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『次の{/color}{color=#008000}フラグ{/color}{color=#0080FF}を探しましょう。』{/color}"
 
 # game/content/file_00001947.rpy:11553
 translate japanese block_000026C0_4e9e956e:
@@ -4078,7 +4072,7 @@ translate japanese block_000030B9_f39bf9e6:
 translate japanese block_000026C5_85724bea:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『请试着寻找下一个同类{/color}{color=#AA0055}事件{/color}{color=#0080FF}。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『次の{/color}{color=#AA0055}フラグ{/color}{color=#0080FF}を探しましょう。』{/color}"
 
 # game/content/file_00001947.rpy:11718
 translate japanese block_000026CB_ca44cff0:
@@ -4090,13 +4084,13 @@ translate japanese block_000026CB_ca44cff0:
 translate japanese block_000026BF_b9c35f18:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『快进到{/color}{color=#FF8000}放学后{/color}{color=#0080FF}。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『{/color}{color=#FF8000}放課後モード{/color}{color=#0080FF}に\n切り替えましょう。』{/color}"
 
 # game/content/file_00001947.rpy:11788
-translate japanese block_00001A02_3cc05aec:
+translate japanese block_00001A02_1ed60226:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}尽可能收集更多{/color}{color=#008080}事件{/color}{color=#0080FF}和{/color}{color=#FF8000}委托{/color}{color=#0080FF}！』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『尽可能收集更多{/color}{color=#008080}事件{/color}{color=#0080FF}和{/color}{color=#FF8000}委托{/color}{color=#0080FF}！』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『{/color}{color=#008080}フラグ{/color}{color=#0080FF}や{/color}{color=#FF8000}クエスト{/color}{color=#0080FF}を見つけに\n歩き回りましょう！』{/color}"
 
 # game/content/file_00001947.rpy:11807
 translate japanese block_00001A4F_26ac46a1:

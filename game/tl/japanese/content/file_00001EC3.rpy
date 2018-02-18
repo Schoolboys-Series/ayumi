@@ -418,13 +418,13 @@ translate japanese block_00001F16_a07c873a:
 translate japanese block_00003F93_ce752d27:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#FF80C0}『完全放松了☆』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#FF80C0}『スッキリしちゃいました☆』{/color}"
 
 # game/content/file_00001EC3.rpy:1532
 translate japanese block_00003F93_83ddba29:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "……呼♪"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "……ふぅ♪"
 
 # game/content/file_00001EC3.rpy:1558
 translate japanese block_00003F8E_05a2c3c8:

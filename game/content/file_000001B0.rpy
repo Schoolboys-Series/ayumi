@@ -4085,7 +4085,7 @@ label block_00002B2E:
     show rs_image_3D1658550AAD4B23B72B22E477CAE581 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "真是的啦松田亲！\n刚才为什么要说那么奇怪的话！\n手腕相扑什么的我还是第一次听说——"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "真是的啦松田亲！\n刚才为什么要说那么奇怪的话！\n掰手腕什么的我还是第一次听说——"
 
     show rs_image_7131112E86B24D6A9BE667868088D590 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     show rs_image_E9F1E0F2938347FA9642D7E4902E028B as tag_724406A84D7141298EFF0D864FAE1534 zorder zorder_tag_724406A84D7141298EFF0D864FAE1534 onlayer master
@@ -4100,7 +4100,7 @@ label block_00002B2E:
     show rs_image_3D1658550AAD4B23B72B22E477CAE581 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "手腕相扑啊——好久没试过了呐。\n呐——呐——我们也来一次——"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "掰手腕啊——好久没试过了呐。\n呐——呐——我们也来一次——"
 
     show rs_image_7131112E86B24D6A9BE667868088D590 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     show rs_image_E9F1E0F2938347FA9642D7E4902E028B as tag_724406A84D7141298EFF0D864FAE1534 zorder zorder_tag_724406A84D7141298EFF0D864FAE1534 onlayer master
@@ -6276,7 +6276,7 @@ label block_000023C3:
 
 label block_000001E4:
     # Node: 000001E4 (選擇)
-    call scb_selector("", [{"name":" 演奏しない", "content":_("不想弹")}, {"name":"演奏する", "content":_("弹")}]) from _call_scb_selector_26
+    call scb_selector(_("要弹钢琴么？"), [{"name":" 演奏しない", "content":_("不想弹")}, {"name":"演奏する", "content":_("弹")}], True) from _call_scb_selector_26
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"演奏する\"" },{ "scope": 1, "content": "F5Check1 == False" },{ "scope": 2, "content": "QTsubasaCheck1 == False" },{ "scope": 3, "content": "C1S1Phase + C1S2Phase + C1S3Phase + C1S4Phase + C1S5Phase == 0" },{ "scope": 4, "content": "C1QTsubasaPhase + C1QSabushinPhase == 0" },{ "scope": 5, "content": "C1SG1 and C1S4 == True" },{ "scope": 6, "content": "C1S5 == False" },{ "scope": 5, "content": "C1QTsubasa == False" }]):
         jump block_00003996
@@ -6686,12 +6686,6 @@ label block_000001C3:
 
 label block_000001E5:
     # Node: 000001E5 (Piano)
-    window show
-
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『要弹钢琴么？』{/color}"
-
-    window hide
-
 
     if judge_lm_condition([]):
         jump block_000001E4
@@ -10690,7 +10684,7 @@ label block_000001D3:
     show rs_image_B9C05B244A1F41E7AFDE876574238D4A as tag_81DF0CF91B224EAAA16B0366711BA01F at center_bottom zorder zorder_tag_81DF0CF91B224EAAA16B0366711BA01F onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "哦，那就换一个说法……"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "哦，是例行的那个呀……"
 
     show rs_image_1D44BAB200164AC5802C27FE81E9C0AE as tag_81DF0CF91B224EAAA16B0366711BA01F zorder zorder_tag_81DF0CF91B224EAAA16B0366711BA01F onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
@@ -13079,7 +13073,7 @@ label block_00000219:
 
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}私立御咲学园是某县（省）的宝咲市所拥有的\n一所初高中男子校。』{/color}"
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}……。\n……。\n重点是，{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『……。\n……。\n重点是，{/color}"
     if sys_effect_current_file != "sound/Effect Sound/Waoh 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Waoh 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Waoh 1.ogg"

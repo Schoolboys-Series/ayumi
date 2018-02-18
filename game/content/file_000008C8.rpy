@@ -12747,7 +12747,7 @@ label block_00000931:
 
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}私立御咲学园是某县（省）的宝咲市所拥有的\n一所初高中男子校。』{/color}"
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}……。\n……。\n重点是，{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『……。\n……。\n重点是，{/color}"
     if sys_effect_current_file != "sound/Effect Sound/Waoh 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Waoh 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Waoh 1.ogg"

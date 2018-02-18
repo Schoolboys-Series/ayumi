@@ -4633,12 +4633,6 @@ label block_00003FB8:
 
 label block_00001977:
     # Node: 00001977 (Piano)
-    window show
-
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『要弹钢琴么？』{/color}"
-
-    window hide
-
 
     if judge_lm_condition([]):
         jump block_000030DA
@@ -4647,7 +4641,7 @@ label block_00001977:
 
 label block_000030DA:
     # Node: 000030DA (選擇)
-    call scb_selector("", [{"name":" 演奏しない", "content":_("不想弹")}, {"name":"演奏する", "content":_("弹")}]) from _call_scb_selector_39
+    call scb_selector(_("要弹钢琴么？"), [{"name":" 演奏しない", "content":_("不想弹")}, {"name":"演奏する", "content":_("弹")}], True) from _call_scb_selector_39
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"演奏する\"" },{ "scope": 1, "content": "C3S1Phase + C3S2Phase + C3S3Phase + C3S4Phase + C3S5Phase  + C3S6Phase == 0" },{ "scope": 2, "content": "C3QNakayamaPhase == 0" },{ "scope": 3, "content": "C3SG1 == True" },{ "scope": 4, "content": "C3S4 and C3S5 == True" },{ "scope": 5, "content": "C3S6 == False" }]):
         jump block_000030DF
@@ -6994,7 +6988,7 @@ label block_0000404A:
     $ set_window("チャット")
     window show
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}尽可能收集更多{/color}{color=#008080}事件{/color}{color=#0080FF}和{/color}{color=#FF8000}委托{/color}{color=#0080FF}！』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『尽可能收集更多{/color}{color=#008080}事件{/color}{color=#0080FF}和{/color}{color=#FF8000}委托{/color}{color=#0080FF}！』{/color}"
 
     window hide
 
@@ -9023,7 +9017,7 @@ label block_00002762:
     show rs_image_18AF064B5D094416856FEB1D441CB02E as tag_81DF0CF91B224EAAA16B0366711BA01F at center_bottom zorder zorder_tag_81DF0CF91B224EAAA16B0366711BA01F onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "哦，那就换一个说法……"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "哦，是例行的那个呀……"
 
     show rs_image_E5B7B6FE0DF64E6CB5D98406AB347699 as tag_81DF0CF91B224EAAA16B0366711BA01F zorder zorder_tag_81DF0CF91B224EAAA16B0366711BA01F onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
@@ -11456,7 +11450,7 @@ label block_00001992:
 
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}私立御咲学园是某县（省）的宝咲市所拥有的\n一所初高中男子校。』{/color}"
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}……。\n……。\n重点是，{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『……。\n……。\n重点是，{/color}"
     if sys_effect_current_file != "sound/Effect Sound/Waoh 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Waoh 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Waoh 1.ogg"
@@ -11785,7 +11779,7 @@ label block_00001A02:
     $ set_window("チャット")
     window show
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}尽可能收集更多{/color}{color=#008080}事件{/color}{color=#0080FF}和{/color}{color=#FF8000}委托{/color}{color=#0080FF}！』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『尽可能收集更多{/color}{color=#008080}事件{/color}{color=#0080FF}和{/color}{color=#FF8000}委托{/color}{color=#0080FF}！』{/color}"
 
     window hide
 

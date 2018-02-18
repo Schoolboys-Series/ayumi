@@ -1515,7 +1515,7 @@ translate english block_000023BB_545bff5f:
 # game/content/file_000001B0.rpy:4088
 translate english block_00002B2E_82b1b529:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "真是的啦松田亲！\n刚才为什么要说那么奇怪的话！\n手腕相扑什么的我还是第一次听说——"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "真是的啦松田亲！\n刚才为什么要说那么奇怪的话！\n掰手腕什么的我还是第一次听说——"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:4094
@@ -1533,7 +1533,7 @@ translate english block_00002B2E_67d6d643:
 # game/content/file_000001B0.rpy:4103
 translate english block_00002B2E_feec5574:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "手腕相扑啊——好久没试过了呐。\n呐——呐——我们也来一次——"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "掰手腕啊——好久没试过了呐。\n呐——呐——我们也来一次——"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_000001B0.rpy:4109
@@ -3909,7 +3909,7 @@ translate english block_000001D3_ca01d189:
 # game/content/file_000001B0.rpy:10692
 translate english block_000001D3_00621d6d:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "哦，那就换一个说法……"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "哦，是例行的那个呀……"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_000001B0.rpy:10697
@@ -4935,7 +4935,7 @@ translate english block_00000219_b6425e0e:
 # game/content/file_000001B0.rpy:13081
 translate english block_00000219_639dcb59:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}……。\n……。\n重点是，{/color}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『……。\n……。\n重点是，{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_000001B0.rpy:13086

@@ -237,7 +237,7 @@ translate english block_00004082_b6425e0e:
 # game/content/file_0000405C.rpy:1501
 translate english block_00004082_639dcb59:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}……。\n……。\n重点是，{/color}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『……。\n……。\n重点是，{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_0000405C.rpy:1506
@@ -483,7 +483,7 @@ translate english block_000040D0_ca01d189:
 # game/content/file_0000405C.rpy:2228
 translate english block_000040D0_00621d6d:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "哦，那就换一个说法……"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "哦，是例行的那个呀……"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_0000405C.rpy:2233

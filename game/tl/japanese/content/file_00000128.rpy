@@ -358,37 +358,37 @@ translate japanese block_00001F22_e11e9bdf:
 translate japanese block_000023A2_891de75e:
 
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "说起来\n"
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "そういえばさ。\n"
 
 # game/content/file_00000128.rpy:1251
 translate japanese block_000023A2_ab2d3063:
 
     # extend "{color=#0080FF}加藤君{/color}……同班的加藤君\n好像在{color=#008080}校庭{/color}里烦恼什么的样子。"
-    extend ""
+    extend "{color=#0080FF}加藤くん{/color}………同じ組の加藤くんが、\n{color=#008080}校庭{/color}で何か考え込んでたんだ。"
 
 # game/content/file_00000128.rpy:1256
 translate japanese block_000023A2_1a7ff767:
 
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "和他谈过一次，但听不明白他想表达什么意思……"
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "声は掛けてみたんだけど、\nいまいち要領を得なくてさ。"
 
 # game/content/file_00000128.rpy:1261
 translate japanese block_000023A2_a00b2c43:
 
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "稍后友也去和他谈谈。拜托了。"
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "あとで、友からも\n声を掛けてあげてほしい。{w}\nよろしく頼むよ。"
 
 # game/content/file_00000128.rpy:1292
 translate japanese block_000023A3_4bf32eb9:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『事件已开始。请试着寻找下一个同类{/color}{color=#008000}事件{/color}{color=#0080FF}。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『フラグが発生しました。次の{/color}{color=#008000}フラグ{/color}{color=#0080FF}を探しましょう。』{/color}"
 
 # game/content/file_00000128.rpy:1321
 translate japanese block_000023A6_1b9fcea3:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『请试着寻找下一个同类{/color}{color=#008000}事件{/color}{color=#0080FF}。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『次の{/color}{color=#008000}フラグ{/color}{color=#0080FF}を探しましょう。』{/color}"
 
 # game/content/file_00000128.rpy:1369
 translate japanese block_000007A5_62cc6d34:

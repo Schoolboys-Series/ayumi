@@ -4197,7 +4197,7 @@ translate english block_00000931_b6425e0e:
 # game/content/file_000008C8.rpy:12750
 translate english block_00000931_639dcb59:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}……。\n……。\n重点是，{/color}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『……。\n……。\n重点是，{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_000008C8.rpy:12755

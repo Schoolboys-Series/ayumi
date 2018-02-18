@@ -2277,7 +2277,7 @@ translate english block_00004049_0e97e08e:
 # game/content/file_00001947.rpy:6997
 translate english block_0000404A_3cc05aec:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}尽可能收集更多{/color}{color=#008080}事件{/color}{color=#0080FF}和{/color}{color=#FF8000}委托{/color}{color=#0080FF}！』{/color}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『尽可能收集更多{/color}{color=#008080}事件{/color}{color=#0080FF}和{/color}{color=#FF8000}委托{/color}{color=#0080FF}！』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_00001947.rpy:7153
@@ -3045,7 +3045,7 @@ translate english block_00002762_ca01d189:
 # game/content/file_00001947.rpy:9026
 translate english block_00002762_00621d6d:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "哦，那就换一个说法……"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "哦，是例行的那个呀……"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_00001947.rpy:9031
@@ -4023,7 +4023,7 @@ translate english block_00001992_b6425e0e:
 # game/content/file_00001947.rpy:11459
 translate english block_00001992_639dcb59:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}……。\n……。\n重点是，{/color}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『……。\n……。\n重点是，{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_00001947.rpy:11464
@@ -4095,7 +4095,7 @@ translate english block_000026BF_b9c35f18:
 # game/content/file_00001947.rpy:11788
 translate english block_00001A02_3cc05aec:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}尽可能收集更多{/color}{color=#008080}事件{/color}{color=#0080FF}和{/color}{color=#FF8000}委托{/color}{color=#0080FF}！』{/color}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『尽可能收集更多{/color}{color=#008080}事件{/color}{color=#0080FF}和{/color}{color=#FF8000}委托{/color}{color=#0080FF}！』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_00001947.rpy:11807
