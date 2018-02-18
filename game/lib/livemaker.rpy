@@ -87,12 +87,15 @@ init -1 python:
             globals()["current_window"] = name
         else:
             globals()["current_window"] = name = "イベントモード"
+        print "Set windows to : %s" % (name)
         style.window = dialogue_stylesheet[name]
         if style.exists("say_dialogue"):
             style.say_dialogue.color = dialogue_stylesheet[name].color
             style.say_dialogue.size = dialogue_stylesheet[name].size
+            print "Update say dialogue done."
         if style.exists("ctc"):
             style.ctc.pos = dialogue_ctc[name]
+            print "Update click to continue done."
         style.rebuild()
         run_hotfixes()
 
