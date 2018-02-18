@@ -5,4 +5,3 @@ translate japanese strings:
     # script.rpy:26
     old "点击开始"
     new "クリックで始まる"
-

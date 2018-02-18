@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2017-11-20 17:33
+﻿translate english python:
+    set_window()
 
 translate english strings:
 

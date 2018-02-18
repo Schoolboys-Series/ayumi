@@ -408,7 +408,7 @@ translate japanese strings:
 
     # content\file_0000214A.rpy:83
     old "赤峰兄弟 1"
-    new ""
+    new "赤峰兄弟１"
 
     # content\file_0000214A.rpy:83
     old "这首曲子更加侧重赤峰月，传统日本乐器、高昂的音调和悠扬的\n旋律共同塑造出了坚强开朗的少年这一形象。不过，背景里的其\n他乐器也是必不可少的，它们共同演奏着只属于他们的音符。"
@@ -416,7 +416,7 @@ translate japanese strings:
 
     # content\file_0000214A.rpy:83
     old "赤峰兄弟 2"
-    new ""
+    new "赤峰兄弟２"
 
     # content\file_0000214A.rpy:83
     old "除去鼓点外，这是一首由两种乐器演奏的音乐，一方负责主旋律，\n一方负责和弦，相辅相成，缺一不可。就旋律来看，这更适合作\n为日常曲，实际上，它也确实总出现在月和空单独相处的时候。"
@@ -424,7 +424,7 @@ translate japanese strings:
 
     # content\file_0000214A.rpy:83
     old "赤峰兄弟 3"
-    new ""
+    new "赤峰兄弟３"
 
     # content\file_0000214A.rpy:83
     old "非常古风的曲子，在赤峰兄弟的总共四首曲子中最有历史感。这\n是一首缅怀过去的乐曲。不过，缅怀过去是为了面向未来，这是\n毋庸置疑的。"
@@ -432,7 +432,7 @@ translate japanese strings:
 
     # content\file_0000214A.rpy:83
     old "九尾 1"
-    new ""
+    new "九尾１"
 
     # content\file_0000214A.rpy:83
     old "平安时代的音乐风格，那也是妖怪和阴阳师的时代。采用日本传\n统乐器制作的这首以降调为主的曲子正是在叙述九尾辉煌的过去\n和微妙的现实。"
@@ -440,7 +440,7 @@ translate japanese strings:
 
     # content\file_0000214A.rpy:83
     old "九尾 2"
-    new ""
+    new "九尾２"
 
     # content\file_0000214A.rpy:83
     old "近代日本的音乐风格，在传统中融入一定量西方元素，以悠扬的\n旋律体现历史的凝重。千年以来，九尾一直在此，直到那一天，\n它遇到……"
@@ -448,7 +448,7 @@ translate japanese strings:
 
     # content\file_0000214A.rpy:83
     old "九尾 3"
-    new ""
+    new "九尾３"
 
     # content\file_0000214A.rpy:83
     old "风格重新回到古日本，不过和九尾的第一首印象曲不同，这首曲\n子非常明快。背景里偶尔出现的人声是神道教祭奠神灵的仪式，\n也就是祭典上常见的声音。九尾终于遇到了自己中意的人，可喜\n可贺，可喜可贺。"
@@ -456,7 +456,7 @@ translate japanese strings:
 
     # content\file_0000214A.rpy:83
     old "木村与伊藤"
-    new ""
+    new "樹と圭"
 
     # content\file_0000214A.rpy:83
     old "这是本作电子乐感最强的一首，其次就是三朗的印象曲。曲子本\n身不急不缓，电子乐构成的和弦却给乐曲本身添加了一层紧张感。\n值得一提的是，伊藤早已单恋木村很久，却因为对方有恋人而一\n直不敢追求。以对方的幸福优先也是伊藤温柔的地方。"
@@ -464,7 +464,7 @@ translate japanese strings:
 
     # content\file_0000214A.rpy:83
     old "猫山三朗"
-    new ""
+    new "三朗"
 
     # content\file_0000214A.rpy:83
     old "这也是野球拳场景的背景音乐。电子乐的大量出现使得这首曲子\n和本作其他乐曲存在较大差别，不过正好反映了三朗喜欢追赶潮\n流而又有些放荡不羁的性格。"
@@ -472,7 +472,7 @@ translate japanese strings:
 
     # content\file_0000214A.rpy:83
     old "奥村慎太郎"
-    new ""
+    new "慎太郎"
 
     # content\file_0000214A.rpy:83
     old "基于未知原因，三朗美发店用的就是慎太郎的印象曲，不得不説\n是真爱。曲子本身没有朔那么诡异，但也有点诡异，给人一种想\n要搞事的感觉。不过，作为“御咲学园HOMO计划”的主要负责\n人，这还是非常恰当的。"
@@ -480,7 +480,7 @@ translate japanese strings:
 
     # content\file_0000214A.rpy:83
     old "朔"
-    new ""
+    new "朔"
 
     # content\file_0000214A.rpy:83
     old "朔的所有音乐都很诡异，这可能与他外星人的身份有关。背景中\n偶尔出现的狼的声音代表了他作为WOLFS一员的身份。整体偏西\n化和宗教化的曲风也彰显了他不为人知的神秘一面。"
@@ -488,7 +488,7 @@ translate japanese strings:
 
     # content\file_0000214A.rpy:83
     old "一之濑翼"
-    new ""
+    new "つばさ"
 
     # content\file_0000214A.rpy:83
     old "这是一位胆小怕事而又活在过去的少年。\n他不善于交往，终于在中学遇到可能会成为朋友的人，但这个愿\n望也破灭了。他不再前进，不敢追求自己的幸福，过去的一切对\n他而言是最美好的时光。希望有一天他能得到救赎，面向未来。"
@@ -496,7 +496,7 @@ translate japanese strings:
 
     # content\file_0000214A.rpy:83
     old "森海友 1"
-    new ""
+    new "友１"
 
     # content\file_0000214A.rpy:83
     old "这是友的第一首印象曲，从游戏开始便总是出现。友的印象曲\n中这首最为轻快，究竟这代表的是“轻快”还是“轻浮”就不\n好说了。"
@@ -504,7 +504,7 @@ translate japanese strings:
 
     # content\file_0000214A.rpy:83
     old "森海友 2"
-    new ""
+    new "友２"
 
     # content\file_0000214A.rpy:83
     old "与友的其他印象曲一样，这是一首纯粹的钢琴曲。整曲音调偏\n高，变化不定，但都无比轻快。採用的和弦自始至终未曾变化，\n偶尔出现的不稳定音更是令乐曲本身更加贴近呆毛少年的本质。"
@@ -512,7 +512,7 @@ translate japanese strings:
 
     # content\file_0000214A.rpy:83
     old "森海友 3"
-    new ""
+    new "友３"
 
     # content\file_0000214A.rpy:83
     old "作为友的三首印象曲中最正经的一首，它出现在第三章“变革\n进行曲“的部分，曲调也从之前的欢快为主变成了冷静的降调。\n这一次，他真的努力了，他真的做到了，这才是成为大人的必\n经之路。"
@@ -520,7 +520,7 @@ translate japanese strings:
 
     # content\file_0000214A.rpy:83
     old "友和忍"
-    new ""
+    new "友としのぶ"
 
     # content\file_0000214A.rpy:83
     old "这是一首乍听非常混沌的曲子。不过从中途开始，突然出现的一\n股降调钢琴段落颠覆了这一印象，之后曲调没有变化，但主旋律\n已经被突出，成为整首曲子的主要部分。"
@@ -528,7 +528,7 @@ translate japanese strings:
 
     # content\file_0000214A.rpy:83
     old "作哉与翼"
-    new ""
+    new "作哉とつばさ"
 
     # content\file_0000214A.rpy:83
     old "严格来说，这首曲子不是作哉和翼而是翼、作哉和小翼两人一狗\n的曲子。作哉是大家中生日最小的，却总被当做不良少年，但他\n其实非常温柔，就像这首曲子一样。希望他有朝一日能实现自己\n的愿望。"

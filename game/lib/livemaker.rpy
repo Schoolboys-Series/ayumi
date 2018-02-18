@@ -88,9 +88,11 @@ init -1 python:
         else:
             globals()["current_window"] = name = "イベントモード"
         style.window = dialogue_stylesheet[name]
-        style.say_dialogue.color = dialogue_stylesheet[name].color
-        style.say_dialogue.size = dialogue_stylesheet[name].size
-        style.ctc.pos = dialogue_ctc[name]
+        if style.exists("say_dialogue"):
+            style.say_dialogue.color = dialogue_stylesheet[name].color
+            style.say_dialogue.size = dialogue_stylesheet[name].size
+        if style.exists("ctc"):
+            style.ctc.pos = dialogue_ctc[name]
         style.rebuild()
         run_hotfixes()
 
@@ -331,7 +333,14 @@ screen lm_input_caption(caption):
     tag lm_input_caption
 
     add "gui/input_caption.png" pos (135, 474)
-    text caption xalign 0.5 yanchor 0.5 ypos 517 font "font/zcool-happy-ayumi-extended.ttf"
+    text caption:
+        style "lm_input_caption_hint"
+
+style lm_input_caption_hint:
+    xalign 0.5
+    yanchor 0.5
+    ypos 517
+    font "font/zcool-happy-ayumi-extended.ttf"
 
 ## LiveMaker Compatible Choice #################################################
 ##

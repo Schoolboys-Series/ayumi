@@ -24,14 +24,17 @@ screen scb_place_title(place):
         hover "gui/menu_button hover.png"
         action ShowMenu("save")
     text place:
-        xpos 675
-        ypos 30
-        size 18
-        color "#60300C"
-        xanchor 0.5
-        yanchor 0.5
-        text_align 0.5
-        font "font/zcool-happy-ayumi-extended.ttf"
+        style "scb_place_title_text"
+
+style scb_place_title_text:
+    xpos 675
+    ypos 30
+    size 18
+    color "#60300C"
+    xanchor 0.5
+    yanchor 0.5
+    text_align 0.5
+    font "font/zcool-happy-ayumi-extended.ttf"
 
 screen scb_place_title_button_only():
     add "gui/place_title_background.png" at scb_place_image_button_only

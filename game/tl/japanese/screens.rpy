@@ -9,6 +9,9 @@ translate japanese style skip_triangle:
 translate japanese style name_text:
     font "font/honyaji-re.ttf"
 
+translate japanese style say_label:
+    font "font/honyaji-re.ttf"
+
 translate japanese style interface_text:
     font "font/honyaji-re.ttf"
 

@@ -1,4 +1,6 @@
-﻿
+﻿translate None python:
+    set_window()
+
 translate None strings:
 
     # 00action_file.rpy:26

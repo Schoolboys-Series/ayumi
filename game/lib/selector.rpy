@@ -12,7 +12,8 @@ screen scb_selector_screen(title, items, auto_indent):
             else:
                 style "scb_selector_frame"
                 add "gui/input_caption.png" pos (135, 464)
-            text title xalign 0.5 yanchor 0.5 ypos 507 font "font/zcool-happy-ayumi-extended.ttf"
+            text title:
+                style "scb_selector_hint_text"
     $ y_position = 100
     for i, item in enumerate(items):
         frame at scb_selector_item:
@@ -52,6 +53,11 @@ style scb_selector_frame_indent is scb_selector_frame:
 style scb_selector_content_frame is default
 style scb_selector_content_frame_indent is scb_selector_content_frame:
     left_padding 100
+style scb_selector_hint_text is default:
+    xalign 0.5
+    yanchor 0.5
+    ypos 507
+    font "font/zcool-happy-ayumi-extended.ttf"
 style scb_selector_item_text is default:
     color "#FFFFFF"
     outlines [(absolute(1), "#214297", absolute(0), absolute(0))]

@@ -1,20 +1,20 @@
 init:
     image scb_flag_title_chapter = ParameterizedText(
-        font="font/zcool-happy-ayumi-extended.ttf",
+        font="font/source-hans-sans-medium.ttc",
         color="#000000",
         xalign=0.5,
         size=24,
         text_align=0.5)
 
     image scb_flag_title_chapter_reverse = ParameterizedText(
-        font="font/zcool-happy-ayumi-extended.ttf",
+        font="font/source-hans-sans-medium.ttc",
         color="#00CAFE",
         xalign=0.5,
         size=24,
         text_align=0.5)
     
     image scb_flag_title_chapter_end = ParameterizedText(
-        font="font/zcool-happy-ayumi-extended.ttf",
+        font="font/source-hans-sans-medium.ttc",
         color="#FFFFFF",
         xalign=0.5,
         size=24,
@@ -42,21 +42,21 @@ init:
         text_align=0.5)
 
     image scb_flag_title_name = ParameterizedText(
-        font="font/zcool-happy-ayumi-extended.ttf",
+        font="font/source-hans-sans-medium.ttc",
         color="#000000",
         xalign=0.5,
         size=55,
         text_align=0.5)
 
     image scb_flag_title_name_reverse = ParameterizedText(
-        font="font/zcool-happy-ayumi-extended.ttf",
+        font="font/source-hans-sans-medium.ttc",
         color="#00CAFE",
         xalign=0.5,
         size=55,
         text_align=0.5)
 
     image scb_flag_title_name_end = ParameterizedText(
-        font="font/zcool-happy-ayumi-extended.ttf",
+        font="font/source-hans-sans-medium.ttc",
         color="#FFFFFF",
         xalign=0.5,
         size=55,
