@@ -60,11 +60,11 @@ translate japanese strings:
 
     # content\file_000027FC.rpy:176
     old "榊雪绪"
-    new ""
+    new "榊　雪緒"
 
     # content\file_000027FC.rpy:176
     old "小翼"
-    new ""
+    new "ツバサ"
 
     # content\file_000027FC.rpy:176
     old "小翼（人类版）"
@@ -96,7 +96,7 @@ translate japanese strings:
 
     # content\file_000027FC.rpy:274
     old "比基尼"
-    new ""
+    new "ビキニ"
 
     # content\file_000027FC.rpy:274
     old "元气满满的小笨蛋。\n和忍是青梅竹马，住在同一所\n公寓的上面一层。对性的好奇心\n非常旺盛，随时持有“电摩”。\n因为母亲是钢琴家，以前也练习过，\n钢琴很不错。自己做饭，拿手料理\n“蛋包饭”。对呆毛很在意。"
@@ -208,7 +208,7 @@ translate japanese strings:
 
     # content\file_000027FC.rpy:446
     old "传统兜裆布"
-    new ""
+    new "褌"
 
     # content\file_000027FC.rpy:446
     old "空的异卵双胞胎哥哥。平时\n稳重冷静，可一旦遇到有关弟弟\n的事就会各种暴走。高智商低情商，\n最近因为视力下降开始戴眼镜。\n剑道部主将，自家也是道场，\n非常有希望成为继承人。"

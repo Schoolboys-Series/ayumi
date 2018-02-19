@@ -126,7 +126,7 @@ label block_0000388A:
         { "content": _("赤峰双子的内裤是什么类型的？"), "choice": [{"name":_("传统兜裆布"),"target":"block_00003895"},{"name":_("比基尼"),"target":"block_00003896"},{"name":_("并没穿"),"target":"block_00003897"}] },
         { "content": _("奥村慎太郎家经营着什么店？"), "choice": [{"name":_("澡堂"),"target":"block_00003895"},{"name":_("基佬酒吧"),"target":"block_00003897"},{"name":_("风俗店"),"target":"block_00003897"}] },
         { "content": _("《见习魔法师的任务》中\n主人公的名字是？"), "choice": [{"name":_("旭日"),"target":"block_00003896"},{"name":_("夕阳"),"target":"block_00003895"},{"name":_("朔"),"target":"block_00003896"}] },
-        { "content": _("御咲学园的制服内，泳装\n是什么样子的？"), "choice": [{"name":_("四角裤"),"target":"block_00003896"},{"name":_("三角裤"),"target":"block_00003895"},{"name":_("过膝短裤"),"target":"block_00003896"}] },
+        { "content": _("御咲学园的制服内，泳装\n是什么样子的？"), "choice": [{"name":_("四角泳裤"),"target":"block_00003896"},{"name":_("三角泳裤"),"target":"block_00003895"},{"name":_("过膝短裤"),"target":"block_00003896"}] },
         { "content": _("穗海作哉在校舍内养的狗的\n名字是？"), "choice": [{"name":_("小燕"),"target":"block_00003896"},{"name":_("小翼"),"target":"block_00003895"},{"name":_("小忍"),"target":"block_00003897"}] },
         { "content": _("猫山三朗在学校里参加了什么\n社团？"), "choice": [{"name":_("SM同好会"),"target":"block_00003897"},{"name":_("篮球部"),"target":"block_00003895"},{"name":_("男公关部"),"target":"block_00003897"}] },
         { "content": _("一之濑翼的连帽衫是从谁那里\n得到的？"), "choice": [{"name":_("某正太控大叔"),"target":"block_00003896"},{"name":_("森海友"),"target":"block_00003895"},{"name":_("穗海作哉"),"target":"block_00003896"}] },
@@ -169,7 +169,7 @@ label block_0000388D:
     $ QuestionSet = [
         { "content": _("“御咲”的日文读法是？"), "choice": [{"name":_("GOSAKI"),"target":"block_00003896"},{"name":_("ONSAKI"),"target":"block_00003896"},{"name":_("MISAKI"),"target":"block_00003895"}] },
         { "content": _("朔高价买入的这只\n触手的名字是？"), "choice": [{"name":_("梅菲蒙特"),"target":"block_00003896"},{"name":_("艾森蒙特"),"target":"block_00003895"},{"name":_("鹊"),"target":"block_00003897"}], "with_image": "rs_image_50EB6BEE5CC74D72828F89A01D1A8B61" },
-        { "content": _("榊雪绪参加了什么俱乐部？"), "choice": [{"name":_("SM研究俱乐部"),"target":"block_00003897"},{"name":_("远足俱乐部"),"target":"block_00003895"},{"name":_("登山俱乐部"),"target":"block_00003896"}] },
+        { "content": _("榊雪绪参加了什么俱乐部？"), "choice": [{"name":_("SM研究俱乐部"),"target":"block_00003897"},{"name":_("远足俱乐部"),"target":"block_00003895"},{"name":_("篮球俱乐部"),"target":"block_00003896"}] },
         { "content": _("上次一班和二班的游泳比赛\n最后赢的是？"), "choice": [{"name":_("一班"),"target":"block_00003896"},{"name":_("二班"),"target":"block_00003896"},{"name":_("平手"),"target":"block_00003895"}] },
         { "content": _("一之濑翼的连帽衫多少钱？"), "choice": [{"name":_("950日元"),"target":"block_00003895"},{"name":_("1500日元"),"target":"block_00003896"},{"name":_("10000"),"target":"block_00003896"}] },
         { "content": _("穗海作哉新年参拜的愿望是？"), "choice": [{"name":_("与一之濑翼和好"),"target":"block_00003896"},{"name":_("干死森海友"),"target":"block_00003896"},{"name":_("希望变成狗"),"target":"block_00003895"}] },
@@ -598,7 +598,7 @@ label block_00003F3A:
     show rs_image_356A3FE1B14B49EFAB18B8F38E699BA1 as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 at center_bottom zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "该说是和想象中一样还是……{w}\n不管是好的还是坏的意义上，\n你都没能背叛期待呐。\n{nw}"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "该说是和想象中一样还是……{w}\n不管是好的还是坏的意义上，\n你都没能背叛期待呐。"
     if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
@@ -794,7 +794,7 @@ label block_000038AA:
     show rs_image_356A3FE1B14B49EFAB18B8F38E699BA1 as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 at center_bottom zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "该说是和想象中一样还是……{w}\n不管是好的还是坏的意义上，\n你都没能背叛期待呐。\n{nw}"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "该说是和想象中一样还是……{w}\n不管是好的还是坏的意义上，\n你都没能背叛期待呐。"
     if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
@@ -957,7 +957,7 @@ label block_000038A1:
     show rs_image_12E3E3C881C34AC09EF31505C89F7982 as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 at center_bottom zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "该说是和想象中一样还是……{w}\n不管是好的还是坏的意义上，\n你都没能背叛期待呐。\n{nw}"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "该说是和想象中一样还是……{w}\n不管是好的还是坏的意义上，\n你都没能背叛期待呐。"
     if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
@@ -1217,7 +1217,7 @@ label block_0000389F:
     show rs_image_718B13A73C1D499B8D43BB96215026E3 as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 at center_bottom zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "该说是和想象中一样还是……{w}\n不管是好的还是坏的意义上，\n你都没能背叛期待呐。\n{nw}"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "该说是和想象中一样还是……{w}\n不管是好的还是坏的意义上，\n你都没能背叛期待呐。"
     if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"

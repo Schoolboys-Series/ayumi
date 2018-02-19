@@ -99,7 +99,7 @@ translate english block_00003F3B_cbc263a0:
 # game/content/file_00003836.rpy:601
 translate english block_00003F3A_a8e87ae5:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "该说是和想象中一样还是……{w}\n不管是好的还是坏的意义上，\n你都没能背叛期待呐。\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "该说是和想象中一样还是……{w}\n不管是好的还是坏的意义上，\n你都没能背叛期待呐。"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00003836.rpy:609
@@ -171,7 +171,7 @@ translate english block_000038A9_cbc263a0:
 # game/content/file_00003836.rpy:797
 translate english block_000038AA_a8e87ae5:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "该说是和想象中一样还是……{w}\n不管是好的还是坏的意义上，\n你都没能背叛期待呐。\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "该说是和想象中一样还是……{w}\n不管是好的还是坏的意义上，\n你都没能背叛期待呐。"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00003836.rpy:805
@@ -231,7 +231,7 @@ translate english block_000038A3_86c01321:
 # game/content/file_00003836.rpy:960
 translate english block_000038A1_a8e87ae5:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "该说是和想象中一样还是……{w}\n不管是好的还是坏的意义上，\n你都没能背叛期待呐。\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "该说是和想象中一样还是……{w}\n不管是好的还是坏的意义上，\n你都没能背叛期待呐。"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00003836.rpy:968
@@ -315,7 +315,7 @@ translate english block_0000389D_cbc263a0:
 # game/content/file_00003836.rpy:1220
 translate english block_0000389F_a8e87ae5:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "该说是和想象中一样还是……{w}\n不管是好的还是坏的意义上，\n你都没能背叛期待呐。\n{nw}"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "该说是和想象中一样还是……{w}\n不管是好的还是坏的意义上，\n你都没能背叛期待呐。"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00003836.rpy:1228

@@ -769,3 +769,35 @@ translate japanese strings:
     # content\resources.rpy:343
     old " 九尾"
     new " 九尾"
+# TODO: Translation updated at 2018-02-19 17:16
+
+translate japanese strings:
+
+    # content\resources.rpy:322
+    old " 导游"
+    new ""
+
+    # content\resources.rpy:367
+    old " 章鱼章鱼星人"
+    new ""
+
+    # content\resources.rpy:401
+    old " 妖怪A"
+    new ""
+
+    # content\resources.rpy:403
+    old " 妖怪B"
+    new ""
+
+    # content\resources.rpy:405
+    old " 妖怪C"
+    new ""
+
+    # content\resources.rpy:423
+    old " A"
+    new ""
+
+    # content\resources.rpy:424
+    old " B"
+    new ""
+
