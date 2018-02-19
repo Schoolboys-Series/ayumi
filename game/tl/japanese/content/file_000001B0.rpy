@@ -3394,7 +3394,7 @@ translate japanese block_00000D36_b9c35f18:
 translate japanese block_00003723_9469dd49:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『事件{/color}{color=#3A00C4}“翼的流转音符”{/color}{color=#0080FF}成功结束。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ストーリーモード{/color}{color=#3A00C4}“つばさカンタービレ”{/color}{color=#0080FF}をクリアしました。』{/color}"
 
 # game/content/file_000001B0.rpy:9459
 translate japanese block_00001FD8_a16dba99:
