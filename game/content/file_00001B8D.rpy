@@ -974,6 +974,9 @@ label block_00001BED:
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "不，这是我们{color=#FF0000}成长的证明{/color}。{w}\n所以这是个好兆头，我只需要温柔地守护空……"
+    
+    show rs_image_0E452EF7E0BA412C9DE36DEF0C2481A9 as tag_81DF0CF91B224EAAA16B0366711BA01F zorder zorder_tag_81DF0CF91B224EAAA16B0366711BA01F onlayer master
+    with Shake((0.5, 1.0, 0.5, 1.0), 0.5, dist=5)
 
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "温柔地……{w}在、在远处{w}守护着他离开……{w}\n{w=0.4}{nw}"
     if sys_effect_current_file != "sound/Effect Sound/Boom 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
