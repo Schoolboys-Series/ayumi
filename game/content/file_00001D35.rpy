@@ -33,21 +33,21 @@ label block_000041FD:
     # Node: 000041FD (Prepare)
     $ IsCharacterAccepted = [False] * 19
     $ Items = [
-        { "name": "花乃汤优惠券", "count": 10, "description": "去了就能修养身心。\n在一部分人中很有名的“花乃汤”的优惠券。" },
-        { "name": "Madchen Cafe优惠券", "count": 10, "description": "据说能体验到非常愉悦之感的咖啡店。" },
-        { "name": "天王寺公园双人票", "count": 1, "description": "动物园的双人票。\n也包括游乐园部分，约会的绝佳地点！" },
-        { "name": "拉面自助券", "count": 1, "description": "运动部的御用拉面店“电拉”的自助券。\n根据心情和态度店主有时会提供额外服务。" },
-        { "name": "《见习魔法师的任务》第一卷", "count": 1, "description": "某奇幻漫画的第一卷。\n主人公似乎被玩了各种PLAY。" },
-        { "name": "《见习魔法师的任务》最新卷", "count": 1, "description": "某奇幻漫画的最新一卷。\n主人公还是被各种PLAY中。" },
-        { "name": "眼镜布", "count": 1, "description": "当戴眼镜的人遭受天降至灾时\n牺牲自己另其重见光明的……布。" },
-        { "name": "关西观光杂志", "count": 1, "description": "当旅行计划能按照读书时所想的\n一模一样发展时会有不错的成就感。" },
-        { "name": "怀旧玩具合集", "count": 1, "description": "以前流行的玩具和游戏。\n对现在的孩子来说没准很新奇。" },
-        { "name": "流行玩具合集", "count": 1, "description": "街头巷尾流行的玩具。\n不过基本都需要在室内玩。" },
-        { "name": "高档狗食", "count": 1, "description": "加了满满肉质的狗食。\n对正在成长的狗狗超级合适。" },
-        { "name": "电动按摩器", "count": -1, "description": "电动按摩器。\n一举征服所有男孩子的利器。" },
-        { "name": "穗海作哉照片集", "count": -1, "description": "小岛的作哉偷拍集。\n如果有委托他也可以去拍别人。" },
-        { "name": "可爱动物照片集", "count": -1, "description": "小岛的可爱动物照片集。\n这些软软的姿态肯定能征服所有人！" },
-        { "name": "优美风景照片集", "count": -1, "description": "小岛的风景照片集。\n据说有助于成为浪漫的大人。" }
+        { "name": _("花乃汤优惠券"), "count": 10, "description": _("去了就能修养身心。\n在一部分人中很有名的“花乃汤”的优惠券。") },
+        { "name": _("Madchen Cafe优惠券"), "count": 10, "description": _("据说能体验到非常愉悦之感的咖啡店。") },
+        { "name": _("天玉寺游乐园情侣票"), "count": 1, "description": _("动物园的双人票。\n也包括游乐园部分，约会的绝佳地点！") },
+        { "name": _("拉面自助券"), "count": 1, "description": _("运动部的御用拉面店“电拉”的自助券。\n根据心情和态度店主有时会提供额外服务。") },
+        { "name": _("《见习魔法师的任务》第一卷"), "count": 1, "description": _("某奇幻漫画的第一卷。\n主人公似乎被玩了各种PLAY。") },
+        { "name": _("《见习魔法师的任务》最新卷"), "count": 1, "description": _("某奇幻漫画的最新一卷。\n主人公还是被各种PLAY中。") },
+        { "name": _("眼镜布"), "count": 1, "description": _("当戴眼镜的人遭受天降至灾时\n牺牲自己另其重见光明的……布。") },
+        { "name": _("关西观光杂志"), "count": 1, "description": _("当旅行计划能按照读书时所想的\n一模一样发展时会有不错的成就感。") },
+        { "name": _("怀旧玩具合集"), "count": 1, "description": _("以前流行的玩具和游戏。\n对现在的孩子来说没准很新奇。") },
+        { "name": _("流行玩具合集"), "count": 1, "description": _("街头巷尾流行的玩具。\n不过基本都需要在室内玩。") },
+        { "name": _("高档狗食"), "count": 1, "description": _("加了满满肉质的狗食。\n对正在成长的狗狗超级合适。") },
+        { "name": _("电动按摩器"), "count": -1, "description": _("电动按摩器。\n一举征服所有男孩子的利器。") },
+        { "name": _("穗海作哉照片集"), "count": -1, "description": _("小岛的作哉偷拍集。\n如果有委托他也可以去拍别人。") },
+        { "name": _("可爱动物照片集"), "count": -1, "description": _("小岛的可爱动物照片集。\n这些软软的姿态肯定能征服所有人！") },
+        { "name": _("优美风景照片集"), "count": -1, "description": _("小岛的风景照片集。\n据说有助于成为浪漫的大人。") }
     ]
 
     jump block_00001D39
@@ -339,7 +339,7 @@ label block_00001DCA:
     show rs_image_B7B371E9C25B4882BF62B4D3040FFB76 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『选一个给{/color}{color=#FF00FF}森海友{/color}{color=#0080FF}的礼物。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『选一个给{/color}{color=#FF00FF}友{/color}{color=#0080FF}的礼物。』{/color}"
 
     window hide
 
@@ -2726,9 +2726,9 @@ label block_00001DE6:
 
     window show
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『松田很喜欢这个礼物，{/color}{w}{color=#00FFFF}将会试穿服装。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『健治很喜欢这个礼物，{/color}{w}{color=#00FFFF}将会试穿服装。』{/color}"
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『松田将会参加花车祭。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『健治将会参加花车祭。』{/color}"
 
     rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "……拿你们没辙。我也来助一臂之力。"
 
@@ -2814,9 +2814,9 @@ label block_00001DE8:
     $ set_window("イベントモード")
     window show
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『松田不喜欢这个礼物，并不会试穿服装。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『健治不喜欢这个礼物，并不会试穿服装。』{/color}"
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『松田至少会参加花车祭。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『健治至少会参加花车祭。』{/color}"
 
     rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "抱歉，这种装束还是太羞耻了。"
 
@@ -5408,7 +5408,7 @@ label block_00001DE7:
     show rs_image_B7B371E9C25B4882BF62B4D3040FFB76 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『选一个给{/color}{color=#FF00FF}松田{/color}{color=#0080FF}的礼物。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『选一个给{/color}{color=#FF00FF}健治{/color}{color=#0080FF}的礼物。』{/color}"
 
     window hide
 

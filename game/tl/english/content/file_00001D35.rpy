@@ -93,7 +93,7 @@ translate english block_00001DCA_2a811d49:
 # game/content/file_00001D35.rpy:342
 translate english block_00001DCA_0312fd97:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『选一个给{/color}{color=#FF00FF}森海友{/color}{color=#0080FF}的礼物。』{/color}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『选一个给{/color}{color=#FF00FF}友{/color}{color=#0080FF}的礼物。』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_00001D35.rpy:594
@@ -717,13 +717,13 @@ translate english block_00001DDC_862cae74:
 # game/content/file_00001D35.rpy:2728
 translate english block_00001DE6_5f45e6f8:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『松田很喜欢这个礼物，{/color}{w}{color=#00FFFF}将会试穿服装。』{/color}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『健治很喜欢这个礼物，{/color}{w}{color=#00FFFF}将会试穿服装。』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_00001D35.rpy:2730
 translate english block_00001DE6_a0d9c948:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『松田将会参加花车祭。』{/color}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『健治将会参加花车祭。』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_00001D35.rpy:2732
@@ -741,13 +741,13 @@ translate english block_00001DE6_04735c15:
 # game/content/file_00001D35.rpy:2816
 translate english block_00001DE8_2b5c6a62:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『松田不喜欢这个礼物，并不会试穿服装。』{/color}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『健治不喜欢这个礼物，并不会试穿服装。』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_00001D35.rpy:2818
 translate english block_00001DE8_01f90a6b:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『松田至少会参加花车祭。』{/color}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『健治至少会参加花车祭。』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_00001D35.rpy:2820
@@ -1581,7 +1581,7 @@ translate english block_00001DE7_f39cb538:
 # game/content/file_00001D35.rpy:5410
 translate english block_00001DE7_1aaf06b9:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『选一个给{/color}{color=#FF00FF}松田{/color}{color=#0080FF}的礼物。』{/color}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『选一个给{/color}{color=#FF00FF}健治{/color}{color=#0080FF}的礼物。』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_00001D35.rpy:5511

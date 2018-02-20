@@ -466,4 +466,4 @@ translate japanese strings:
 
     # content\file_00001EC3.rpy:1505
     old "反正也是最后了……"
-    new ""
+    new "どうせ最後がな"
