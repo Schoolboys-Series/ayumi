@@ -16,7 +16,7 @@ translate japanese block_00002687_1de2173d:
 translate japanese block_00002687_d01d0f5c:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "明明时间很充裕嘛～\n再怎么说我经常这个点来学校的。"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "余裕だよ～。\nだってオレ、こんぐらいの時間に\n登校することよくあるし。"
 
 # game/content/file_00002628.rpy:330
 translate japanese block_00002687_0e156352:

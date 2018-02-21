@@ -2176,7 +2176,7 @@ translate japanese block_00003AF8_e73001c9:
 translate japanese block_00003AF8_c87c3395:
 
     # extend "啊，翼前辈！等等！"
-    extend "あ、つばささん！ちょっと待った！」"
+    extend "あ、つばささん！ちょっと待った！"
 
 # game/content/file_000036FA.rpy:3315
 translate japanese block_00003AF8_13b05373:
@@ -2200,7 +2200,7 @@ translate japanese block_00003AF8_7b14cf65:
 translate japanese block_00003AF8_7b501b68:
 
     # rs_character_3B4C660F421B4BE392BB540B580F0339 "那个蚯蚓先生又是谁……{w}\n请振作一点，今年都多大了？"
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "誰ですか、ミミズさんって……。{w}\n本当にもう、しっかりしてくださいよね～。今何歳ですか？」"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "誰ですか、ミミズさんって……。{w}\n本当にもう、しっかりしてくださいよね～。今何歳ですか？"
 
 # game/content/file_000036FA.rpy:3335
 translate japanese block_00003AF8_039e7a74:
@@ -3214,7 +3214,7 @@ translate japanese block_00003AF7_85912c41:
 translate japanese block_00003AF7_c2d5de2f:
 
     # rs_character_3B4C660F421B4BE392BB540B580F0339 "哇，都说了住手！{w}\n怎、怎么回事？喜欢我、喜欢前辈？……欸？"
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "わっ、だから、やめてってぇ！{w}」\nど、どういうこと？僕も好きで、先輩も好き？……え？"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "わっ、だから、やめてってぇ！{w}\nど、どういうこと？僕も好きで、先輩も好き？……え？"
 
 # game/content/file_000036FA.rpy:4432
 translate japanese block_00003AF7_c76f51fa:

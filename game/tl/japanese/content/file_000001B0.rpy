@@ -1534,7 +1534,7 @@ translate japanese block_00002B2E_67d6d643:
 translate japanese block_00002B2E_d0494d87:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "掰手腕啊——好久没试过了呐。\n呐——呐——我们也来一次——"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "腕相撲ねー。\nそういや久しくやってないや。\nねーねー、今度オレとも勝負しよーよ。」"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "腕相撲ねー。\nそういや久しくやってないや。\nねーねー、今度オレとも勝負しよーよ。"
 
 # game/content/file_000001B0.rpy:4109
 translate japanese block_00002B2E_91e16c70:
@@ -3856,7 +3856,7 @@ translate japanese block_000023BD_b94b6a7d:
 translate japanese block_000023BD_dd28c972:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "……怎、怎么做才好！{w}\n作为班长、作为朋友，我到底该怎么做！"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "……ど、どうしよう！{w}委員長として、友達として\nここはなんとかしてあげなきゃ！」"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "……ど、どうしよう！{w}委員長として、友達として\nここはなんとかしてあげなきゃ！"
 
 # game/content/file_000001B0.rpy:10554
 translate japanese block_000023BD_e8badade:

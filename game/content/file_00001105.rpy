@@ -1204,7 +1204,7 @@ label block_00001150:
     show rs_image_F89A04A6DC494AEF9DDB0A6A99F3D02A as tag_81DF0CF91B224EAAA16B0366711BA01F zorder zorder_tag_81DF0CF91B224EAAA16B0366711BA01F onlayer master
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
-    extend "……是、是啊。\n今天、就珍重地对待好了。\n{nw}"
+    extend "……是、是啊。\n今天、就珍重地对待好了。"
     show rs_image_EF8501E4A7CC48B4A436E60E2F08C005 as tag_073D4E2B5E224963B025F95C92ED797A zorder zorder_tag_073D4E2B5E224963B025F95C92ED797A onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
