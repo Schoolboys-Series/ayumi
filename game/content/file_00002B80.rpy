@@ -369,7 +369,7 @@ label block_00002C2B:
 
 label block_00002C2A:
     # Node: 00002C2A (Name)
-    $ _lm_input_result = lm_input("告诉我名字好不好ーー！", ["姓氏", "名字"], [persistent.LastName, persistent.FirstName])
+    $ _lm_input_result = lm_input(_("告诉我名字好不好ーー！"), [_("姓氏"), _("名字")], [persistent.LastName, persistent.FirstName])
     $ persistent.LastName = _lm_input_result[0]
     $ persistent.FirstName = _lm_input_result[1]
     $ del _lm_input_result
@@ -4957,7 +4957,7 @@ label block_00002C2E:
 
 label block_00002C2D:
     # Node: 00002C2D (Name)
-    $ _lm_input_result = lm_input("请说出你的名字。", ["姓氏", "名字"], [persistent.LastName, persistent.FirstName])
+    $ _lm_input_result = lm_input(_("请说出你的名字。"), [_("姓氏"), _("名字")], [persistent.LastName, persistent.FirstName])
     $ persistent.LastName = _lm_input_result[0]
     $ persistent.FirstName = _lm_input_result[1]
     $ del _lm_input_result
@@ -4983,7 +4983,7 @@ label block_00002C32:
 
 label block_00002C31:
     # Node: 00002C31 (Name)
-    $ _lm_input_result = lm_input("别磨蹭快说。", ["姓氏", "名字"], [persistent.LastName, persistent.FirstName])
+    $ _lm_input_result = lm_input(_("别磨蹭快说。"), [_("姓氏"), _("名字")], [persistent.LastName, persistent.FirstName])
     $ persistent.LastName = _lm_input_result[0]
     $ persistent.FirstName = _lm_input_result[1]
     $ del _lm_input_result
@@ -5009,7 +5009,7 @@ label block_00002C2F:
 
 label block_00002C30:
     # Node: 00002C30 (Name)
-    $ _lm_input_result = lm_input("请、请告诉我你的名字好不好？", ["姓氏", "名字"], [persistent.LastName, persistent.FirstName])
+    $ _lm_input_result = lm_input(_("请、请告诉我你的名字好不好？"), [_("姓氏"), _("名字")], [persistent.LastName, persistent.FirstName])
     $ persistent.LastName = _lm_input_result[0]
     $ persistent.FirstName = _lm_input_result[1]
     $ del _lm_input_result
@@ -5035,7 +5035,7 @@ label block_00002C38:
 
 label block_00002C34:
     # Node: 00002C34 (Name)
-    $ _lm_input_result = lm_input("说出你的名字。", ["姓氏", "名字"], [persistent.LastName, persistent.FirstName])
+    $ _lm_input_result = lm_input(_("说出你的名字。"), [_("姓氏"), _("名字")], [persistent.LastName, persistent.FirstName])
     $ persistent.LastName = _lm_input_result[0]
     $ persistent.FirstName = _lm_input_result[1]
     $ del _lm_input_result
@@ -5061,7 +5061,7 @@ label block_00002C37:
 
 label block_00002C33:
     # Node: 00002C33 (Name)
-    $ _lm_input_result = lm_input("我想知道怎么称呼你。", ["姓氏", "名字"], [persistent.LastName, persistent.FirstName])
+    $ _lm_input_result = lm_input(_("我想知道怎么称呼你。"), [_("姓氏"), _("名字")], [persistent.LastName, persistent.FirstName])
     $ persistent.LastName = _lm_input_result[0]
     $ persistent.FirstName = _lm_input_result[1]
     $ del _lm_input_result
@@ -5087,7 +5087,7 @@ label block_00002C39:
 
 label block_00002C35:
     # Node: 00002C35 (Name)
-    $ _lm_input_result = lm_input("抱歉，你的名字是？", ["姓氏", "名字"], [persistent.LastName, persistent.FirstName])
+    $ _lm_input_result = lm_input(_("抱歉，你的名字是？"), [_("姓氏"), _("名字")], [persistent.LastName, persistent.FirstName])
     $ persistent.LastName = _lm_input_result[0]
     $ persistent.FirstName = _lm_input_result[1]
     $ del _lm_input_result
@@ -5113,7 +5113,7 @@ label block_00002C3A:
 
 label block_00002C36:
     # Node: 00002C36 (Name)
-    $ _lm_input_result = lm_input("告诉我名字好不好☆", ["姓氏", "名字"], [persistent.LastName, persistent.FirstName])
+    $ _lm_input_result = lm_input(_("告诉我名字好不好☆"), [_("姓氏"), _("名字")], [persistent.LastName, persistent.FirstName])
     $ persistent.LastName = _lm_input_result[0]
     $ persistent.FirstName = _lm_input_result[1]
     $ del _lm_input_result
