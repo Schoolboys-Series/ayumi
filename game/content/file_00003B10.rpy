@@ -917,7 +917,7 @@ label block_00003B27:
     hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    extend "是啊！就是H！SEX！！！\n我就是想和她做怎么了！！！"
+    extend "是啊！就是H！SEX！！！\n我就是想和他做怎么了！！！"
 
     hide tag_2C4A74BADF6540698EF3E9A300893D1A
     with rs_effect_351A8A667ECF419EB1A052B06E597A01

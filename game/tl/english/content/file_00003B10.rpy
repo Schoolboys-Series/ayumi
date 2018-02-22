@@ -417,7 +417,7 @@ translate english block_00003B27_4e1e6e8d:
 # game/content/file_00003B10.rpy:920
 translate english block_00003B27_a40fb024:
 
-    # extend "是啊！就是H！SEX！！！\n我就是想和她做怎么了！！！"
+    # extend "是啊！就是H！SEX！！！\n我就是想和他做怎么了！！！"
     extend ""
 
 # game/content/file_00003B10.rpy:933
