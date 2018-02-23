@@ -42,12 +42,8 @@ label block_00003902:
 
     pause 0.3
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『本故事包含大量的那种剧情\n和见光死的梗（无车）。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『本故事包含大量的那种剧情\n和见光死的梗（无车），\n请注意莫要翻车。』{/color}"
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『不喜欢的话，请按住{/color}{color=#AA0055}Ctrl{/color}{color=#0080FF}快进到底。{/color}{w}\n{color=#0080FF}如果已经是老司机，就请随意。』{/color}"
-
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『至于手机版……没有跳过，请把自己当成老司机。』{/color}"
-    
     pause 0.3
 
     window hide
@@ -1269,6 +1265,8 @@ label block_00003902:
     $ zorder_tag_F647A346C17043E4AA06DD4621FE0DFF = 400
     show rs_image_328F7611A01F4113B7ED85246E2C68E1 as tag_F647A346C17043E4AA06DD4621FE0DFF at center_bottom zorder zorder_tag_F647A346C17043E4AA06DD4621FE0DFF onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
+
+    extend ""
 
     hide tag_F647A346C17043E4AA06DD4621FE0DFF
     with rs_effect_351A8A667ECF419EB1A052B06E597A01

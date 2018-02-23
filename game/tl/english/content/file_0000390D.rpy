@@ -2565,7 +2565,7 @@ translate english block_00003911_ba8ec44e:
 # game/content/file_0000390D.rpy:3766
 translate english block_00003911_70ad1a3c:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "运动会的时候肯定很引人注目的！好期待哦～♪\n{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "运动会的时候肯定很引人注目的！好期待哦～♪"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
 
 # game/content/file_0000390D.rpy:3770

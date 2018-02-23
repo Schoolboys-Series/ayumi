@@ -4179,7 +4179,7 @@ label block_00003ACF:
     $ set_window("チャット")
     window show
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "『寻找知晓{color=#0080FF}“响彻心扉的的话语”的人\n并听取建议。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『寻找知晓“响彻心扉的的话语”的人\n并听取建议。』{/color}"
 
     window hide
 
@@ -4637,7 +4637,7 @@ label block_00003ADB:
     $ set_window("チャット")
     window show
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "呼～期中考试终于考完了～"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哈~秋天好棒~\n暖缓和和，心情真好~"
 
     window hide
 
@@ -4656,7 +4656,7 @@ label block_00003ADA:
     $ set_window("チャット")
     window show
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "快要期中考试了……啊，真讨厌。"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "还要穿校服，好热。"
 
     window hide
 
@@ -7378,7 +7378,7 @@ label block_00002C59:
 
     window show
 
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "想参加训练吗？"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "想参加训练吗？"
 
     hide tag_81DF0CF91B224EAAA16B0366711BA01F
     hide tag_073D4E2B5E224963B025F95C92ED797A
@@ -12805,7 +12805,7 @@ label block_000018CE:
     $ set_window("チャット")
     window show
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "『寻找知晓{color=#0080FF}“响彻心扉的的话语”的人\n并听取建议。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『寻找知晓“响彻心扉的的话语”的人\n并听取建议。』{/color}"
 
     window hide
 

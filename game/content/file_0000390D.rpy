@@ -2573,7 +2573,7 @@ label block_00003911:
         play effect "sound/Effect Sound/Type 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Type 1.ogg"
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#F9CE1D}YUU 啊——啊，等新学期来时不好好谢谢他的话……{/color}{w}\n{color=#800080}flower 嗯嗯？谁？{/color}{w}\n{color=#F9CE1D}YUU 朋友哦！(>_<)\n受到照顾了嘛……{/color}{w}\n{color=#800080}flower 是嘛是嘛。一直都备受关照嘛……(´-ω-`)\n能向好的方向转变就好了呐♪{/color}{w}\n{color=#F9CE1D}YUU 嗯！{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#F9CE1D}YUU 谢谢你和我说这么多！\n啊，等新学期来时必须让他好好道歉……{/color}{w}\n{color=#800080}flower 嗯嗯？对谁？{/color}{w}\n{color=#F9CE1D}YUU 对朋友！(>_<)\n都作出那种该遭天打雷劈的事了……{/color}{w}\n{color=#800080}flower 是啊，已经到万不得已了……(´-ω-`)\n能顺利就好了呐♪{/color}{w}\n{color=#F9CE1D}YUU 嗯！{/color}"
 
     window hide
 
@@ -3763,7 +3763,7 @@ label block_00003911:
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "好厉害——！！那是不是身上也全都是肌肉呢！？"
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "运动会的时候肯定很引人注目的！好期待哦～♪\n{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "运动会的时候肯定很引人注目的！好期待哦～♪"
     show rs_image_D66809B07DBB47B58D9A2808822498AA as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 

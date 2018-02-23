@@ -945,7 +945,7 @@ translate english block_00003ACE_be191e87:
 # game/content/file_000008C8.rpy:4182
 translate english block_00003ACF_12a78a7e:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "『寻找知晓{color=#0080FF}“响彻心扉的的话语”的人\n并听取建议。』{/color}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『寻找知晓“响彻心扉的的话语”的人\n并听取建议。』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_000008C8.rpy:4260
@@ -2193,8 +2193,8 @@ translate english block_00001F2F_0e63ec53:
 # game/content/file_000008C8.rpy:7381
 translate english block_00002C59_f5ebc707:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "想参加训练吗？"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "想参加训练吗？"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A ""
 
 # game/content/file_000008C8.rpy:7459
 translate english block_00002C56_9e733e72:
@@ -4221,7 +4221,7 @@ translate english block_000018CF_be191e87:
 # game/content/file_000008C8.rpy:12808
 translate english block_000018CE_12a78a7e:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "『寻找知晓{color=#0080FF}“响彻心扉的的话语”的人\n并听取建议。』{/color}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『寻找知晓“响彻心扉的的话语”的人\n并听取建议。』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 ""
 
 # game/content/file_000008C8.rpy:12886
