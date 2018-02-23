@@ -811,9 +811,9 @@ translate japanese block_00003A16_80dacf29:
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "あ……ありません。"
 
 # game/content/file_00003A0D.rpy:1775
-translate japanese block_00003A16_e2d935c5:
+translate japanese block_00003A16_f7ed9b05:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "外套。"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "包里。"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "鞄。"
 
 # game/content/file_00003A0D.rpy:1785

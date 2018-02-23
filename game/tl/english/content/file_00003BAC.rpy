@@ -3861,7 +3861,7 @@ translate english block_00003BBB_562bef5e:
 # game/content/file_00003BAC.rpy:7994
 translate english block_00003BBB_7f56f52a:
 
-    # rs_character_EE1903694D624E399209772C95A20AAA "我因为要考试也很忙的。因为是大人，任性的言语我不会在意的。"
+    # rs_character_EE1903694D624E399209772C95A20AAA "他因为要考试也很忙的。因为我是大人，不会提任性的要求，会好好忍耐的。。"
     rs_character_EE1903694D624E399209772C95A20AAA ""
 
 # game/content/file_00003BAC.rpy:7999
@@ -3873,13 +3873,13 @@ translate english block_00003BBB_7a8311c6:
 # game/content/file_00003BAC.rpy:8004
 translate english block_00003BBB_7b3b7feb:
 
-    # rs_character_EE1903694D624E399209772C95A20AAA "啊，对了对了，也要向酒店主人道谢呐。\n没想到会特地来梅咲，真是惊人。"
+    # rs_character_EE1903694D624E399209772C95A20AAA "啊，对了对了，也要向酒店那些人道谢呐。\n没想到真会从梅咲一路赶来，吓了我一跳。"
     rs_character_EE1903694D624E399209772C95A20AAA ""
 
 # game/content/file_00003BAC.rpy:8009
 translate english block_00003BBB_a46c701a:
 
-    # rs_character_EE1903694D624E399209772C95A20AAA "对那个一般都是向老头子放个媚眼拿店竞争的他来说，\n或许有些无聊呐。"
+    # rs_character_EE1903694D624E399209772C95A20AAA "他们平时店里随便向老头子们抛几个眉眼就能大把捞钱，\n这次真是委屈了。"
     rs_character_EE1903694D624E399209772C95A20AAA ""
 
 # game/content/file_00003BAC.rpy:8014
@@ -3891,13 +3891,13 @@ translate english block_00003BBB_f8f2f168:
 # game/content/file_00003BAC.rpy:8019
 translate english block_00003BBB_f3089460:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "即便如此听闻事件后，给出了两种完全不同的反应。{w}\n和哥哥的关系似乎也能理解了。还是一如既往的会使唤人。"
+    # rs_character_62324AD297554FE987C680452CEE232E "即便如此听闻事件后，二话不说就答应下来。{w}\n足以一窥和哥哥的关系。还是一如既往的会使唤人。"
     rs_character_62324AD297554FE987C680452CEE232E ""
 
 # game/content/file_00003BAC.rpy:8028
 translate english block_00003BBB_96724ab3:
 
-    # rs_character_EE1903694D624E399209772C95A20AAA "莫语他人恶评，此谓人望。平时我们都是在一起行动的。"
+    # rs_character_EE1903694D624E399209772C95A20AAA "莫语他人恶评，此谓人望。平时我们都是在一起工作的。"
     rs_character_EE1903694D624E399209772C95A20AAA ""
 
 # game/content/file_00003BAC.rpy:8033

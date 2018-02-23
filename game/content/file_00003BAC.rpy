@@ -7991,7 +7991,7 @@ label block_00003BBB:
     show rs_image_10EDC597730C48C187CE16D28C4DEB17 as tag_A45595F91B474CC9A0810932B96DD8EC zorder zorder_tag_A45595F91B474CC9A0810932B96DD8EC onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_EE1903694D624E399209772C95A20AAA "我因为要考试也很忙的。因为是大人，任性的言语我不会在意的。"
+    rs_character_EE1903694D624E399209772C95A20AAA "他因为要考试也很忙的。因为我是大人，不会提任性的要求，会好好忍耐的。。"
 
     show rs_image_D7237C565A3B4E798F5B4E551B4FE0A8 as tag_E99970E1386B453DAF81C3AE2C72BE8E zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
@@ -8001,12 +8001,12 @@ label block_00003BBB:
     show rs_image_2F430E02CF774048BDB58B5FE52C418B as tag_A45595F91B474CC9A0810932B96DD8EC zorder zorder_tag_A45595F91B474CC9A0810932B96DD8EC onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_EE1903694D624E399209772C95A20AAA "啊，对了对了，也要向酒店主人道谢呐。\n没想到会特地来梅咲，真是惊人。"
+    rs_character_EE1903694D624E399209772C95A20AAA "啊，对了对了，也要向酒店那些人道谢呐。\n没想到真会从梅咲一路赶来，吓了我一跳。"
 
     show rs_image_67A5BF46DA6A49B7A37971AD05A21477 as tag_A45595F91B474CC9A0810932B96DD8EC zorder zorder_tag_A45595F91B474CC9A0810932B96DD8EC onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_EE1903694D624E399209772C95A20AAA "对那个一般都是向老头子放个媚眼拿店竞争的他来说，\n或许有些无聊呐。"
+    rs_character_EE1903694D624E399209772C95A20AAA "他们平时店里随便向老头子们抛几个眉眼就能大把捞钱，\n这次真是委屈了。"
 
     show rs_image_D7DFB9C596074724958BBE78FF9336D3 as tag_E99970E1386B453DAF81C3AE2C72BE8E zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
@@ -8016,7 +8016,7 @@ label block_00003BBB:
     show rs_image_EDB46CC6778D4FE0858464DE11647DF8 as tag_E99970E1386B453DAF81C3AE2C72BE8E zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_62324AD297554FE987C680452CEE232E "即便如此听闻事件后，给出了两种完全不同的反应。{w}\n和哥哥的关系似乎也能理解了。还是一如既往的会使唤人。"
+    rs_character_62324AD297554FE987C680452CEE232E "即便如此听闻事件后，二话不说就答应下来。{w}\n足以一窥和哥哥的关系。还是一如既往的会使唤人。"
 
     if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
@@ -8025,7 +8025,7 @@ label block_00003BBB:
     show rs_image_149C51C26D3D4ED4920A747F413CE022 as tag_A45595F91B474CC9A0810932B96DD8EC zorder zorder_tag_A45595F91B474CC9A0810932B96DD8EC onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_EE1903694D624E399209772C95A20AAA "莫语他人恶评，此谓人望。平时我们都是在一起行动的。"
+    rs_character_EE1903694D624E399209772C95A20AAA "莫语他人恶评，此谓人望。平时我们都是在一起工作的。"
 
     show rs_image_3149C4BF55744A498D9A6BE1CAAF3483 as tag_E99970E1386B453DAF81C3AE2C72BE8E zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B

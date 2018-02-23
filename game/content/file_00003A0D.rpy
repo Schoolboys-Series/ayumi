@@ -1772,7 +1772,7 @@ label block_00003A16:
     show rs_image_DDA00DBFDDC245EC9D675EA5711B37C9 as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "外套。"
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "包里。"
 
     if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop

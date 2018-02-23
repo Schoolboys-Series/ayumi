@@ -39,7 +39,7 @@ translate english block_000016E4_707a93de:
 # game/content/file_000016B7.rpy:334
 translate english block_000016E4_97029533:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "练习比赛也是一起的，{w}我也帮过他们不少。"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "练习比赛也是一起的，{w}我也被帮了不少。"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_000016B7.rpy:340
@@ -441,7 +441,7 @@ translate english block_000016EF_8e362874:
 # game/content/file_000016B7.rpy:1151
 translate english block_000016EF_f5d82cb0:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "森海前辈也不喜欢下雨呢。\n难得有这么个机会，快点放晴就好了。{w}\n对了，为什么这么讨厌呢？\n{nw}"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "森海前辈也不喜欢下雨呢。\n难得有这么个机会，快点放晴就好了。{w}\n对了，为什么这么讨厌呢？"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 ""
 
 # game/content/file_000016B7.rpy:1156
@@ -777,7 +777,7 @@ translate english block_000016DC_b1f5f3a5:
 # game/content/file_000016B7.rpy:2039
 translate english block_000016DD_ef30f452:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "唔……好困。"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "唔……麻烦了。"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E ""
 
 # game/content/file_000016B7.rpy:2044

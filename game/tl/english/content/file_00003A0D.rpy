@@ -813,7 +813,7 @@ translate english block_00003A16_80dacf29:
 # game/content/file_00003A0D.rpy:1775
 translate english block_00003A16_e2d935c5:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "外套。"
+    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "包里。"
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 ""
 
 # game/content/file_00003A0D.rpy:1785
