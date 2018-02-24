@@ -4677,7 +4677,52 @@ init -1:
     image rs_image_AC1A95BA21694004A67885C809E98CFF = "images/Background/Park/Park.png"
     image rs_image_D7154940FF02439388BA1F87BDD543E3 = "images/Background/Residential street/Residential street.png"
     image rs_image_A99E3DECBAEF415DB7F99A84949EA0D7 = "images/Background/School outside/School door.png"
-    image rs_image_B07A8E220AE74102B4BA1B35DB2728B1 = "images/Background/School outside/Gym outside.png"
+    image rs_image_B07A8E220AE74102B4BA1B35DB2728B1:
+        contains:
+            "images/Background/School outside/Gym outside.png"
+            xpos 0
+            ypos 0
+            alpha 1
+        contains:
+            "images/Background/School outside/Gym outside light 1.png"
+            parallel:
+                alpha 0
+                pause 1
+                linear 1 alpha 1
+                pause 1.5
+                linear 1 alpha 0
+                pause 7
+                repeat
+        contains:
+            "images/Background/School outside/Gym outside light 1.png"
+            parallel:
+                alpha 0
+                pause 3
+                linear 1 alpha 1
+                pause 1.5
+                linear 1 alpha 0
+                pause 5
+                repeat
+        contains:
+            "images/Background/School outside/Gym outside light 1.png"
+            parallel:
+                alpha 0
+                pause 5
+                linear 1 alpha 1
+                pause 1.5
+                linear 1 alpha 0
+                pause 3
+                repeat
+        contains:
+            "images/Background/School outside/Gym outside light 1.png"
+            parallel:
+                alpha 0
+                pause 7
+                linear 1 alpha 1
+                pause 1.5
+                linear 1 alpha 0
+                pause 1.5
+                repeat
     image rs_image_FA6744B680C1471EA7A25CCABF08CF1D = "images/Effect/Comic/Concentrated line 1.png"
     image rs_image_24188CBA120A4166B08F8A3535548A8D = "images/Background/School outside/Gym.png"
     image rs_image_E548BB1B00F44A74AC84AD6D6E56E79B = "images/Effect/Comic/Concentrated line 2.png"
