@@ -3,7 +3,6 @@
 define config.layers = [ 'master', 'transient', 'screens', 'overlay' ]
 
 init -1 python:
-    import random
     # Volume stack
     volume_stack = {
         "music": [],
