@@ -757,7 +757,7 @@ label block_0000401F:
     show rs_image_1094C02923E34A60B4DCA6F851A39FB0 as tag_988AD5B87A6D42E59078E032C7FA7EB1 zorder zorder_tag_988AD5B87A6D42E59078E032C7FA7EB1 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    extend "那可以请前辈在今天社团活动结束后开始嘛？"
+    extend "那可以请前辈在今天社团活动结束后开始吗？"
 
     rs_character_D34F60C882F0425E93252349E8C3BC8D "中山参加了排球部，回家的时间应该和我们很接近。"
 
@@ -1447,7 +1447,7 @@ label block_0000401F:
     show rs_image_20B77D172B0E46CF9955CA6BAE50636F as tag_2F2406ABFD334A9FAFFFD526F608E209 at left_top zorder zorder_tag_2F2406ABFD334A9FAFFFD526F608E209 onlayer master
     with rs_effect_3F09116E1F944952A143A708C140C6CA
 
-    rs_character_D34F60C882F0425E93252349E8C3BC8D "什、中山？振作一点！"
+    rs_character_D34F60C882F0425E93252349E8C3BC8D "中、中山？还好吧？振作一点！"
 
     rs_character_08DBDA5028CF47989118DFA6DF0E1507 "……{w=0.5}{nw}"
     show rs_image_51752209FD9740FAB88518A45B39FA1D as tag_2F2406ABFD334A9FAFFFD526F608E209 zorder zorder_tag_2F2406ABFD334A9FAFFFD526F608E209 onlayer master
@@ -2078,7 +2078,7 @@ label block_00003FD8:
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "没什么～♪比起这个，\n快点回家，快点吃饭，吃完后变得{color=#FFFF00}元气满满{/color}哦！"
 
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "（最近经常听到这句话不过，是不是真的在意我呐。）"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "（最近经常听到这句话不过，是不是真的很在意呐。）"
 
     window hide
 

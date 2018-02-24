@@ -453,7 +453,7 @@ translate english block_0000401F_0551d523:
 # game/content/file_00003FD6.rpy:760
 translate english block_0000401F_bd9ee833:
 
-    # extend "那可以请前辈在今天社团活动结束后开始嘛？"
+    # extend "那可以请前辈在今天社团活动结束后开始吗？"
     extend ""
 
 # game/content/file_00003FD6.rpy:762
@@ -945,7 +945,7 @@ translate english block_0000401F_e54c3151:
 # game/content/file_00003FD6.rpy:1450
 translate english block_0000401F_f69c9d3a:
 
-    # rs_character_D34F60C882F0425E93252349E8C3BC8D "什、中山？振作一点！"
+    # rs_character_D34F60C882F0425E93252349E8C3BC8D "中、中山？还好吧？振作一点！"
     rs_character_D34F60C882F0425E93252349E8C3BC8D ""
 
 # game/content/file_00003FD6.rpy:1452
@@ -1413,7 +1413,7 @@ translate english block_00003FD8_70668b3c:
 # game/content/file_00003FD6.rpy:2081
 translate english block_00003FD8_b42a41b2:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "（最近经常听到这句话不过，是不是真的在意我呐。）"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "（最近经常听到这句话不过，是不是真的很在意呐。）"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
 
 # game/content/file_00003FD6.rpy:2118
