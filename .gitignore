@@ -2,7 +2,7 @@
 *.rpymc
 game/saves/
 game/cache/
-game/images/
+game/**/images/
 game/sound/
 game/movie/
 raw/

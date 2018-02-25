@@ -591,7 +591,7 @@ screen main_menu():
                 ypos 10
                 text _("最近的存档") style "main_menu_save_lot_text"
                 text last_saved_game[3] style "main_menu_save_lot_text"
-                textbutton _("从这里继续") style "main_menu_save_lot_button" action FileLoad(last_saved_game[0], confirm=False, page = last_saved_game[1])
+                textbutton _("从这里继续") style "main_menu_save_lot_button" action FileLoad(last_saved_game[1], confirm=False, page=last_saved_game[0])
             add last_saved_game[2] xpos 0 ypos 0
             add "gui/menu/save_cover.png" xpos 0 ypos 0 zoom 0.4
     frame at main_menu_sidebar:
@@ -722,7 +722,7 @@ style main_menu_save_lot_text:
     color "#00B3C7"
     font "font/zcool-happy-ayumi-extended.ttf"
 style main_menu_save_lot_button:
-    ypos 20
+    top_margin 20
 style main_menu_save_lot_button_text:
     size 24
     color "#00B3C7"
@@ -1030,7 +1030,6 @@ screen preferences():
                     label _("语言")
                     textbutton "简体中文" action Language(None) text_style "language_sc_button"
                     textbutton "日本語" action Language("japanese") text_style "language_ja_button"
-                    textbutton "English" action Language("english") text_style "language_en_button"
 
             null height (4 * gui.pref_spacing)
             hbox:
@@ -1055,8 +1054,6 @@ style language_sc_button is radio_button_text:
     font "font/zcool-happy-ayumi-extended.ttf"
 style language_ja_button is radio_button_text:
     font "font/honyaji-re.ttf"
-style language_en_button is radio_button_text:
-    font "font/zcool-happy-ayumi-extended.ttf"
 style pref_label is gui_label
 style pref_label:
     top_margin gui.pref_spacing
