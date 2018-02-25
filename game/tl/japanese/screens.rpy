@@ -21,6 +21,21 @@ translate japanese style gui_text:
 translate japanese style button_text:
     font "font/honyaji-re.ttf"
 
+translate japanese style main_menu_left_action_panel_button_text:
+    font "font/source-hans-sans-medium.ttc"
+
+translate japanese style main_menu_right_action_panel_text:
+    font "font/source-hans-sans-medium.ttc"
+
+translate japanese style main_menu_right_action_panel_text_muted:
+    font "font/source-hans-sans-medium.ttc"
+
+translate japanese style main_menu_save_lot_text:
+    font "font/source-hans-sans-medium.ttc"
+
+translate japanese style main_menu_save_lot_button_text:
+    font "font/source-hans-sans-medium.ttc"
+
 translate japanese strings:
 
     # screens.rpy:12
@@ -438,4 +453,16 @@ translate japanese strings:
     # screens.rpy:1105
     old "回到下一句台词，前提是看过"
     new "ロールバック中、次の台詞に進む。"
+
+# TODO: Translation updated at 2018-02-24 20:37
+
+translate japanese strings:
+
+    # screens.rpy:592
+    old "最近的存档"
+    new "最近のセーブデータ"
+
+    # screens.rpy:594
+    old "从这里继续"
+    new "ここから続く"
 

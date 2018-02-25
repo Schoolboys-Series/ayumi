@@ -4556,8 +4556,6 @@ init -1:
     define rs_effect_D40B37AD6AF94EE0AFF8CB0762377A91 = Dissolve(1)
     define rs_effect_1445BCCB339E41F196B5E8B4A0176595 = Dissolve(0)
     define rs_effect_777EBB3BEF314C5187906634D1CE341E = None
-    image rs_image_839B2BB1D6744EB4AB47775387F220C1 = "images/Start Scene/Background with logo.png"
-    image rs_image_9799AAA3C25C4C6EB2E58D7277536C0F = "images/Start Scene/Background with border.png"
     define rs_effect_20A8817D51644BE6A7913BD30673F110 = Fade(2.5, 0.0, 2.5, color="#FFFFFF") # Origin: BlurWhite
     define rs_effect_351A8A667ECF419EB1A052B06E597A01 = Dissolve(0.2)
     define rs_effect_A56BC4024D7642E48310911FC9A1EB4B = Dissolve(0.3)

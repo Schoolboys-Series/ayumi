@@ -1,4 +1,10 @@
-﻿init python:
+﻿# Pre-defined colors
+image black = Solid("#000000")
+image white = Solid("#FFFFFF")
+image color_primary = Solid("#00B3C7")
+
+init python:
+    import time
     # Help function
     def split(arr, size):
         arrs = []
@@ -547,63 +553,187 @@ style choice_button_text is default:
 
 screen main_menu():
     tag menu
+    python:
+        last_saved_game_list = sorted(renpy.list_saved_games('\d+'), key=lambda x: x[3])
+        if len(last_saved_game_list) == 0:
+            last_saved_game = None
+        else:
+            last_saved_game = last_saved_game_list[-1]
+            last_saved_game_name = last_saved_game[0].split("-")
+            last_saved_game = (
+                last_saved_game_name[0], # file name
+                last_saved_game_name[1], # page name
+                last_saved_game[2], # image
+                time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(last_saved_game[3]))  # time
+            )
+            print last_saved_game
+            del last_saved_game_name
+        del last_saved_game_list
     style_prefix "main_menu"
-
-    frame:
-        style "main_menu_frame1"
-        pass
-    frame:
-        style "main_menu_frame2"
-        pass
-    hbox:
-        style "main_menu_hbox"
-        style_prefix "main_menu_hbox"
+    frame style "main_menu_container"
+    add "color_primary" at main_menu_intro_animation_background
+    add "gui/menu/line.png" at main_menu_intro_animation_line(340, 90, 0.27)
+    add "gui/menu/banner.png" at main_menu_intro_animation_line(290, 130, 0.27)
+    add "gui/menu/logo.png" at main_menu_intro_animation_logo
+    add "gui/menu/1.png" at main_menu_intro_animation_title(0, 0.2)
+    add "gui/menu/2.png" at main_menu_intro_animation_title(60, 0.25)
+    add "gui/menu/3.png" at main_menu_intro_animation_title(110, 0.3)
+    add "gui/menu/4.png" at main_menu_intro_animation_title(170, 0.35)
+    add "gui/menu/5.png" at main_menu_intro_animation_title(230, 0.4)
+    add "gui/menu/3.png" at main_menu_intro_animation_title(290, 0.45)
+    add "gui/menu/6.png" at main_menu_intro_animation_title(350, 0.5)
+    add "gui/menu/7.png" at main_menu_intro_animation_title(410, 0.55)
+    if last_saved_game != None:
+        frame at main_menu_save_lot:
+            style "main_menu_save_lot"
+            vbox:
+                xpos 180
+                ypos 10
+                text _("最近的存档") style "main_menu_save_lot_text"
+                text last_saved_game[3] style "main_menu_save_lot_text"
+                textbutton _("从这里继续") style "main_menu_save_lot_button" action FileLoad(last_saved_game[0], confirm=False, page = last_saved_game[1])
+            add last_saved_game[2] xpos 0 ypos 0
+            add "gui/menu/save_cover.png" xpos 0 ypos 0 zoom 0.4
+    frame at main_menu_sidebar:
+        style "main_menu_sidebar"
+        add "color_primary"
+    vbox at main_menu_left_action_panel:
+        style "main_menu_left_action_panel"
+        style_prefix "main_menu_left_action_panel"
         textbutton _("新的故事") action Start()
         textbutton _("回到日常") action ShowMenu("load")
-        textbutton _("事件画廊") action ShowMenu("gallery")
-        if persistent.SYSMusicAvailable:
-            textbutton _("音乐鉴赏") action Start("soundtrack_prepare")
-        if persistent.SystemStoryCache[17]:
-            textbutton _("场景回想") action Start("theater_prepare")
-    hbox:
-        style "main_menu_hbox"
-        style_prefix "main_menu_hbox"
-        yalign 0.7
         textbutton _("关于本作") action ShowMenu("about")
         textbutton _("系统设置") action ShowMenu("preferences")
+        textbutton _("帮助文档") action ShowMenu("help")
         if renpy.variant("pc"):
-            textbutton _("帮助文档") action ShowMenu("help")
-            textbutton _("退出游戏") action Quit(confirm=not main_menu)
-    text "© 2016 Kiriya·Kasasagi"
+            textbutton _("退出游戏") action Quit(confirm=False)
+    vbox at main_menu_right_action_panel:
+        style "main_menu_right_action_panel"
+        style_prefix "main_menu_right_action_panel"
+        hbox:
+            text _("事件画廊")
+            imagebutton at main_menu_right_action_panel_image_button:
+                idle "gui/menu/gallery.png"
+                hover "gui/menu/gallery hover.png"
+                action ShowMenu("gallery")
+        hbox:
+            if persistent.SYSMusicAvailable:
+                text _("音乐鉴赏")
+                imagebutton at main_menu_right_action_panel_image_button:
+                    idle "gui/menu/music.png"
+                    hover "gui/menu/music hover.png"
+                    action Start("soundtrack_prepare")
+            else:
+                text _("音乐鉴赏") style "main_menu_right_action_panel_text_muted"
+                imagebutton at main_menu_right_action_panel_image_button:
+                    idle "gui/menu/music muted.png"
+        hbox:
+            if persistent.SystemStoryCache[17]:
+                text _("场景回想")
+                imagebutton at main_menu_right_action_panel_image_button:
+                    idle "gui/menu/theater.png"
+                    hover "gui/menu/theater hover.png"
+                    action Start("theater_prepare")
+            else:
+                text _("场景回想") style "main_menu_right_action_panel_text_muted"
+                imagebutton at main_menu_right_action_panel_image_button:
+                    idle "gui/menu/theater muted.png"
+    text "© 2016 - 2018\n  Kiriya·Kasasagi/2eme Gymnopédie\n  Lundarl Gholoi/GILESFVK ËKITES\n  Version [config.version!t]" at main_menu_text
 
-style main_menu_frame is empty
-style main_menu_frame:
-    xsize 280
-    yfill True
-style main_menu_frame1:
-    background "images/Start Scene/Background with logo.png"
-transform border_fade_in:
-     alpha 0
-     linear 1.0 alpha 1
-style main_menu_frame2:
-    background At("images/Start Scene/Background with border.png", border_fade_in)
-style main_menu_text is gui_text
-style main_menu_text:
-    ypos 465
+transform main_menu_intro_animation_background:
     xalign 0.5
+    yalign 0.5
+    xpos 1600
+    ypos 1200
+    zoom 2.5
+    rotate 45
+    parallel:
+        pause 0.7
+        easein_back 0.3 zoom 1
+    parallel:
+        easein 1.0 xpos -200 ypos -200
+transform main_menu_intro_animation_title(x_pos, delay_time):
+    xpos 80 + x_pos
+    ypos 80
+    xanchor 0.5
+    yanchor 0.5
+    zoom 0
+    rotate -1
+    pause 0.8 + delay_time
+    parallel:
+        easein_back 0.4 zoom 0.3
+transform main_menu_intro_animation_line(x_pos, y_pos, zoom_level):
+    zoom 0
+    xanchor 0.5
+    yanchor 0.5
+    xpos x_pos
+    ypos y_pos
+    pause 1.2
+    parallel:
+        easein_back 0.4 zoom zoom_level
+transform main_menu_intro_animation_logo:
+    xanchor 0.5
+    yanchor 0.5
+    zoom 0.25
+    ypos 90
+    xpos 1000
+    pause 1.4
+    easein 1.0 xpos 600 rotate -360
+transform main_menu_sidebar:
+    alpha 0
+    pause 1.8
+    easein 0.3 alpha 1
+transform main_menu_left_action_panel:
+    alpha 0
+    xpos 40
+    pause 1.8
+    easein 0.3 alpha 1 xpos 60
+transform main_menu_right_action_panel:
+    alpha 0
+    xanchor 1.0
+    xpos 800
+    pause 1.8
+    easein 0.3 alpha 1 xpos 780
+transform main_menu_right_action_panel_image_button:
+    zoom 0.5
+transform main_menu_text:
+    alpha 0
+    pause 1.8
+    easein 0.3 alpha 1
+transform main_menu_save_lot:
+    alpha 0
+    xpos 250
+    ypos 200
+    pause 2.1
+    easein 0.3 alpha 1
+style main_menu_save_lot is default
+style main_menu_container is default:
+    background "#FAFFFF"
+style main_menu_sidebar is default:
+    area (750, 0, 50, 600)
+style main_menu_text is gui_text:
+    ypos 500
+    xpos 60
+    size 10
     color "#00B3C7"
-    bold True
     font "font/source-hans-sans-medium.ttc"
-style main_menu_hbox is hbox:
-    xalign 0.5
-    yalign 0.6
-    spacing gui.navigation_spacing
-style main_menu_hbox_button is gui_button:
-    xalign 0.5
-    properties gui.button_properties("navigation_button")
-style main_menu_hbox_button_text is gui_button_text:
+style main_menu_save_lot_text:
+    size 16
+    color "#00B3C7"
+    font "font/zcool-happy-ayumi-extended.ttf"
+style main_menu_save_lot_button:
+    ypos 20
+style main_menu_save_lot_button_text:
+    size 24
+    color "#00B3C7"
+    hover_color "#04C9FF"
+style main_menu_left_action_panel:
+    ypos 180
+    spacing 15
+style main_menu_left_action_panel_button is gui_button:
+    xalign 0
+style main_menu_left_action_panel_button_text is gui_button_text:
     size 26
-    properties gui.button_text_properties("navigation_button")
     color "#95F7FF"
     outlines [(absolute(4), "#068AFC00", absolute(0), absolute(0)),
               (absolute(3), "#068AFC88", absolute(0), absolute(0)),
@@ -612,6 +742,19 @@ style main_menu_hbox_button_text is gui_button_text:
     hover_outlines [(absolute(4), "#FFFFFF00", absolute(0), absolute(0)),
                     (absolute(3), "#FFFFFF88", absolute(0), absolute(0)),
                     (absolute(2), "#FFFFFFFF", absolute(0), absolute(0))]
+style main_menu_right_action_panel:
+    ypos 350
+    spacing 15
+style main_menu_right_action_panel_hbox:
+    xalign 1.0
+style main_menu_right_action_panel_text is gui_button_text:
+    size 26
+    xalign 1.0
+    color "#00B3C7"
+style main_menu_right_action_panel_text_muted is gui_button_text:
+    size 26
+    xalign 1.0
+    color "#636363"
 
 ## Game Menu screen ############################################################
 ##
