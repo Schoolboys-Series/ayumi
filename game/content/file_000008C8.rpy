@@ -961,7 +961,7 @@ label block_00002ED9:
 
 label block_00002EDA:
     # Node: 00002EDA (慎太郎筆記)
-    call block_000027FD from _call_block_000027FD_3
+    call screen shintarou_notebook()
 
     if judge_lm_condition([]):
         jump block_00003780
@@ -4120,7 +4120,7 @@ label block_00002CC8:
 
 label block_00002CC7:
     # Node: 00002CC7 (慎太郎筆記)
-    call block_000027FD from _call_block_000027FD_4
+    call screen shintarou_notebook()
 
     if judge_lm_condition([]):
         jump block_00003ABC

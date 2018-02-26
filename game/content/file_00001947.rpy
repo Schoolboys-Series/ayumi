@@ -6659,7 +6659,7 @@ label block_0000401C:
 
 label block_0000401D:
     # Node: 0000401D (慎太郎筆記)
-    call block_000027FD from _call_block_000027FD_2
+    call screen shintarou_notebook()
 
     if judge_lm_condition([]):
         jump block_0000401E

@@ -856,91 +856,91 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "九尾"
-    new ""
+    new "九尾"
 
     # content\character_full_info.rpy:18
     old "千岁以上"
-    new ""
+    new "千歳以上"
 
     # content\character_full_info.rpy:18
     old "怎么可能知道"
-    new ""
+    new "わかる道はない"
 
     # content\character_full_info.rpy:18
     old "和雪绪一样吧"
-    new ""
+    new "雪緒と同じかも"
 
     # content\character_full_info.rpy:18
     old "银刚山深处作为神受到祭祀的狐狸。\n似乎是顶级妖怪。\n以前凭依体毁坏所以失去了大部分力量，\n现在附身在波长吻合的雪绪身上。\n通过在各种意义上不断做各种事情\n正逐渐取回力量。"
-    new ""
+    new "銀剛山奥で、御神体に祀られていた九尾の狐。\n妖怪の中で上級ランクの化物らしい。\n昔の御神体が倒されたことで\n具現化する力を失ったが、\n波長の合う雪緒に憑き、\nいろ～んなこと（意味深❤）をすることで、\n少しずつ力を取り戻している。"
 
     # content\character_full_info.rpy:18
     old "常磐进"
-    new ""
+    new "常盤　進"
 
     # content\character_full_info.rpy:18
     old "中学三年级？"
-    new ""
+    new "中学三年生？"
 
     # content\character_full_info.rpy:18
     old "问不出来"
-    new ""
+    new "返事はない"
 
     # content\character_full_info.rpy:18
     old "不知为何一直静静地站在学园外的厕所旁。\n总能事先察觉到周围的异常和未来的事情，\n并据此给各种人各种有益的建议。\n表情一直很寂寞，似乎并不开心。"
-    new ""
+    new "なぜかいつも、学園の屋外トイレの側に\nひとり静かに立っている。\n周りの状況や、この先起こるであろうことに\nいち早く気が付き、困ったてる人を\n見かけると、そっと助言をしてくれる。\nいつもどこか寂しげな表情をしてくる。"
 
     # content\character_full_info.rpy:18
     old "诹访部翔银时"
-    new ""
+    new "諏訪部　翔銀時"
 
     # content\character_full_info.rpy:18
     old "八十八岁"
-    new ""
+    new "八十八歳"
 
     # content\character_full_info.rpy:18
     old "180cm"
-    new ""
+    new "180cm"
 
     # content\character_full_info.rpy:18
     old "74kg"
-    new ""
+    new "74kg"
 
     # content\character_full_info.rpy:18
     old "经常光顾花乃汤的老大爷，\n被其他客人称呼为“会长”。\n曾是御咲学园的学生，性格\n硬派刚正。现在非常担心慎太郎的\n身体健康。有一个25岁的孙子。"
-    new ""
+    new "花乃湯の常連客のおじいちゃん。\n他の客からは\"会長\"と呼ばれている。\n御咲学園出身。品のある硬派な性格で、\n今の花乃湯の状況から\n慎太郎の身体を心配している。\n２５歳の孫がいる。"
 
     # content\character_full_info.rpy:18
     old "诹访部翔平"
-    new ""
+    new "諏訪部　翔平"
 
     # content\character_full_info.rpy:18
     old "二十五岁"
-    new ""
+    new "２５歳"
 
     # content\character_full_info.rpy:18
     old "176cm"
-    new ""
+    new "176cm"
 
     # content\character_full_info.rpy:18
     old "65kg"
-    new ""
+    new "65kg"
 
     # content\character_full_info.rpy:18
     old "超重度正太控上班族。\n经常目不转睛看着各种少年，\n要是少年什么都好。\n人型自走大变态。\n当然，被请去喝茶还是没有过的。\n持有合气道段位，意外很强。"
-    new ""
+    new "スーパーショタコンサラリーマン。\nいつも少年ばかり見ていて、少年であれば何でもいい。\nド変態、でも捕まるようなことはしない。合気道参段の持ち主。意外と強い。"
 
     # content\character_full_info.rpy:18
     old "逆濑荒哉"
-    new ""
+    new "逆瀬　荒哉"
 
     # content\character_full_info.rpy:18
     old "4月30日"
-    new ""
+    new "4月30日"
 
     # content\character_full_info.rpy:18
     old "小学的时候特别喜欢欺负友和忍。\n因为父母的工作经常搬家，\n那时候也因为这个有半年\n转到了其他学校。\n现在住在关东。"
-    new ""
+    new "小学生の時代、\n友としのぶをいじめていた少年。\n親の仕事柄、引っ越すごとが多く、\n小学生のときも、わずか半年ちょっとで\n別の学校へ転校した。\n現在は、関東住まい。"
 
     # content\character_full_info.rpy:18
     old "黑——"

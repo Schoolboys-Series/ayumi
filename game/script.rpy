@@ -146,10 +146,6 @@ label start:
         text_align=0.5,
         outlines=[(absolute(2), "#FFFFFF", absolute(0), absolute(0))])
 
-    $ C1S1 = C1S2 = C1S3 = C1S4 = C1S5 = C2S1 = C2S2 = C2S3 = C2S4 = C2S5 = C2S6 = C3S1 = C3S2 = C3S3 = C3S4 = C3S5 = C3S6 = True
-
-    call screen shintarou_notebook
-
     jump block_00003985
 
     return

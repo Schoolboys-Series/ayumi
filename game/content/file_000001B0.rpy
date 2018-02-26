@@ -8827,7 +8827,7 @@ label block_000029C4:
 
 label block_000029C0:
     # Node: 000029C0 (慎太郎筆記)
-    call block_000027FD from _call_block_000027FD_1
+    call screen shintarou_notebook()
 
     if judge_lm_condition([]):
         jump block_00003A73
