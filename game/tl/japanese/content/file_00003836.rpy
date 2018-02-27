@@ -768,4 +768,31 @@ translate japanese strings:
 
     # content\file_00003836.rpy:169
     old "篮球俱乐部"
-    new "バスケットクラブ"
+    new "バスケットクラブ"# TODO: Translation updated at 2018-02-26 20:11
+
+translate japanese strings:
+
+    # content\file_00003836.rpy:123
+    old "夕阳"
+    new ""
+
+    # content\file_00003836.rpy:123
+    old "小翼"
+    new ""
+
+    # content\file_00003836.rpy:123
+    old "森海友"
+    new ""
+
+    # content\file_00003836.rpy:123
+    old "穗海作哉"
+    new ""
+
+    # content\file_00003836.rpy:146
+    old "榊雪绪"
+    new ""
+
+    # content\file_00003836.rpy:169
+    old "绫濑忍"
+    new ""
+

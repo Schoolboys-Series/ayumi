@@ -22,11 +22,11 @@ screen shintarou_notebook:
         $ character_list.extend(filter(lambda x: x["id"]  == "Dark lesser", character_full_info))
     $ character_list.extend(filter(lambda x: x["id"]  == "Tokiwa", character_full_info))
     if C1S4 == True or Chapter > 1:
-        $ character_list.extend(filter(lambda x: x["id"]  in ["Kobayashi", "Minami", "Sumoto", "Rikuta", "Shougintoki"], character_full_info))
+        $ character_list.extend(filter(lambda x: x["id"]  in ["Kobayashi", "Minami", "Sukimoto", "Rikuta", "Shougintoki"], character_full_info))
     if C3S1 == True:
         $ character_list.extend(filter(lambda x: x["id"]  == "Shouhei", character_full_info))
     if C2S5 == True:
-        $ character_list.extend(filter(lambda x: x["id"]  == "Kyubi", character_full_info))
+        $ character_list.extend(filter(lambda x: x["id"]  == "Kyuubi", character_full_info))
     if C1SG1 and C1SG2 and C2SG1 and C2SG2 and C3SG1 and C3SG2:
         $ character_list.extend(filter(lambda x: x["id"]  in ["Sakase", "Be--", "He--"], character_full_info))
     frame:
@@ -72,20 +72,20 @@ screen shintarou_notebook_content(character):
     text character["name"] at Transform(xpos=260, ypos=23) style "shintarou_notebook_content_name"
     $ shintarou_notebook_content_param = ""
     if "age" in character:
-        $ shintarou_notebook_content_param += _("年龄：") + character["age"] + "\n"
+        $ shintarou_notebook_content_param += __("年龄：") + __(character["age"]) + "\n"
     if "height" in character:
-        $ shintarou_notebook_content_param += _("身高：") + character["height"] + "\n"
+        $ shintarou_notebook_content_param += __("身高：") + __(character["height"]) + "\n"
     if "weight" in character:
-        $ shintarou_notebook_content_param += _("体重：") + character["weight"] + "\n"
+        $ shintarou_notebook_content_param += __("体重：") + __(character["weight"]) + "\n"
     if "birthdate" in character:
-        $ shintarou_notebook_content_param += _("生日：") + character["birthdate"] + "\n"
+        $ shintarou_notebook_content_param += __("生日：") + __(character["birthdate"]) + "\n"
     if "blood" in character:
-        $ shintarou_notebook_content_param += _("血型：") + character["blood"] + "\n"
+        $ shintarou_notebook_content_param += __("血型：") + __(character["blood"]) + "\n"
     if "club" in character:
-        $ shintarou_notebook_content_param += _("所属：") + character["club"] + "\n"
+        $ shintarou_notebook_content_param += __("所属：") + __(character["club"]) + "\n"
     if "pants" in character:
-        $ shintarou_notebook_content_param += _("内裤类型：") + character["pants"] + "\n"
-    text shintarou_notebook_content_param at Transform(xpos=240, ypos=88) style "shintarou_notebook_content_content"
+        $ shintarou_notebook_content_param += __("内裤类型：") + __(character["pants"]) + "\n"
+    text shintarou_notebook_content_param at Transform(xpos=240, ypos=98) style "shintarou_notebook_content_content"
     $ del shintarou_notebook_content_param
     text character["description"] at Transform(xpos=240, ypos=332) style "shintarou_notebook_content_content"
     for addon in character["addons"]:
@@ -109,9 +109,9 @@ screen shintarou_notebook_content2(character):
                     for story in chapter:
                         $ has_record = True
                         if eval(story + " == True"):
-                            text "√ " + scene_var_description[story] style "shintarou_notebook_content2_achieved"
+                            text "√ " + __(scene_var_description[story]) style "shintarou_notebook_content2_achieved"
                         else:
-                            text "… " + scene_var_description[story] style "shintarou_notebook_content2_unfinished"
+                            text "… " + __(scene_var_description[story]) style "shintarou_notebook_content2_unfinished"
             if has_record == False:
                 text _("没有记录") style "shintarou_notebook_content2_unfinished"
             null height 20

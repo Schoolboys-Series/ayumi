@@ -33,3 +33,18 @@ translate japanese strings:
     # content\file_000027FC.rpy:96
     old "主要出场记录"
     new "主要出場記録"
+
+translate japanese style shintarou_notebook_close_button:
+    font "font/source-hans-sans-medium.ttc"
+translate japanese style shintarou_notebook_character_name_text:
+    font "font/honyaji-re.ttf"
+translate japanese style shintarou_notebook_content_name:
+    font "font/honyaji-re.ttf"
+translate japanese style shintarou_notebook_content_content:
+    font "font/honyaji-re.ttf"
+translate japanese style shintarou_notebook_content_addon:
+    font "font/honyaji-re.ttf"
+translate japanese style shintarou_notebook_content2_achieved:
+    font "font/honyaji-re.ttf"
+translate japanese style shintarou_notebook_content2_unfinished:
+    font "font/honyaji-re.ttf"

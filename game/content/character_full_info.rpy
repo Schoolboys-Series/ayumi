@@ -18,7 +18,7 @@ init 1000 python:
     character_full_info = [
         {
             "id": "Tomo",
-            "name": _("森海友"),
+            "name": _("{size=12}MORIUMI TOMO{/size}\n森海友"),
             "age": _("中学二年级"),
             "height": _("155cm"),
             "weight": _("48kg"),
@@ -35,7 +35,7 @@ init 1000 python:
             "description": _("元气满满的小笨蛋。\n和忍是青梅竹马，住在同一所\n公寓的上面一层。对性的好奇心\n非常旺盛，随时持有“电摩”。\n因为母亲是钢琴家，以前也练习过，\n钢琴很不错。自己做饭，拿手料理\n“蛋包饭”。对呆毛很在意。")
         }, {
             "id": "Shinobu",
-            "name": _("绫濑忍"),
+            "name": _("{size=12}AYASE SHINOBU{/size}\n绫濑忍"),
             "age": _("中学二年级"),
             "height": _("149cm"),
             "weight": _("40kg"),
@@ -52,7 +52,7 @@ init 1000 python:
             "description": _("矮小无口的少年。\n一般来看很酷，但只要和青梅竹马\n的友说起话来就很孩子气。\n因为长相中性常被认错性别，\n对此有些烦恼。空手道黑带。\n生气时常用铁拳制裁。")
         }, {
             "id": "Tsubasa",
-            "name": _("一之濑翼"),
+            "name": _("{size=12}ICHINOSE TSUBASA{/size}\n一之濑翼"),
             "age": _("中学二年级"),
             "height": _("155cm"),
             "weight": _("45kg"),
@@ -81,7 +81,7 @@ init 1000 python:
             ]
         }, {
             "id": "Shintarou",
-            "name": _("奥村慎太郎"),
+            "name": _("{size=12}OKUMURA SHINTAROU{/size}\n奥村慎太郎"),
             "age": _("中学二年级"),
             "height": _("159cm"),
             "weight": _("50kg"),
@@ -103,14 +103,14 @@ init 1000 python:
                     "addons": [
                         {
                             "content": _("以后不会再有这种事情了"),
-                            "transform": Transform(xpos=460,ypos=315,rotate=-5)
+                            "transform": Transform(xpos=490,ypos=385)
                         }
                     ]
                 }
             ]
         }, {
             "id": "Sakuya",
-            "name": _("穗海作哉"),
+            "name": _("{size=12}HOUMI SAKUYA{/size}\n穗海作哉"),
             "age": _("中学二年级"),
             "height": _("162cm"),
             "weight": _("50kg"),
@@ -132,14 +132,14 @@ init 1000 python:
                     "addons": [
                         {
                             "content": _("追加：终于和翼和解，现在两人一起在滑子老师\n的援助下照顾小翼，完全变成饲育系了"),
-                            "transform": Transform(xpos=233,ypos=523)
+                            "transform": Transform(xpos=233,ypos=553)
                         }
                     ]
                 }
             ]
         }, {
             "id": "Tsuki",
-            "name": _("赤峰月"),
+            "name": _("{size=12}AKAMINE TSUKI{/size}\n赤峰月"),
             "age": _("中学二年级"),
             "height": _("166cm"),
             "weight": _("55kg"),
@@ -168,7 +168,7 @@ init 1000 python:
             ]
         }, {
             "id": "Sora",
-            "name": _("赤峰空"),
+            "name": _("{size=12}AKAMINE SORA{/size}\n赤峰空"),
             "age": _("中学二年级"),
             "height": _("161cm"),
             "weight": _("49kg"),
@@ -190,14 +190,14 @@ init 1000 python:
                     "addons": [
                         {
                             "content": _("已经不存在这种事了"),
-                            "transform": Transform(xpos=400,ypos=421,rotate=10)
+                            "transform": Transform(xpos=460,ypos=501)
                         }
                     ]
                 }
             ]
         }, {
             "id": "Saburou",
-            "name": _("猫山三朗"),
+            "name": _("{size=12}NEKOYAMA SABUROU{/size}\n猫山三朗"),
             "age": _("中学二年级"),
             "height": _("162cm"),
             "weight": _("48kg"),
@@ -211,7 +211,7 @@ init 1000 python:
                     "addons": [
                         {
                             "content": _("追加：现在是花乃汤前台"),
-                            "transform": Transform(xpos=355,ypos=178,rotate=6)
+                            "transform": Transform(xpos=365,ypos=228)
                         }
                     ]
                 }
@@ -224,10 +224,10 @@ init 1000 python:
                 ["C3S3", "C3S4", "C3S5", "C3S6", "C3SSabuShin", "C3SPark"]
             ]],
             "description": [
-                _("喜欢说关西腔的活泼孩子。\n人如其名，怕狗怕水怕木天蓼。\n虽然在御咲学园却喜欢女人，\n曾向附近的御咲女学院的学生告白被拒。\n很怕慎太郎，因为对方试图把自己弄弯。\n不知为何觉得作哉喜欢友。"),
+                _("喜欢说关西腔的活泼孩子。\n人如其名，怕狗怕水怕木天蓼。\n虽然在御咲学园却喜欢女人，\n曾向附近的御咲女学院的学生搭讪收获好人卡。\n很怕慎太郎，因为对方试图把自己弄弯。\n不知为何觉得作哉喜欢友。"),
                 {
                     "condition": "C2S4 == True",
-                    "content": _("喜欢说关西腔的活泼孩子。\n人如其名，怕狗怕水怕木天蓼。\n虽然在御咲学园却喜欢女人，\n曾向附近的御咲女学院的学生告白被拒。\n{color=#FF0000}{s}很怕慎太郎{/s}{/color}，因为对方试图把自己弄弯。\n不知为何觉得作哉喜欢友。"),
+                    "content": _("喜欢说关西腔的活泼孩子。\n人如其名，怕狗怕水怕木天蓼。\n虽然在御咲学园却喜欢女人，\n曾向附近的御咲女学院的学生搭讪收获好人卡。\n{color=#FF0000}{s}很怕慎太郎{/s}{/color}，因为对方试图把自己弄弯。\n不知为何觉得作哉喜欢友。"),
                     "addons": [
                         {
                             "content": _("追加：终于意识到自己的感情\n开始和慎太郎交往了"),
@@ -238,10 +238,10 @@ init 1000 python:
             ]
         }, {
             "id": "Shirou",
-            "name": _("猫山四朗"),
+            "name": _("{size=12}NEKOYAMA SHIROU{/size}\n猫山四朗"),
             "age": _("小学六年级"),
             "height": _("144cm"),
-            "weight": _("35kg"),
+            "weight": _("36kg"),
             "birthdate": _("5月5日"),
             "blood": _("A"),
             "club": _("篮球部"),
@@ -255,7 +255,7 @@ init 1000 python:
             "description": _("三朗的弟弟。觉得自己的哥哥整个\n就是一反面教材，很鄙视。非常\n仰慕作哉，期待下一年能进入\n御咲学园。性格很认真，经常被\n雪绪恶作剧。")
         }, {
             "id": "Yukio",
-            "name": _("榊雪绪"),
+            "name": _("{size=12}SAKAKI YUKIO{/size}\n榊雪绪"),
             "age": _("小学六年级"),
             "height": _("143cm"),
             "weight": _("37kg"),
@@ -267,12 +267,12 @@ init 1000 python:
                 [],
                 ["C1S4"],
                 ["C2S5"],
-                ["C3S3", "C3S5", "C3SYukiToki", "C3SShiroYuki", "C3QSakuyaWalk2", "C3QShiro"]
+                ["C3S3", "C3S5", "C3SYukiToki", "C3SShiroYuki", "C3QSakuyaWalk2"]
             ]],
             "description": _("四朗的好朋友，喜欢恶作剧。\n说话经常带嘲讽语气。\n喜欢冒险，喜欢探索，所以夏天和\n四朗一起去爬银刚山。本该是\n很高兴的事，但从那之后身体\n经常变得很奇怪。")
         }, {
             "id": "Tsubasa-chan",
-            "name": _("小翼"),
+            "name": _("{size=12}TSUBASA{/size}\n小翼"),
             "age": _("十个月左右"),
             "height": _("50cm"),
             "weight": _("5kg"),
@@ -286,10 +286,10 @@ init 1000 python:
             "description": _("曾迷路在御咲学园的非纯种狗，\n被作哉发现后养起来了。\n目前正在健康成长，对人友善，\n好奇心旺盛，总是元气满满。\n不过特别喜欢舔别人。")
         }, {
             "id": "Tsubasa-chan (Human)",
-            "name": _("小翼（人类版）"),
+            "name": _("{size=12}TSUBASA{/size}\n小翼（人类版）"),
             "age": _("十三岁左右"),
             "height": _("155cm"),
-            "weight": _("47kg"),
+            "weight": _("45kg"),
             "birthdate": _("12月27日"),
             "pants": _("没穿"),
             "appearances": [[
@@ -298,10 +298,10 @@ init 1000 python:
                 [],
                 ["C3S3", "C3QShiro"]
             ]],
-            "description": _("喝下某触手给的药后小翼的样子。\n外表基本是复制了饲主作哉喜欢\n的一之濑翼的外貌。不过药效\n只有一天，天黑就变回狗了。\n之后在想能否有一天再把药买回来\n继续变成人类的样子和大家一起玩。")
+            "description": _("喝下某触手给的药后小翼的样子。\n外表基本是复制了饲主作哉喜欢\n的一之濑翼的外貌。不过药效\n只有一天，天黑就变回狗了。\n之后在想能否有一天再把药拿到手\n继续变成人类的样子和大家一起玩。")
         }, {
             "id": "Nameko",
-            "name": _("滑子老师"),
+            "name": _("{size=12}Mr. NAMEKO{/size}\n滑子老师"),
             "age": _("四十岁"),
             "height": _("175cm"),
             "weight": _("80kg"),
@@ -315,7 +315,7 @@ init 1000 python:
             "description": _("生气起来非常可怕、但也非常\n体谅学生的可以信赖的好老师。\n对大型赛事很热衷。\n和二班的海老师关系不错。\n对妻子爱得非常深沉。")
         }, {
             "id": "Itou",
-            "name": _("伊藤圭"),
+            "name": _("{size=12}ITOU KEI{/size}\n伊藤圭"),
             "age": _("中学二年级"),
             "height": _("157cm"),
             "weight": _("49kg"),
@@ -330,21 +330,21 @@ init 1000 python:
                 ["C3S3", "C3S5", "C3QKimuraConference"]
             ]],
             "description": [
-                _("作哉·三朗·木村所在的DQN集团\n唯一的良心。单恋木村许久，\n一直在因为对方有恋人而烦恼要不要\n放弃。按摩很拿手。"),
+                _("作哉·三朗·木村所在的双低\n（智商、情商）集团唯一的良心。\n单恋木村许久，一直在因为对方有恋人\n而烦恼要不要放弃。按摩很拿手。"),
                 {
                     "condition": "C3S2 == True",
-                    "content": _("作哉·三朗·木村所在的DQN集团\n唯一的良心。单恋木村许久，\n{color=#FF0000}{s}一直在因为对方有恋人而烦恼要不要\n放弃{/s}{/color}。按摩很拿手。"),
+                    "content": _("作哉·三朗·木村所在的双低\n（智商、情商）集团唯一的良心。\n单恋木村许久，{color=#FF0000}{s}一直在因为对方有恋人\n而烦恼要不要放弃{/s}{/color}。按摩很拿手。"),
                     "addons": [
                         {
                             "content": _("追加：终于结束单恋和木村顺利交往了"),
-                            "transform": Transform(xpos=285,ypos=497)
+                            "transform": Transform(xpos=285,ypos=547)
                         }
                     ]
                 }
             ]
         }, {
             "id": "Kimura",
-            "name": _("木村树"),
+            "name": _("{size=12}KIMURA ITSUKI{/size}\n木村树"),
             "age": _("中学二年级"),
             "height": _("165cm"),
             "weight": _("53kg"),
@@ -366,17 +366,17 @@ init 1000 python:
                     "addons": [
                         {
                             "content": _("已经分手了"),
-                            "transform": Transform(xpos=500,ypos=340,rotate=10)
+                            "transform": Transform(xpos=500,ypos=350)
                         }, {
                             "content": _("已经两情相悦了"),
-                            "transform": Transform(xpos=500,ypos=420,rotate=5)
+                            "transform": Transform(xpos=550,ypos=450)
                         }
                     ]
                 }
             ]
         }, {
             "id": "Katou",
-            "name": _("加藤准太"),
+            "name": _("{size=12}KATOU JUNTA{/size}\n加藤准太"),
             "age": _("中学二年级"),
             "height": _("160cm"),
             "weight": _("51kg"),
@@ -393,7 +393,7 @@ init 1000 python:
             "description": _("元气满满的体育系男生！\n也完全不介意光膀子！\n成绩差到和友一个程度。\n放学后有时会和同学一起在\n商店街比谁吃得多。\n喜欢的类型是年上肌肉男！？")
         }, {
             "id": "Matsuda",
-            "name": _("松田健治"),
+            "name": _("{size=12}MATSUDA KENJI{/size}\n松田健治"),
             "age": _("中学二年级"),
             "height": _("167cm"),
             "weight": _("55kg"),
@@ -410,11 +410,11 @@ init 1000 python:
             "description": _("很有大人的样子，看起来像不良，\n其实很认真很喜欢照顾人。\n经常带着打火机，但只是为了\n掩盖拿了哥哥的烟的事实。\n觉得作哉很可爱。")
         }, {
             "id": "Izumi",
-            "name": _("泉翔"),
+            "name": _("{size=12}IZUMI KAKERU{/size}\n泉翔"),
             "age": _("中学二年级"),
             "height": _("160cm"),
             "weight": _("48kg"),
-            "birthdate": _("4月3日"),
+            "birthdate": _("4月4日"),
             "blood": _("A"),
             "club": _("排球部"),
             "pants": _("四角裤"),
@@ -427,13 +427,13 @@ init 1000 python:
             "description": _("温柔善良的性格。\n之前一直单恋排球部的前辈，\n在和慎太郎商讨过后成功交往。\n现在正因为恋人之间事情越来越多\n越来越复杂而困扰。")
         }, {
             "id": "Satou",
-            "name": _("佐藤光"),
+            "name": _("{size=12}SATOU HIKARU{/size}\n佐藤光"),
             "age": _("中学二年级"),
             "height": _("157cm"),
             "weight": _("47kg"),
             "birthdate": _("12月22日"),
             "blood": _("B"),
-            "club": _("吹奏乐部兼二班体育委员"),
+            "club": _("吹奏乐部兼二班音乐委员"),
             "pants": _("短裤"),
             "appearances": [[
                 [],
@@ -444,7 +444,7 @@ init 1000 python:
             "description": _("看着老实，实则闹腾，喜欢古典\n音乐，经常说要精通这个。\n进入御咲学园似乎是因为这里的\n吹奏乐部很厉害。\n似乎在部内有在意的前辈，\n但本人极力否认。")
         }, {
             "id": "Okajima",
-            "name": _("冈岛直弥"),
+            "name": _("{size=12}OKAJIMA NAOYA{/size}\n冈岛直弥"),
             "age": _("中学二年级"),
             "height": _("161cm"),
             "weight": _("47kg"),
@@ -461,7 +461,7 @@ init 1000 python:
             "description": _("学习优秀、成绩进步的学霸。\n但却是一个和小岛一起成立新闻部、\n醉心于搞大新闻的奇怪少年。\n根本就没有性知识，那方面的话题\n完全跟不上。一般总是和小岛佐藤\n在一起。有一个三年级的哥哥，\n制服也是这麽来的。")
         }, {
             "id": "Okajima",
-            "name": _("小岛正"),
+            "name": _("{size=12}KOJIMA TADASHI{/size}\n小岛正"),
             "age": _("中学二年级"),
             "height": _("148cm"),
             "weight": _("38kg"),
@@ -478,7 +478,7 @@ init 1000 python:
             "description": _("在新闻部负责摄影，和部长不同是\n个很安静的怪孩子。会给提供有趣\n情报的人对方喜欢的照片。据本人说，\n“我们尊重肖像权”。非常喜欢部长\n冈岛，但有些过保护。")
         }, {
             "id": "Kiyo",
-            "name": _("清武一"),
+            "name": _("{size=12}KIYO TAKEHITO{/size}\n清武一"),
             "age": _("中学一年级"),
             "height": _("150cm"),
             "weight": _("45kg"),
@@ -495,7 +495,7 @@ init 1000 python:
             "description": _("人如其名，清廉正直富有正义感。\n非常敬爱同部的前辈绫濑忍，\n梦想能成为前辈一样的人。")
         }, {
             "id": "Nakayama",
-            "name": _("中山花音"),
+            "name": _("{size=12}NAKAYAMA KANON{/size}\n中山花音"),
             "age": _("中学一年级"),
             "height": _("150cm"),
             "weight": _("41kg"),
@@ -509,10 +509,10 @@ init 1000 python:
                 [],
                 ["C3S1", "C3S5", "C3QNakayama"]
             ]],
-            "description": _("腹黑性格。在和之前的恋人分手后，\n某天拾到了相性不错的大叔，\n开始了调教之旅。\n和清关系不错。")
+            "description": _("轻浮性格。在和之前的恋人分手后，\n某天拾到了相性不错的大叔，\n开始了调教之旅。\n和清关系不错。")
         }, {
             "id": "Okajima-senior",
-            "name": _("冈岛雄介"),
+            "name": _("{size=12}OKAJIMA YUUSUKE{/size}\n冈岛雄介"),
             "age": _("中学三年级"),
             "height": _("165cm"),
             "weight": _("53kg"),
@@ -534,14 +534,14 @@ init 1000 python:
                     "addons": [
                         {
                             "content": _("在佐藤的计策下已经改掉这个问题了\n期待两人今后的发展"),
-                            "transform": Transform(xpos=322,ypos=357,rotate=-10)
+                            "transform": Transform(xpos=322,ypos=487)
                         }
                     ]
                 }
             ]
         }, {
             "id": "Nakayama-senior",
-            "name": _("中山紫音"),
+            "name": _("{size=12}NAKAYAMA SHION{/size}\n中山紫音"),
             "age": _("中学三年级"),
             "height": _("172cm"),
             "weight": _("56kg"),
@@ -558,7 +558,7 @@ init 1000 python:
             "description": _("中山花音的哥哥。和弟弟不同对各种事\n非常无所谓。恋人是排球部的泉。\n偶尔冷战，但一直很重视对方。")
         }, {
             "id": "Yuuhi",
-            "name": _("夕阳"),
+            "name": _("{size=12}YUUHI{/size}\n夕阳"),
             "age": _("中学一年级"),
             "height": _("157cm"),
             "weight": _("50kg"),
@@ -575,7 +575,7 @@ init 1000 python:
             "description": _("被师父认可才能后作为正义的\n魔法师守护着城市的和平。\n因为不愿学习，初级魔法都\n用不好。一直在和企图征服世界\n的WOLFS的朔进行工口战斗，打着\n打着就喜欢上对方了。")
         }, {
             "id": "Mamoru",
-            "name": _("世依木守"),
+            "name": _("{size=12}SEIGI MAMORU{/size}\n世依木守"),
             "age": _("中学一年级"),
             "height": _("157cm"),
             "weight": _("46kg"),
@@ -592,7 +592,7 @@ init 1000 python:
             "description": _("和魔法师夕阳一起守护城市的\n正义的英雄，特技是GYMNO BEAM。\n恋人是过去战斗过并打倒的\n章鱼章鱼星人。似乎在不为人知\n的地方会做这样那样的事？")
         }, {
             "id": "Tentacle-earthworm",
-            "name": _("触手A"),
+            "name": _("{size=12}TENTACLE EARTHWORM{/size}\n触手A"),
             "height": _("没量过"),
             "weight": _("似乎很轻？"),
             "birthdate": _("不知"),
@@ -606,7 +606,7 @@ init 1000 python:
             "description": _("WOLFS的一员。最早开始侍奉朔\n的触手，同时也是管家。说话\n像老妈子，很绅士。\n被其他触手信赖。")
         }, {
             "id": "Tentacle-starfish",
-            "name": _("触手B"),
+            "name": _("{size=12}TENTACLE STARFISH{/size}\n触手B"),
             "club": _("WOLFS"),
             "appearances": [[
                 [],
@@ -617,7 +617,7 @@ init 1000 python:
             "description": _("WOLFS的一员。才刚开始加入朔\n的队伍。背后有无数触手，\n是备受期待的新人。看起来似乎\n不很努力，但也在奋力学习\n如何侍奉。")
         }, {
             "id": "Tour-guide",
-            "name": _("导游？"),
+            "name": _("{size=12}TOUR GUIDE?{/size}\n导游？"),
             "age": _("不知"),
             "height": _("190cm"),
             "weight": _("不详"),
@@ -630,7 +630,7 @@ init 1000 python:
             "description": _("离岛的度假酒店的导游……\n才不是，其实里面是触手A和触手B。\n整个旅行都是朔的计划。")
         }, {
             "id": "Nori",
-            "name": _("朔"),
+            "name": _("{size=12}NORI{/size}\n朔"),
             "age": _("十三岁左右？"),
             "height": _("152cm"),
             "weight": _("40kg"),
@@ -645,7 +645,7 @@ init 1000 python:
             "description": _("企图征服世界的组织WOLFS的一员。\n操纵着触手怪物，喜欢玩弄敌人。\n某些意义上和忍关系很好，\n偶尔一起出门。\n正在进行从欲望中提取能量的研究，\n为此不断寻找实验体。")
         }, {
             "id": "Kai",
-            "name": _("晦"),
+            "name": _("{size=12}KAI{/size}\n晦"),
             "age": _("二十左右"),
             "height": _("159cm"),
             "weight": _("46kg"),
@@ -660,7 +660,7 @@ init 1000 python:
             "description": _("朔的哥哥，豪迈奔放。\n和WOLFS一贯的方针不同，\n现在正在地球上离岛的宾馆悠闲度日。\n在梅咲开的酒吧一下子就成了热门。\n好像有个高中生恋人。")
         }, {
             "id": "Dark lesser",
-            "name": _("暗黑小熊猫"),
+            "name": _("{size=12}DARK LESSER{/size}\n暗黑小熊猫"),
             "height": _("两到三米"),
             "weight": _("150kg-250kg"),
             "appearances": [[
@@ -672,7 +672,7 @@ init 1000 python:
             "description": _("英文叫Dark lesser，是小熊猫型的巨大怪兽。\n外表凶恶，爪子锋利，\n但其实只是好奇心旺盛，无甚危害。\n喜欢苹果。")
         }, {
             "id": "MonsterA",
-            "name": _("妖怪A"),
+            "name": _("{size=12}MONSTER A{/size}\n妖怪A"),
             "appearances": [[
                 [],
                 [],
@@ -682,7 +682,7 @@ init 1000 python:
             "description": _("从“上古封印之箱”里逃出来的\n妖怪中的一个。因为兴致总是\n很好，被认为是妖怪们的领导。\n计划把御咲学园封闭在异空间内，\n但被以忍为首的救援组打败了。")
         }, {
             "id": "MonsterB",
-            "name": _("妖怪B"),
+            "name": _("{size=12}MONSTER B{/size}\n妖怪B"),
             "appearances": [[
                 [],
                 [],
@@ -692,7 +692,7 @@ init 1000 python:
             "description": _("从“上古封印之箱”里逃出来的\n妖怪中的一个。总是很知性、很\n做作的样子，在和作哉们所在的\n回收组战斗时最后在九尾手上\n灰飞烟灭。")
         }, {
             "id": "MonsterC",
-            "name": _("妖怪C"),
+            "name": _("{size=12}MONSTER C{/size}\n妖怪C"),
             "appearances": [[
                 [],
                 [],
@@ -702,7 +702,7 @@ init 1000 python:
             "description": _("从“上古封印之箱”里逃出来的\n正太控妖怪的一个。曾经从箱子\n里出来过一次夜里“拜访”\n慎太郎，但手都没下去，为此\n耿耿于怀，最后被常磐给的\n符咒打败。")
         }, {
             "id": "Kobayashi",
-            "name": _("小林"),
+            "name": _("{size=12}KOBAYASHI{/size}\n小林"),
             "age": _("小学四年级"),
             "height": _("133cm"),
             "weight": _("30kg"),
@@ -718,7 +718,7 @@ init 1000 python:
             "description": _("放学后总是和南在公园玩的活泼\n的男孩子，也经常和友、慎太郎、\n空、散歩中的作哉玩。最近迷上了\n老游戏。本人言：每当看到南时\n心跳就会不自觉加快……")
         }, {
             "id": "Minami",
-            "name": _("南"),
+            "name": _("{size=12}MINAMI{/size}\n南"),
             "age": _("小学四年级"),
             "height": _("132cm"),
             "weight": _("31kg"),
@@ -733,8 +733,8 @@ init 1000 python:
             ]],
             "description": _("和小林关系好到不得了。\n有小气的一面，但好奇心旺盛，\n经常和小林到处捣乱。\n完全不知道下流梗。\n家里养了只猫。")
         }, {
-            "id": "Sumoto",
-            "name": _("杉本志"),
+            "id": "Sukimoto",
+            "name": _("{size=12}SUKIMOTO KOKORO{/size}\n杉本志"),
             "age": _("小学六年级"),
             "height": _("146cm"),
             "weight": _("38kg"),
@@ -750,7 +750,7 @@ init 1000 python:
             "description": _("吉木与行所属“陆田&杉本”中的\n玩梗担当。成为艺人刚一年多。\n经常玩以前从没有人玩过的梗，\n外加体型问题，在部分人中获得了讚赏。\n刚出道所以只在关西地方偶像圈，\n不过目标是全国！\n大家也要来多多应援！")
         }, {
             "id": "Rikuta",
-            "name": _("陆田功"),
+            "name": _("{size=12}RIKUTA ISAO{/size}\n陆田功"),
             "age": _("小学六年级"),
             "height": _("145cm"),
             "weight": _("38kg"),
@@ -765,8 +765,8 @@ init 1000 python:
             ]],
             "description": _("吉木与行所属“陆田&杉本”中的\n吐槽担当。槽点都是杉本想的，\n不过在听到内容后也能给出精彩的吐槽。\n和杉本是青梅竹马，虽説舞台上吐槽\n毫不留情，但其实比谁都要重视杉本，\n认为他是自己最重要的人。")
         }, {
-            "id": "Kyubi",
-            "name": _("九尾"),
+            "id": "Kyuubi",
+            "name": _("{size=12}KYUUBI{/size}\n九尾"),
             "age": _("千岁以上"),
             "birthdate": _("怎么可能知道"),
             "pants": _("和雪绪一样吧"),
@@ -779,7 +779,7 @@ init 1000 python:
             "description": _("银刚山深处作为神受到祭祀的狐狸。\n似乎是顶级妖怪。\n以前凭依体毁坏所以失去了大部分力量，\n现在附身在波长吻合的雪绪身上。\n通过在各种意义上不断做各种事情\n正逐渐取回力量。")
         }, {
             "id": "Tokiwa",
-            "name": _("常磐进"),
+            "name": _("{size=12}TOKIWA SUSUMU{/size}\n常磐进"),
             "age": _("中学三年级？"),
             "height": _("160cm"),
             "weight": _("46kg"),
@@ -794,7 +794,7 @@ init 1000 python:
             "description": _("不知为何一直静静地站在学园外的厕所旁。\n总能事先察觉到周围的异常和未来的事情，\n并据此给各种人各种有益的建议。\n表情一直很寂寞，似乎并不开心。")
         }, {
             "id": "Shougintoki",
-            "name": _("诹访部翔银时"),
+            "name": _("{size=12}SUWABE SHOUGINTOKI{/size}\n诹访部翔银时"),
             "age": _("八十八岁"),
             "height": _("180cm"),
             "weight": _("74kg"),
@@ -807,7 +807,7 @@ init 1000 python:
             "description": _("经常光顾花乃汤的老大爷，\n被其他客人称呼为“会长”。\n曾是御咲学园的学生，性格\n硬派刚正。现在非常担心慎太郎的\n身体健康。有一个25岁的孙子。")
         }, {
             "id": "Shouhei",
-            "name": _("诹访部翔平"),
+            "name": _("{size=12}SUWABE SHOUHEI{/size}\n诹访部翔平"),
             "age": _("二十五岁"),
             "height": _("176cm"),
             "weight": _("65kg"),
@@ -820,7 +820,7 @@ init 1000 python:
             "description": _("超重度正太控上班族。\n经常目不转睛看着各种少年，\n要是少年什么都好。\n人型自走大变态。\n当然，被请去喝茶还是没有过的。\n持有合气道段位，意外很强。")
         }, {
             "id": "Sakase",
-            "name": _("逆濑荒哉"),
+            "name": _("{size=12}SAKASE KOUYA{/size}\n逆濑荒哉"),
             "age": _("中学二年级"),
             "height": _("162cm"),
             "weight": _("50kg"),
@@ -836,7 +836,7 @@ init 1000 python:
             "description": _("小学的时候特别喜欢欺负友和忍。\n因为父母的工作经常搬家，\n那时候也因为这个有半年\n转到了其他学校。\n现在住在关东。")
         }, {
             "id": "He--",
-            "name": _("黑——"),
+            "name": _("{size=12}HE{/size}\n黑——"),
             "height": _("60cm"),
             "weight": _("6kg"),
             "appearances": [[
@@ -848,7 +848,7 @@ init 1000 python:
             "description": _("感情内敛的小熊猫。\n脾气不大好。")
         }, {
             "id": "Be--",
-            "name": _("贝——"),
+            "name": _("{size=12}BE{/size}\n贝——"),
             "height": _("60cm"),
             "weight": _("6kg"),
             "appearances": [[
