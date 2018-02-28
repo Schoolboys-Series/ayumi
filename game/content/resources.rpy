@@ -20,6 +20,10 @@ init -1:
         color="#FFFFFF",
         size=24,
         outlines=[(absolute(2), "#000000", absolute(0), absolute(0))])
+    image rs_image_50574D67D9E1480190A94440CC260636 = ParameterizedText(
+        font="font/source-hans-sans-medium.ttc",
+        color="#FFFFFF",
+        size=18)
     image rs_image_8311E1236AED463A9358E6303D1D2F5C = "images/CG/Opening celemony/Opening celemony 3.png"
     image rs_image_84E3A40E55C74C5C9B705CF5E3FE58A1 = "images/CG/Opening celemony/Opening celemony 4.png"
     image rs_image_87A38905C919455BB6D35DB596394AC9 = "images/CG/Opening celemony/Opening celemony 5.png"
@@ -3201,21 +3205,18 @@ init -1:
             xpos 0
             ypos 567
             alpha 1
-            pause 23.366666666666667
-            alpha 0
         contains:
             "rs_image_C6C66F2B89BD4D4B91010EEC1A56E395"
             xanchor 0
             yanchor 0
-            xpos 800
             ypos 576
             alpha 0
             pause 1.6666666666666667
             alpha 1
             parallel:
+                xpos 800
                 linear 21.7 xpos -1570
-            pause 21.7
-            alpha 0
+                repeat
     image rs_image_3D451FD3FBDE4516AAAD4E30F9708C94 = "images/Celemony/Help/Sports Celemony/Help 2.png"
     image rs_image_D7C840B2AB1547AB95032FAD306EB9E1:
         contains:
@@ -3225,21 +3226,18 @@ init -1:
             xpos 0
             ypos 567
             alpha 1
-            pause 25.666666666666668
-            alpha 0
         contains:
             "rs_image_3D451FD3FBDE4516AAAD4E30F9708C94"
             xanchor 0
             yanchor 0
-            xpos 800
             ypos 576
             alpha 0
             pause 1.6666666666666667
             alpha 1
             parallel:
+                xpos 800
                 linear 24 xpos -1820
-            pause 24
-            alpha 0
+                repeat
     image rs_image_87610DB1E5B8442F8AF1A0E09F59C68E = "images/Celemony/Win.png"
     image rs_image_5BACA245EF584E56B6D17425B501514A:
         contains:
@@ -3249,25 +3247,13 @@ init -1:
             xpos 0
             ypos 0
             alpha 1
-            pause 0.4
-            alpha 0
         contains:
             "rs_image_87610DB1E5B8442F8AF1A0E09F59C68E"
-            xanchor 400
-            yanchor 115
-            xpos 400
+            xpos 0
             ypos -100
             alpha 0
             pause 0.05
-            alpha 0.996078431372549
-            parallel:
-                easein 0.35 xpos 410
-            parallel:
-                linear 0.35 ypos 480
-            parallel:
-                linear 0.35 alpha 1
-            pause 0.35
-            alpha 0
+            easein 0.35 ypos 150 alpha 1
     image rs_image_EDB8D14D1FF74E8FBAF3A9C7F0DCD918 = "images/Celemony/Help/Music Festival/Help 1.png"
     image rs_image_36DCE6288A1B4B4BB4F472650542F4CB:
         contains:
@@ -3277,21 +3263,18 @@ init -1:
             xpos 0
             ypos 567
             alpha 1
-            pause 25.333333333333332
-            alpha 0
         contains:
             "rs_image_EDB8D14D1FF74E8FBAF3A9C7F0DCD918"
             xanchor 0
             yanchor 0
-            xpos 800
             ypos 576
             alpha 0
             pause 1.6666666666666667
             alpha 1
             parallel:
+                xpos 800
                 linear 23.666666666666668 xpos -1840
-            pause 23.666666666666668
-            alpha 0
+                repeat
     image rs_image_134D98B719654157925E22D0A08ADF31 = "images/Celemony/Help/Music Festival/Help 2.png"
     image rs_image_0C713C75424547F8B475126078350741:
         contains:
@@ -3301,21 +3284,18 @@ init -1:
             xpos 0
             ypos 567
             alpha 1
-            pause 21.666666666666668
-            alpha 0
         contains:
             "rs_image_134D98B719654157925E22D0A08ADF31"
             xanchor 0
             yanchor 0
-            xpos 800
             ypos 576
             alpha 0
             pause 1.6666666666666667
             alpha 1
             parallel:
+                xpos 800
                 linear 20 xpos -1450
-            pause 20
-            alpha 0
+                repeat
     image rs_image_061B0CC8862A4FF8B54E6E627F1B88DB:
         contains:
             "rs_image_7AFFBEE2AA274C4C836D31E63DA4932A"
@@ -3324,25 +3304,13 @@ init -1:
             xpos 0
             ypos 0
             alpha 1
-            pause 0.4
-            alpha 0
         contains:
             "rs_image_87610DB1E5B8442F8AF1A0E09F59C68E"
-            xanchor 400
-            yanchor 115
-            xpos 400
+            xpos 0
             ypos -100
             alpha 0
             pause 0.05
-            alpha 0.996078431372549
-            parallel:
-                easein 0.35 xpos 410
-            parallel:
-                linear 0.35 ypos 480
-            parallel:
-                linear 0.35 alpha 1
-            pause 0.35
-            alpha 0
+            easein 0.35 ypos 150 alpha 1
     image rs_image_9F1237FF00C1491988191E9951FA67B8 = "images/Games/Left-or-right-which-is-correct/Be--/Normal.png"
     image rs_image_C973E8B6491D4EAEB1730255D5DA4AEC = "images/Games/Left-or-right-which-is-correct/Be--/Sad.png"
     image rs_image_B88D8D4EDBF24CDDB2EFF78AAAE590EF:

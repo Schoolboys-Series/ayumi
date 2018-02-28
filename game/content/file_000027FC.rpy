@@ -3,69 +3,70 @@
 # From LiveMaker Scene: 000027FC (慎太郎筆記)
 
 screen shintarou_notebook:
-    default current_page = 1
-    default current_character = None
-    add "images/Shintaro-notebook/Background.png"
-    $ character_list = filter(lambda x: x["id"] in [
-        "Tomo", "Shinobu", "Shintarou", "Tsuki", "Sora", "Sakuya", "Saburou", "Shirou", "Yukio",
-        "Tsubasa-chan", "Tsubasa-chan (Human)", "Nameko", "Itou", "Kimura", "Katou", "Matsuda", "Izumi",
-        "Okajima", "Kojima"], character_full_info)
-    if C3S1 == True:
-        $ character_list.extend(filter(lambda x: x["id"] in ["Kiyo", "Nakayama", "Okajima-senior", "Nakayama-senior"], character_full_info))
-    if Chapter > 1:
-        $ character_list.extend(filter(lambda x: x["id"] in ["Yuuhi", "Nori", "Mamoru"], character_full_info))
-    if C2S6 == True:
-        $ character_list.extend(filter(lambda x: x["id"] in ["Kai", "Tentacle-earthworm", "Tentacle-starfish", "Tour-guide"], character_full_info))
-    if C3S5 == True:
-        $ character_list.extend(filter(lambda x: x["id"] in ["MonsterA", "MonsterB", "MonsterC"], character_full_info))
-    if C2S6 == True or C3S5 == True:
-        $ character_list.extend(filter(lambda x: x["id"]  == "Dark lesser", character_full_info))
-    $ character_list.extend(filter(lambda x: x["id"]  == "Tokiwa", character_full_info))
-    if C1S4 == True or Chapter > 1:
-        $ character_list.extend(filter(lambda x: x["id"]  in ["Kobayashi", "Minami", "Sukimoto", "Rikuta", "Shougintoki"], character_full_info))
-    if C3S1 == True:
-        $ character_list.extend(filter(lambda x: x["id"]  == "Shouhei", character_full_info))
-    if C2S5 == True:
-        $ character_list.extend(filter(lambda x: x["id"]  == "Kyuubi", character_full_info))
-    if C1SG1 and C1SG2 and C2SG1 and C2SG2 and C3SG1 and C3SG2:
-        $ character_list.extend(filter(lambda x: x["id"]  in ["Sakase", "Be--", "He--"], character_full_info))
-    frame:
-        style "shintarou_notebook_character_list"
-        has viewport:
-            mousewheel "change"
-            draggable True
-            side_yfill True
-        vbox:
-            null height 20
-            for character in character_list:
-                textbutton character["name"]:
-                    xpos 30
-                    style "shintarou_notebook_character_name"
-                    action [Play("menu_effect", "sound/Effect Sound/Paper 1.ogg"), SetScreenVariable("current_character", character)]
-            null height 20
-    if current_character != None:
-        $ y_pos = 44
-        for i in range(1, 3):
-            if current_page == i:
-                add "images/Shintaro-notebook/bage opened.png" xpos 714 ypos y_pos
-                text str(i):
-                    xpos 727
-                    ypos y_pos + 20
-                    style "shintarou_notebook_page_text_active"
-            else:
-                add "images/Shintaro-notebook/bage.png" xpos 714 ypos y_pos
-                textbutton str(i):
-                    xpos 727
-                    ypos y_pos + 20
-                    style "shintarou_notebook_page_text"
-                    action [Play("menu_effect", "sound/Effect Sound/Paper 1.ogg"), SetScreenVariable("current_page", i)]
-            $ y_pos += 108
-        $ del y_pos
-        if current_page == 1:
-            use shintarou_notebook_content(find_chatracter_version(current_character))
-        elif current_page == 2:
-            use shintarou_notebook_content2(find_chatracter_version(current_character))
-    textbutton "×" style "shintarou_notebook_close_button" action Return()
+    fixed at shintarou_notebook_screen:
+        default current_page = 1
+        default current_character = None
+        add "images/Shintaro-notebook/Background.png"
+        $ character_list = filter(lambda x: x["id"] in [
+            "Tomo", "Shinobu", "Shintarou", "Tsuki", "Sora", "Tsubasa", "Sakuya", "Saburou", "Shirou", "Yukio",
+            "Tsubasa-chan", "Tsubasa-chan (Human)", "Nameko", "Itou", "Kimura", "Katou", "Matsuda", "Izumi",
+            "Okajima", "Kojima"], character_full_info)
+        if C3S1 == True:
+            $ character_list.extend(filter(lambda x: x["id"] in ["Kiyo", "Nakayama", "Okajima-senior", "Nakayama-senior"], character_full_info))
+        if Chapter > 1:
+            $ character_list.extend(filter(lambda x: x["id"] in ["Yuuhi", "Nori", "Mamoru"], character_full_info))
+        if C2S6 == True:
+            $ character_list.extend(filter(lambda x: x["id"] in ["Kai", "Tentacle-earthworm", "Tentacle-starfish", "Tour-guide"], character_full_info))
+        if C3S5 == True:
+            $ character_list.extend(filter(lambda x: x["id"] in ["MonsterA", "MonsterB", "MonsterC"], character_full_info))
+        if C2S6 == True or C3S5 == True:
+            $ character_list.extend(filter(lambda x: x["id"]  == "Dark lesser", character_full_info))
+        $ character_list.extend(filter(lambda x: x["id"]  == "Tokiwa", character_full_info))
+        if C1S4 == True or Chapter > 1:
+            $ character_list.extend(filter(lambda x: x["id"]  in ["Kobayashi", "Minami", "Sukimoto", "Rikuta", "Shougintoki"], character_full_info))
+        if C3S1 == True:
+            $ character_list.extend(filter(lambda x: x["id"]  == "Shouhei", character_full_info))
+        if C2S5 == True:
+            $ character_list.extend(filter(lambda x: x["id"]  == "Kyuubi", character_full_info))
+        if C1SG1 and C1SG2 and C2SG1 and C2SG2 and C3SG1 and C3SG2:
+            $ character_list.extend(filter(lambda x: x["id"]  in ["Sakase", "Be--", "He--"], character_full_info))
+        frame:
+            style "shintarou_notebook_character_list"
+            has viewport:
+                mousewheel "change"
+                draggable True
+                side_yfill True
+            vbox:
+                null height 20
+                for character in character_list:
+                    textbutton character["name"]:
+                        xpos 30
+                        style "shintarou_notebook_character_name"
+                        action [Play("menu_effect", "sound/Effect Sound/Paper 1.ogg"), SetScreenVariable("current_character", character)]
+                null height 20
+        if current_character != None:
+            $ y_pos = 44
+            for i in range(1, 3):
+                if current_page == i:
+                    add "images/Shintaro-notebook/bage opened.png" xpos 714 ypos y_pos
+                    text str(i):
+                        xpos 727
+                        ypos y_pos + 20
+                        style "shintarou_notebook_page_text_active"
+                else:
+                    add "images/Shintaro-notebook/bage.png" xpos 714 ypos y_pos
+                    textbutton str(i):
+                        xpos 727
+                        ypos y_pos + 20
+                        style "shintarou_notebook_page_text"
+                        action [Play("menu_effect", "sound/Effect Sound/Paper 1.ogg"), SetScreenVariable("current_page", i)]
+                $ y_pos += 108
+            $ del y_pos
+            if current_page == 1:
+                use shintarou_notebook_content(find_chatracter_version(current_character))
+            elif current_page == 2:
+                use shintarou_notebook_content2(find_chatracter_version(current_character))
+        textbutton "×" style "shintarou_notebook_close_button" action [Pause(0.3), Return()]
 
 screen shintarou_notebook_content(character):
     add ("images/Shintaro-notebook/Content/" + character["id"] + ".png") xpos -51

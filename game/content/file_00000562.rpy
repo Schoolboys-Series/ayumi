@@ -4,23 +4,8 @@
 
 label block_00000563:
     # Node: 00000563 (開始)
-    $ Status = 0
-    $ SelectedPerson = 0
-    $ SelectedPhase = 0
-    $ StatusX = 0
-    $ StatusY = 0
-    $ Phase1Count = 0
-    $ Phase2Count = 0
-    $ Phase3Count = 0
-    $ Phase4Count = 0
-    $ Phase1Result = _("失败")
-    $ Phase2Result = _("失败")
-    $ Phase3Result = _("失败")
-    $ Phase4Result = _("失败")
-    $ WinCount = 0
 
-    if judge_lm_condition([]):
-        jump block_0000261E
+    jump block_0000261E
 
     return
 
@@ -39,9 +24,7 @@ label block_0000261E:
 
     pause 0.3
 
-
-    if judge_lm_condition([]):
-        jump block_0000261D
+    jump block_0000261D
 
     return
 
@@ -51,7 +34,7 @@ label block_0000261D:
     show rs_image_36DCE6288A1B4B4BB4F472650542F4CB as tag_521EB228B90943B3A2B33F87C47D3A0E at center_bottom zorder zorder_tag_521EB228B90943B3A2B33F87C47D3A0E onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    $ sys_lm_menu_item = [{"pos": (96, 200),"image": "images/Celemony/Menu/Music Festival/Shintaro.png","hover": "images/Celemony/Menu/Music Festival/Shintaro hover.png","name": "慎太郎"}, {"pos": (216, 200),"image": "images/Celemony/Menu/Music Festival/Matsuta.png","hover": "images/Celemony/Menu/Music Festival/Matsuta hover.png","name": "松田"}, {"pos": (304, 205),"image": "images/Celemony/Menu/Music Festival/Shinobu.png","hover": "images/Celemony/Menu/Music Festival/Shinobu hover.png","name": "しのぶ"}, {"pos": (384, 208),"image": "images/Celemony/Menu/Music Festival/Tsuki.png","hover": "images/Celemony/Menu/Music Festival/Tsuki hover.png","name": "月"}, {"pos": (497, 205),"image": "images/Celemony/Menu/Music Festival/Izumi.png","hover": "images/Celemony/Menu/Music Festival/Izumi hover.png","name": "泉"}, {"pos": (560, 215),"image": "images/Celemony/Menu/Music Festival/Sora.png","hover": "images/Celemony/Menu/Music Festival/Sora hover.png","name": "空"}, {"pos": (685, 210),"image": "images/Celemony/Menu/Music Festival/Katou.png","hover": "images/Celemony/Menu/Music Festival/Katou hover.png","name": "加藤"}, {"pos": (724, 55),"type":"textbutton","text":_("继续"),"name": "確認終了"}]
+    $ sys_lm_menu_item = [{"pos": (96, 200),"image": "images/Celemony/Menu/Music Festival/Shintaro.png","hover": "images/Celemony/Menu/Music Festival/Shintaro hover.png","name": "慎太郎"}, {"pos": (216, 200),"image": "images/Celemony/Menu/Music Festival/Matsuta.png","hover": "images/Celemony/Menu/Music Festival/Matsuta hover.png","name": "松田"}, {"pos": (304, 205),"image": "images/Celemony/Menu/Music Festival/Shinobu.png","hover": "images/Celemony/Menu/Music Festival/Shinobu hover.png","name": "しのぶ"}, {"pos": (384, 208),"image": "images/Celemony/Menu/Music Festival/Tsuki.png","hover": "images/Celemony/Menu/Music Festival/Tsuki hover.png","name": "月"}, {"pos": (497, 205),"image": "images/Celemony/Menu/Music Festival/Izumi.png","hover": "images/Celemony/Menu/Music Festival/Izumi hover.png","name": "泉"}, {"pos": (560, 215),"image": "images/Celemony/Menu/Music Festival/Sora.png","hover": "images/Celemony/Menu/Music Festival/Sora hover.png","name": "空"}, {"pos": (685, 210),"image": "images/Celemony/Menu/Music Festival/Katou.png","hover": "images/Celemony/Menu/Music Festival/Katou hover.png","name": "加藤"}, {"pos": (720, 60),"type":"textbutton","text":_("继续"),"name": "確認終了"}]
     $ sys_lm_menu_sound = {"hover": "sound/Effect Sound/System - choose.ogg", "click": "sound/Effect Sound/System - click.ogg"}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0.2, -0.001) from _call_lm_menu_439
     $ del sys_lm_menu_item
@@ -94,9 +77,7 @@ label block_00002610:
 
     pause 0.3
 
-
-    if judge_lm_condition([]):
-        jump block_0000260F
+    jump block_0000260F
 
     return
 
@@ -106,7 +87,7 @@ label block_0000260F:
     show rs_image_0C713C75424547F8B475126078350741 as tag_521EB228B90943B3A2B33F87C47D3A0E at center_bottom zorder zorder_tag_521EB228B90943B3A2B33F87C47D3A0E onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    $ sys_lm_menu_item = [{"pos": (104, 200),"image": "images/Celemony/Menu/Music Festival/Sakuya.png","hover": "images/Celemony/Menu/Music Festival/Sakuya hover.png","name": "作哉"}, {"pos": (224, 200),"image": "images/Celemony/Menu/Music Festival/Sato.png","hover": "images/Celemony/Menu/Music Festival/Sato hover.png","name": "佐藤"}, {"pos": (298, 200),"image": "images/Celemony/Menu/Music Festival/Kimura.png","hover": "images/Celemony/Menu/Music Festival/Kimura hover.png","name": "木村"}, {"pos": (416, 208),"image": "images/Celemony/Menu/Music Festival/Okajima.png","hover": "images/Celemony/Menu/Music Festival/Okajima hover.png","name": "岡島"}, {"pos": (496, 220),"image": "images/Celemony/Menu/Music Festival/Kojima.png","hover": "images/Celemony/Menu/Music Festival/Kojima hover.png","name": "小島"}, {"pos": (560, 216),"image": "images/Celemony/Menu/Music Festival/Itou.png","hover": "images/Celemony/Menu/Music Festival/Itou hover.png","name": "伊藤"}, {"pos": (672, 209),"image": "images/Celemony/Menu/Music Festival/Saburo.png","hover": "images/Celemony/Menu/Music Festival/Saburo hover.png","name": "三朗"}, {"pos": (724, 55),"type":"textbutton","text":_("继续"),"name": "確認終了"}]
+    $ sys_lm_menu_item = [{"pos": (104, 200),"image": "images/Celemony/Menu/Music Festival/Sakuya.png","hover": "images/Celemony/Menu/Music Festival/Sakuya hover.png","name": "作哉"}, {"pos": (224, 200),"image": "images/Celemony/Menu/Music Festival/Sato.png","hover": "images/Celemony/Menu/Music Festival/Sato hover.png","name": "佐藤"}, {"pos": (298, 200),"image": "images/Celemony/Menu/Music Festival/Kimura.png","hover": "images/Celemony/Menu/Music Festival/Kimura hover.png","name": "木村"}, {"pos": (416, 208),"image": "images/Celemony/Menu/Music Festival/Okajima.png","hover": "images/Celemony/Menu/Music Festival/Okajima hover.png","name": "岡島"}, {"pos": (496, 220),"image": "images/Celemony/Menu/Music Festival/Kojima.png","hover": "images/Celemony/Menu/Music Festival/Kojima hover.png","name": "小島"}, {"pos": (560, 216),"image": "images/Celemony/Menu/Music Festival/Itou.png","hover": "images/Celemony/Menu/Music Festival/Itou hover.png","name": "伊藤"}, {"pos": (672, 209),"image": "images/Celemony/Menu/Music Festival/Saburo.png","hover": "images/Celemony/Menu/Music Festival/Saburo hover.png","name": "三朗"}, {"pos": (720, 60),"type":"textbutton","text":_("继续"),"name": "確認終了"}]
     $ sys_lm_menu_sound = {"hover": "sound/Effect Sound/System - choose.ogg", "click": "sound/Effect Sound/System - click.ogg"}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0.2, -0.001) from _call_lm_menu_440
     $ del sys_lm_menu_item
@@ -216,6 +197,38 @@ label block_00003C0C:
     show rs_image_4C48D9E5007446F8B852C5E8EE39604F as tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 zorder zorder_tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 onlayer master
     with rs_effect_4CBC3D399C6A4D2DAC7D06010FCCC122
 
+    show rs_image_50574D67D9E1480190A94440CC260636 _("选择出赛人员") as hint_1:
+        xpos 800
+        ypos 375
+        parallel:
+            linear 20 xpos -200
+            xpos 800
+            repeat
+    show rs_image_50574D67D9E1480190A94440CC260636 _("选择出赛人员") as hint_2:
+        xpos 800
+        ypos 375
+        pause 5
+        parallel:
+            linear 20 xpos -200
+            xpos 800
+            repeat
+    show rs_image_50574D67D9E1480190A94440CC260636 _("选择出赛人员") as hint_3:
+        xpos 800
+        ypos 375
+        pause 10
+        parallel:
+            linear 20 xpos -200
+            xpos 800
+            repeat
+    show rs_image_50574D67D9E1480190A94440CC260636 _("选择出赛人员") as hint_4:
+        xpos 800
+        ypos 375
+        pause 15
+        parallel:
+            linear 20 xpos -200
+            xpos 800
+            repeat
+
     pause 0.3
 
     if sys_music2_current_file != "sound/BGM/Celemony.ogg":
@@ -229,408 +242,155 @@ label block_00003C0C:
 
     window hide
 
+    call celemony([
+        {"x": 52, "y": 10, "id": 0, "image": "images/Celemony/Event/Soprano.png"},
+        {"x": 237, "y": 10, "id": 1, "image": "images/Celemony/Event/Alto.png"},
+        {"x": 422, "y": 10, "id": 2, "image": "images/Celemony/Event/Tenor.png"},
+        {"x": 607, "y": 10, "id": 0, "image": "images/Celemony/Event/Soprano.png"},
+        {"x": 52, "y": 97, "id": 2, "image": "images/Celemony/Event/Tenor.png"},
+        {"x": 237, "y": 97, "id": 3, "image": "images/Celemony/Event/Bass.png"},
+        {"x": 422, "y": 97, "id": 3, "image": "images/Celemony/Event/Bass.png"},
+        {"x": 607, "y": 97, "id": 2, "image": "images/Celemony/Event/Tenor.png"},
+        {"x": 52, "y": 184, "id": 1, "image": "images/Celemony/Event/Alto.png"},
+        {"x": 237, "y": 184, "id": 1, "image": "images/Celemony/Event/Alto.png"},
+        {"x": 422, "y": 184, "id": 2, "image": "images/Celemony/Event/Tenor.png"},
+        {"x": 607, "y": 184, "id": 3, "image": "images/Celemony/Event/Bass.png"},
+        {"x": 52, "y": 271, "id": 1, "image": "images/Celemony/Event/Alto.png"},
+        {"x": 237, "y": 271, "id": 2, "image": "images/Celemony/Event/Tenor.png"},
+        {"x": 422, "y": 271, "id": 3, "image": "images/Celemony/Event/Bass.png"},
+        {"x": 607, "y": 271, "id": 1, "image": "images/Celemony/Event/Alto.png"},
+    ], {
+        "base": {
+            "Itou":      [3,   4,   1,  2],
+            "Izumi":     [3,   4,   2,  0],
+            "Katou":     [0,   2,   2,  3],
+            "Kimura":    [-12, -12,  3,  4],
+            "Kojima":    [4,   4,   1,  0],
+            "Matsuda":   [-2,  -2,   3,  4],
+            "Okajima":   [0,   3,   3,  2],
+            "Saburou":   [-2,   1,   3,  2],
+            "Sakuya":    [1,   3,   3,  2],
+            "Satou":     [4,   4,   4,  4],
+            "Shinobu":   [-3,   3,  -2, -2],
+            "Shintarou": [1,   3,   3,  3],
+            "Sora":      [2,   4,   3,  1],
+            "Tomo":      [2,   4,   1,  0],
+            "Tsubasa":   [10,  10,  2,  0],
+            "Tsuki":     [-13, -13, -2,  4],
+        },
+        "extra": [
+            {
+                "condition": [[], ["Izumi", "Matsuda"]], # 卡拉OK训练
+                "range": [
+                    {"rate": [0, 0.5], "value": 2},
+                    {"rate": [0.5, 1], "value": 0}
+                ]
+            }, {
+                "condition": [[], ["Itou", "Kimura"]], # 五音不全
+                "range": [
+                    {"rate": [0, 0.5], "value": -3},
+                    {"rate": [0.5, 1], "value": 0}
+                ]
+            }, {
+                "condition": [[0], ["Kojima", "Okajima"]], # 受到惊吓
+                "range": [
+                    {"rate": [0, 1], "value": -1}
+                ]
+            }, {
+                "condition": [[0, 1], ["Matsusa", "Sakuya"]], # 超极限荷尔蒙
+                "range": [
+                    {"rate": [0, 0.4], "value": 3},
+                    {"rate": [0.4, 0.8], "value": -3},
+                    {"rate": [0.8, 1], "value": 1}
+                ]
+            }, {
+                "condition": [[0, 1], ["Tomo", "Tsubasa"]], # 小钢琴部
+                "range": [
+                    {"rate": [0, 1], "value": 2}
+                ]
+            }, {
+                "condition": [[], ["Tomo", "Sakuya", "Tsubasa"]], # 嫉妒心
+                "range": [
+                    {"rate": [0, 0.6], "value": 4},
+                    {"rate": [0.6, 0.8], "value": -3},
+                    {"rate": [0.8, 1], "value": 0}
+                ]
+            }, {
+                "condition": [[], ["Sakuya", "Tsubasa"]], # 天籁之音
+                "range": [
+                    {"rate": [0, 0.8], "value": 6},
+                    {"rate": [0.8, 1], "value": 0}
+                ]
+            }, {
+                "condition": [[], ["Tomo", "Shinobu"]], # 天才音乐家
+                "range": [
+                    {"rate": [0, 0.5], "value": 2},
+                    {"rate": [0.5, 0.7], "value": 1},
+                    {"rate": [0.7, 1], "value": 0}
+                ]
+            }, {
+                "condition": [[], ["Tomo", "Satou"]], # 迟早发生的事
+                "range": [
+                    {"rate": [0, 0.2], "value": 1},
+                    {"rate": [0.2, 1], "value": 0}
+                ]
+            }, {
+                "condition": [[], ["Matsuda", "Sakuya", "Izumi"]], # 继续卡拉OK？
+                "range": [
+                    {"rate": [0, 0.2], "value": 1},
+                    {"rate": [0.2, 0.4], "value": 2},
+                    {"rate": [0.4, 0.6], "value": -2},
+                    {"rate": [0.6, 0.8], "value": -1},
+                    {"rate": [0.8, 1], "value": 0}
+                ]
+            }, {
+                "condition": [[], ["Matsuda", "Sakuya", "Izumi"]], # 继续卡拉OK？
+                "range": [
+                    {"rate": [0, 0.2], "value": 1},
+                    {"rate": [0.2, 0.4], "value": 2},
+                    {"rate": [0.4, 0.6], "value": -2},
+                    {"rate": [0.6, 0.8], "value": -1},
+                    {"rate": [0.8, 1], "value": 0}
+                ]
+            }, {
+                "condition": [[0], ["Tomo", "Sakuya"]], # 听天由命
+                "range": [
+                    {"rate": [0, 0.5], "value": 5},
+                    {"rate": [0, 0.5], "value": -5}
+                ]
+            }, {
+                "condition": [[2, 3], ["Tsuki", "Sora"]], # 意外还不错
+                "range": [
+                    {"rate": [0, 0.65], "value": 2},
+                    {"rate": [0.65, 1], "value": 0}
+                ]
+            }, {
+                "condition": [[2, 3], ["Saburou", "Shintarou"]], # 猫咪催眠曲
+                "range": [
+                    {"rate": [0, 0.4], "value": -2},
+                    {"rate": [0.4, 1], "value": 0}
+                ]
+            }, {
+                "condition": [[0, 1], ["Saburou", "Shintarou"]], # 猫咪狂躁曲
+                "range": [
+                    {"rate": [0, 0.4], "value": 2},
+                    {"rate": [0.4, 1], "value": 0}
+                ]
+            }
+        ]
+    })
 
-    if judge_lm_condition([]):
-        jump block_00003C0A
-
-    return
-
-label block_00003C0A:
-    # Node: 00003C0A (PREPARE)
-    $ Status = [0] * 16
-    show expression "images/Celemony/AVATAR/Tomo.png" as Avatar_1 at Transform(xpos=77,ypos=27) zorder 100 onlayer master
-    show expression "images/Celemony/AVATAR/Shinobu.png" as Avatar_2 at Transform(xpos=77,ypos=130) zorder 100 onlayer master
-    show expression "images/Celemony/AVATAR/Tsuki.png" as Avatar_3 at Transform(xpos=225,ypos=27) zorder 100 onlayer master
-    show expression "images/Celemony/AVATAR/Sora.png" as Avatar_4 at Transform(xpos=225, ypos=130) zorder 100 onlayer master
-    show expression "images/Celemony/AVATAR/Shintaro.png" as Avatar_5 at Transform(xpos=373, ypos=27) zorder 100 onlayer master
-    show expression "images/Celemony/AVATAR/Katou.png" as Avatar_6 at Transform(xpos=373, ypos=130) zorder 100 onlayer master
-    show expression "images/Celemony/AVATAR/Izumi.png" as Avatar_7 at Transform(xpos=521, ypos=27) zorder 100 onlayer master
-    show expression "images/Celemony/AVATAR/Matsuta.png" as Avatar_8 at Transform(xpos=521, ypos=130) zorder 100 onlayer master
-    show expression "images/Celemony/AVATAR/Tsubasa.png" as Avatar_9 at Transform(xpos=107, ypos=395) zorder 100 onlayer master
-    show expression "images/Celemony/AVATAR/Sakuya.png" as Avatar_10 at Transform(xpos=107, ypos=498) zorder 100 onlayer master
-    show expression "images/Celemony/AVATAR/Saburo.png" as Avatar_11 at Transform(xpos=255, ypos=395) zorder 100 onlayer master
-    show expression "images/Celemony/AVATAR/Itou.png" as Avatar_12 at Transform(xpos=255, ypos=498) zorder 100 onlayer master
-    show expression "images/Celemony/AVATAR/Kimura.png" as Avatar_13 at Transform(xpos=403, ypos=395) zorder 100 onlayer master
-    show expression "images/Celemony/AVATAR/Sato.png" as Avatar_14 at Transform(xpos=403, ypos=498) zorder 100 onlayer master
-    show expression "images/Celemony/AVATAR/Okajima.png" as Avatar_15 at Transform(xpos=551, ypos=395) zorder 100 onlayer master
-    show expression "images/Celemony/AVATAR/Kojima.png" as Avatar_16 at Transform(xpos=551, ypos=498) zorder 100 onlayer master
-    with rs_effect_351A8A667ECF419EB1A052B06E597A01
-
-    image music_festival_number = ParameterizedText(
-        font="font/source-hans-sans-heavy.ttc",
-        color="#FFFFFF",
-        size=30,
-        text_align=0.5)
-    image music_festival_event = ParameterizedText(
-        font="font/source-hans-sans-heavy.ttc",
-        color="#FFFFFF",
-        size=16,
-        text_align=0.5)
-
-    show music_festival_event (_("女高音")) as Title_1 at Transform(xpos=119, ypos=264) zorder 400 onlayer master
-    show music_festival_event (_("女低音")) as Title_2 at Transform(xpos=274, ypos=264) zorder 400 onlayer master
-    show music_festival_event (_("男高音")) as Title_3 at Transform(xpos=431, ypos=264) zorder 400 onlayer master
-    show music_festival_event (_("男低音")) as Title_4 at Transform(xpos=586, ypos=264) zorder 400 onlayer master
-    show music_festival_number "2" as Number_1 at Transform(xpos=129, ypos=290) zorder 400 onlayer master
-    show music_festival_number "5" as Number_2 at Transform(xpos=284, ypos=290) zorder 400 onlayer master
-    show music_festival_number "5" as Number_3 at Transform(xpos=441, ypos=290) zorder 400 onlayer master
-    show music_festival_number "4" as Number_4 at Transform(xpos=596, ypos=290) zorder 400 onlayer master
-
-    if judge_lm_condition([]):
-        jump block_00003C0B
-
-    return
-
-style music_festival_apply_button:
-    color "#9C9FE6"
-    size 36
-    outlines [(absolute(4), "#206BDF", absolute(0), absolute(0))]
-    hover_color "#206BDF"
-    hover_outlines [(absolute(4), "#9C9FE6", absolute(0), absolute(0))]
-
-label block_00003C0B:
-    # Node: 00003C0B (Selection)
-    $ sys_lm_menu_item = [
-        {"pos": (77, 27),"image": "images/Celemony/AVATAR/Placeholder.png","hover": "images/Celemony/AVATAR/Tomo hover.png","name": "友"},
-        {"pos": (77, 130),"image": "images/Celemony/AVATAR/Placeholder.png","hover": "images/Celemony/AVATAR/Shinobu hover.png","name": "しのぶ"},
-        {"pos": (225, 27),"image": "images/Celemony/AVATAR/Placeholder.png","hover": "images/Celemony/AVATAR/Tsuki hover.png","name": "月"},
-        {"pos": (225, 130),"image": "images/Celemony/AVATAR/Placeholder.png","hover": "images/Celemony/AVATAR/Sora hover.png","name": "空"},
-        {"pos": (373, 27),"image": "images/Celemony/AVATAR/Placeholder.png","hover": "images/Celemony/AVATAR/Shintaro hover.png","name": "慎太郎"},
-        {"pos": (373, 130),"image": "images/Celemony/AVATAR/Placeholder.png","hover": "images/Celemony/AVATAR/Katou hover.png","name": "加藤"},
-        {"pos": (521, 27),"image": "images/Celemony/AVATAR/Placeholder.png","hover": "images/Celemony/AVATAR/Izumi hover.png","name": "泉"},
-        {"pos": (521, 130),"image": "images/Celemony/AVATAR/Placeholder.png","hover": "images/Celemony/AVATAR/Matsuta hover.png","name": "松田"},
-        {"pos": (107, 395),"image": "images/Celemony/AVATAR/Placeholder.png","hover": "images/Celemony/AVATAR/Tsubasa hover.png","name": "つばさ"},
-        {"pos": (107, 498),"image": "images/Celemony/AVATAR/Placeholder.png","hover": "images/Celemony/AVATAR/Sakuya hover.png","name": "作哉"},
-        {"pos": (255, 395),"image": "images/Celemony/AVATAR/Placeholder.png","hover": "images/Celemony/AVATAR/Saburo hover.png","name": "三朗"},
-        {"pos": (255, 498),"image": "images/Celemony/AVATAR/Placeholder.png","hover": "images/Celemony/AVATAR/Itou hover.png","name": "伊藤"},
-        {"pos": (403, 395),"image": "images/Celemony/AVATAR/Placeholder.png","hover": "images/Celemony/AVATAR/Kimura hover.png","name": "木村"},
-        {"pos": (403, 498),"image": "images/Celemony/AVATAR/Placeholder.png","hover": "images/Celemony/AVATAR/Sato hover.png","name": "佐藤"},
-        {"pos": (551, 395),"image": "images/Celemony/AVATAR/Placeholder.png","hover": "images/Celemony/AVATAR/Okajima hover.png","name": "岡島"},
-        {"pos": (551, 498),"image": "images/Celemony/AVATAR/Placeholder.png","hover": "images/Celemony/AVATAR/Kojima hover.png","name": "小島"},
-        {"pos": (346, 264),"type":"textbutton","text":"出赛！","style":"music_festival_apply_button","condition":[{"scope":0,"content":"Phase1Count == 2 and Phase2Count == 5 and Phase3Count == 5 and Phase4Count == 4"}],"name": "Start"}]
-    $ sys_lm_menu_sound = {"hover": "sound/Effect Sound/System - choose.ogg", "click": "sound/Effect Sound/System - click.ogg"}
-    call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0.2, 0.2) from _call_lm_menu_441
-    $ del sys_lm_menu_item
-    $ del sys_lm_menu_sound
-
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"友\"" }]):
-        jump block_00003C03
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"しのぶ\"" }]):
-        jump block_00003C02
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"月\"" }]):
-        jump block_00003C01
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"空\"" }]):
-        jump block_00003C00
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"慎太郎\"" }]):
-        jump block_00003BF3
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"加藤\"" }]):
-        jump block_00003BFF
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"泉\"" }]):
-        jump block_00003BFE
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"松田\"" }]):
-        jump block_00003BFD
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"つばさ\"" }]):
-        jump block_00003BFC
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"作哉\"" }]):
-        jump block_00003BF9
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"三朗\"" }]):
-        jump block_00003BFA
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"伊藤\"" }]):
-        jump block_00003BFB
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"木村\"" }]):
-        jump block_00003BF6
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"佐藤\"" }]):
-        jump block_00003BF7
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"岡島\"" }]):
-        jump block_00003BF8
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"小島\"" }]):
-        jump block_00003BF5
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"Start\"" }]):
-        jump block_00003C05
-
-    return
-
-label block_00003C03:
-    # Node: 00003C03 (友)
-    $ SelectedPerson = 1
-
-    if judge_lm_condition([]):
-        jump block_00003BF1
-
-    return
-
-label block_00003BF1:
-    # Node: 00003BF1 (Select Phase)
-    $ sys_lm_choice_item = ["暂不决定"]
-    if Phase1Count < 2:
-        $ sys_lm_choice_item += ["女高音"]
-    if Phase2Count < 5:
-        $ sys_lm_choice_item += ["女低音"]
-    if Phase3Count < 5:
-        $ sys_lm_choice_item += ["男高音"]
-    if Phase4Count < 4:
-        $ sys_lm_choice_item += ["男低音"]
-    $ sys_lm_choice_sound = { "click": "sound/Effect Sound/System - choose.ogg" }
-    call lm_choice(sys_lm_choice_item, sys_lm_choice_sound, 0) from _call_lm_choice_9
-    $ del sys_lm_choice_item
-    $ del sys_lm_choice_sound
-    if _lm_selected_value == "女高音":
-        $ SelectedPhase = 1
-    elif _lm_selected_value == "女低音":
-        $ SelectedPhase = 2
-    elif _lm_selected_value == "男高音":
-        $ SelectedPhase = 3
-    elif _lm_selected_value == "男低音":
-        $ SelectedPhase = 4
-    else:
-        $ SelectedPhase = 0
-
-    if judge_lm_condition([]):
-        jump block_00003BF2
+    jump block_00003C06
 
     return
 
-label block_00003BF2:
-    # Node: 00003BF2 (Update)
-    $ renpy.hide("Status_" |str_combine| SelectedPerson)
-    if Status[SelectedPerson - 1] == 1:
-        $ Phase1Count = Phase1Count - 1
-    elif Status[SelectedPerson - 1] == 2:
-        $ Phase2Count = Phase2Count - 1
-    elif Status[SelectedPerson - 1] == 3:
-        $ Phase3Count = Phase3Count - 1
-    elif Status[SelectedPerson - 1] == 4:
-        $ Phase4Count = Phase4Count - 1
-    if SelectedPerson < 5:
-        $ StatusX = 102 + (SelectedPerson - 1) * 148
-        $ StatusY = 16
-    elif SelectedPerson < 9:
-        $ StatusX = 102 + (SelectedPerson - 5) * 148
-        $ StatusY = 119
-    elif SelectedPerson < 13:
-        $ StatusX = 132 + (SelectedPerson - 9) * 148
-        $ StatusY = 384
-    else:
-        $ StatusX = 132 + (SelectedPerson - 13) * 148
-        $ StatusY = 487
-    if SelectedPhase == 1:
-        $ Phase1Count = Phase1Count + 1
-        $ renpy.show("images/Celemony/Event/Soprano.png", at_list=[Transform(xpos=StatusX, ypos=StatusY)], what=renpy.easy.displayable("images/Celemony/Event/Soprano.png"), tag="Status_" |str_combine| SelectedPerson, zorder=50)
-    elif SelectedPhase == 2:
-        $ Phase2Count = Phase2Count + 1
-        $ renpy.show("images/Celemony/Event/Alto.png", at_list=[Transform(xpos=StatusX, ypos=StatusY)], what=renpy.easy.displayable("images/Celemony/Event/Alto.png"), tag="Status_" |str_combine| SelectedPerson, zorder=50)
-    elif SelectedPhase == 3:
-        $ Phase3Count = Phase3Count + 1
-        $ renpy.show("images/Celemony/Event/Tenor.png", at_list=[Transform(xpos=StatusX, ypos=StatusY)], what=renpy.easy.displayable("images/Celemony/Event/Tenor.png"), tag="Status_" |str_combine| SelectedPerson, zorder=50)
-    elif SelectedPhase == 4:
-        $ Phase4Count = Phase4Count + 1
-        $ renpy.show("images/Celemony/Event/Bass.png", at_list=[Transform(xpos=StatusX, ypos=StatusY)], what=renpy.easy.displayable("images/Celemony/Event/Bass.png"), tag="Status_" |str_combine| SelectedPerson, zorder=50)
-    $ Status[SelectedPerson - 1] = SelectedPhase
-    hide Number_1
-    hide Number_2
-    hide Number_3
-    hide Number_4
-    hide Title_1
-    hide Title_2
-    hide Title_3
-    hide Title_4
-    if Phase1Count < 2 or Phase2Count < 5 or Phase3Count < 5 or Phase4Count < 4:
-        show music_festival_event (_("女高音")) as Title_1 at Transform(xpos=119, ypos=264) zorder 400 onlayer master
-        show music_festival_event (_("女低音")) as Title_2 at Transform(xpos=274, ypos=264) zorder 400 onlayer master
-        show music_festival_event (_("男高音")) as Title_3 at Transform(xpos=431, ypos=264) zorder 400 onlayer master
-        show music_festival_event (_("男低音")) as Title_4 at Transform(xpos=586, ypos=264) zorder 400 onlayer master
-        show sprots_celemony_number (str(2 - Phase1Count)) as Number_1 at Transform(xpos=129, ypos=290) zorder 400 onlayer master
-        show sprots_celemony_number (str(5 - Phase2Count)) as Number_2 at Transform(xpos=284, ypos=290) zorder 400 onlayer master
-        show sprots_celemony_number (str(5 - Phase3Count)) as Number_3 at Transform(xpos=441, ypos=290) zorder 400 onlayer master
-        show sprots_celemony_number (str(4 - Phase4Count)) as Number_4 at Transform(xpos=596, ypos=290) zorder 400 onlayer master
-
-    if judge_lm_condition([]):
-        jump block_00003C09
-
-    return
-
-label block_00003C09:
-    # Node: 00003C09 (To: Selection)
-
-    if judge_lm_condition([]):
-        jump block_00003C0B
-
-    return
-
-label block_00003C02:
-    # Node: 00003C02 (忍)
-    $ SelectedPerson = 5
-
-    if judge_lm_condition([]):
-        jump block_00003BF1
-
-    return
-
-label block_00003C01:
-    # Node: 00003C01 (月)
-    $ SelectedPerson = 2
-
-    if judge_lm_condition([]):
-        jump block_00003BF1
-
-    return
-
-label block_00003C00:
-    # Node: 00003C00 (空)
-    $ SelectedPerson = 6
-
-    if judge_lm_condition([]):
-        jump block_00003BF1
-
-    return
-
-label block_00003BF3:
-    # Node: 00003BF3 (慎太郎)
-    $ SelectedPerson = 3
-
-    if judge_lm_condition([]):
-        jump block_00003BF1
-
-    return
-
-label block_00003BFF:
-    # Node: 00003BFF (加藤)
-    $ SelectedPerson = 7
-
-    if judge_lm_condition([]):
-        jump block_00003BF1
-
-    return
-
-label block_00003BFE:
-    # Node: 00003BFE (泉)
-    $ SelectedPerson = 4
-
-    if judge_lm_condition([]):
-        jump block_00003BF1
-
-    return
-
-label block_00003BFD:
-    # Node: 00003BFD (松田)
-    $ SelectedPerson = 8
-
-    if judge_lm_condition([]):
-        jump block_00003BF1
-
-    return
-
-label block_00003BFC:
-    # Node: 00003BFC (翼)
-    $ SelectedPerson = 9
-
-    if judge_lm_condition([]):
-        jump block_00003BF1
-
-    return
-
-label block_00003BF9:
-    # Node: 00003BF9 (作哉)
-    $ SelectedPerson = 13
-
-    if judge_lm_condition([]):
-        jump block_00003BF1
-
-    return
-
-label block_00003BFA:
-    # Node: 00003BFA (三朗)
-    $ SelectedPerson = 10
-
-    if judge_lm_condition([]):
-        jump block_00003BF1
-
-    return
-
-label block_00003BFB:
-    # Node: 00003BFB (伊藤)
-    $ SelectedPerson = 14
-
-    if judge_lm_condition([]):
-        jump block_00003BF1
-
-    return
-
-label block_00003BF6:
-    # Node: 00003BF6 (木村)
-    $ SelectedPerson = 11
-
-    if judge_lm_condition([]):
-        jump block_00003BF1
-
-    return
-
-label block_00003BF7:
-    # Node: 00003BF7 (佐藤)
-    $ SelectedPerson = 15
-
-    if judge_lm_condition([]):
-        jump block_00003BF1
-
-    return
-
-label block_00003BF8:
-    # Node: 00003BF8 (岡島)
-    $ SelectedPerson = 12
-
-    if judge_lm_condition([]):
-        jump block_00003BF1
-
-    return
-
-label block_00003BF5:
-    # Node: 00003BF5 (小島)
-    $ SelectedPerson = 16
-
-    if judge_lm_condition([]):
-        jump block_00003BF1
-
-    return
-
-label block_00003C05:
+label block_00003C06:
     # Node: 00003C05 (Calculate)
     $ set_window("イベントモード")
-    hide Status_1
-    hide Status_2
-    hide Status_3
-    hide Status_4
-    hide Status_5
-    hide Status_6
-    hide Status_7
-    hide Status_8
-    hide Status_9
-    hide Status_10
-    hide Status_11
-    hide Status_12
-    hide Status_13
-    hide Status_14
-    hide Status_15
-    hide Status_16
-    hide Number_1
-    hide Number_2
-    hide Number_3
-    hide Number_4
-    hide Avatar_1
-    hide Avatar_2
-    hide Avatar_3
-    hide Avatar_4
-    hide Avatar_5
-    hide Avatar_6
-    hide Avatar_7
-    hide Avatar_8
-    hide Avatar_9
-    hide Avatar_10
-    hide Avatar_11
-    hide Avatar_12
-    hide Avatar_13
-    hide Avatar_14
-    hide Avatar_15
-    hide Avatar_16
+    hide hint_1
+    hide hint_2
+    hide hint_3
+    hide hint_4
     hide tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3
     with rs_effect_1C428704E5E24078848D388A31B861CE
 
@@ -662,55 +422,9 @@ label block_00003C05:
     pause 2
 
 
-    if judge_lm_condition([]):
-        jump block_00003C06
-
-    return
-
-label block_00003C06:
-    # Node: 00003C06 (Calculate)
-    $ Score = [0] * 4
-    $ scoreTable = [
-        [ 2,   4,   1,  0],
-        [-13, -13, -2,  4],
-        [ 1,   3,   3,  3],
-        [ 3,   4,   2,  0],
-        [-3,   3,  -2, -2],
-        [ 2,   4,   3,  1],
-        [ 0,   2,   2,  3],
-        [-2,  -2,   3,  4],
-        [ 10,  10,  2,  0],
-        [-2,   1,   3,  2],
-        [-12, -12,  3,  4],
-        [ 0,   3,   3,  2],
-        [ 1,   3,   3,  2],
-        [ 3,   4,   1,  2],
-        [ 4,   4,   4,  4],
-        [ 4,   4,   1,  0]
-    ]
-    $ i = 0
-    while i < 16:
-        $ Score[Status[i] - 1] += scoreTable[i][Status[i] - 1]
-        $ i += 1
-    if Score[0] > 7:
-        $ Phase1Result = _("胜利")
-        $ WinCount += 1
-    if Score[1] > 7:
-        $ Phase2Result = _("胜利")
-        $ WinCount += 1
-    if Score[2] > 7:
-        $ Phase3Result = _("胜利")
-        $ WinCount += 1
-    if Score[3] > 7:
-        $ Phase4Result = _("胜利")
-        $ WinCount += 1
-    $ del scoreTable
-    $ del Score
-    $ del i
-
-    if judge_lm_condition([{ "scope": 0, "content": "WinCount > 2" }]):
+    if sum(1 if x > 12 else 0 for x in _return) > 2:
         jump block_00003C08
-    if judge_lm_condition([]):
+    else:
         jump block_00003BF4
 
     return
@@ -750,12 +464,31 @@ label block_00003C08:
 
     return
 
+
+label block_00003BF4:
+    # Node: 00003BF4 (Lose)
+    if sys_effect_current_file != "sound/Effect Sound/Sorry 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+        play effect "sound/Effect Sound/Sorry 1.ogg" noloop
+        $ sys_effect_current_file = "sound/Effect Sound/Sorry 1.ogg"
+
+    $ zorder_tag_3C0D2D9BB95B42AAA768FE8D105219CB = 0
+    show rs_image_D123F79A6B5940889E3CF0422ABE8095 as tag_3C0D2D9BB95B42AAA768FE8D105219CB at center_bottom zorder zorder_tag_3C0D2D9BB95B42AAA768FE8D105219CB onlayer master
+    with rs_effect_7C9AB5ABEE5E487EAB75A4EA474E500B
+
+    pause 2
+
+
+    if judge_lm_condition([]):
+        jump block_00003C04
+
+    return
+
 label block_00003C04:
     # Node: 00003C04 (Result)
     $ set_window("イベントモード")
     window show
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#FF8000}详情：{/color}\n女高音: [Phase1Result] 女低音: [Phase2Result]\n男高音: [Phase3Result] 男低音: [Phase4Result]"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#FF8000}详情（13为基础值）{/color}\n女高音: [_return[0]] 女低音: [_return[1]]\n男高音: [_return[2]] 男低音: [_return[3]]"
 
     window hide
 
@@ -777,38 +510,6 @@ label block_00003C04:
 
 label block_00003C07:
     # Node: 00003C07 (終了)
-    $ del Status
-    $ del SelectedPerson
-    $ del SelectedPhase
-    $ del StatusX
-    $ del StatusY
-    $ del Phase1Count
-    $ del Phase2Count
-    $ del Phase3Count
-    $ del Phase4Count
-    $ del Phase1Result
-    $ del Phase2Result
-    $ del Phase3Result
-    $ del Phase4Result
-    $ del WinCount
-
-    return
-
-label block_00003BF4:
-    # Node: 00003BF4 (Lose)
-    if sys_effect_current_file != "sound/Effect Sound/Sorry 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
-        play effect "sound/Effect Sound/Sorry 1.ogg" noloop
-        $ sys_effect_current_file = "sound/Effect Sound/Sorry 1.ogg"
-
-    $ zorder_tag_3C0D2D9BB95B42AAA768FE8D105219CB = 0
-    show rs_image_D123F79A6B5940889E3CF0422ABE8095 as tag_3C0D2D9BB95B42AAA768FE8D105219CB at center_bottom zorder zorder_tag_3C0D2D9BB95B42AAA768FE8D105219CB onlayer master
-    with rs_effect_7C9AB5ABEE5E487EAB75A4EA474E500B
-
-    pause 2
-
-
-    if judge_lm_condition([]):
-        jump block_00003C04
 
     return
 

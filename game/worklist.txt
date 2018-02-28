@@ -1,4 +1,3 @@
-000027FC Note
 000020C1 Karuta
 0000116D TsukiTest
 0000213E Theater
