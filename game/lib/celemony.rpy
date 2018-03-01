@@ -1,4 +1,4 @@
-# Note: Basic win score = ceil(sum(i in range(0, 4): ceil(sum(character[i]) / 3)) / 4)
+# Note: Basic win score = ceil(sum(ceil(sum(character[i]) / 3) for i in range(4)) / 4)
 
 init python:
     def celemony_piece_dragged(drags, drop):

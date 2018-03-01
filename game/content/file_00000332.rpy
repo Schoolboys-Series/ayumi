@@ -279,7 +279,7 @@ label block_00003933:
             {
                 "condition": [[], ["Matsuda", "Sakuya"]], # 远观而不亵玩
                 "range": [
-                    {"rate": [0, 0.6], "value": 4},
+                    {"rate": [0, 0.5], "value": 4},
                     {"rate": [0.5, 0.6], "value": 2},
                     {"rate": [0.6, 0.8], "value": -4},
                     {"rate": [0.8, 1], "value": 0}

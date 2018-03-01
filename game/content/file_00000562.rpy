@@ -344,15 +344,6 @@ label block_00003C0C:
                     {"rate": [0.8, 1], "value": 0}
                 ]
             }, {
-                "condition": [[], ["Matsuda", "Sakuya", "Izumi"]], # 继续卡拉OK？
-                "range": [
-                    {"rate": [0, 0.2], "value": 1},
-                    {"rate": [0.2, 0.4], "value": 2},
-                    {"rate": [0.4, 0.6], "value": -2},
-                    {"rate": [0.6, 0.8], "value": -1},
-                    {"rate": [0.8, 1], "value": 0}
-                ]
-            }, {
                 "condition": [[0], ["Tomo", "Sakuya"]], # 听天由命
                 "range": [
                     {"rate": [0, 0.5], "value": 5},
@@ -375,6 +366,12 @@ label block_00003C0C:
                 "range": [
                     {"rate": [0, 0.4], "value": 2},
                     {"rate": [0.4, 1], "value": 0}
+                ]
+            }, {
+                "condition": [[], ["Sakuya", "Shintarou"]], # 傲娇君的歌声
+                "range": [
+                    {"rate": [0, 0.2], "value": 2},
+                    {"rate": [0.2, 1], "value": 0}
                 ]
             }
         ]
