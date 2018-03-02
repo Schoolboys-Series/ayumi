@@ -23,7 +23,7 @@ screen shintarou_notebook:
             $ character_list.extend(filter(lambda x: x["id"]  == "Dark lesser", character_full_info))
         $ character_list.extend(filter(lambda x: x["id"]  == "Tokiwa", character_full_info))
         if C1S4 == True or Chapter > 1:
-            $ character_list.extend(filter(lambda x: x["id"]  in ["Kobayashi", "Minami", "Sukimoto", "Rikuta", "Shougintoki"], character_full_info))
+            $ character_list.extend(filter(lambda x: x["id"]  in ["Kobayashi", "Minami", "Sugimoto", "Rikuta", "Shougintoki"], character_full_info))
         if C3S1 == True:
             $ character_list.extend(filter(lambda x: x["id"]  == "Shouhei", character_full_info))
         if C2S5 == True:

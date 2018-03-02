@@ -9,6 +9,7 @@ label block_0000116E:
         CurrentIndex = 0
         TotalCount = 0
         TimeState = 0
+        SelectedState = 0
         record_volume("music")
         renpy.music.set_volume(0, 1, "music")
 
@@ -55,14 +56,19 @@ label block_0000116E:
     if _return == "Return":
         jump tsuki_test_end
     if _return == "Find1":
+        $ SelectedState = 0
         jump tsuki_test_find_1
     if _return == "Number1":
+        $ SelectedState = 1
         jump tsuki_test_number_1
     if _return == "Find2":
+        $ SelectedState = 2
         jump tsuki_test_find_2
     if _return == "Number2":
+        $ SelectedState = 3
         jump tsuki_test_number_2
     if _return == "Find3":
+        $ SelectedState = 4
         jump tsuki_test_find_3
 
     return
@@ -213,6 +219,7 @@ label tsuki_test_end:
     $ del CurrentIndex
     $ del TotalCount
     $ del TimeState
+    $ del SelectedState
 
     stop music2 fadeout 0.5
     $ sys_music_current_file = ""
@@ -421,7 +428,7 @@ label tsuki_test_wrong:
     return
 
 label tsuki_test_judge_result:
-    if GTsukiTestStage == 5:
+    if GTsukiTestStage == 5 or GTsukiTestStage != SelectedState:
         jump tsuki_test_final_question
     elif (CorrectCount / float(TotalCount)) >= 0.7:
         jump tsuki_test_next_question

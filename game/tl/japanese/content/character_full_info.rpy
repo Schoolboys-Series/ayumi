@@ -1129,7 +1129,7 @@ translate japanese strings:
     new "{size=12}みなみ{/size}\n南"
 
     # content\character_full_info.rpy:18
-    old "{size=12}SUKIMOTO KOKORO{/size}\n杉本志"
+    old "{size=12}SUGIMOTO KOKORO{/size}\n杉本志"
     new "{size=12}すきもと　こころ{/size}\n杉本　志"
 
     # content\character_full_info.rpy:18

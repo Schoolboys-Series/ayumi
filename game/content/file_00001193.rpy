@@ -482,9 +482,23 @@ label block_00002ED4:
 
     return
 
+style saburou_imechen_back_button:
+    vertical True
+    size 30
+    color "#FE6666"
+    hover_color "#FFB0CF"
+    font "font/zcool-happy-ayumi-extended.ttf"
+style saburou_imechen_back_button_2:
+    size 40
+    color "#EA2280"
+    hover_color "#FFFFFF"
+    font "font/zcool-happy-ayumi-extended.ttf"
+    outlines [(absolute(3), "#FFFFFF", absolute(0), absolute(0))]
+    hover_outlines [(absolute(3), "#EA2280", absolute(0), absolute(0))]
+
 label block_00001197:
     # Node: 00001197 (選擇)
-    $ sys_lm_menu_item = [{"pos": (8, 152),"image": "images/Saburos-Salon/AVATAR/Tomo.png","hover": "images/Saburos-Salon/AVATAR/Tomo hover.png","name": "友"}, {"pos": (128, 152),"image": "images/Saburos-Salon/AVATAR/Tsubasa.png","hover": "images/Saburos-Salon/AVATAR/Tsubasa hover.png","name": "つばさ"}, {"pos": (256, 152),"image": "images/Saburos-Salon/AVATAR/Sakuya.png","hover": "images/Saburos-Salon/AVATAR/Sakuya hover.png","name": "作哉"}, {"pos": (8, 272),"image": "images/Saburos-Salon/AVATAR/Shinobu.png","hover": "images/Saburos-Salon/AVATAR/Shinobu hover.png","name": "しのぶ"}, {"pos": (130, 272),"image": "images/Saburos-Salon/AVATAR/Tsuki.png","hover": "images/Saburos-Salon/AVATAR/Tsuki hover.png","name": "月"}, {"pos": (256, 272),"image": "images/Saburos-Salon/AVATAR/Sora.png","hover": "images/Saburos-Salon/AVATAR/Sora hover.png","name": "空"}, {"pos": (8, 416),"image": "images/Saburos-Salon/AVATAR/Saburo.png","hover": "images/Saburos-Salon/AVATAR/Saburo hover.png","name": "三朗"}, {"pos": (130, 414),"image": "images/Saburos-Salon/AVATAR/Shintaro.png","hover": "images/Saburos-Salon/AVATAR/Shintaro hover.png","name": "慎太郎"}, {"pos": (320, 440),"image": "images/Saburos-Salon/Back.png","hover": "images/Saburos-Salon/Back hover.png","name": "戻る"}]
+    $ sys_lm_menu_item = [{"pos": (8, 152),"image": "images/Saburos-Salon/AVATAR/Tomo.png","hover": "images/Saburos-Salon/AVATAR/Tomo hover.png","name": "友"}, {"pos": (128, 152),"image": "images/Saburos-Salon/AVATAR/Tsubasa.png","hover": "images/Saburos-Salon/AVATAR/Tsubasa hover.png","name": "つばさ"}, {"pos": (256, 152),"image": "images/Saburos-Salon/AVATAR/Sakuya.png","hover": "images/Saburos-Salon/AVATAR/Sakuya hover.png","name": "作哉"}, {"pos": (8, 272),"image": "images/Saburos-Salon/AVATAR/Shinobu.png","hover": "images/Saburos-Salon/AVATAR/Shinobu hover.png","name": "しのぶ"}, {"pos": (130, 272),"image": "images/Saburos-Salon/AVATAR/Tsuki.png","hover": "images/Saburos-Salon/AVATAR/Tsuki hover.png","name": "月"}, {"pos": (256, 272),"image": "images/Saburos-Salon/AVATAR/Sora.png","hover": "images/Saburos-Salon/AVATAR/Sora hover.png","name": "空"}, {"pos": (8, 416),"image": "images/Saburos-Salon/AVATAR/Saburo.png","hover": "images/Saburos-Salon/AVATAR/Saburo hover.png","name": "三朗"}, {"pos": (130, 414),"image": "images/Saburos-Salon/AVATAR/Shintaro.png","hover": "images/Saburos-Salon/AVATAR/Shintaro hover.png","name": "慎太郎"}, {"pos": (320, 460),"type":"textbutton", "style": "saburou_imechen_back_button", "text": _("返回"),"name": "戻る"}]
     $ sys_lm_menu_sound = {"hover": "sound/Effect Sound/System - choose.ogg", "click": "sound/Effect Sound/System - click.ogg"}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0.2, -0.001) from _call_lm_menu_282
     $ del sys_lm_menu_item
@@ -597,7 +611,7 @@ label block_000029CF:
 
 label block_000029D0:
     # Node: 000029D0 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_283
     $ del sys_lm_menu_item
@@ -633,7 +647,7 @@ label block_000029CD:
 
 label block_000029CE:
     # Node: 000029CE (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_284
     $ del sys_lm_menu_item
@@ -669,7 +683,7 @@ label block_000029CB:
 
 label block_000029CC:
     # Node: 000029CC (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_285
     $ del sys_lm_menu_item
@@ -705,7 +719,7 @@ label block_000029C7:
 
 label block_000029CA:
     # Node: 000029CA (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_286
     $ del sys_lm_menu_item
@@ -741,7 +755,7 @@ label block_000029C6:
 
 label block_000029C8:
     # Node: 000029C8 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_287
     $ del sys_lm_menu_item
@@ -777,7 +791,7 @@ label block_000029C5:
 
 label block_000029C9:
     # Node: 000029C9 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_288
     $ del sys_lm_menu_item
@@ -813,7 +827,7 @@ label block_000029D1:
 
 label block_000029D2:
     # Node: 000029D2 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_289
     $ del sys_lm_menu_item
@@ -1284,7 +1298,7 @@ label block_00002A13:
 
 label block_00002A14:
     # Node: 00002A14 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_290
     $ del sys_lm_menu_item
@@ -1320,7 +1334,7 @@ label block_00002A11:
 
 label block_00002A12:
     # Node: 00002A12 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_291
     $ del sys_lm_menu_item
@@ -1356,7 +1370,7 @@ label block_00002A0F:
 
 label block_00002A10:
     # Node: 00002A10 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_292
     $ del sys_lm_menu_item
@@ -1392,7 +1406,7 @@ label block_00002A0B:
 
 label block_00002A0D:
     # Node: 00002A0D (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_293
     $ del sys_lm_menu_item
@@ -1428,7 +1442,7 @@ label block_00002A0C:
 
 label block_00002A0E:
     # Node: 00002A0E (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_294
     $ del sys_lm_menu_item
@@ -1720,7 +1734,7 @@ label block_000029DD:
 
 label block_000029DE:
     # Node: 000029DE (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_295
     $ del sys_lm_menu_item
@@ -1756,7 +1770,7 @@ label block_000029DB:
 
 label block_000029DC:
     # Node: 000029DC (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_296
     $ del sys_lm_menu_item
@@ -1792,7 +1806,7 @@ label block_000029D9:
 
 label block_000029DA:
     # Node: 000029DA (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_297
     $ del sys_lm_menu_item
@@ -1828,7 +1842,7 @@ label block_000029D5:
 
 label block_000029D6:
     # Node: 000029D6 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_298
     $ del sys_lm_menu_item
@@ -1864,7 +1878,7 @@ label block_000029D4:
 
 label block_000029D7:
     # Node: 000029D7 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_299
     $ del sys_lm_menu_item
@@ -1900,7 +1914,7 @@ label block_000029D3:
 
 label block_000029D8:
     # Node: 000029D8 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_300
     $ del sys_lm_menu_item
@@ -2213,7 +2227,7 @@ label block_00002445:
 
 label block_00002447:
     # Node: 00002447 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_301
     $ del sys_lm_menu_item
@@ -2249,7 +2263,7 @@ label block_00002448:
 
 label block_00002449:
     # Node: 00002449 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_302
     $ del sys_lm_menu_item
@@ -2285,7 +2299,7 @@ label block_0000244A:
 
 label block_0000244B:
     # Node: 0000244B (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_303
     $ del sys_lm_menu_item
@@ -2321,7 +2335,7 @@ label block_0000244C:
 
 label block_0000244D:
     # Node: 0000244D (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_304
     $ del sys_lm_menu_item
@@ -2357,7 +2371,7 @@ label block_0000244E:
 
 label block_0000244F:
     # Node: 0000244F (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_305
     $ del sys_lm_menu_item
@@ -2393,7 +2407,7 @@ label block_00002450:
 
 label block_00002451:
     # Node: 00002451 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_306
     $ del sys_lm_menu_item
@@ -2706,7 +2720,7 @@ label block_000029F5:
 
 label block_000029F6:
     # Node: 000029F6 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_307
     $ del sys_lm_menu_item
@@ -2742,7 +2756,7 @@ label block_000029F3:
 
 label block_000029F4:
     # Node: 000029F4 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_308
     $ del sys_lm_menu_item
@@ -2778,7 +2792,7 @@ label block_000029F1:
 
 label block_000029F2:
     # Node: 000029F2 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_309
     $ del sys_lm_menu_item
@@ -2814,7 +2828,7 @@ label block_000029ED:
 
 label block_000029F0:
     # Node: 000029F0 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_310
     $ del sys_lm_menu_item
@@ -2850,7 +2864,7 @@ label block_000029EC:
 
 label block_000029EE:
     # Node: 000029EE (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_311
     $ del sys_lm_menu_item
@@ -3140,7 +3154,7 @@ label block_000029FF:
 
 label block_00002A00:
     # Node: 00002A00 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_312
     $ del sys_lm_menu_item
@@ -3176,7 +3190,7 @@ label block_000029FD:
 
 label block_000029FE:
     # Node: 000029FE (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_313
     $ del sys_lm_menu_item
@@ -3212,7 +3226,7 @@ label block_000029F9:
 
 label block_000029FC:
     # Node: 000029FC (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_314
     $ del sys_lm_menu_item
@@ -3248,7 +3262,7 @@ label block_000029F8:
 
 label block_000029FA:
     # Node: 000029FA (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_315
     $ del sys_lm_menu_item
@@ -3284,7 +3298,7 @@ label block_000029F7:
 
 label block_000029FB:
     # Node: 000029FB (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_316
     $ del sys_lm_menu_item
@@ -3578,7 +3592,7 @@ label block_000029E9:
 
 label block_000029EA:
     # Node: 000029EA (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_317
     $ del sys_lm_menu_item
@@ -3614,7 +3628,7 @@ label block_000029E7:
 
 label block_000029E8:
     # Node: 000029E8 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_318
     $ del sys_lm_menu_item
@@ -3650,7 +3664,7 @@ label block_000029E5:
 
 label block_000029E6:
     # Node: 000029E6 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_319
     $ del sys_lm_menu_item
@@ -3686,7 +3700,7 @@ label block_000029E3:
 
 label block_000029E4:
     # Node: 000029E4 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_320
     $ del sys_lm_menu_item
@@ -3722,7 +3736,7 @@ label block_000029E1:
 
 label block_000029E2:
     # Node: 000029E2 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_321
     $ del sys_lm_menu_item
@@ -3758,7 +3772,7 @@ label block_000029DF:
 
 label block_000029E0:
     # Node: 000029E0 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_322
     $ del sys_lm_menu_item
@@ -4069,7 +4083,7 @@ label block_00002A09:
 
 label block_00002A0A:
     # Node: 00002A0A (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_323
     $ del sys_lm_menu_item
@@ -4105,7 +4119,7 @@ label block_00002A07:
 
 label block_00002A08:
     # Node: 00002A08 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_324
     $ del sys_lm_menu_item
@@ -4141,7 +4155,7 @@ label block_00002A05:
 
 label block_00002A06:
     # Node: 00002A06 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_325
     $ del sys_lm_menu_item
@@ -4177,7 +4191,7 @@ label block_00002A02:
 
 label block_00002A03:
     # Node: 00002A03 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_326
     $ del sys_lm_menu_item
@@ -4213,7 +4227,7 @@ label block_00002A01:
 
 label block_00002A04:
     # Node: 00002A04 (Navigator)
-    $ sys_lm_menu_item = [{"pos": (672, 528),"image": "images/Saburos-Salon/Navigator back.png","hover": "images/Saburos-Salon/Navigator back hover.png","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
+    $ sys_lm_menu_item = [{"pos": (672, 528),"type": "textbutton","text":_("返回"),"style":"saburou_imechen_back_button_2","name": "戻る"}, {"pos": (626, 280),"image": "images/Saburos-Salon/Next.png","hover": "images/Saburos-Salon/Next hover.png","name": "右"}, {"pos": (95, 280),"image": "images/Saburos-Salon/Previous.png","hover": "images/Saburos-Salon/Previous hover.png","name": "左"}]
     $ sys_lm_menu_sound = {}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0, -0.001) from _call_lm_menu_327
     $ del sys_lm_menu_item

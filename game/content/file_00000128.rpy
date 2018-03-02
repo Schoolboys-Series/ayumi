@@ -544,11 +544,6 @@ label block_000011A7:
         $ sys_effect_current_file = "sound/Effect Sound/Start 1.ogg"
 
     $ zorder_tag_19574BB6F1EA4B9398A6E58989D99A66 = 500
-    show rs_image_BBC08FE81C4D4D4880E65137C1106107 as tag_19574BB6F1EA4B9398A6E58989D99A66 at center_bottom zorder zorder_tag_19574BB6F1EA4B9398A6E58989D99A66 onlayer master
-    with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
-
-    pause
-
     show rs_image_548A86F86BBF4C03947CB8C3753B9DF8 as tag_19574BB6F1EA4B9398A6E58989D99A66 zorder zorder_tag_19574BB6F1EA4B9398A6E58989D99A66 onlayer master
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 

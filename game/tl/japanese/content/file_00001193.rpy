@@ -1,5 +1,11 @@
 ﻿# TODO: Translation updated at 2018-01-27 16:27
 
+translate japanese style saburou_imechen_back_button:
+    font "font/honyaji-re.ttf"
+
+translate japanese style saburou_imechen_back_button_2:
+    font "font/honyaji-re.ttf"
+
 # game/content/file_00001193.rpy:48
 translate japanese block_00002EC8_fa09d54e:
 

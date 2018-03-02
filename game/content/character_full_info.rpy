@@ -733,8 +733,8 @@ init 1000 python:
             ]],
             "description": _("和小林关系好到不得了。\n有小气的一面，但好奇心旺盛，\n经常和小林到处捣乱。\n完全不知道下流梗。\n家里养了只猫。")
         }, {
-            "id": "Sukimoto",
-            "name": _("{size=12}SUKIMOTO KOKORO{/size}\n杉本志"),
+            "id": "Sugimoto",
+            "name": _("{size=12}SUGIMOTO KOKORO{/size}\n杉本志"),
             "age": _("小学六年级"),
             "height": _("146cm"),
             "weight": _("38kg"),
