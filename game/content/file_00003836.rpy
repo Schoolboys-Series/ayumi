@@ -12,7 +12,7 @@ label block_00003837:
     $ set_place_title(False)
 
     image shinobu_question_background_title = ParameterizedText(
-        font="font/zcool-happy-ayumi-extended.ttf",
+        font="font/source-hans-sans-medium.ttc",
         color="#000000",
         xalign=0.5,
         yalign=0.04,
@@ -20,7 +20,7 @@ label block_00003837:
         text_align=0.5)
 
     image shinobu_question_background_level = ParameterizedText(
-        font="font/zcool-happy-ayumi-extended.ttf",
+        font="font/source-hans-sans-medium.ttc",
         color="#0E4603",
         xalign=0.2,
         yalign=0.19,

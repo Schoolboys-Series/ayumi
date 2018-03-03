@@ -401,9 +401,6 @@ label block_00003965:
 label block_00003967:
     # Node: 00003967 (Chapter: 2)
     $ Chapter = 2
-    if SYSReviewMode == False:
-        $ GKarutaStage = [0] * 44
-        $ FillMem(GKarutaStage, False)
     $ TalkOkajima = C2TalkOkajimaInitNumber
     $ del C2TalkOkajimaInitNumber
 
