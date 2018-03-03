@@ -2208,7 +2208,6 @@ init -1:
             parallel:
                 linear 2 ypos 300
             pause 2
-            alpha 0
     image rs_image_724253098D29450D84E1AFA0610370A2 = "images/Chapter 2/Moving/Tomo+Shinobu/Twilight.png"
     image rs_image_AC595B86C0F644E49DE386DFF497B496:
         contains:
