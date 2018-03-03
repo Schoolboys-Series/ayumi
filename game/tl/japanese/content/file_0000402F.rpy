@@ -2266,4 +2266,4 @@ translate japanese strings:
 
     # content\file_0000402F.rpy:26
     old "「傲娇男孩子的激效疗」"
-    new "「ツンデレボーイの荒療治」"
+    new "{font=font/honyaji-re.ttf}「ツンデレボーイの荒療治」{/font}"

@@ -5686,7 +5686,7 @@ translate japanese strings:
 
     # content\file_00003F8C.rpy:33
     old "「变革进行曲」"
-    new "「エボリューションマーチ」"
+    new "{font=font/honyaji-re.ttf}「エボリューションマーチ」{/font}"
 
     # content\file_00003F8C.rpy:6956
     old "12号节目\n御咲学园初中部吹奏乐部\n指挥：平井 米"

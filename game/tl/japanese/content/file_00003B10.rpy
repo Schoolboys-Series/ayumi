@@ -2140,7 +2140,7 @@ translate japanese strings:
 
     # content\file_00003B10.rpy:32
     old "「RUN☆RUN☆LOVERS」"
-    new "「ラン☆ラン☆ラバーズ」"
+    new "{font=font/honyaji-re.ttf}「ラン☆ラン☆ラバーズ」{/font}"
 
     # content\file_00003B10.rpy:3332
     old "彼此彼此……请多多指教了"

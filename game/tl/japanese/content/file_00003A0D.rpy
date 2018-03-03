@@ -2980,7 +2980,7 @@ translate japanese strings:
 
     # content\file_00003A0D.rpy:4427
     old "「傲娇男孩子的治疗法」"
-    new "「ツンデレボーイの処方箋」"
+    new "{font=font/honyaji-re.ttf}「ツンデレボーイの処方箋」{/font}"
 
     # content\file_00003A0D.rpy:4624
     old "要重试吗？"

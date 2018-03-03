@@ -3526,7 +3526,7 @@ translate japanese strings:
 
     # content\file_00003EA0.rpy:26
     old "「学园怪谈」"
-    new "「学園の怪談」"
+    new "{font=font/honyaji-re.ttf}「学園の怪談」{/font}"
 
     # content\file_00003EA0.rpy:2292
     old "救援组"

@@ -74,31 +74,31 @@ label theater_content:
         show rs_image_ED2F27CEEF274CE19761245BE36E9987 as tag_C92191ED858E430FAE8AD5B3F68FC7E6 at center_bottom zorder zorder_tag_C92191ED858E430FAE8AD5B3F68FC7E6 onlayer master
         with rs_effect_351A8A667ECF419EB1A052B06E597A01
         $ story_list = [
-            { "name": "大家来相扑", "description": "胜利或许早已注定\n但这并不重要\n赛场外的月和空\n竟然会...", "available": C1S1 or (Chapter == 0 and persistent.SystemStoryCache[0]) },
-            { "name": "翼的流转音符", "description": "突然被滑子老师委托的翼\n他的最大难关不是练习\n而是友...", "available": C1S2 or (Chapter == 0 and persistent.SystemStoryCache[1]) },
-            { "name": "寻求刺激·解", "description": "新世界的大门\n最终还是被缓缓推开...", "available": C1S3 or (Chapter == 0 and persistent.SystemStoryCache[2]) },
-            { "name": "不可思议！猫狗物语", "description": "就像童话一般\n小翼实现了它的愿望\n这究竟是梦还是现实...", "available": C1S4 or (Chapter == 0 and persistent.SystemStoryCache[3]) },
-            { "name": "久远回忆", "description": "那时很久很久以前\n从相识开始\n已经变得无可替代...", "available": C1S5 or (Chapter == 0 and persistent.SystemStoryCache[4]) }]
+            { "name": _("大家来相扑"), "description": _("震惊！奖金五万！\n但这并不重要\n谁也未曾想到\n竟然会..."), "available": C1S1 or (Chapter == 0 and persistent.SystemStoryCache[0]) },
+            { "name": _("翼的流转音符"), "description": _("突然被滑子老师委托的翼\n他的最大难关不是练习\n而是友..."), "available": C1S2 or (Chapter == 0 and persistent.SystemStoryCache[1]) },
+            { "name": _("寻求刺激·解"), "description": _("新♂世界的大门\n最终还是被缓缓推开..."), "available": C1S3 or (Chapter == 0 and persistent.SystemStoryCache[2]) },
+            { "name": _("不可思议！猫狗物语"), "description": _("就像童话一般\n小翼实现了它的愿望\n这究竟是梦还是现实..."), "available": C1S4 or (Chapter == 0 and persistent.SystemStoryCache[3]) },
+            { "name": _("久远回忆"), "description": _("那时很久很久以前\n从相识开始\n已经变得无可替代..."), "available": C1S5 or (Chapter == 0 and persistent.SystemStoryCache[4]) }]
     elif theater_current_chapter == 2:
         show rs_image_3AF53F7033944613A137682A2375B9CF as tag_C92191ED858E430FAE8AD5B3F68FC7E6 at center_bottom zorder zorder_tag_C92191ED858E430FAE8AD5B3F68FC7E6 onlayer master
         with rs_effect_351A8A667ECF419EB1A052B06E597A01
         $ story_list = [
-            { "name": "并驶之舟", "description": "从无比寂寞到泯然日常\n但正因如此\n一起的时光才会弥足珍贵", "available": C2S1 or (Chapter == 0 and persistent.SystemStoryCache[5]) },
-            { "name": "傲娇男孩子的治疗法", "description": "作哉君好可怕\n一定是我做错什么了...\n他才不会无缘无故...", "available": C2S2 or (Chapter == 0 and persistent.SystemStoryCache[6]) },
-            { "name": "RUN☆RUN☆LOVERS", "description": "既然已经单恋许久\n总该有些收获吧\n不过现实就是另一回事了", "available": C2S3 or (Chapter == 0 and persistent.SystemStoryCache[7]) },
-            { "name": "我是直的，现无对象", "description": "喜欢就是喜欢...", "available": C2S4 or (Chapter == 0 and persistent.SystemStoryCache[8]) },
-            { "name": "狐的报恩", "description": "这是一个妖怪故事\n开玩笑的\n其实是雪绪和九尾的日常", "available": C2S5 or (Chapter == 0 and persistent.SystemStoryCache[9]) },
-            { "name": "欢迎来到食人狼之馆", "description": "来到洋馆的大家\n以及夕阳和守\n居然会碰到离奇失踪案...", "available": C2S6 or (Chapter == 0 and persistent.SystemStoryCache[10]) }]
+            { "name": _("并驶之舟"), "description": _("从无比寂寞到泯然日常\n但正因如此\n一起的时光才会弥足珍贵"), "available": C2S1 or (Chapter == 0 and persistent.SystemStoryCache[5]) },
+            { "name": _("傲娇男孩子的治疗法"), "description": _("并不是第一次\n从熟悉到陌生的变化\n并非无缘无故"), "available": C2S2 or (Chapter == 0 and persistent.SystemStoryCache[6]) },
+            { "name": _("RUN☆RUN☆LOVERS"), "description": _("既然已经单恋许久\n总该有些收获吧\n不过现实就是另一回事了"), "available": C2S3 or (Chapter == 0 and persistent.SystemStoryCache[7]) },
+            { "name": _("我是直的，现无对象"), "description": _("喜欢就是喜欢...\n说是这么说\n有些问题还是得讨论一下"), "available": C2S4 or (Chapter == 0 and persistent.SystemStoryCache[8]) },
+            { "name": _("狐的报恩"), "description": _("这是一个妖怪故事\n开玩笑的\n其实是雪绪的日常"), "available": C2S5 or (Chapter == 0 and persistent.SystemStoryCache[9]) },
+            { "name": _("欢迎来到食人狼之馆"), "description": _("来到洋馆的大家\n以及夕阳和守\n居然会碰到离奇失踪案..."), "available": C2S6 or (Chapter == 0 and persistent.SystemStoryCache[10]) }]
     elif theater_current_chapter == 3:
         show rs_image_45ACA217F785495E913FDA91D78465B3 as tag_C92191ED858E430FAE8AD5B3F68FC7E6 at center_bottom zorder zorder_tag_C92191ED858E430FAE8AD5B3F68FC7E6 onlayer master
         with rs_effect_351A8A667ECF419EB1A052B06E597A01
         $ story_list = [
-            { "name": "异我战纪", "description": "保护他人的暴力也是暴力\n既然如此如何才能\n保护重要的人...", "available": C3S1 or (Chapter == 0 and persistent.SystemStoryCache[11]) },
-            { "name": "正义的教训", "description": "正义和邪恶都是相对的\n大家一定能相互理解\n终有一天能同舟共济", "available": C3S2 or (Chapter == 0 and persistent.SystemStoryCache[12]) },
-            { "name": "集合！御咲花车祭", "description": "花车祭居然要停办！？\n慎太郎该如何解决这个危机...", "available": C3S3 or (Chapter == 0 and persistent.SystemStoryCache[13]) },
-            { "name": "傲娇男孩子的激效疗", "description": "如果能送给一之濑的话\n不...我...\n还是算了吧", "available": C3S4 or (Chapter == 0 and persistent.SystemStoryCache[14]) },
-            { "name": "学园怪谈", "description": "妖怪顶上了学园！？\n这不是玄幻剧！", "available": C3S5 or (Chapter == 0 and persistent.SystemStoryCache[15]) },
-            { "name": "变革进行曲", "description": "故事必定有开始和结局\n努力的终点不一定是成功\n但努力的事实不会改变\n做好成长的准备了吗？", "available": C3S6 or (Chapter == 0 and persistent.SystemStoryCache[16]) }]
+            { "name": _("异我战纪"), "description": _("保护他人的暴力也是暴力\n既然如此如何才能\n保护重要的人..."), "available": C3S1 or (Chapter == 0 and persistent.SystemStoryCache[11]) },
+            { "name": _("正义的教训"), "description": _("正义和邪恶都是相对的\n大家一定能相互理解\n终有一天能同舟共济"), "available": C3S2 or (Chapter == 0 and persistent.SystemStoryCache[12]) },
+            { "name": _("集合！御咲花车祭"), "description": _("花车祭居然要停办！？\n该如何解决这个危机..."), "available": C3S3 or (Chapter == 0 and persistent.SystemStoryCache[13]) },
+            { "name": _("傲娇男孩子的激效疗"), "description": _("如果能送给一之濑的话\n不...我...\n还是算了吧"), "available": C3S4 or (Chapter == 0 and persistent.SystemStoryCache[14]) },
+            { "name": _("学园怪谈"), "description": _("妖怪盯上了学园！？\n这不是玄幻剧！"), "available": C3S5 or (Chapter == 0 and persistent.SystemStoryCache[15]) },
+            { "name": _("变革进行曲"), "description": _("故事必定有开始和结局\n努力的终点不一定是成功\n但努力的事实不会改变\n做好成长的准备了吗？"), "available": C3S6 or (Chapter == 0 and persistent.SystemStoryCache[16]) }]
     
     call screen theater_content_screen(theater_current_chapter, story_list)
 
@@ -117,6 +117,9 @@ label theater_content:
     if "Chapter" in globals():
         $ SYSTempChapterValue = Chapter
     $ Chapter = theater_current_chapter
+
+    $ renpy.show_screen("scb_quick_menu", _layer="screens", _tag="scb_quick_menu")
+    $ renpy.with_statement(Dissolve(0.2))
 
     if theater_current_chapter == 1:
         if _return == 0:
@@ -165,13 +168,11 @@ screen theater_content_screen(chapter, story_list):
         style "theater_content_frame"
         if chapter == 1:
             text _("第一放映厅") style "theater_content_title_1"
-            text _("该厅计划上映的电影") style "theater_content_description_1"
         elif chapter == 2:
             text _("第二放映厅") style "theater_content_title_2"
-            text _("该厅计划上映的电影") style "theater_content_description_2"
         elif chapter == 3:
             text _("第三放映厅") style "theater_content_title_3"
-            text _("该厅计划上映的电影") style "theater_content_description_3"
+        text _("该厅计划上映的电影") style "theater_content_description_" + str(chapter)
         $ y_position = 132
         for i, story in enumerate(story_list):
             frame:
@@ -184,21 +185,9 @@ screen theater_content_screen(chapter, story_list):
                         hover "images/Theater/Button/" + str(chapter) + " hover.png"
                         hovered Play("effect2", "sound/Effect Sound/System - choose.ogg")
                         action [Hide("theater_content_preview"), Show("theater_content_preview", chapter=chapter, index=i, title=story["name"], description=story["description"])]
-                    if chapter == 1:
-                        text story["name"]:
-                            style "theater_content_itemtext_1"
-                            xpos 669
-                            ypos y_position + 2
-                    elif chapter == 2:
-                        text story["name"]:
-                            style "theater_content_itemtext_2"
-                            xpos 669
-                            ypos y_position + 2
-                    elif chapter == 3:
-                        text story["name"]:
-                            style "theater_content_itemtext_3"
-                            xpos 669
-                            ypos y_position + 2
+                    text story["name"]:
+                        style "theater_content_itemtext_" + str(chapter)
+                        ypos y_position + 2
                 else:
                     add "images/Theater/Button/Disabled.png" pos (544, y_position)
                     text _("片源未到"):
@@ -263,8 +252,10 @@ style theater_content_backbutton:
     hover_color "#000000"
     hover_outlines [(absolute(5), "#FFFFFF", absolute(0), absolute(0))]
 style theater_content_itemtext:
+    xpos 669
     xalign 0.5
     size 24
+    text_align 0.5
     font "font/source-hans-sans-medium.ttc"
 style theater_content_itemtext_disabled is theater_content_itemtext:
     color "#00000055"
@@ -324,23 +315,21 @@ style theater_content_preview_title:
     color "#FFFFFF"
 style theater_content_preview_content:
     xalign 1.0
-    xpos 405
+    xpos 435
     ypos 328
     size 16
     vertical True
     color "#FFFFFF"
 
 screen theater_content_preview(chapter, index, title, description):
-    add "images/Theater/Theater play button.png" pos (0, 0)
+    add "images/Theater/Theater play button.png" pos (0, 10)
     add "images/Theater/Preview/CP" + str(chapter)  + str(index + 1) + ".png" pos (0, 0)
-    text title:
-        style "theater_content_preview_title"
     text description:
         style "theater_content_preview_content"
     textbutton _("播放"):
         text_style "theater_content_playbutton"
         xpos 620
-        ypos 483
+        ypos 493
         action [Play("effect2", "sound/Effect Sound/System - click.ogg"), Return(index)]
 
 label block_0000370F:

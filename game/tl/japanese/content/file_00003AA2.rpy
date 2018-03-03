@@ -3172,4 +3172,4 @@ translate japanese strings:
 
     # content\file_00003AA2.rpy:26
     old "「我是直的，现无对象」"
-    new "「吾輩はノンケである\n伴侶はまだない」"
+    new "{font=font/honyaji-re.ttf}「吾輩はノンケである\n伴侶はまだない」{/font}"

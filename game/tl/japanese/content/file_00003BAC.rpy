@@ -4292,4 +4292,4 @@ translate japanese strings:
 
     # content\file_00003BAC.rpy:8357
     old "「欢迎来到食人狼之馆」"
-    new "「ようこそ、人喰い狼の館へ」"
+    new "{font=font/honyaji-re.ttf}「ようこそ、人喰い狼の館へ」{/font}"

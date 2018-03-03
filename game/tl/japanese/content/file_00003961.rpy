@@ -520,4 +520,11 @@ translate japanese block_00003C70_b158634a:
 translate japanese block_00003C70_07b98885:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#000000}请保存至今为止的进度。{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#000000}ここまでの進行を\nセーブして保存してください。{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#000000}ここまでの進行を\nセーブして保存してください。{/color}"# TODO: Translation updated at 2018-03-02 19:13
+
+translate japanese strings:
+
+    # content\file_00003961.rpy:1161
+    old "{font=font/zcool-happy-ayumi-extended.ttf}第二章 完成{/font}"
+    new "{font=font/honyaji-re.ttf}Chapter2 END{/font}"
+

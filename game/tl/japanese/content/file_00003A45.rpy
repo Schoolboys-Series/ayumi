@@ -3184,7 +3184,7 @@ translate japanese strings:
 
     # content\file_00003A45.rpy:27
     old "「并驶之舟」"
-    new "「二隻之舟」"
+    new "{font=font/honyaji-re.ttf}「二隻之舟」{/font}"
 
     # content\file_00003A45.rpy:2838
     old "其实想来，空总是善于会友"

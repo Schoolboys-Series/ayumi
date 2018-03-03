@@ -3808,4 +3808,4 @@ translate japanese strings:
 
     # content\file_000036FA.rpy:26
     old "「不可思议！猫狗物语」"
-    new "ふしぎ！ワンニャン物語"
+    new "{font=font/honyaji-re.ttf}「ふしぎ！ワンニャン物語」{/font}"

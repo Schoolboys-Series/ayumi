@@ -2782,7 +2782,7 @@ translate japanese strings:
 
     # content\file_0000390D.rpy:26
     old "「久远回忆」"
-    new "「過去編」"
+    new "{font=font/honyaji-re.ttf}「過去編」{/font}"
 
     # content\file_0000390D.rpy:2742
     old "全都错了，一定从最开始什么都错了……"

@@ -379,10 +379,6 @@ translate japanese strings:
     new ""
 
     # content\file_0000214A.rpy:83
-    old "久远回忆"
-    new ""
-
-    # content\file_0000214A.rpy:83
     old "那是很久很久之前了。\n那时候的我们，还什么都不知道，还什么都不懂。\n我所记忆犹新的经历。\n自从那一天开始……"
     new ""
 

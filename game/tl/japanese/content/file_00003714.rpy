@@ -2536,7 +2536,7 @@ translate japanese strings:
 
     # content\file_00003714.rpy:26
     old "「翼的流转音符」"
-    new "「つばさカンタービレ」"
+    new "{font=font/honyaji-re.ttf}「つばさカンタービレ」{/font}"
 
     # content\file_00003714.rpy:1380
     old "不过，不管怎样……"

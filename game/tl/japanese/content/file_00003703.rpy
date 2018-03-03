@@ -3232,4 +3232,4 @@ translate japanese strings:
 
     # content\file_00003703.rpy:26
     old "「大家来相扑」"
-    new "「みんなで相撲」"
+    new "{font=font/honyaji-re.ttf}「みんなで相撲」{/font}"

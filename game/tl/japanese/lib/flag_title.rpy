@@ -4,13 +4,13 @@ translate japanese strings:
 
     # lib\flag_title.rpy:92
     old "第一章 事件"
-    new "CHAPTER 1 ストーリー"
+    new "{font=font/honyaji-re.ttf}CHAPTER 1 ストーリー{/font}"
 
     # lib\flag_title.rpy:95
     old "第二章 事件"
-    new "CHAPTER 2  ストーリー"
+    new "{font=font/honyaji-re.ttf}CHAPTER 2  ストーリー{/font}"
 
     # lib\flag_title.rpy:98
     old "第三章 事件"
-    new "CHAPTER 3  ストーリー"
+    new "{font=font/honyaji-re.ttf}CHAPTER 3  ストーリー{/font}"
 

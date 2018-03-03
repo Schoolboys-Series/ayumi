@@ -551,8 +551,11 @@ style choice_button_text is default:
 ##
 ## http://www.renpy.org/doc/html/screen_special.html#main-menu
 
+image main_bg_movie = Movie(channel="movie_main", play="movie/main_bg.mpg", size=(800, 600))
+
 screen main_menu():
     tag menu
+    add "main_bg_movie" at Transform(xalign=0.5, yalign=0.5)
     python:
         last_saved_game_list = sorted(renpy.list_saved_games('\d+'), key=lambda x: x[3])
         if len(last_saved_game_list) == 0:
@@ -570,7 +573,6 @@ screen main_menu():
             del last_saved_game_name
         del last_saved_game_list
     style_prefix "main_menu"
-    frame style "main_menu_container"
     add "color_primary" at main_menu_intro_animation_background
     add "gui/menu/line.png" at main_menu_intro_animation_line(340, 90, 0.27)
     add "gui/menu/banner.png" at main_menu_intro_animation_line(290, 130, 0.27)
@@ -707,8 +709,6 @@ transform main_menu_save_lot:
     pause 2.1
     easein 0.3 alpha 1
 style main_menu_save_lot is default
-style main_menu_container is default:
-    background "#FAFFFF"
 style main_menu_sidebar is default:
     area (750, 0, 50, 600)
 style main_menu_text is gui_text:

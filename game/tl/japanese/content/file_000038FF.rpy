@@ -1492,4 +1492,4 @@ translate japanese strings:
 
     # content\file_000038FF.rpy:26
     old "「寻求刺激·解」"
-    new "「刺激を求めて·解」"
+    new "{font=font/honyaji-re.ttf}「刺激を求めて·解」{/font}"

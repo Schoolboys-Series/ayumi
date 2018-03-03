@@ -29,6 +29,11 @@ init -1:
         color="#FFFFFF",
         outlines=[(absolute(1), "#FFFFFF", absolute(0), absolute(0))],
         size=200)
+    image rs_image_9C058B4785934A84B6E833C97FAFAA9B = ParameterizedText(
+        font="font/source-hans-sans-medium.ttc",
+        color="#FFFFFF",
+        outlines=[(absolute(4), "#03a9f4", absolute(0), absolute(0))],
+        size=100)
     image rs_image_8311E1236AED463A9358E6303D1D2F5C = "images/CG/Opening celemony/Opening celemony 3.png"
     image rs_image_84E3A40E55C74C5C9B705CF5E3FE58A1 = "images/CG/Opening celemony/Opening celemony 4.png"
     image rs_image_87A38905C919455BB6D35DB596394AC9 = "images/CG/Opening celemony/Opening celemony 5.png"
@@ -4620,7 +4625,6 @@ init -1:
     image rs_image_42C3B526C247471AA015209476FA27F8 = "images/Chapter 2/Photos/Izumi/Normal/Normal 1.png"
     image rs_image_55DB6FBFD0DE48D4B5742B0743451560 = "images/Chapter 3/Photos/Nakayama-senior/Normal.png"
     image rs_image_514AB31E9F5945EEA9AD0CA77359CA06 = "images/Flag title/Logo.png"
-    image rs_image_55105118CBD4473093B48A157B2911D7 = "images/Flag title/CP1 END.png"
     define rs_effect_BE47ECCC0D6944BC919AF538D960F5EA = Dissolve(1.2)
     define rs_effect_7A0224DB2C384755BF67935D5C9F432F = ImageDissolve("lib/lmeffect/center.png", 2, reverse=False)
     define rs_effect_140B552F50584401971F8DF480089BE0 = ImageDissolve("lib/lmeffect/center.png", 0.6, reverse=False)
@@ -5244,7 +5248,6 @@ init -1:
     image rs_image_418B2D7888D74C87A5171CEFE82AA355 = "images/Background/School inside/Aisle misaki light.png"
     image rs_image_F67525886A8D46E18BC4D8326357E6FC = "images/Background/School inside/Classroom misaki light.png"
     image rs_image_0B3E62D93B474CFA80C2DE4B381FEC4B = "images/Background/School outside/School night.png"
-    image rs_image_53F792C20E22409FAC4D02C606C2D225 = "images/Flag title/CP2 END.png"
     image rs_image_CF9552A127F84B139910618B1FE71819 = "images/Chapter 2/Ayumi/Katou/Normal.png"
     image rs_image_40479E0C330041AC8509957328C06B21 = "images/Chapter 2/Ayumi/Saburo/Normal/Normal 2.png"
     image rs_image_D0ED4462025945CB876E95E9B02C154A = "images/Chapter 2/Ayumi/Saburo/Cutesy/Cutesy 1.png"
@@ -6775,7 +6778,6 @@ init -1:
     image rs_image_D5EEA08F613D4581B90B56569FE7A25D = "images/Chapter 3/Photos/Shinobu/Trance/Trance 1.png"
     image rs_image_8F6493A7AD5749CFA41012A9D048C1F5 = "images/Chapter 3/Title 1.png"
     image rs_image_3E86770DDFC949EA90C3480E2A3AC643 = "images/Chapter 3/Title 2.png"
-    image rs_image_68D40E5DB6F74CEEBE0A50A9A7D9A9A3 = "images/Flag title/CP3 END.png"
     define rs_effect_F4E162020AD741B2A2A1C91F35FC43D9 = Dissolve(2)
     image rs_image_F9053C42DFA4452792C00A32912CF739 = "images/Flag title/Bordered.png"
     image rs_image_FA4776FF366F4940A99A1C7D6FBB5C6B = "images/Flag title/Bordered 2.png"
@@ -7193,7 +7195,6 @@ init -1:
     image rs_image_002A89DFBF4D4BD99E942D6EA4C98777 = "images/Chapter 2/Photos/Shintaro/Anger/Anger 1.png"
     image rs_image_489ABE5424214B7BBC1197E8A75D218C = "images/Chapter 2/Photos/Shintaro/Question/Question 2.png"
     image rs_image_FE29C100580246E1A8D6DEE472A1F0E4 = "images/Chapter 2/Photos/Sora/Vigour.png"
-    define rs_effect_1EE78B9E5E0C4B64B6BF7F897E926F62 = OldMoveTransition(0.3, enter_factory=ZoomInOut(0.01, 1.0), leave_factory=ZoomInOut(1.0, 0.01))
     define rs_effect_DC107C264C484B3A8306E39B61626CF6 = Fade(0.4, 0.0, 0.4, color="#FFFFFF") # Origin: BlurWhite
     define rs_effect_74B823B258904383B62BED7A123D3E96 = Fade(0.7, 0.0, 0.7, color="#000000") # Origin: BlurBlack
     image rs_image_1FA6F2C9243447E081F983AD4BC2B829 = "images/Chapter 2/Photos/Sakuya/Downcast/Downcast 2.png"

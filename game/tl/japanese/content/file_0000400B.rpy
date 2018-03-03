@@ -2914,4 +2914,4 @@ translate japanese strings:
 
     # content\file_0000400B.rpy:26
     old "「正义的教训」"
-    new "「正義の教訓」"
+    new "{font=font/honyaji-re.ttf}「正義の教訓」{/font}"

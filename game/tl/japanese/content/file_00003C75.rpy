@@ -172,4 +172,11 @@ translate japanese block_00003C7B_cf79f1ac:
 translate japanese block_00003C7B_d4088c77:
 
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "……呵呵～"
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "……ンフンフ～。"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "……ンフンフ～。"# TODO: Translation updated at 2018-03-02 19:13
+
+translate japanese strings:
+
+    # content\file_00003C75.rpy:475
+    old "{font=font/zcool-happy-ayumi-extended.ttf}第三章 完成{/font}"
+    new "{font=font/honyaji-re.ttf}Chapter3 END{/font}"
+

@@ -1,66 +1,65 @@
 init:
     image scb_flag_title_chapter = ParameterizedText(
-        font="font/source-hans-sans-medium.ttc",
+        font="font/zcool-happy-ayumi-extended.ttf",
         color="#000000",
         xalign=0.5,
         size=24,
         text_align=0.5)
 
     image scb_flag_title_chapter_reverse = ParameterizedText(
-        font="font/source-hans-sans-medium.ttc",
+        font="font/zcool-happy-ayumi-extended.ttf",
         color="#00CAFE",
         xalign=0.5,
         size=24,
         text_align=0.5)
     
     image scb_flag_title_chapter_end = ParameterizedText(
-        font="font/source-hans-sans-medium.ttc",
+        font="font/zcool-happy-ayumi-extended.ttf",
         color="#FFFFFF",
         xalign=0.5,
         size=24,
         text_align=0.5)
 
     image scb_flag_title_chapter_local = ParameterizedText(
-        font="font/source-hans-sans-medium.ttc",
+        font="font/zcool-happy-ayumi-extended.ttf",
         color="#000000",
         xalign=0.5,
         size=14,
         text_align=0.5)
 
     image scb_flag_title_chapter_local_reverse = ParameterizedText(
-        font="font/source-hans-sans-medium.ttc",
+        font="font/zcool-happy-ayumi-extended.ttf",
         color="#00CAFE",
         xalign=0.5,
         size=14,
         text_align=0.5)
 
     image scb_flag_title_chapter_local_end = ParameterizedText(
-        font="font/source-hans-sans-medium.ttc",
+        font="font/zcool-happy-ayumi-extended.ttf",
         color="#FFFFFF",
         xalign=0.5,
         size=14,
         text_align=0.5)
 
     image scb_flag_title_name = ParameterizedText(
-        font="font/source-hans-sans-medium.ttc",
+        font="font/zcool-happy-ayumi-extended.ttf",
         color="#000000",
         xalign=0.5,
         size=55,
         text_align=0.5)
 
     image scb_flag_title_name_reverse = ParameterizedText(
-        font="font/source-hans-sans-medium.ttc",
+        font="font/zcool-happy-ayumi-extended.ttf",
         color="#00CAFE",
         xalign=0.5,
         size=55,
         text_align=0.5)
 
     image scb_flag_title_name_end = ParameterizedText(
-        font="font/source-hans-sans-medium.ttc",
+        font="font/zcool-happy-ayumi-extended.ttf",
         color="#FFFFFF",
         xalign=0.5,
-        size=55,
-        text_align=0.5)
+        size=55)
 
 label scb_flag_title(chapter, title, with_image=None):
     window hide
@@ -99,14 +98,14 @@ label scb_flag_title(chapter, title, with_image=None):
 
     show rs_image_FA4776FF366F4940A99A1C7D6FBB5C6B as tag_99488938252D4BC2B7FA91D436D9159B zorder zorder_tag_99488938252D4BC2B7FA91D436D9159B onlayer master
     show scb_flag_title_chapter (_scb_flag_title_chapter) as scb_flag_title_chapter at Transform(ypos=295) zorder zorder_tag_99488938252D4BC2B7FA91D436D9159B onlayer master
-    show scb_flag_title_chapter_local (_scb_flag_title_chapter_local) as scb_flag_title_chapter_local at Transform(ypos=315) zorder zorder_tag_99488938252D4BC2B7FA91D436D9159B onlayer master
+    show scb_flag_title_chapter_local (_scb_flag_title_chapter_local) as scb_flag_title_chapter_local at Transform(ypos=325) zorder zorder_tag_99488938252D4BC2B7FA91D436D9159B onlayer master
     with rs_effect_995A246CCA8349168AE1D97DE29F1026
 
     if with_image == None:
         show scb_flag_title_name title as scb_flag_title_name at Transform(ypos=368) zorder zorder_tag_99488938252D4BC2B7FA91D436D9159B onlayer master
         with rs_effect_F4E162020AD741B2A2A1C91F35FC43D9
     else:
-        show scb_flag_title_name title as scb_flag_title_name at Transform(ypos=368) zorder zorder_tag_99488938252D4BC2B7FA91D436D9159B onlayer master
+        show scb_flag_title_name title as scb_flag_title_name at Transform(ypos=358) zorder zorder_tag_99488938252D4BC2B7FA91D436D9159B onlayer master
         show expression with_image as scb_flag_title_with_image at Transform(xpos=0, ypos=0) zorder zorder_tag_99488938252D4BC2B7FA91D436D9159B onlayer master
         with rs_effect_F4E162020AD741B2A2A1C91F35FC43D9
 

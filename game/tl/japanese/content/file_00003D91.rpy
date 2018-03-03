@@ -862,4 +862,4 @@ translate japanese strings:
 
     # content\file_00003D91.rpy:26
     old "「集合！御咲花车祭」"
-    new "「集え！だんじり祭り」"
+    new "{font=font/honyaji-re.ttf}「集え！だんじり祭り」{/font}"

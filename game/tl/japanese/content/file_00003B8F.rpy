@@ -2458,7 +2458,7 @@ translate japanese strings:
 
     # content\file_00003B8F.rpy:26
     old "「狐的报恩」"
-    new "「狐の恩返し」"
+    new "{font=font/honyaji-re.ttf}「狐の恩返し」{/font}"
 
     # content\file_00003B8F.rpy:57
     old "那本缘起……某个夏日"

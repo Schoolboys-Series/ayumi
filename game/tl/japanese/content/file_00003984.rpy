@@ -587,4 +587,11 @@ translate japanese block_0000398D_07b98885:
 translate japanese block_0000398D_2ff47e12:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯～\n"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "ん～。\n"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "ん～。\n"# TODO: Translation updated at 2018-03-02 19:13
+
+translate japanese strings:
+
+    # content\file_00003984.rpy:1159
+    old "{font=font/zcool-happy-ayumi-extended.ttf}第一章 完成{/font}"
+    new "{font=font/honyaji-re.ttf}Chapter1 END{/font}"
+

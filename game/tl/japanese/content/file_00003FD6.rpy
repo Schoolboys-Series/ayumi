@@ -3238,4 +3238,4 @@ translate japanese strings:
 
     # content\file_00003FD6.rpy:24
     old "「异我战纪」"
-    new "「異我戦記」"
+    new "{font=font/honyaji-re.ttf}「異我戦記」{/font}"
