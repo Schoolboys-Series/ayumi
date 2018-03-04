@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2018-01-27 16:27
+# TODO: Translation updated at 2018-01-27 16:27
 
 # game/content/file_000001B0.rpy:284
 translate japanese block_000001D6_915aa6ef:

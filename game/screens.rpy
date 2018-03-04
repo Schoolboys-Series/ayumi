@@ -1,4 +1,4 @@
-﻿# Pre-defined colors
+# Pre-defined colors
 image black = Solid("#000000")
 image white = Solid("#FFFFFF")
 image color_primary = Solid("#00B3C7")

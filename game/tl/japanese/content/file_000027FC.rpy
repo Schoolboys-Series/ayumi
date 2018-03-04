@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2018-02-25 18:17
+# TODO: Translation updated at 2018-02-25 18:17
 
 translate japanese strings:
 

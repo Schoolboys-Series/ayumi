@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2018-02-27 17:12
+# TODO: Translation updated at 2018-02-27 17:12
 
 # game/content/file_00000332.rpy:204
 translate japanese block_00003933_bd237c24:

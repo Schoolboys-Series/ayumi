@@ -339,16 +339,16 @@ label tsuki_test_run_question:
     while CurrentIndex < TotalCount:
         play effect "sound/Effect Sound/Quiz 1.ogg" noloop
         if tsuki_test_question_set[CurrentIndex]["type"] == "number":
-            call tsuki_test_show_number(tsuki_test_question_set[CurrentIndex]["numbers"])
+            call tsuki_test_show_number(tsuki_test_question_set[CurrentIndex]["numbers"]) from _call_tsuki_test_show_number
         play effect2 "sound/Effect Sound/Tick tock 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Tick tock 1.ogg"
         call screen tsuki_test_selector(tsuki_test_question_set[CurrentIndex])
         stop effect2 fadeout 0.2
         $ sys_effect2_current_file = ""
         if _return == tsuki_test_question_set[CurrentIndex]["result"]:
-            call tsuki_test_correct
+            call tsuki_test_correct from _call_tsuki_test_correct
         else:
-            call tsuki_test_wrong
+            call tsuki_test_wrong from _call_tsuki_test_wrong
         $ CurrentIndex += 1
 
     jump tsuki_test_judge_result

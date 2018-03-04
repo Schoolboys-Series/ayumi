@@ -382,7 +382,7 @@ label block_00003933:
                 ]
             }
         ]
-    })
+    }) from _call_celemony
 
     jump block_0000395F
 

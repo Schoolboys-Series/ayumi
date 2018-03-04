@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2018-03-03 14:55
+# TODO: Translation updated at 2018-03-03 14:55
 
 translate japanese style karuta_minami_word:
     font "font/honyaji-re.ttf"

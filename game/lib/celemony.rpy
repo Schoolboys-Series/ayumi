@@ -48,7 +48,7 @@ label celemony_selector_tag:
             final_status = [[], [], [], []]
             for index, character in enumerate(group_piece_status):
                 final_status[groups[index]["id"]].append(pieces[character]["id"])
-        call celemony_calculator
+        call celemony_calculator from _call_celemony_calculator
         $ del final_score
         return _return
     else:

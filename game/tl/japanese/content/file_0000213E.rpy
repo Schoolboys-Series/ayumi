@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2018-01-27 16:27
+# TODO: Translation updated at 2018-01-27 16:27
 
 translate japanese style theater_content_backbutton:
     font "font/honyaji-re.ttf"

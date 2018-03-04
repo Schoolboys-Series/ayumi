@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2018-03-02 22:17
+# TODO: Translation updated at 2018-03-02 22:17
 
 translate japanese style soundtrack_album_button_text:
     font "font/honyaji-re.ttf"

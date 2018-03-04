@@ -1,4 +1,4 @@
-﻿translate japanese python:
+translate japanese python:
     set_window()
 
 translate japanese strings:

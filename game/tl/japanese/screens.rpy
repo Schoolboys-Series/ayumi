@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2018-01-27 16:27
+# TODO: Translation updated at 2018-01-27 16:27
 
 translate japanese style gallery_button_return_text:
     font "font/honyaji-re.ttf"

@@ -375,7 +375,7 @@ label block_00003C0C:
                 ]
             }
         ]
-    })
+    }) from _call_celemony_1
 
     jump block_00003C06
 

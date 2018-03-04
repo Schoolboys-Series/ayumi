@@ -1,4 +1,4 @@
-﻿label splashscreen:
+label splashscreen:
     play music "sound/BGM/Start scene.ogg"
     show black
     image lmc_0000238E_background = "images/Start Scene/Background.png"
