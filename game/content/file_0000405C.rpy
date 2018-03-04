@@ -4803,19 +4803,15 @@ label block_00004199:
 
 label block_0000419F:
     # Node: 0000419F (Answer)
-    $ sys_lm_menu_item = [{"pos": (90, 128),"image": "images/Games/Shinobus-question-set/Easy.png","hover": "images/Games/Shinobus-question-set/Easy hover.png","name": "かんたん"}, {"pos": (490, 128),"image": "images/Games/Shinobus-question-set/Normal.png","hover": "images/Games/Shinobus-question-set/Normal hover.png","name": "ふつう"}, {"pos": (90, 328),"image": "images/Games/Shinobus-question-set/Hard.png","hover": "images/Games/Shinobus-question-set/Hard hover.png","name": "ちょいむず"}, {"pos": (490, 328),"image": "images/Games/Shinobus-question-set/Return.png","hover": "images/Games/Shinobus-question-set/Return hover.png","name": "やめておく"}]
-    $ sys_lm_menu_sound = {"hover": "sound/Effect Sound/System - choose.ogg"}
-    call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0.2, 0.2) from _call_lm_menu_199
-    $ del sys_lm_menu_item
-    $ del sys_lm_menu_sound
+    call screen shinobu_question_level_selector
 
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"かんたん\"" }]):
+    if _return == 0:
         jump block_0000419E
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"ふつう\"" }]):
+    elif _return == 1:
         jump block_0000419D
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"ちょいむず\"" }]):
+    elif _return == 2:
         jump block_0000419C
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"やめておく\"" }]):
+    else:
         jump block_000040C5
 
     return

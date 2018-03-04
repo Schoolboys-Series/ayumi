@@ -1,5 +1,12 @@
 ﻿# TODO: Translation updated at 2018-01-27 16:27
 
+translate japanese style shinobu_question_screen_text:
+    font "font/honyaji-re.ttf"
+translate japanese style shinobu_question_screen_text_item:
+    font "font/honyaji-re.ttf"
+translate japanese style shinobu_question_level_selector_button_text:
+    font "font/honyaji-re.ttf"
+
 # game/content/file_00003836.rpy:206
 translate japanese block_0000387B_f8460e5a:
 
@@ -768,31 +775,40 @@ translate japanese strings:
 
     # content\file_00003836.rpy:169
     old "篮球俱乐部"
-    new "バスケットクラブ"# TODO: Translation updated at 2018-02-26 20:11
-
-translate japanese strings:
+    new "バスケットクラブ"
 
     # content\file_00003836.rpy:123
     old "夕阳"
-    new ""
+    new "ユウヒ"
 
     # content\file_00003836.rpy:123
     old "小翼"
-    new ""
+    new "ツバサ"
 
     # content\file_00003836.rpy:123
     old "森海友"
-    new ""
+    new "友"
 
     # content\file_00003836.rpy:123
     old "穗海作哉"
-    new ""
+    new "作哉"
 
     # content\file_00003836.rpy:146
     old "榊雪绪"
-    new ""
+    new "榊　雪緒"
 
     # content\file_00003836.rpy:169
     old "绫濑忍"
-    new ""
+    new "しのぶ"
 
+    # content\file_00003836.rpy:1296
+    old "简单"
+    new "かんたん"
+
+    # content\file_00003836.rpy:1301
+    old "一般"
+    new "ふつう"
+
+    # content\file_00003836.rpy:1306
+    old "困难"
+    new "ちょいむず"

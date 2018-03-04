@@ -15,7 +15,7 @@ label block_00003837:
         font="font/source-hans-sans-medium.ttc",
         color="#000000",
         xalign=0.5,
-        yalign=0.04,
+        yalign=0.03,
         size=40,
         text_align=0.5)
 
@@ -27,9 +27,9 @@ label block_00003837:
         size=30,
         text_align=0.5)
 
-    if judge_lm_condition([{ "scope": 0, "content": "CXQShinoQuestion == False" }]):
+    if CXQShinoQuestion == False:
         jump block_0000388A
-    if judge_lm_condition([]):
+    else:
         jump block_00003881
 
     return
@@ -60,11 +60,11 @@ label shinobu_question_answer_sheet(level):
 label shinobu_question_answer_sheet_show(level):
     call shinobu_question_answer_sheet(level) from _call_shinobu_question_answer_sheet
     if level == 0:
-        $ level = "简单"
+        $ level = __("简单")
     elif level == 1:
-        $ level = "一般"
+        $ level = __("一般")
     else:
-        $ level = "困难"
+        $ level = __("困难")
     $ set_place_title(False)
     $ zorder_tag_17C5925FD8E5420F96A5D7708A5CD875 = 300
     show rs_image_2FC53155DF464987961ABA73E5371AD7 as tag_17C5925FD8E5420F96A5D7708A5CD875 at center_bottom zorder zorder_tag_17C5925FD8E5420F96A5D7708A5CD875 onlayer master
@@ -98,7 +98,7 @@ screen shinobu_question_content_screen(question):
         style "shinobu_question_screen_text"
     for i, item in enumerate(question["choice"]):
         textbutton item["name"]:
-            xpos 70
+            xpos 40
             ypos 395 + i * 62
             text_style "shinobu_question_screen_text_item"
             action Return(item["target"])
@@ -1290,21 +1290,61 @@ label block_0000389C:
 
     return
 
+screen shinobu_question_level_selector:
+    fixed at shinobu_question_level_selector_screen:
+        add "images/Games/Shinobus-question-set/Board.png" at shinobu_question_level_selector_background
+        textbutton _("简单"):
+            xpos 282
+            ypos 321
+            style "shinobu_question_level_selector_button"
+            action Return(0)
+        textbutton _("一般"):
+            xpos 511
+            ypos 348
+            style "shinobu_question_level_selector_button"
+            action Return(1)
+        textbutton _("困难"):
+            xpos 406
+            ypos 219
+            style "shinobu_question_level_selector_button"
+            action Return(2)
+        textbutton _("返回"):
+            xpos 593
+            ypos 179
+            style "shinobu_question_level_selector_button"
+            action Return(-1)
+
+transform shinobu_question_level_selector_screen:
+    xalign 0.5
+    ypos -600
+    on show:
+        easein 0.5 ypos 0
+    on hide:
+        easeout_back 0.5 ypos -600
+transform shinobu_question_level_selector_background:
+    xalign 0.5
+    yalign 0.5
+    zoom 0.5
+style shinobu_question_level_selector_button:
+    xanchor 0.5
+style shinobu_question_level_selector_button_text:
+    text_align 0.5
+    size 30
+    color "#000000"
+    hover_color "#666666"
+    font "font/zcool-happy-ayumi-extended.ttf"
+
 label block_00003881:
     # Node: 00003881 (難易度選択)
-    $ sys_lm_menu_item = [{"pos": (90, 128),"image": "images/Games/Shinobus-question-set/Easy.png","hover": "images/Games/Shinobus-question-set/Easy hover.png","name": "かんたん"}, {"pos": (490, 128),"image": "images/Games/Shinobus-question-set/Normal.png","hover": "images/Games/Shinobus-question-set/Normal hover.png","name": "ふつう"}, {"pos": (90, 328),"image": "images/Games/Shinobus-question-set/Hard.png","hover": "images/Games/Shinobus-question-set/Hard hover.png","name": "ちょいむず"}, {"pos": (490, 328),"image": "images/Games/Shinobus-question-set/Return.png","hover": "images/Games/Shinobus-question-set/Return hover.png","name": "やめておく"}]
-    $ sys_lm_menu_sound = {"hover": "sound/Effect Sound/System - choose.ogg", "click": "sound/Effect Sound/System - popup.ogg"}
-    call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0.2, 0.2) from _call_lm_menu_329
-    $ del sys_lm_menu_item
-    $ del sys_lm_menu_sound
+    call screen shinobu_question_level_selector
 
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"かんたん\"" }]):
+    if _return == 0:
         jump block_0000388A
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"ふつう\"" }]):
+    elif _return == 1:
         jump block_0000388C
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"ちょいむず\"" }]):
+    elif _return == 2:
         jump block_0000388D
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"やめておく\"" }]):
+    else:
         jump block_000038ED
 
     return
