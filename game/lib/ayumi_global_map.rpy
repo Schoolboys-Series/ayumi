@@ -91,9 +91,11 @@ label scb_global_map(time, character, place, allow_change_time, allow_break, all
         hide global_map_weather
         hide global_map_hint
         with Dissolve(0.2)
+    
+    $ set_window("(標準)")
         
-        $ _lm_selected_value = _return
-        return _return
+    $ _lm_selected_value = _return
+    return _return
 
 image global_map_title_1 = ParameterizedText(
     size=16,

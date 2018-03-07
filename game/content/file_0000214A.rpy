@@ -279,7 +279,7 @@ label block_00003C95:
     hide tag_83794CD575404B2B99772C15549BE0B7
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    stop music fadeout 0.5
+    stop soundtrack fadeout 0.5
     $ sys_music_current_file = ""
 
     jump block_00003C96

@@ -36,6 +36,9 @@ translate japanese style main_menu_save_lot_text:
 translate japanese style main_menu_save_lot_button_text:
     font "font/source-hans-sans-medium.ttc"
 
+translate japanese style main_menu_right_action_panel_text_button_text is gui_button_text:
+    font "font/source-hans-sans-medium.ttc"
+
 translate japanese strings:
 
     # screens.rpy:12

@@ -55,7 +55,7 @@ label block_000020C2:
         FailCount = 0
         WinCount = 0
         LoseCount = 0
-        if not GKarutaStage is list:
+        if not "GKarutaStage" in globals() or not isinstance(GKarutaStage, list):
             GKarutaStage = [False] * 44
 
     $ set_place_title(False)
@@ -76,9 +76,7 @@ label block_000020C2:
     return
 
 label karuta_viewmode:
-    # Node: 00002259 (View mode)
-    $ set_window("カルタ")
-    
+    # Node: 00002259 (View mode)    
     stop effect2 fadeout 0.5
     $ sys_effect2_current_file = ""
 
@@ -158,6 +156,7 @@ transform karuta_view_screen_image(zoom_level):
 style karuta_view_screen_viewport is vpgrid:
     ypos 126
     ysize 474
+    xpos 60
 style karuta_minami_word:
     xpos 40
     ypos 19
@@ -185,7 +184,6 @@ label karuta_view_end:
     with rs_effect_7ACA96681ED8438984D635078E9C20A5
 
     python:
-        set_window("(標準)")
         reverse_volume("music", 1)
         del FailCount
         del WinCount
@@ -205,7 +203,6 @@ label karuta_start:
 
     pause 1.5
 
-    $ set_window("カルタ")
     $ zorder_tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 = 0
     show rs_image_B97613BF336C43ECB48087EFE630E56D as tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 at center_bottom zorder zorder_tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 onlayer master
     with rs_effect_448920BBD02549838978B8525156A8E8
@@ -247,7 +244,7 @@ label karuta_start:
         for i in range(12):
             karuta_card_already_picked = True
             while karuta_card_already_picked == True:
-                karuta_target_card_index = Random(karuta_random_limitation) + 1
+                karuta_target_card_index = renpy.random.randint(0, karuta_random_limitation - 1)
                 karuta_card_already_picked = False
                 for j in range(i):
                     if karuta_card_list[j] == karuta_target_card_index:
@@ -335,6 +332,7 @@ label karuta_start:
             show screen karuta_minami_word(_("漂亮！"))
             pause
         elif _return == karuta_current_index: # 选择正确
+            $ print "Get card " + str(karuta_card_list[karuta_current_index])
             $ GKarutaStage[karuta_card_list[karuta_current_index]] = True
             $ WinCount += 1
             play effect2 "sound/Effect Sound/Eye shine 1.ogg" noloop
@@ -430,7 +428,6 @@ label karuta_game_finished:
     pause 2
 
     python:
-        set_window("(標準)")
         reverse_volume("music", 1)
         del FailCount
         del WinCount

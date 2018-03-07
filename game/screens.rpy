@@ -483,29 +483,27 @@ style say_dialogue:
 ## http://www.renpy.org/doc/html/screen_special.html#input
 
 screen input(prompt):
-    style_prefix "input"
     frame:
-        window:
-            style "input_window"
-        text prompt style "input_prompt"
-        input id "input"
+        style "input_conatiner"
+        vbox:
+            xalign 0.5
+            yalign 0.5
+            text prompt style "input_prompt"
+            input id "input"
 
-style input_frame is empty:
-    area (0, 0, 800, 600)
-style input_window:
+style input_conatiner is default:
     xalign 0.5
+    xsize 371
+    ysize 156
     ypos 300
-    xmaximum 350
-    xminimum 350
     background Image("gui/frame.png")
+style input_conatiner:
+    variant "small"
+    ypos 50
 style input_prompt is default:
     xalign 0.5
-    xmaximum 350
-    ypos 330
 style input:
     xalign 0.5
-    xmaximum 350
-    ypos 360
     size 30
 
 ## Choice screen ###############################################################
@@ -594,7 +592,11 @@ screen main_menu():
                 text _("最近的存档") style "main_menu_save_lot_text"
                 text last_saved_game[3] style "main_menu_save_lot_text"
                 textbutton _("从这里继续") style "main_menu_save_lot_button" action FileLoad(last_saved_game[1], confirm=False, page=last_saved_game[0])
-            add last_saved_game[2] xpos 0 ypos 0
+            imagebutton:
+                idle last_saved_game[2]
+                xpos 0
+                ypos 0
+                action FileLoad(last_saved_game[1], confirm=False, page=last_saved_game[0])
             add "gui/menu/save_cover.png" xpos 0 ypos 0 zoom 0.4
     frame at main_menu_sidebar:
         style "main_menu_sidebar"
@@ -613,14 +615,18 @@ screen main_menu():
         style "main_menu_right_action_panel"
         style_prefix "main_menu_right_action_panel"
         hbox:
-            text _("事件画廊")
+            textbutton _("事件画廊"):
+                style "main_menu_right_action_panel_text_button"
+                action ShowMenu("gallery")
             imagebutton at main_menu_right_action_panel_image_button:
                 idle "gui/menu/gallery.png"
                 hover "gui/menu/gallery hover.png"
                 action ShowMenu("gallery")
         hbox:
             if persistent.SYSMusicAvailable:
-                text _("音乐鉴赏")
+                textbutton _("音乐鉴赏"):
+                    style "main_menu_right_action_panel_text_button"
+                    action Start("soundtrack_prepare")
                 imagebutton at main_menu_right_action_panel_image_button:
                     idle "gui/menu/music.png"
                     hover "gui/menu/music hover.png"
@@ -631,7 +637,9 @@ screen main_menu():
                     idle "gui/menu/music muted.png"
         hbox:
             if persistent.SystemStoryCache[17]:
-                text _("场景回想")
+                textbutton _("场景回想"):
+                    style "main_menu_right_action_panel_text_button"
+                    action Start("theater_prepare")
                 imagebutton at main_menu_right_action_panel_image_button:
                     idle "gui/menu/theater.png"
                     hover "gui/menu/theater hover.png"
@@ -755,7 +763,13 @@ style main_menu_right_action_panel_text_muted is gui_button_text:
     size 26
     xalign 1.0
     color "#636363"
-
+style main_menu_right_action_panel_text_button:
+    yalign 0.5
+style main_menu_right_action_panel_text_button_text is gui_button_text:
+    size 26
+    xalign 1.0
+    color "#00B3C7"
+    hover_color "#068AFC"
 ## Game Menu screen ############################################################
 ##
 ## This lays out the basic common structure of a game menu screen. It's called

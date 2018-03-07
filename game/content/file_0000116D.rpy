@@ -433,7 +433,7 @@ label tsuki_test_judge_result:
     elif (CorrectCount / float(TotalCount)) >= 0.7:
         jump tsuki_test_next_question
     else:
-        jump block_000037B7
+        jump tsuki_test_retry_question
 
     return
 

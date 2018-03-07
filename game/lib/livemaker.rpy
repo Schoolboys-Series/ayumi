@@ -165,6 +165,7 @@ init -1 python:
                 result[index] = renpy.input(request, placeholder[index])
             else:
                 result[index] = renpy.input(request)
+            renpy.pause(0.2, hard=True)
         renpy.hide_screen("lm_input_caption");
         return result
 

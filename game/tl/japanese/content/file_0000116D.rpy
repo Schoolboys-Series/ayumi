@@ -1,5 +1,8 @@
 # TODO: Translation updated at 2018-03-01 16:44
 
+translate japanese style tsuki_test_level_selector_button_text:
+    font "font/honyaji-re.ttf"
+
 # game/content/file_0000116D.rpy:234
 translate japanese tsuki_test_find_1_9894db6a:
 
