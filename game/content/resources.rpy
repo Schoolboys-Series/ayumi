@@ -439,17 +439,6 @@ init -1:
     define rs_character_9EDF48057FB84D428D56198A69E2880E = Character(_(" ？？？"), who_color="#0099FF")
     define rs_character_7C3C0C2656584DDA8F77A8F6082E3A27 = Character(_(" 未知来源的声音"), who_color="#0099FF")
     define rs_character_6E824DBDDF4448E1ADD5937984ABFE61 = Character(_(" 迷之人物"), who_color="#0099FF")
-    image rs_image_7612D1EE5E914BB8828E37268FE9A361 = "images/Start Scene/Button - Start from beginning.png"
-    image rs_image_5260933EFDB0435C97E09A76B466186C = "images/Start Scene/Button - Start from beginning hover.png"
-    image rs_image_7958D38A2FBD4A7CB0EE17AFAF46AD95 = "images/Start Scene/Button - Load.png"
-    image rs_image_ECF6B2E7DEDD4D52B7C351A9BA91108A = "images/Start Scene/Button - Load hover.png"
-    image rs_image_8628A161DD274A7E8786747063FAF058 = "images/Start Scene/Button - CG.png"
-    image rs_image_0A99BB0C96D0494498739FBBC5919882 = "images/Start Scene/Button - CG hover.png"
-    image rs_image_843E4669DDD44DFC8C9F628BDAB7048D = "images/Start Scene/Button - transparent.png"
-    image rs_image_77DBADE2ABD64FB0A3CBFEFF5805A10E = "images/Start Scene/Button - Scene review.png"
-    image rs_image_88A177CB35294DA39D6564055CFD4C85 = "images/Start Scene/Button - Scene review hover.png"
-    image rs_image_0EE2E248A6FE4FB184F76B5735C05EA8 = "images/Start Scene/Button - Music.png"
-    image rs_image_3BEC9111285944939186078FF11C6563 = "images/Start Scene/Button - Music hover.png"
     image rs_image_5E617E4C61D04526B0EE943DD90C720C = "images/MOVING/ACTIONS/Back.png"
     image rs_image_BAEC487E09694F44A6E2E8ABFB38EFAB = "images/MOVING/ACTIONS/Back hover.png"
     image rs_image_7A4C18575CC842F5B655841970A51828 = "images/Prologue/Menu/Shinobu.png"
@@ -469,13 +458,11 @@ init -1:
     image rs_image_1C0AF22E3ECB455997018AE1B9355E9D = "images/Prologue/Menu/Saburo.png"
     image rs_image_94551D15C9EE425A9374A77D6B4405A5 = "images/Prologue/Menu/Saburo hover.png"
     image rs_image_FD10F0034933437EBF0F4E9DC1229F9A = "images/MOVING/ACTIONS/Afterschool disabled.png"
-    image rs_image_84EE84B0526E46CCB3391803B54E1417 = "images/MOVING/ACTIONS/Afterschool disabled hover.png"
     image rs_image_4FD57F7C91CD4752B9DFC89BCFC168F3 = "images/MOVING/ACTIONS/Talk.png"
     image rs_image_3FFC788224E04941AFE8D9055C98B384 = "images/MOVING/ACTIONS/Talk hover.png"
     image rs_image_DDBA264E19654C00A6E9C6B98F3C6C48 = "images/MOVING/ACTIONS/Target.png"
     image rs_image_0387B135B77A44C882A002E66F8A3BC0 = "images/MOVING/ACTIONS/Target hover.png"
     image rs_image_AD2E032CE8154EE68194C07A1C1D4D7D = "images/MOVING/ACTIONS/Giveup disabled.png"
-    image rs_image_ED7D6C54B9C04583A6FA272153EE5B3C = "images/MOVING/ACTIONS/Giveup disabled hover.png"
     image rs_image_7AFAB80DD943484D9A5FA93FD390F37C = "images/MOVING/ACTIONS/Character.png"
     image rs_image_8113E6601F324A7B95484C197B941D48 = "images/MOVING/ACTIONS/Character hover.png"
     image rs_image_F4751C4D0838428FA2EAD22C08188C2C = "images/Menu/Tsubasa-chan CP12.png"
@@ -484,13 +471,11 @@ init -1:
     image rs_image_10A48C379F2845F486230CEE0EB599DE = "images/Chapter 1/Menu/Shinobu hover.png"
     image rs_image_412DBF5037C84AABA1CC725A2309F000 = "images/Chapter 1/Menu/Shinobu waiting.png"
     image rs_image_C21D147EB0A94EE1A9B94FFACD9D8D53 = "images/Moving/ACTIONS/Afterschool disabled.png"
-    image rs_image_CB6D30094CAA4C04BBEBC63EEE8F9065 = "images/Moving/ACTIONS/Afterschool disabled hover.png"
     image rs_image_B9A5598834B8446E9A3EB834D2054921 = "images/Moving/ACTIONS/Talk.png"
     image rs_image_8D73E29968BC4F8CB67382F4E454E523 = "images/Moving/ACTIONS/Talk hover.png"
     image rs_image_B09E3D77358B4C41B12813F0912C6672 = "images/Moving/ACTIONS/Target.png"
     image rs_image_3ABB9D4E8ADF406E90E4923B6512538B = "images/Moving/ACTIONS/Target hover.png"
     image rs_image_1185E832A6434A8485816B0DABE25F0B = "images/Moving/ACTIONS/Giveup disabled.png"
-    image rs_image_596D7432FD4845328922FD128439D4D4 = "images/Moving/ACTIONS/Giveup disabled hover.png"
     image rs_image_EBAB52FAC58D4DF4B2DEAE17590A8146 = "images/Moving/ACTIONS/Character.png"
     image rs_image_55E54BF634824505816B3C85295732EA = "images/Moving/ACTIONS/Character hover.png"
     image rs_image_6C642C5E613245A8BEC70DFD38D7E78D = "images/MOVING/ACTIONS/Moving.png"
@@ -532,27 +517,13 @@ init -1:
     image rs_image_AF9FA593F058498CABB1C58BD7F94AA7 = "images/Chapter 1/Menu/Sora hover.png"
     image rs_image_0ADC8EAE58464D048E30283C94E1C7F4 = "images/Chapter 1/Menu/Tsuki quest.png"
     image rs_image_A5FBE5E620EC4A65BBFA4C771CA067AC = "images/Chapter 1/Menu/Tsuki hover.png"
-    image rs_image_867FD51FD35B45709DFFC04187F1236B = "images/Selection/Piano/1.png"
-    image rs_image_C50ABB08173F49E9A258E30BB4B45532 = "images/Selection/Piano/1 hover.png"
-    image rs_image_AEF7D0D5550340C686C35E864F15B06F = "images/Selection/Piano/2.png"
-    image rs_image_4E7D12F289924F97B2761E6C845EDD19 = "images/Selection/Piano/2 hover.png"
     image rs_image_348A097EE521440F8D96225BD172BDA1 = "images/Chapter 1/Menu/Katou flag.png"
     image rs_image_BE39EDFE09FD410589CFBD862488D79B = "images/Chapter 1/Menu/Katou hover.png"
     image rs_image_36F093862458404B8A36803F2D4D06F6 = "images/Chapter 1/Menu/Shintaro quest.png"
     image rs_image_E6F08D480EDE457F941250CCBAA8FBDD = "images/Chapter 1/Menu/Tsubasa music room quest.png"
     image rs_image_37DB6BAC5565405299BCD2EC0132EAED = "images/Chapter 1/Menu/Tsubasa music room hover.png"
-    image rs_image_2C090CB0182A41FA976A2E4A8CC89F6A = "images/Selection/Tokiwa Help/Flag.png"
-    image rs_image_A20BDDB017554432A158BEE257FF5E6D = "images/Selection/Tokiwa Help/Flag hover.png"
-    image rs_image_FD4B794DCC5B45F3937E5C774C7FB909 = "images/Selection/Tokiwa Help/Quest.png"
-    image rs_image_D15F2BF7611443EE929F54AFA6A2260B = "images/Selection/Tokiwa Help/Quest hover.png"
-    image rs_image_3F2E295BF1084AED864D9560A47022FE = "images/Selection/Tokiwa Help/Nothing.png"
-    image rs_image_271E14C414F749A09D21F7E58CE9B1C5 = "images/Selection/Tokiwa Help/Nothing hover.png"
     image rs_image_0D35E13BB8AE4B8B984FBA1129A8B33A = "images/Moving/ACTIONS/Giveup.png"
     image rs_image_0907D6A9D4484EF48A81AEFA28C8BFF1 = "images/Moving/ACTIONS/Giveup hover.png"
-    image rs_image_F85E126F154A4CAE91AF5BEC84FC3DF9 = "images/Selection/Abandon/1.png"
-    image rs_image_4FCAA1F5A1B24E7382B32F5A72E9EF4F = "images/Selection/Abandon/1 hover.png"
-    image rs_image_320E386EE46B45E0A560D901339DD8B5 = "images/Selection/Abandon/2.png"
-    image rs_image_B53751B4E8EE4A3A821E30DF2B8C7DF1 = "images/Selection/Abandon/2 hover.png"
     image rs_image_FEE4F552C2F442D181E0CCF44844FCBD = "images/Chapter 1/Menu/Tsubasa flag.png"
     image rs_image_18FFE37409974E56AA6AB3CB9CC06C70 = "images/Chapter 1/Menu/Tsubasa waiting.png"
     image rs_image_D54D16057CC84AF895FBEEAF041C6F81 = "images/Chapter 1/Menu/Shintaro flag.png"
@@ -572,43 +543,14 @@ init -1:
     image rs_image_4C6AC7253DFD47E99AD598F4CD2BC19D = "images/Chapter 1/Menu/Matsuta quest hover.png"
     image rs_image_975A664ED80B442A81E85B73C28837CC = "images/Chapter 1/Menu/F5/Shinobu waiting.png"
     image rs_image_A51110E106D442C5BFCF53F02F71D357 = "images/Chapter 1/Menu/Kimura quest.png"
-    image rs_image_30028B8EB53D4E1D8795D095473E2FC2 = "images/Selection/IMECHEN/1.png"
-    image rs_image_16299DF51B0245F2919521D8D582F043 = "images/Selection/IMECHEN/1 hover.png"
-    image rs_image_DAE791DB8C46468FB093A74C9DC25592 = "images/Selection/IMECHEN/2.png"
-    image rs_image_7B617AB46ADC4A569C1759954098BDCB = "images/Selection/IMECHEN/2 hover.png"
     image rs_image_94C4DA0C3B174DBFA65206DD86FF7B0C = "images/Chapter 1/Menu/Saburo quest.png"
     image rs_image_FDE1383FD7364DD3BE6B6413988B1C4C = "images/Chapter 1/Menu/Okajima quest.png"
     image rs_image_CA9B71E94087447890CBC919A103A93F = "images/Chapter 1/Menu/Saburo PE warehouse.png"
     image rs_image_47B01AA2D8114FF4A7AE0FBCBB764061 = "images/Chapter 1/Menu/Saburo PE warehouse hover.png"
-    image rs_image_CC30957B2D7F442F976D3941DB032B82 = "images/Selection/TEST/1.png"
-    image rs_image_62F5B5151EB94C369EEA30D213D81702 = "images/Selection/TEST/1 hover.png"
-    image rs_image_34B5F0C5BC104F5DA473E084375CC466 = "images/Selection/TEST/2.png"
-    image rs_image_A4303BD173C54C79941C992B7A53A848 = "images/Selection/TEST/2 hover.png"
     image rs_image_364E4E1E80A246A89D0ECF78B50E4460 = "images/Chapter 1/Menu/Sakuya point.png"
-    image rs_image_D9B5F04B84AB4A5C9BAEA667508EB3B5 = "images/Selection/Confirm/1.png"
-    image rs_image_9E456D5DC21C435B93D709A3CAD458CC = "images/Selection/Confirm/1 hover.png"
-    image rs_image_D0AF07A75805454B8B7F08F99A5E800E = "images/Selection/Confirm/2.png"
-    image rs_image_356601EC1F9D40BF856485B69284BC9E = "images/Selection/Confirm/2 hover.png"
-    image rs_image_116C9C37DFCB43DA8747E1B6A166EA71 = "images/Selection/Note/1.png"
-    image rs_image_7C0B2380B8104060A43A47A640F717C8 = "images/Selection/Note/1 hover.png"
-    image rs_image_098BA10C9287421E95B58E30C2858E48 = "images/Selection/Note/2.png"
-    image rs_image_46E183C843704BFD965AFF28C6862A69 = "images/Selection/Note/2 hover.png"
-    image rs_image_0FBD4BE5897649C1A94404CD3058664E = "images/Selection/Theater/1.png"
-    image rs_image_9CF6047B38D14E988EAD40F872096051 = "images/Selection/Theater/1 hover.png"
-    image rs_image_46D08A5EC9E74940B29B903704A7CB77 = "images/Selection/Theater/2.png"
-    image rs_image_E3A04D9BDE674801A38041D53BE6F327 = "images/Selection/Theater/2 hover.png"
-    image rs_image_9ED88FFD314B449ABA45B27CD425FFC9 = "images/Selection/Relax/1.png"
-    image rs_image_33314AC194314BB5A4406863F0CFC5E0 = "images/Selection/Relax/1 hover.png"
-    image rs_image_2C7B6A10D3184DC1A15D424450D051A4 = "images/Selection/Relax/2.png"
-    image rs_image_868F0514ED0E4A49B44782BC1399FEEE = "images/Selection/Relax/2 hover.png"
     image rs_image_36C82928CA2547F0847CF0AD00F79D8E = "images/Menu/Tentacle-earthworm.png"
     image rs_image_909E930C64A348498607563AD0AD327D = "images/Menu/Tentacle-earthworm hover.png"
-    image rs_image_BC70D9266E9E48CB9417A047A17DC1CF = "images/Selection/Dream/1.png"
-    image rs_image_8CED63B966E740DB98FEC3E0FFD24F3D = "images/Selection/Dream/1 hover.png"
-    image rs_image_AD3F63A6DD5D45E598C7D34D73D28BB3 = "images/Selection/Dream/2.png"
-    image rs_image_49417280BFCC4CD48ECC128CD7ECE779 = "images/Selection/Dream/2 hover.png"
     image rs_image_999F8411A7BA43F5B79CCCBB1D77019C = "images/Moving/ACTIONS/Lunchbreak disabled.png"
-    image rs_image_AEF26CDF14EF4ED38D90AD8D06753645 = "images/Moving/ACTIONS/Lunchbreak disabled hover.png"
     image rs_image_F3CEC1891EAE4FCA8CBB1B3046C63363 = "images/MOVING/ACTIONS/Hidden.png"
     image rs_image_1EE3219BD6E44A43BE0BEB48EACF9914 = "images/MOVING/ACTIONS/Hidden hover.png"
     image rs_image_F0DABC8E619A4E9782F4A32C8947FEE3 = "images/Menu/Kobayashi.png"
@@ -617,18 +559,8 @@ init -1:
     image rs_image_CA5C4AC5A2644A38833B2F27571BD01E = "images/Menu/Minami hover.png"
     image rs_image_9AD9F41AFA974005AC84E7F9B562456C = "images/Menu/Shougintoki.png"
     image rs_image_A89F165A8C3841EA8983CD132153DA71 = "images/Menu/Shougintoki hover.png"
-    image rs_image_E37DC0CDF9444583B829793BB58FCA45 = "images/Selection/Bookstore/1.png"
-    image rs_image_2ECE6DC4222D460BB79ADF25C0303998 = "images/Selection/Bookstore/1 hover.png"
-    image rs_image_FDD5A716B61F4A60A4D84924037190FD = "images/Selection/Bookstore/2.png"
-    image rs_image_881710A7DBCC4240A04D4FEC5CDE2C07 = "images/Selection/Bookstore/2 hover.png"
-    image rs_image_7527D284F7FD497BB1286B9DF7B6B66B = "images/Selection/Back home/1.png"
-    image rs_image_E1D4C5EE923E42E5BBAEEB0B7375A75F = "images/Selection/Back home/1 hover.png"
-    image rs_image_1538AE26CBED4D2DA7563BA7996C6488 = "images/Selection/Back home/2.png"
-    image rs_image_19995A7B2CCC4A8A84B7E38A4F9340B5 = "images/Selection/Back home/2 hover.png"
     image rs_image_A6D5B10DA60E439E91F783C0557BF9DF = "images/Selection/Route/Button.png"
     image rs_image_004553E5F3C447058EE89FFE05136661 = "images/Selection/Route/Button hover.png"
-    image rs_image_F34178480E994992BC6120853F1A29ED = "images/Selection/Route/Return.png"
-    image rs_image_2862B2A2B61C41EDAA99CDBEAC84E0E3 = "images/Selection/Route/Return hover.png"
     image rs_image_FBC7092649A942B080C023CE5DD9EFF2 = "images/Chapter 1/Menu/F2/Saburo point.png"
     image rs_image_2FDC8437171745E8AFFA46E0AEDDF6E1 = "images/Chapter 1/Menu/F2/Shinobu point.png"
     image rs_image_E7C3BD37FF0540009A631A464CC7F476 = "images/Chapter 1/Menu/F2/Shintaro point.png"
@@ -668,10 +600,6 @@ init -1:
     image rs_image_4BD5363688D04FCB9DF608078D527B40 = "images/Chapter 1/Menu/Yukio hover.png"
     image rs_image_A2927675B8C1416FA8C269B05EB8AC61 = "images/Chapter 1/Menu/Kobayashi flag.png"
     image rs_image_9DC2C58241B149F6860D6656FC90FFF6 = "images/MENU/Minami.png"
-    image rs_image_790C28307FD44A4CA07DEA4FAF217D02 = "images/Selection/Sakuya-walk Abandon/1.png"
-    image rs_image_1CCFD6237E6843ECBDBE3968F2F52D9C = "images/Selection/Sakuya-walk Abandon/1 hover.png"
-    image rs_image_38DC7705E2EB47F8A0BD68C6349C25FB = "images/Selection/Sakuya-walk Abandon/2.png"
-    image rs_image_16BAD1A0345941918BDDB97AE79B3350 = "images/Selection/Sakuya-walk Abandon/2 hover.png"
     image rs_image_FA191EBDE1F240CF986FDC1900982DDE = "images/Chapter 2/Menu/Shinobu.png"
     image rs_image_734BBE0ED3FD43A2950548966B0FE558 = "images/Chapter 2/Menu/Shinobu hover.png"
     image rs_image_7360EBBD2CB845FFB8AC8E0236EEAB5C = "images/Chapter 2/Menu/Saburo.png"
@@ -712,10 +640,6 @@ init -1:
     image rs_image_9CB8F431B9A348AD91B285F62EA138F2 = "images/Chapter 2/Menu/Poster flag.png"
     image rs_image_01A05916FE80487CA92F7CF0A2A69561 = "images/Chapter 2/Menu/Poster hover.png"
     image rs_image_CE5880E27616417CB707E2DA56DB4592 = "images/Chapter 2/Menu/Poster.png"
-    image rs_image_E5DBFD78A62E4467BB0E692447148C0E = "images/Selection/CP2F2Suggestion/1.png"
-    image rs_image_A731F5CE98D14FD6A06FD3A62E05BC87 = "images/Selection/CP2F2Suggestion/1 hover.png"
-    image rs_image_27A93206A7F54F38831F8D99427DA409 = "images/Selection/CP2F2Suggestion/2.png"
-    image rs_image_6020A5CF7CDF44C28759A46D10EE9AD9 = "images/Selection/CP2F2Suggestion/2 hover.png"
     image rs_image_8BA61FAE37554265B55D83F7BD2F02EA = "images/Chapter 2/Menu/Sora stairwell point.png"
     image rs_image_1A99C916C6474F3EA9A5F8874694F7BA = "images/Chapter 2/Menu/Sora stairwell.png"
     image rs_image_5E9AE5FCA7EB405197B9BF4704F4043F = "images/Chapter 2/Menu/Tsuki point.png"
@@ -762,20 +686,8 @@ init -1:
     image rs_image_4C3E719849134855BE09245684A28501 = "images/Menu/Yuuhi hover.png"
     image rs_image_0BE9420F0CD14B3B84F56E7C4456B475 = "images/Menu/Shouhei.png"
     image rs_image_306EB2AB00034A71B7BC6BED3F1EB41D = "images/Menu/Shouhei hover.png"
-    image rs_image_6044C3A019F647BFB877F1888C2F4279 = "images/Selection/Study/1.png"
-    image rs_image_36954EBB64FC4FFC8BC2D5D2A0BF0FCD = "images/Selection/Study/1 hover.png"
-    image rs_image_2A5EF1A10CD8458699853354C33A5D03 = "images/Selection/Study/2.png"
-    image rs_image_5BF7AFCCEA99404DA3E2F44874A7C5FF = "images/Selection/Study/2 hover.png"
-    image rs_image_4FCAF235263D4CCFB1E993358D2515A1 = "images/Selection/Rest/1.png"
-    image rs_image_E25C722AF89E43C796EA5521C46BCAF2 = "images/Selection/Rest/1 hover.png"
-    image rs_image_51FE3E69B4874D5A812976B984451693 = "images/Selection/Rest/2.png"
-    image rs_image_3B38166863C64D19AD465518ABDFBD75 = "images/Selection/Rest/2 hover.png"
     image rs_image_9484B53BD8BF48689E48E40EFF43E0C4 = "images/MOVING/ACTIONS/Out.png"
     image rs_image_92AC01EDD60B4AADB4ECF3C8CA5B7181 = "images/MOVING/ACTIONS/Out hover.png"
-    image rs_image_10933A4FDA0A49FB86E045A469C99469 = "images/Selection/Karuta/1.png"
-    image rs_image_6513EA9C15A94E63B0A15E7144AD7D54 = "images/Selection/Karuta/1 hover.png"
-    image rs_image_78AA35486D9D44B493644F5481834E76 = "images/Selection/Karuta/2.png"
-    image rs_image_52314E82FEFD4BC38FDA891BB2046DC3 = "images/Selection/Karuta/2 hover.png"
     image rs_image_A45605602E0E4274B6C7ABC35C65DE84 = "images/Menu/Mamoru.png"
     image rs_image_8E157940BE4647D29C3F80834F9E3D42 = "images/Menu/Mamoru hover.png"
     image rs_image_BF0B38A0EC874B6087D55BC5C242973F = "images/Chapter 2/Menu/Shinobu music room.png"
@@ -797,10 +709,6 @@ init -1:
     image rs_image_BAC05E4A0BF14034A83ED1431A2FFA6A = "images/Chapter 2/Menu/Sakuya point.png"
     image rs_image_931C1205A1B84500B6833C8D0EFDE2E0 = "images/Chapter 2/Menu/Katou gym.png"
     image rs_image_B5C234FE07924994B1E7B7944AD58C72 = "images/Chapter 2/Menu/Katou gym hover.png"
-    image rs_image_8ED3106B6DC74725A3A0674B08825979 = "images/Selection/Use/1.png"
-    image rs_image_D48523DEBB784DF292196314B8F1E5B2 = "images/Selection/Use/1 hover.png"
-    image rs_image_5F7F1AB8C1B749FFA001709F6EBBC87C = "images/Selection/Use/2.png"
-    image rs_image_85372D15FBF54C1BAA53F738C75B1A05 = "images/Selection/Use/2 hover.png"
     image rs_image_63072E3C08F54BEF99B4BD0EA8B88AC9 = "images/Chapter 2/Menu/Tomo music room.png"
     image rs_image_98D1FA78033443C4B2753AC700E650BD = "images/Chapter 2/Menu/Tomo music room hover.png"
     image rs_image_8819AE5D0C5845A38D3342A33CA6CA21 = "images/Chapter 2/Menu/F1/Tsubasa.png"
@@ -811,10 +719,6 @@ init -1:
     image rs_image_E69596FFAD9F4737B3125E04BE5F782A = "images/Chapter 2/Menu/Matsuta playground hover.png"
     image rs_image_6D19293ED91546CDBFA58CF3E59CBC36 = "images/Chapter 2/Menu/F3/Kojima point.png"
     image rs_image_B1A1FFF603074B37B7F2D42FA2AC25DE = "images/Chapter 2/Menu/F3/Tokiwa point.png"
-    image rs_image_BA6286D08C594C22BD06A4C80ED02173 = "images/Selection/CP2F3Confirm/1.png"
-    image rs_image_70344F13FB284A439EF4465EC823281D = "images/Selection/CP2F3Confirm/1 hover.png"
-    image rs_image_46B1FE8B432B4137918AE452D886EB3F = "images/Selection/CP2F3Confirm/2.png"
-    image rs_image_B4D26D4EAD73441B854A3296EDB427BC = "images/Selection/CP2F3Confirm/2 hover.png"
     image rs_image_E25D7D18D76C4C7A8E291185441012DD = "images/Chapter 2/Menu/Tomo music room point.png"
     image rs_image_FE7F77CEA80E4C1ABE880AA6613D95B9 = "images/Chapter 2/Menu/Tsubasa music room point.png"
     image rs_image_8662056597DD43AB85A8BCBE6061AD52 = "images/Chapter 2/Menu/Shinobu music room point.png"
@@ -836,12 +740,6 @@ init -1:
     image rs_image_C6AD6FB86D4C4B64B368483E97EFD32A = "images/Chapter 2/Menu/F2/Nameko hover.png"
     image rs_image_C4838DE634964633B4F490C5D7718A2A = "images/Chapter 2/Menu/F5/Sakuya.png"
     image rs_image_05262B7C510F4DFB8E5C3BBCBAE3C8EA = "images/Chapter 2/Menu/F5/Sakuya hover.png"
-    image rs_image_8EC606D07C154F21BF9BE64BECE8F446 = "images/Chapter 2/Menu/F5/調べる2.png"
-    image rs_image_55570839217B44EEBEA7318A6333303C = "images/Chapter 2/Menu/F5/調べる2ON.png"
-    image rs_image_392BA73D24774441AB1BF44B1BBF4E95 = "images/Selection/Bus/1.png"
-    image rs_image_70827AA5597F40409D7F5272C7ECCF47 = "images/Selection/Bus/1 hover.png"
-    image rs_image_B3886CD1A3DA44D9AFBEA4E9504A2518 = "images/Selection/Bus/2.png"
-    image rs_image_A937C9CE173F468F8D97C3B98A8ACD06 = "images/Selection/Bus/2 hover.png"
     image rs_image_6129634BD31641499F90FC8A0A3CD1F9 = "images/Chapter 2/Menu/F6/Tour-guide.png"
     image rs_image_ABD557F43C3440559B903F219062629A = "images/Chapter 2/Menu/F6/Tour-guide hover.png"
     image rs_image_85669B0E784D4BF9BE8C3EDE8E394263 = "images/Chapter 2/Menu/F6/Tsuki.png"
@@ -908,10 +806,6 @@ init -1:
     image rs_image_7AA410572048462EB4839A5CE48BD56B = "images/Chapter 3/Menu/Nameko waiting.png"
     image rs_image_D8270A7738594D159B41FABF09F1C202 = "images/Chapter 3/Menu/Saburo quest.png"
     image rs_image_B235B1F1B4BD471589559E70E6A0CC9F = "images/Chapter 3/Menu/Tsuki quest.png"
-    image rs_image_4D547120E43F4B2A91B53AE41C5E5230 = "images/Selection/Retry/1.png"
-    image rs_image_E8E99A9C054D4DABB2B020CAA35FA9F5 = "images/Selection/Retry/1 hover.png"
-    image rs_image_2B831967857A4EF7AE16BBD878E0D342 = "images/Selection/Retry/2.png"
-    image rs_image_902DF2D3860E4946BD10A08E47E230A2 = "images/Selection/Retry/2 hover.png"
     image rs_image_DBCF8F9522B54D0AB7A2B073A5A4870D = "images/Chapter 3/Menu/Tsubasa library flag.png"
     image rs_image_80401BC77FBC4AD88EF1DD3A6074C530 = "images/Chapter 3/Menu/Tsubasa library hover.png"
     image rs_image_85AE220393264D889B1B525C3A9DDF52 = "images/Chapter 3/Menu/Kiyo.png"
@@ -933,10 +827,6 @@ init -1:
     image rs_image_260F51F5FFB84C78AEA0D86E2796F530 = "images/Chapter 3/Menu/F6/Izumi hover.png"
     image rs_image_38664B8B0F2348D6B35AA841E375FED4 = "images/Chapter 3/Menu/Shiro river quest.png"
     image rs_image_EA60E0D353A548EA893159BD4B1FF8EB = "images/Chapter 3/Menu/Shiro river hover.png"
-    image rs_image_2875A450FEBF4CF288FE40538D963259 = "images/Selection/Left-or-right-which-is-correct/1.png"
-    image rs_image_6A7CDA88197143E9A55E1AF3BBCE4723 = "images/Selection/Left-or-right-which-is-correct/1 hover.png"
-    image rs_image_87A894A8EE694CD699717776B44AA97A = "images/Selection/Left-or-right-which-is-correct/2.png"
-    image rs_image_6068E0083C294B3CB43FF847063F15A6 = "images/Selection/Left-or-right-which-is-correct/2 hover.png"
     image rs_image_2077FEF725644E309752E2BF8DCCE311 = "images/Menu/Rikuta umesaki 2.png"
     image rs_image_CDAF39B9AC984E8BAAB63996647EDF4E = "images/Menu/Rikuta umesaki 2 hover.png"
     image rs_image_40B131CEFF784B589BCA1615F2E8D8D5 = "images/Menu/Rikuta umesaki.png"
@@ -951,10 +841,6 @@ init -1:
     image rs_image_A23E7E89A9E64412819C05E525B2AF59 = "images/Menu/Tsubasa-chan CP3 hover.png"
     image rs_image_25228384D46043D99B8BA5619086153D = "images/Chapter 3/Menu/F1/Tsuki.png"
     image rs_image_352A82BA08DE4733B24EB0A529030EBF = "images/Chapter 3/Menu/F1/Tsuki hover.png"
-    image rs_image_12E3D4E767C54580B8F1701B74E447F9 = "images/Selection/CP3F1Back/1.png"
-    image rs_image_AE6EEE3E5EC84D91BF4BD90DE28D5F1F = "images/Selection/CP3F1Back/1 hover.png"
-    image rs_image_71F5E37CF2404E71A0BC8EF1463B1E7E = "images/Selection/CP3F1Back/2.png"
-    image rs_image_7609E851271049B2B36956E7846135B2 = "images/Selection/CP3F1Back/2 hover.png"
     image rs_image_1649F3B5DD264B76810982FFD0162636 = "images/Chapter 3/Menu/F1/Sato.png"
     image rs_image_109FF58B14F84A7CB4E0F0BC8D1294A3 = "images/Chapter 3/Menu/F1/Sato hover.png"
     image rs_image_4B5B112D281C4E149D18CA459F763798 = "images/Chapter 3/Menu/F4/Okajima point.png"
@@ -977,27 +863,6 @@ init -1:
     image rs_image_5460A893A7F540AEBBE6C71265B59540 = "images/CHAPTER 2/MENU/F4/Kimura hover.png"
     image rs_image_D78A694184374BB19A53746B16EA5204 = "images/Menu/Yuuhi spring water park.png"
     image rs_image_C8A27DC1CE974A46BC912C00AE581D4C = "images/Menu/Yuuhi spring water park hover.png"
-    image rs_image_475CC16568E44FE8A03753D66E86B4A6 = "images/Selection/Enough/1.png"
-    image rs_image_EBEA1FF935974530B8DCF6A281AD6A62 = "images/Selection/Enough/1 hover.png"
-    image rs_image_D34A8CB823D14898A230E34BEC3D13DA = "images/Selection/Enough/2.png"
-    image rs_image_06EBDDC6E3714E89B35E0C7061BA6B06 = "images/Selection/Enough/2 hover.png"
-    image rs_image_84EC1D70AB5D4FD5A881090F3AC9D579 = "images/Selection/Danjiri/Item.png"
-    image rs_image_97BF49FCC0434CB5A772553C6EF1DD0F = "images/Selection/Danjiri/Item hover.png"
-    image rs_image_39AB95E6AB634956977DC91439B1A90F = "images/Selection/Danjiri/PREVIEW/1.png"
-    image rs_image_14E7FA699E0940709A1C4AEFC41FAA09 = "images/Selection/Danjiri/PREVIEW/2.png"
-    image rs_image_A9E69D0E7AF4417982FBA4DB4DAB7E4D = "images/Selection/Danjiri/PREVIEW/3.png"
-    image rs_image_9521B1A39B4F46289BFD8A7DFBBAEB38 = "images/Selection/Danjiri/PREVIEW/4.png"
-    image rs_image_805E4BC2F81949C8AF9D1278AC63940B = "images/Selection/Danjiri/PREVIEW/5.png"
-    image rs_image_BF71F642AF6E4EF1A0ECA2AC0227F5E5 = "images/Selection/Danjiri/PREVIEW/6.png"
-    image rs_image_4FDBD511958E415494F592CD0D2BFB12 = "images/Selection/Danjiri/PREVIEW/7.png"
-    image rs_image_3409C533689D4222984AB19A99C5006C = "images/Selection/Danjiri/PREVIEW/8.png"
-    image rs_image_CED3FD7B24304B92BD7BF6B68AD34CAC = "images/Selection/Danjiri/PREVIEW/9.png"
-    image rs_image_9DADBBBF3CCC466F820E0761DAF235F9 = "images/Selection/Danjiri/PREVIEW/10.png"
-    image rs_image_B47C491EF0A7405380CDDF6E74254AF4 = "images/Selection/Danjiri/PREVIEW/11.png"
-    image rs_image_6AA88F86399142D6BE1D314B2BF8F452 = "images/Selection/Danjiri/PREVIEW/12.png"
-    image rs_image_8289417FF76D47CF9475DF1DEED6F8E9 = "images/Selection/Danjiri/PREVIEW/13.png"
-    image rs_image_96238CB25CF34138B50AD5864C31A82E = "images/Selection/Danjiri/PREVIEW/14.png"
-    image rs_image_89A1BF0BEB95416096C05D502DCC1D94 = "images/Selection/Danjiri/PREVIEW/15.png"
     image rs_image_E0FA199CB79F4489B7B5A26A34B488FB = "images/Chapter 3/Menu/Yukio.png"
     image rs_image_7206E202B9694717BE9C22A560B1B344 = "images/Chapter 3/Menu/Yukio hover.png"
     image rs_image_830A9FD946BB421DBFCF1A4BDB5732C2 = "images/Chapter 3/Menu/Shiro.png"
@@ -1006,73 +871,23 @@ init -1:
     image rs_image_1AE4AAF0470F4B99B0576D836D540D35 = "images/Chapter 3/Menu/Tsubasa school door hover.png"
     image rs_image_0B9FC4D8E99A42B0ABB10B84C56E8DE1 = "images/Chapter 3/Menu/Shougintoki point.png"
     image rs_image_930E0CFA94584A99808CD9CE288BF078 = "images/MENU/Shougintoki hover.png"
-    image rs_image_8FE9343D8E8745EAACE7AAF54A5F1EEB = "images/Theater/STORY/CP11.png"
-    image rs_image_E85E7721A116447D854C581A03191855 = "images/Theater/STORY/CP11 hover.png"
     image rs_image_7761EA117AD640799B156E8650F3E3EE = "images/Theater/PREVIEW/CP11.png"
-    image rs_image_F5B66F0B3B8B432B8B57391EC2F17C35 = "images/Theater/STORY/CP12.png"
-    image rs_image_F72F969DDB754D769C089DC173B3CC7C = "images/Theater/STORY/CP12 hover.png"
     image rs_image_5BB444EEB185429BBC018C386FD0E552 = "images/Theater/PREVIEW/CP12.png"
-    image rs_image_EC85F52F475F41F8817579B39F004E2A = "images/Theater/STORY/CP15.png"
-    image rs_image_C89C54F1C70B4A9A8CA85593D1E077ED = "images/Theater/STORY/CP15 hover.png"
     image rs_image_AF078309D0E94479B8C17B47F2701B41 = "images/Theater/PREVIEW/CP15.png"
-    image rs_image_331A3B0759E24ED1BDA19E145F5443E4 = "images/Theater/STORY/CP13.png"
-    image rs_image_DA64CBBCEE5A42639D580CFDCAB61904 = "images/Theater/STORY/CP13 hover.png"
     image rs_image_A016CC1D5AD14B049605EAD0D2BC28C0 = "images/Theater/PREVIEW/CP13.png"
-    image rs_image_9371984E066A41B4BC261FB5C55EE1BA = "images/Theater/STORY/CP14.png"
-    image rs_image_A422FBB99CE441E294046B5A09B1D143 = "images/Theater/STORY/CP14 hover.png"
     image rs_image_7E8D7BCF673348A8B68470F4E51C1490 = "images/Theater/PREVIEW/CP14.png"
-    image rs_image_E789F0CF28044CBAAF4789B99233AEA8 = "images/Theater/Back.png"
-    image rs_image_1E782AEA954C407A854EE1AD69A6C92E = "images/Theater/Back hover.png"
-    image rs_image_9793539A462D42BF91F56CFB3CC42F6D = "images/Theater/Room.png"
-    image rs_image_3DEB638C0CCC49FC9FD73CD5ADEC61DF = "images/Theater/Room 3 hover.png"
-    image rs_image_31276E9581B94F57BA70DCFA9E522122 = "images/Theater/Room 2 hover.png"
-    image rs_image_D9B70AFF726545B1AB5F8C58D9DD9F36 = "images/Theater/Disabled.png"
-    image rs_image_2EB1A291B2C048E287DADE6A9FF5DBD6 = "images/Theater/STORY/CP21.png"
-    image rs_image_1A1F1690FFB44168B044478B7090F0E2 = "images/Theater/STORY/CP21 hover.png"
     image rs_image_DC07EA44F5E94D698299F990C49C961F = "images/Theater/PREVIEW/CP21.png"
-    image rs_image_E59AC876D40D458AB3DFD04D1D181A9F = "images/Theater/STORY/CP25.png"
-    image rs_image_76FA0E76A64F49C88516B708E45211BE = "images/Theater/STORY/CP25 hover.png"
     image rs_image_4E0DEC130C944DC0B6EBB29091EEE057 = "images/Theater/PREVIEW/CP25.png"
-    image rs_image_E42B7635903548358C986B34EED256D1 = "images/Theater/STORY/CP22.png"
-    image rs_image_9F3D4628A2484CFBA930AD0C258561CE = "images/Theater/STORY/CP22 hover.png"
     image rs_image_38272CDB11884937888EA79767FB580B = "images/Theater/PREVIEW/CP22.png"
-    image rs_image_461478BA053740BCB4DEB34D623E7813 = "images/Theater/STORY/CP23.png"
-    image rs_image_137ED3B33B3A4909B49F071F049DE4B5 = "images/Theater/STORY/CP23 hover.png"
     image rs_image_D5343391445642E9A8BA32E4692E6AFF = "images/Theater/PREVIEW/CP23.png"
-    image rs_image_5FBC7DFBF93E44F797CB58B10DA09DB6 = "images/Theater/STORY/CP24.png"
-    image rs_image_E90D15257E57461ABD61C745192AC909 = "images/Theater/STORY/CP24 hover.png"
     image rs_image_829EE419B0AA4B2C820CC8249AFF6CF4 = "images/Theater/PREVIEW/CP24.png"
-    image rs_image_13ED639BE31C4DB28B7C6B559E898747 = "images/Theater/Room 1 hover.png"
-    image rs_image_6C9B45D2C48D4C5998A40AE0410EB30E = "images/Theater/STORY/CP26.png"
-    image rs_image_2019EEBC4E014B6CB5999031E2E990A1 = "images/Theater/STORY/CP26 hover.png"
     image rs_image_59A7BFE463A447779017EB203CB869F4 = "images/Theater/PREVIEW/CP26.png"
-    image rs_image_0ACC7DCA4352421BB19D0F24F3B66869 = "images/Theater/STORY/CP31.png"
-    image rs_image_848634229F85492A8550109408CE1FFE = "images/Theater/STORY/CP31 hover.png"
     image rs_image_4835D8EC7EFC4364BDE9CAA57A972AAE = "images/Theater/PREVIEW/CP31.png"
-    image rs_image_7E528B61F3BF46AB982C830758C594F7 = "images/Theater/STORY/CP32.png"
-    image rs_image_72BD306811B449798190BAEF2AAC77E0 = "images/Theater/STORY/CP32 hover.png"
     image rs_image_DF836CC53F5F43C9BC4844241A70B01B = "images/Theater/PREVIEW/CP32.png"
-    image rs_image_0D14719E47D840E5B9AE83886276C5DA = "images/Theater/STORY/CP35.png"
-    image rs_image_600E021CAE95426E8559D5F91A6D89C2 = "images/Theater/STORY/CP35 hover.png"
     image rs_image_1FD212F5EDE34F35895085A10138EF2D = "images/Theater/PREVIEW/CP35.png"
-    image rs_image_BB03927B36214D36B841CFBC06A93923 = "images/Theater/STORY/CP33.png"
-    image rs_image_F511227C0FBB44ADB8FBC14D19668F03 = "images/Theater/STORY/CP33 hover.png"
     image rs_image_8F6DED97455A48F0B1789E3FB71DF1DA = "images/Theater/PREVIEW/CP33.png"
-    image rs_image_829F12B303F14D388160C93046A8A916 = "images/Theater/STORY/CP34.png"
-    image rs_image_CB22DE59E9F4447C88E09B85488E5D91 = "images/Theater/STORY/CP34 hover.png"
     image rs_image_9C26FB352A444089B6151E39B1F0348A = "images/Theater/PREVIEW/CP34.png"
-    image rs_image_704AFCC3982B4C9D897B825EF901C465 = "images/Theater/STORY/CP36.png"
-    image rs_image_8097A7BB545E41CE87CC16E46DC892CA = "images/Theater/STORY/CP36 hover.png"
     image rs_image_2885E89FF7764EE89B372186F75796AB = "images/Theater/PREVIEW/CP36.png"
-    image rs_image_8F4EDA4120904C16A3363F40ADE6EEB8 = "images/Soundtrack/TAG/Empty.png"
-    image rs_image_4F7268A77BCC4E36ABCF1FC8E50CB44F = "images/Soundtrack/TAG/1.png"
-    image rs_image_85F03482025F4B1FBD65A338F8BC0C2B = "images/Soundtrack/TAG/2.png"
-    image rs_image_E1C7F5C3739046F683A40EF5A4073748 = "images/Soundtrack/TAG/3.png"
-    image rs_image_7381B00B268B4254B14310970D10C3C0 = "images/Soundtrack/TAG/4.png"
-    image rs_image_57B8E071C6084B9398C5CB6FD009E505 = "images/Soundtrack/TAG/5.png"
-    image rs_image_B778EA5F4678461AAFC00DCEBACC1A18 = "images/Soundtrack/TAG/Back.png"
-    image rs_image_50E15FBCFE1648FFB0F330EAE7D3F9AA = "images/Soundtrack/Anchor empty.png"
-    image rs_image_6A7AF2C74D7342D8A6350CFA704D2D6D = "images/Soundtrack/Anchor.png"
     image rs_image_FE47F8B75D4140FE83FFA9E2D20B3BC9 = "images/Celemony/Menu/Sports Celemony/Shintaro.png"
     image rs_image_7312508A25074DF6BA94281153B80396 = "images/Celemony/Menu/Sports Celemony/Shintaro hover.png"
     image rs_image_88F496F7B464442B9B4A1CE6AB49EBFE = "images/Celemony/Menu/Sports Celemony/Matsuta.png"
@@ -1087,8 +902,6 @@ init -1:
     image rs_image_588A6359D9D049BD909F4A920F4EAB18 = "images/Celemony/Menu/Sports Celemony/Sora hover.png"
     image rs_image_1620EB8C7A28409CA4594DD7AA87722E = "images/Celemony/Menu/Sports Celemony/Katou.png"
     image rs_image_86642BCE17874343A1EE4455BB696329 = "images/Celemony/Menu/Sports Celemony/Katou hover.png"
-    image rs_image_6BBB655AC4E449678916A5316461F773 = "images/Celemony/Menu/Next.png"
-    image rs_image_76C070D624214E9AB8B4A8E3BFBBC2D0 = "images/Celemony/Menu/Next hover.png"
     image rs_image_4A3EE43547D641EAA31D56873DE1BF00 = "images/Celemony/Menu/Sports Celemony/Sakuya.png"
     image rs_image_650B08C132C748DC8762E3296E4FC4E6 = "images/Celemony/Menu/Sports Celemony/Sakuya hover.png"
     image rs_image_F403901C19604D9EB9ED22417054C77B = "images/Celemony/Menu/Sports Celemony/Sato.png"
@@ -1104,39 +917,21 @@ init -1:
     image rs_image_C1FAEFD48D1A4E80B95A45BD8A502869 = "images/Celemony/Menu/Sports Celemony/Saburo.png"
     image rs_image_713AEFC0DC194C739DFA93A3BDB2094D = "images/Celemony/Menu/Sports Celemony/Saburo hover.png"
     image rs_image_6B4A22974A644DDAB14EA4E8DAE3B854 = "images/Celemony/AVATAR/Tomo.png"
-    image rs_image_96A6849D740147528258F9ED49920765 = "images/Celemony/AVATAR/Tomo hover.png"
     image rs_image_3305390DF2074E59B3FFA86354437EC9 = "images/Celemony/AVATAR/Shinobu.png"
-    image rs_image_25EE241E4294441689D882902C8D752F = "images/Celemony/AVATAR/Shinobu hover.png"
     image rs_image_3AE84A560E11407A9A7A2E5A2686B789 = "images/Celemony/AVATAR/Tsuki.png"
-    image rs_image_699A5ACBB65C45949890194904CB26E0 = "images/Celemony/AVATAR/Tsuki hover.png"
     image rs_image_F82BEC276BCA4C1EA4BE6E357899335C = "images/Celemony/AVATAR/Sora.png"
-    image rs_image_3687EE40710F462F81E6C9F7CF7FE345 = "images/Celemony/AVATAR/Sora hover.png"
     image rs_image_A7FCB818E7104030BDC0716D02C20232 = "images/Celemony/AVATAR/Shintaro.png"
-    image rs_image_F3379B8898194378B4B9B08DCAC8E9E8 = "images/Celemony/AVATAR/Shintaro hover.png"
     image rs_image_D19438FF8FB14BE49911E1AACC325E11 = "images/Celemony/AVATAR/Katou.png"
-    image rs_image_AC928E9F3C074A9183941553EFB3FE8A = "images/Celemony/AVATAR/Katou hover.png"
     image rs_image_1AD6871153264265A94E4FB0576CE625 = "images/Celemony/AVATAR/Izumi.png"
-    image rs_image_B77691FE87E7488F82FF42ED00AAC279 = "images/Celemony/AVATAR/Izumi hover.png"
     image rs_image_817B284CC31640269CE4D7D41C1B019B = "images/Celemony/AVATAR/Matsuta.png"
-    image rs_image_81B145FB35384C9BA17093555383F6F0 = "images/Celemony/AVATAR/Matsuta hover.png"
     image rs_image_D11FA259AC6344E0AD7FF28F9353D459 = "images/Celemony/AVATAR/Tsubasa.png"
-    image rs_image_5A5D89FF575745F3933F473B8A412CDF = "images/Celemony/AVATAR/Tsubasa hover.png"
     image rs_image_B1B6534C30B74C6E8FFDDF59402CBFFE = "images/Celemony/AVATAR/Sakuya.png"
-    image rs_image_FC966691A84141F3843603F4FBDE22B7 = "images/Celemony/AVATAR/Sakuya hover.png"
-    image rs_image_C322C01D16474778BE5073F293497521 = "images/Celemony/AVATAR/Saburo.png"
-    image rs_image_4871226B6C6A4E4D87A50162AD639D5D = "images/Celemony/AVATAR/Saburo hover.png"
+    image rs_image_C322C01D16474778BE5073F293497521 = "images/Celemony/AVATAR/Saburou.png"
     image rs_image_EA21C770E9C34E318709E45EE4CAEDFD = "images/Celemony/AVATAR/Itou.png"
-    image rs_image_68918EE4C8154FF1A7A21B09C80EDFCC = "images/Celemony/AVATAR/Itou hover.png"
     image rs_image_56DCAB23A8D84164A97049E90342E47F = "images/Celemony/AVATAR/Kimura.png"
-    image rs_image_8DA131255601434E9D727ACD43B38C64 = "images/Celemony/AVATAR/Kimura hover.png"
-    image rs_image_82B39FD6F8164029AB1F500FAE449D37 = "images/Celemony/AVATAR/Sato.png"
-    image rs_image_2C43A08506514AB3BC056DBDD3BF529D = "images/Celemony/AVATAR/Sato hover.png"
+    image rs_image_82B39FD6F8164029AB1F500FAE449D37 = "images/Celemony/AVATAR/Satou.png"
     image rs_image_3EB555C6DF7A49ADAD14C25520748DA4 = "images/Celemony/AVATAR/Okajima.png"
-    image rs_image_02760781C51241688D112B2473C9E4DF = "images/Celemony/AVATAR/Okajima hover.png"
     image rs_image_7808BC8AC7064653B2B6BB4E62DA2AA7 = "images/Celemony/AVATAR/Kojima.png"
-    image rs_image_ED5DBC58C9BE4899B4E596865F5807CB = "images/Celemony/AVATAR/Kojima hover.png"
-    image rs_image_5C4694DA48DF40EDB3693ADC33E4886A = "images/Celemony/MENU/Start.png"
-    image rs_image_CE7158546B01466681240A86D109DF14 = "images/Celemony/MENU/Start hover.png"
     image rs_image_1B0B215C44CE431D82FEB71124F8F3F2 = "images/Celemony/Menu/Music Festival/Sakuya.png"
     image rs_image_6CD90161F5874221B47331CD43CDA385 = "images/Celemony/Menu/Music Festival/Sakuya hover.png"
     image rs_image_F19B631CABDF4EA5BAA94655475231D2 = "images/Celemony/Menu/Music Festival/Sato.png"
@@ -1187,174 +982,59 @@ init -1:
     image rs_image_753F190FDB354D39A58C9AF4E3640F3F = "images/Saburos-Salon/AVATAR/Saburo hover.png"
     image rs_image_29A8F94F60044ACFB867747EA03BF71D = "images/Saburos-Salon/AVATAR/Shintaro.png"
     image rs_image_CC024969C70E4FEF89E9453A405F47E7 = "images/Saburos-Salon/AVATAR/Shintaro hover.png"
-    image rs_image_E962537C789D481EBF96F6077447E0F6 = "images/Saburos-Salon/Back.png"
-    image rs_image_EA94BF68FD8747AA871F48984E5ADF31 = "images/Saburos-Salon/Back hover.png"
-    image rs_image_CACBF597060E4847A1C9B9BD7A881212 = "images/Saburos-Salon/Navigator back.png"
-    image rs_image_2F9FD19E82034AF7B71C5C6CF365972F = "images/Saburos-Salon/Navigator back hover.png"
     image rs_image_DF81E8BA3FEE4773A84FC4FC1A2AD247 = "images/Saburos-Salon/Next.png"
     image rs_image_7C147619B8124E77BCBC49A7C4BBEF66 = "images/Saburos-Salon/Next hover.png"
     image rs_image_4C8EAFC3E5244EB291283F77552421C4 = "images/Saburos-Salon/Previous.png"
     image rs_image_547515121A6E4505AFDB0BAAD6CC405C = "images/Saburos-Salon/Previous hover.png"
-    image rs_image_3BEF9989C47B44D2B34230643C7B0393 = "images/Shintaro-notebook/BUTTON/Tomo.png"
-    image rs_image_2D61A5814D3942CABFC461879719582C = "images/Shintaro-notebook/BUTTON/Tomo hover.png"
     image rs_image_443684DF4515474D8DAFEF6529A198BA = "images/Shintaro-notebook/BACKGROUND/Tomo.png"
-    image rs_image_E09CE38533EB443AA3F41C7A1FF95763 = "images/Shintaro-notebook/BUTTON/Shinobu.png"
-    image rs_image_375A6B54D3414E2FAC4A4561A4403BCC = "images/Shintaro-notebook/BUTTON/Shinobu hover.png"
     image rs_image_05C711124D404192B1B49B7FC6FD4F20 = "images/Shintaro-notebook/BACKGROUND/Shinobu.png"
-    image rs_image_7BD77FA64F394887A0C3EF460E9282E5 = "images/Shintaro-notebook/BUTTON/Tsubasa.png"
-    image rs_image_2F720BC1502B42C2B837340322F217DA = "images/Shintaro-notebook/BUTTON/Tsubasa hover.png"
     image rs_image_C4C55B47E73D4900A49519F1CCD11FBA = "images/Shintaro-notebook/BACKGROUND/Tsubasa.png"
-    image rs_image_2D53668EAECA43EA825FB659945533A5 = "images/Shintaro-notebook/BUTTON/Shintaro.png"
-    image rs_image_A3F27E2238694DC7871F59BFBF4C9A34 = "images/Shintaro-notebook/BUTTON/Shintaro hover.png"
     image rs_image_0BE63CA6DCF54CD8B440ADC73AE5E693 = "images/Shintaro-notebook/BACKGROUND/Shintaro.png"
-    image rs_image_7BE36E8FA9694EC3B755F0F039BD5CD2 = "images/Shintaro-notebook/BUTTON/Tsuki.png"
-    image rs_image_7934AF365D0B41ABB1DF9FF5FE248AAF = "images/Shintaro-notebook/BUTTON/Tsuki hover.png"
     image rs_image_B1D9EE0111EA43E6ABF11650623F1A07 = "images/Shintaro-notebook/BACKGROUND/Tsuki.png"
-    image rs_image_D0B34D6712904B3BAE6A593B74E6E00B = "images/Shintaro-notebook/BUTTON/Sora.png"
-    image rs_image_4266FE8B05BC49AFBFE4DD58C925BEEC = "images/Shintaro-notebook/BUTTON/Sora hover.png"
     image rs_image_6DCAB9B1D17042FCADA37627639FA1FB = "images/Shintaro-notebook/BACKGROUND/Sora.png"
-    image rs_image_B9FE5AF0BED14008AA094F9D71036712 = "images/Shintaro-notebook/BUTTON/Sakuya.png"
-    image rs_image_E4C1790F89304D4D866C2E029A4D56F5 = "images/Shintaro-notebook/BUTTON/Sakuya hover.png"
     image rs_image_73284E086E0D46A48607318B86D04CA8 = "images/Shintaro-notebook/BACKGROUND/Sakuya.png"
-    image rs_image_A9031148CC054AA79A08B77DEF0263BD = "images/Shintaro-notebook/BUTTON/Saburo.png"
-    image rs_image_8D878F05285A41339DA77581C61F67C5 = "images/Shintaro-notebook/BUTTON/Saburo hover.png"
-    image rs_image_F1810AE5A78144EB8060BAB20FE5CA67 = "images/Shintaro-notebook/BACKGROUND/Saburo.png"
-    image rs_image_519E37A2D25B458CA608121B19787EB3 = "images/Shintaro-notebook/BUTTON/Shiro.png"
-    image rs_image_520F5718553C4CDA8D3CC08F2D40AED0 = "images/Shintaro-notebook/BUTTON/Shiro hover.png"
+    image rs_image_F1810AE5A78144EB8060BAB20FE5CA67 = "images/Shintaro-notebook/BACKGROUND/Saburou.png"
     image rs_image_87C3CAF22FF14104B549B6AF54852119 = "images/Shintaro-notebook/BACKGROUND/Shiro.png"
-    image rs_image_20377A63108C424B86762595E91638CC = "images/Shintaro-notebook/BUTTON/Yukio.png"
-    image rs_image_80ACCE1AAB5746F59B875C047E1928A5 = "images/Shintaro-notebook/BUTTON/Yukio hover.png"
     image rs_image_32FCB868C6B346E5B57F830EA6E38DED = "images/Shintaro-notebook/BACKGROUND/Yukio.png"
-    image rs_image_DB05F5FB6E1C46E884619FDA23994F77 = "images/Shintaro-notebook/BUTTON/Tsubasa-chan.png"
-    image rs_image_56B4A5026E7142C2B9DA6B15F23D2A11 = "images/Shintaro-notebook/BUTTON/Tsubasa-chan hover.png"
     image rs_image_3D767DEE635745CF83BDF216D84FCB52 = "images/Shintaro-notebook/BACKGROUND/Tsubasa-chan.png"
-    image rs_image_CD0736D2DEEF4B3FB9004838C2F8D56B = "images/Shintaro-notebook/BUTTON/Tsubasa-chan(Human).png"
-    image rs_image_3E420858D7E04FEA9816C8C46DCF5161 = "images/Shintaro-notebook/BUTTON/Tsubasa-chan(Human) hover.png"
     image rs_image_867117FF076D4FDF96484036F2EB6B10 = "images/Shintaro-notebook/BACKGROUND/Tsubasa-chan(Human).png"
-    image rs_image_A32A1F5AED7A4052AEF80202F34228C5 = "images/Shintaro-notebook/NUMBER/2.png"
-    image rs_image_BA114A050E2942668AE3814ED17DB46D = "images/Shintaro-notebook/NUMBER/2 hover.png"
-    image rs_image_043EA5851D764F409A5A5D5943D15F35 = "images/Shintaro-notebook/NUMBER/3.png"
-    image rs_image_19F3DFE3151647DAB57C3E8910AA9A67 = "images/Shintaro-notebook/NUMBER/3 hover.png"
-    image rs_image_A21AB5E6F8694DED84C101E1C2517933 = "images/Shintaro-notebook/NUMBER/4.png"
-    image rs_image_12282EC80CE740339247BAA6B81434DC = "images/Shintaro-notebook/NUMBER/4 hover.png"
-    image rs_image_39300587341A4A8DB198D353B544D323 = "images/Shintaro-notebook/Close.png"
-    image rs_image_D01E2A8520574B62AC33B3891608FC00 = "images/Shintaro-notebook/Close hover.png"
-    image rs_image_748C5D42003E41AF9FACCC5BB8B6AF65 = "images/Shintaro-notebook/BUTTON/Nameko.png"
-    image rs_image_798A9C3749F74C14BF52936D6F09B431 = "images/Shintaro-notebook/BUTTON/Nameko hover.png"
     image rs_image_4D59B15D2A8741DB99AC8194545B08A5 = "images/Shintaro-notebook/BACKGROUND/Nameko.png"
-    image rs_image_678AC5157FDE4B82986C85F4A9894994 = "images/Shintaro-notebook/BUTTON/Itou.png"
-    image rs_image_767E3ADF0CC343219489D0A8B902C0F1 = "images/Shintaro-notebook/BUTTON/Itou hover.png"
     image rs_image_527690C1D1334CB284A1446E3AB7BA3E = "images/Shintaro-notebook/BACKGROUND/Itou.png"
-    image rs_image_527092ABF0F44CF0A820C464B85AE167 = "images/Shintaro-notebook/BUTTON/Kimura.png"
-    image rs_image_EFFAD978C27342A3A8EE8559E8C58524 = "images/Shintaro-notebook/BUTTON/Kimura hover.png"
     image rs_image_89E37050C18D4ADB9B595F54683A10CA = "images/Shintaro-notebook/BACKGROUND/Kimura.png"
-    image rs_image_E311226B336949A1895F2EA78B89E339 = "images/Shintaro-notebook/BUTTON/Katou.png"
-    image rs_image_D7C9155C36CF49C2A3E5EE7480A2DD20 = "images/Shintaro-notebook/BUTTON/Katou hover.png"
     image rs_image_44D32E4D7CCD442097924163ADA5D8EC = "images/Shintaro-notebook/BACKGROUND/Katou.png"
-    image rs_image_80901265475D475BBECB2037CCDF5FB8 = "images/Shintaro-notebook/BUTTON/Matsuta.png"
-    image rs_image_CB558363F9CF4E759DB75B72487A0218 = "images/Shintaro-notebook/BUTTON/Matsuta hover.png"
     image rs_image_5469DEAA67414F0783629CC9285FAFD6 = "images/Shintaro-notebook/BACKGROUND/Matsuta.png"
-    image rs_image_C1555305349446309F7F37F612A54EAB = "images/Shintaro-notebook/BUTTON/Izumi.png"
-    image rs_image_89BF3326267F48A3BC80B307C55FBB52 = "images/Shintaro-notebook/BUTTON/Izumi hover.png"
     image rs_image_C222DD8D202B4566A3C1E3FB8600D302 = "images/Shintaro-notebook/BACKGROUND/Izumi.png"
-    image rs_image_D9FCFC078B2749BA8B5DE53AD0940D20 = "images/Shintaro-notebook/BUTTON/Sato.png"
-    image rs_image_FEC82DD8D75A44089A184469E2F90ED3 = "images/Shintaro-notebook/BUTTON/Sato hover.png"
-    image rs_image_0B09DB7FB4C54C3C8FAAAB15542558DB = "images/Shintaro-notebook/BACKGROUND/Sato.png"
-    image rs_image_66FB79E2D45F4DF7830549C1E0F1D160 = "images/Shintaro-notebook/BUTTON/Okajima.png"
-    image rs_image_1290CB7623F44ED5A88064D468833CD2 = "images/Shintaro-notebook/BUTTON/Okajima hover.png"
+    image rs_image_0B09DB7FB4C54C3C8FAAAB15542558DB = "images/Shintaro-notebook/BACKGROUND/Satou.png"
     image rs_image_23F02D2B8F544957B394D3B6BA3BEA0D = "images/Shintaro-notebook/BACKGROUND/Okajima.png"
-    image rs_image_A43CB0FA8A7E4E91B2873A590212F163 = "images/Shintaro-notebook/BUTTON/Kojima.png"
-    image rs_image_130AF2BA4A2B420EB5E4F7DC3602B796 = "images/Shintaro-notebook/BUTTON/Kojima hover.png"
     image rs_image_E2DFC85430C740B68F96F41BA02296F7 = "images/Shintaro-notebook/BACKGROUND/Kojima.png"
-    image rs_image_FEEE536ECF4040AEB49B1482568155C8 = "images/Shintaro-notebook/BUTTON/Kiyo.png"
-    image rs_image_8B5122A5D1A546679BA85E73AF7DE12A = "images/Shintaro-notebook/BUTTON/Kiyo hover.png"
     image rs_image_E6E04B3C1BD94219B8DD2ADC0F462B9A = "images/Shintaro-notebook/BACKGROUND/Kiyo.png"
-    image rs_image_72577AC76DBA46F6A4B36126A0604972 = "images/Shintaro-notebook/BUTTON/Nakayama.png"
-    image rs_image_700EE6FF555E472D82022BD86E9E7F14 = "images/Shintaro-notebook/BUTTON/Nakayama hover.png"
     image rs_image_9C0FAD2F8C23448BB09C60FEB7C26765 = "images/Shintaro-notebook/BACKGROUND/Nakayama.png"
-    image rs_image_2BE41C6CD9DC44A5BFA07C3BEEFDE553 = "images/Shintaro-notebook/BUTTON/Okajima-senior.png"
-    image rs_image_1ECEB4220E994A7487516C497DDC87CB = "images/Shintaro-notebook/BUTTON/Okajima-senior hover.png"
     image rs_image_11833EE2A3DD49B4913C1902834716BD = "images/Shintaro-notebook/BACKGROUND/Okajima-senior.png"
-    image rs_image_9B2CCD4E458741389686B8087AD0135C = "images/Shintaro-notebook/BUTTON/Nakayama-senior.png"
-    image rs_image_37020C25FC904216B6819D9ADAE478C5 = "images/Shintaro-notebook/BUTTON/Nakayama-senior hover.png"
     image rs_image_02786B400AA0411689A70533D62BDA09 = "images/Shintaro-notebook/BACKGROUND/Nakayama-senior.png"
-    image rs_image_6AF3FB87DCC9465C828125DAB2BD7588 = "images/Shintaro-notebook/NUMBER/1.png"
-    image rs_image_D3EFDA1985DF4FB095CE84693E97926D = "images/Shintaro-notebook/NUMBER/1 hover.png"
-    image rs_image_07B2CD35C0D840C2866106217E746642 = "images/Shintaro-notebook/BUTTON/Yuuhi.png"
-    image rs_image_0C1E18977A824C17BD03523CCEBDAB39 = "images/Shintaro-notebook/BUTTON/Yuuhi hover.png"
     image rs_image_CB0655516D7B4E14985A3E68C980BACA = "images/Shintaro-notebook/BACKGROUND/Yuuhi.png"
-    image rs_image_467A323958364DED8279C357E4CB2358 = "images/Shintaro-notebook/BUTTON/Mamoru.png"
-    image rs_image_582F1BF79FDF4DB5B74EE3AE4426E793 = "images/Shintaro-notebook/BUTTON/Mamoru hover.png"
     image rs_image_457D49E68DA64686A57041C68C1E4E79 = "images/Shintaro-notebook/BACKGROUND/Mamoru.png"
-    image rs_image_15A3997F35214B3A93B3D3DDBCBEA75B = "images/Shintaro-notebook/BUTTON/Tentacle-earthworm.png"
-    image rs_image_51AFBC97232E42F78D636CB3765CC5DB = "images/Shintaro-notebook/BUTTON/Tentacle-earthworm hover.png"
     image rs_image_0635EA1DB9DB4F28BE86138BB267F0C7 = "images/Shintaro-notebook/BACKGROUND/Tentacle-earthworm.png"
-    image rs_image_37C0C9F5F95B4B5E8FCC7043C38B2E31 = "images/Shintaro-notebook/BUTTON/Tentacle-starfish.png"
-    image rs_image_FEBA73F411604436A82179499B129CA0 = "images/Shintaro-notebook/BUTTON/Tentacle-starfish hover.png"
     image rs_image_63F3B36645D54094ABA0F7A1FB0FE4FE = "images/Shintaro-notebook/BACKGROUND/Tentacle-starfish.png"
-    image rs_image_9F7C8DDE3BC74D2E8D7EDD4D5858DBF7 = "images/Shintaro-notebook/BUTTON/Tour-guide.png"
-    image rs_image_71AB91CE3EEE4D2F9C6674DD056714B3 = "images/Shintaro-notebook/BUTTON/Tour-guide hover.png"
     image rs_image_0AFF44F1D279468FB8F61D84234C5485 = "images/Shintaro-notebook/BACKGROUND/Tour-guide.png"
-    image rs_image_F1A2B9A23FB74633A565D2366021989C = "images/Shintaro-notebook/BUTTON/Nori.png"
-    image rs_image_2516ED82854D4B4A9864CE1A29694FFF = "images/Shintaro-notebook/BUTTON/Nori hover.png"
     image rs_image_703BB0169A854B26B13B38EFC0D06358 = "images/Shintaro-notebook/BACKGROUND/Nori.png"
-    image rs_image_961AC7671E1B48B9963CA7C38900FAE4 = "images/Shintaro-notebook/BUTTON/Kai.png"
-    image rs_image_4322AEB87C56431FA229AFBBA532A497 = "images/Shintaro-notebook/BUTTON/Kai hover.png"
     image rs_image_01AB691D172E460FBB80BFD9D02E1CE9 = "images/Shintaro-notebook/BACKGROUND/Kai.png"
-    image rs_image_19F11E18E42D49FAB8E921C38755D9F5 = "images/Shintaro-notebook/BUTTON/Dark lesser.png"
-    image rs_image_68280A4A50DE4C2F97E30B39FCFBE795 = "images/Shintaro-notebook/BUTTON/Dark lesser hover.png"
     image rs_image_F6FA11EA117F41D580429453C34D3B34 = "images/Shintaro-notebook/BACKGROUND/Dark lesser.png"
-    image rs_image_8D40C3ADAB064F41A20FBE012726BA93 = "images/Shintaro-notebook/BUTTON/MonsterA.png"
-    image rs_image_FE235C8B538D43308F37A4560375D951 = "images/Shintaro-notebook/BUTTON/MonsterA hover.png"
     image rs_image_C6E7A992B0794D7CB95E8A518C9015F3 = "images/Shintaro-notebook/BACKGROUND/MonsterA.png"
-    image rs_image_787CB6BA5D6547AF84AECF9AE7074102 = "images/Shintaro-notebook/BUTTON/MonsterB.png"
-    image rs_image_A962B2B7F0044F969E793F56B00B58A9 = "images/Shintaro-notebook/BUTTON/MonsterB hover.png"
     image rs_image_56ADD6C8A7884530B57F274A4978FFD6 = "images/Shintaro-notebook/BACKGROUND/MonsterB.png"
-    image rs_image_DC013105A375445CBA6B59F73C5C36EC = "images/Shintaro-notebook/BUTTON/MonsterC.png"
-    image rs_image_9204385A54944743A8448E6FECF29BA9 = "images/Shintaro-notebook/BUTTON/MonsterC hover.png"
     image rs_image_1DC4E9F300114194A20C0C745B728805 = "images/Shintaro-notebook/BACKGROUND/MonsterC.png"
-    image rs_image_FD6EC907A57040C2B3ABB4A9B1DFB94A = "images/Shintaro-notebook/BUTTON/Waiting.png"
-    image rs_image_E773E9B26C0E4D4998D15FB2AF5FF8B6 = "images/Shintaro-notebook/BUTTON/Kobayashi.png"
-    image rs_image_56CC846FC5F54D8DA5845E1762E95FFC = "images/Shintaro-notebook/BUTTON/Kobayashi hover.png"
     image rs_image_212F03342D51431EA81FD0955882B20C = "images/Shintaro-notebook/BACKGROUND/Kobayashi.png"
-    image rs_image_17EBE009ED7C4361B9555BECC1143821 = "images/Shintaro-notebook/BUTTON/Minami.png"
-    image rs_image_319523501F924B618996FF0519A81092 = "images/Shintaro-notebook/BUTTON/Minami hover.png"
     image rs_image_EE7CDA121AA644A390E387605B9F81EC = "images/Shintaro-notebook/BACKGROUND/Minami.png"
-    image rs_image_BC92597094084B9396572EFBD83817CC = "images/Shintaro-notebook/BUTTON/Sumoto.png"
-    image rs_image_22B56E48D5F14E5AA1BEC7418051D5F7 = "images/Shintaro-notebook/BUTTON/Sumoto hover.png"
     image rs_image_08C7F55A037340B7B8778F11B974D4E8 = "images/Shintaro-notebook/BACKGROUND/Sumoto.png"
-    image rs_image_60A1E4DFD49C43C1B8B4FCDDB8561C6A = "images/Shintaro-notebook/BUTTON/Rikuta.png"
-    image rs_image_8B66E82F481B46D599148A7BB928BBBC = "images/Shintaro-notebook/BUTTON/Rikuta hover.png"
     image rs_image_154CF59A0B094534BC58631655A5A512 = "images/Shintaro-notebook/BACKGROUND/Rikuta.png"
-    image rs_image_3452385BA3904B799CE92759B31E2892 = "images/Shintaro-notebook/BUTTON/Tokiwa.png"
-    image rs_image_8684EBD2F33A4C7198A542E927CBA59E = "images/Shintaro-notebook/BUTTON/Tokiwa hover.png"
     image rs_image_7A2110307065494BBA092095334C873B = "images/Shintaro-notebook/BACKGROUND/Tokiwa.png"
-    image rs_image_31F3D7171FBD4AA18DBD2DCB822048F3 = "images/Shintaro-notebook/BUTTON/Kyubi.png"
-    image rs_image_3A19982CF1D44F828D66CAC207B0FD11 = "images/Shintaro-notebook/BUTTON/Kyubi hover.png"
     image rs_image_3F16DF754F1D451395E032DD5F1B1990 = "images/Shintaro-notebook/BACKGROUND/Kyubi.png"
-    image rs_image_6C7347C1189A4A749AB8C82A29265DFF = "images/Shintaro-notebook/BUTTON/Shougintoki.png"
-    image rs_image_A78A27E776E74C1BBB54B3D43D79B6D4 = "images/Shintaro-notebook/BUTTON/Shougintoki hover.png"
     image rs_image_1C41F13FDB534C2A800BA6AD5242C914 = "images/Shintaro-notebook/BACKGROUND/Shougintoki.png"
-    image rs_image_8E2FA65BFEB74BD3ACCB6B03A061BE08 = "images/Shintaro-notebook/BUTTON/Shouhei.png"
-    image rs_image_321682AA389A44B8BF380875081AA105 = "images/Shintaro-notebook/BUTTON/Shouhei hover.png"
     image rs_image_C767271128174BDB970F1190229164C6 = "images/Shintaro-notebook/BACKGROUND/Shouhei.png"
-    image rs_image_D11AE69F40E74AD7B3702D989748CE4A = "images/Shintaro-notebook/BUTTON/Sakase.png"
-    image rs_image_C6964B3635EF4BBE9B8D99345084341F = "images/Shintaro-notebook/BUTTON/Sakase hover.png"
     image rs_image_08A9B2C7F2B74F509942B3765B59CE9D = "images/Shintaro-notebook/BACKGROUND/Sakase.png"
-    image rs_image_37029F8F65294FF6BA7435C2A4590760 = "images/Shintaro-notebook/BUTTON/He--.png"
-    image rs_image_656A4E189B9548C9939A48AB60DEC3A6 = "images/Shintaro-notebook/BUTTON/He-- hover.png"
     image rs_image_C8D78A29E787433894676DC9A5518BFB = "images/Shintaro-notebook/BACKGROUND/He--.png"
-    image rs_image_A2F34CDF48E442FD81433F330F2F1C91 = "images/Shintaro-notebook/BUTTON/Be--.png"
-    image rs_image_FCF64B0EF2704349A4085A4940D5E060 = "images/Shintaro-notebook/BUTTON/Be-- hover.png"
     image rs_image_4033515FABFA4B8D990F5FC3EAC8985F = "images/Shintaro-notebook/BACKGROUND/Be--.png"
     image rs_image_2A5F2802F76E4B6A8087D1FEB8F59A62 = "images/EFFECT/COLOR/Total transparent.png"
     image rs_image_CAF438FA09DC41CCB7C54CB078F6541F = "images/Games/Tsukis-concentration-test/Number background.png"
-    image rs_image_BD4439A2524546F3A03AB54856E29386 = "images/Games/Shinobus-question-set/1.png"
-    image rs_image_254D656BFE1046AD8918CA21F3C22170 = "images/Games/Shinobus-question-set/1 hover.png"
-    image rs_image_8DAE3CBA46924AC6BDE568971479544A = "images/Games/Shinobus-question-set/2.png"
-    image rs_image_BF4D0729516647228F07258B2E991BC0 = "images/Games/Shinobus-question-set/2 hover.png"
-    image rs_image_FE6373F51A374D6885D0D8EAB29C4101 = "images/Games/Shinobus-question-set/3.png"
-    image rs_image_8B127BBA37724CC9AD2BD2E227D89893 = "images/Games/Shinobus-question-set/3 hover.png"
     image rs_image_3F53A9940F2C4E3386E6F975CBDBA893 = "images/Chapter 2/Menu/F3/Shintaro.png"
     image rs_image_AF99FCBDCF994688827AF445AA8C0AD9 = "images/Chapter 2/Menu/F3/Shintaro hover.png"
     image rs_image_D6B5D98D52664E27B18348B4C543B84D = "images/Chapter 2/Menu/F6/Shintaro 2.png"
@@ -1363,10 +1043,6 @@ init -1:
     image rs_image_A16C1F70C3714D5FBE30C3E097C3EE9E = "images/Chapter 2/Menu/F6/Nori 2 hover.png"
     image rs_image_D97A62B833D9415FB418F51CCE24416C = "images/Chapter 2/Menu/F6/Item 1.png"
     image rs_image_016756DA955C491EB2580536EDBB340A = "images/Chapter 2/Menu/F6/Item 1 hover.png"
-    image rs_image_FCF8490DDD3A495A80475BA7B15A2CFC = "images/Selection/Search/1.png"
-    image rs_image_F20D6A1C22074174B0ED2C25C19FA2D9 = "images/Selection/Search/1 hover.png"
-    image rs_image_C0398655B0D6457483FAE1E579D49C44 = "images/Selection/Search/2.png"
-    image rs_image_2212B17E3BB4498990BB059C78359171 = "images/Selection/Search/2 hover.png"
     image rs_image_DF5324D27AA046A990820136F5D2DA08 = "images/Chapter 2/Menu/F6/Sakuya 2.png"
     image rs_image_B6B041CA3195489FBE60B54A6CBA94A4 = "images/Chapter 2/Menu/F6/Sakuya 2 hover.png"
     image rs_image_CBA6A6815A984C8EAEEF09B0236A98A9 = "images/Chapter 2/Menu/F6/Item 2.png"
@@ -1415,12 +1091,6 @@ init -1:
     image rs_image_A1960410258B4A089C01484DFDC461B4 = "images/Chapter 3/Menu/F5/Tsubasa hover.png"
     image rs_image_3F25A985095540288ECCD05022936156 = "images/Chapter 3/Menu/F5/Katou+Matsuta.png"
     image rs_image_CCE45A5751544CB3A3D113F010D289CF = "images/Chapter 3/Menu/F5/Katou+Matsuta hover.png"
-    image rs_image_32F0CAC99A53423AB6C04B73922875C9 = "images/Selection/CP3F5Confirm/1.png"
-    image rs_image_27779FCBFBB742EABC39244AB15BBE94 = "images/Selection/CP3F5Confirm/1 hover.png"
-    image rs_image_ED413006C80A43D7BDBD935019FE5332 = "images/Selection/CP3F5Confirm/2.png"
-    image rs_image_A94224DFF871404396D4BAABB7A856FB = "images/Selection/CP3F5Confirm/2 hover.png"
-    image rs_image_A2781F9BC0D74660A6DC1279E5E7E138 = "images/MOVING/ACTIONS/Leave dream.png"
-    image rs_image_11C812B9813D4F33B801C84C1932575A = "images/MOVING/ACTIONS/Leave dream hover.png"
     image rs_image_02B5D382D2BB47D9B64726EE1BC3CF2A = "images/Dream/Menu/Nori.png"
     image rs_image_DFE68C61C2904BA09EEB97EC9A647B55 = "images/Dream/Menu/Nori hover.png"
     image rs_image_5210B80112224031AA5ADB80310F39D2 = "images/Dream/Menu/Kai.png"
@@ -1428,10 +1098,6 @@ init -1:
     image rs_image_32CCDBED89034360A5122C3F0885BE74 = "images/Dream/Menu/Sumoto+Rikuta hover.png"
     image rs_image_9A6FDDDC13794E00B1949E46B7CF838D = "images/Dream/Menu/Tokiwa.png"
     image rs_image_A68EF39B2686486FABBBCD7D0F6E8E1F = "images/Dream/Menu/Tokiwa hover.png"
-    image rs_image_0CC3CD8ECBD94DFFB8D59BB59C93FBF9 = "images/Selection/CaveSkip/1.png"
-    image rs_image_192ED4375B4E4350BC3CDC15458C17F7 = "images/Selection/CaveSkip/1 hover.png"
-    image rs_image_AC49E14EB53D4A3DB2B11C8760396849 = "images/Selection/CaveSkip/2.png"
-    image rs_image_95C132D740934B4D817203AA902A7F5D = "images/Selection/CaveSkip/2 hover.png"
     image rs_image_3665C9A4B2AB4842A65FA27460695710 = "images/Dream/Menu/Sato+Okajima-senior.png"
     image rs_image_028D3A557AC84D79BAEE1345029CA981 = "images/Dream/Menu/Sato+Okajima-senior hover.png"
     image rs_image_694E659CBB5E4805AAB836EC99148930 = "images/Dream/Menu/Okajima.png"
@@ -1470,70 +1136,10 @@ init -1:
     image rs_image_F5642D1161B442B9BABCDEB53C076A7B = "images/Dream/Menu/Shiro+Yukio hover.png"
     image rs_image_4C0770BF708443E49B7BFEEA061D70BC = "images/End of semester/Menu/Nori cave.png"
     image rs_image_18952B4BF4664D60897DB704EA0DFFF5 = "images/End of semester/Menu/Nori cave hover.png"
-    image rs_image_286D6FC765F544179B721BB4A66D180B = "images/Selection/Adult/1.png"
-    image rs_image_6A96DA732A814B97A49B22EED108401B = "images/Selection/Adult/1 hover.png"
-    image rs_image_10EDEE25AA344108B6EF6E54B0D3F6B7 = "images/Selection/Adult/2.png"
-    image rs_image_645E9D260464402CBAF2CC047E6A71A4 = "images/Selection/Adult/2 hover.png"
-    image rs_image_69D2B64C10324F8A8B85B9E0C3525BB2 = "images/Selection/Newsclub/1.png"
-    image rs_image_F4AB97C4BB1C4B2C98FFD12BA47C6120 = "images/Selection/Newsclub/1 hover.png"
-    image rs_image_A0322D021A324A6D8D21922547F8E9A8 = "images/Selection/Newsclub/2.png"
-    image rs_image_F112A6813B5B44968D1948054638CA71 = "images/Selection/Newsclub/2 hover.png"
-    image rs_image_49F1171FA9C84606BAF32F9E65A40534 = "images/Selection/Favorite series/1.png"
-    image rs_image_7B41972E8AA04F9697F9BC9A29DF13EE = "images/Selection/Favorite series/1 hover.png"
-    image rs_image_F6D8C2F7816A495AB281B5E26FCA3ED5 = "images/Selection/Favorite series/2.png"
-    image rs_image_E12B2600CB9C4E98AE7B03C440B7C2F7 = "images/Selection/Favorite series/2 hover.png"
-    image rs_image_8E5E46D136344156B542C6CB46B930E2 = "images/Selection/Remember/1.png"
-    image rs_image_69FDBFDCF7F74957BBDC4AFDBD27C4AA = "images/Selection/Remember/1 hover.png"
-    image rs_image_2FB1291F065D4E00A97DA6959EA3A0AE = "images/Selection/Remember/2.png"
-    image rs_image_48E0F2C8A473454293E94CE1C9FE2384 = "images/Selection/Remember/2 hover.png"
-    image rs_image_CA67D6489C464802B43E2B8A80673AA1 = "images/Selection/SM/1.png"
-    image rs_image_7E6B8DE98F40466C88D198578214D9B1 = "images/Selection/SM/1 hover.png"
-    image rs_image_DAB5F8E08D284DE99EA5E706E89D1210 = "images/Selection/SM/2.png"
-    image rs_image_0A7260C53AE84977ADF325398DED9F41 = "images/Selection/SM/2 hover.png"
-    image rs_image_AEAB07D49A2E42D79BA5829520F3F185 = "images/Selection/Lover/1.png"
-    image rs_image_DFA80A79D60E426C953326E4CAC4C3C8 = "images/Selection/Lover/1 hover.png"
-    image rs_image_C612EF10EEF1406F88B1A9878C4B056A = "images/Selection/Lover/2.png"
-    image rs_image_2A68C5049FDE40078A09FAFF8B94D1C5 = "images/Selection/Lover/2 hover.png"
-    image rs_image_FCDB353AC74E4D4B92F887B0731FA06E = "images/Selection/Stare/1.png"
-    image rs_image_C43F153C492541F68DDD59C7822AF0AB = "images/Selection/Stare/1 hover.png"
-    image rs_image_5C6CB493C35B4462B128EB966C3E51A1 = "images/Selection/Stare/2.png"
-    image rs_image_EFFE10A50F7E468691574D10CA34380C = "images/Selection/Stare/2 hover.png"
-    image rs_image_EC7885891499457394869D12DF9C1AE8 = "images/Selection/Tomo/1.png"
-    image rs_image_E17BFCF9E28545F7A8B0F39C56CBF8A4 = "images/Selection/Tomo/1 hover.png"
-    image rs_image_E78FD68EE8A54D179EA634F09FC91D69 = "images/Selection/Tomo/2.png"
-    image rs_image_C80B46FD244B497CA6BF31CBB14D0C17 = "images/Selection/Tomo/2 hover.png"
-    image rs_image_E8F7560E0CA840338B701410117A74FD = "images/Selection/Tomo/3.png"
-    image rs_image_9F5E3742DEB04B7BA68522040E34001A = "images/Selection/Tomo/3 hover.png"
-    image rs_image_A809EC47F77949DA9B62A0F850CC3014 = "images/Selection/Tomo/4.png"
-    image rs_image_DA49A1EDDD2F4D8EBF24C42E2DE74EEF = "images/Selection/Tomo/4 hover.png"
-    image rs_image_89774C68F9734059AA07B4706A718E67 = "images/Selection/Gender/1.png"
-    image rs_image_ECE8AAD04AB74B019739CBBD64E7F055 = "images/Selection/Gender/1 hover.png"
-    image rs_image_78D41C5DD80C47888CF0038EC5465C53 = "images/Selection/Gender/2.png"
-    image rs_image_58E14009732441479A15732EE4819F3E = "images/Selection/Gender/2 hover.png"
-    image rs_image_B7BA17CA57DE4CF580FFE1F317E1AA8C = "images/Selection/Swimsuit/1.png"
-    image rs_image_8A81D0130CD845BBA17438B1443A7468 = "images/Selection/Swimsuit/1 hover.png"
-    image rs_image_E9D009D2ED374A01BEDAB11BA2F74CA4 = "images/Selection/Swimsuit/2.png"
-    image rs_image_81C89152F140478881E1D83FA676F62B = "images/Selection/Swimsuit/2 hover.png"
-    image rs_image_36D4DB29E5A54321AF110F30D8131B61 = "images/Selection/To dream/1.png"
-    image rs_image_AED6B11E4D2A494F8309ADBFD325EF12 = "images/Selection/To dream/1 hover.png"
-    image rs_image_7DFEEC37FCAD46EB8FF6C554192882E1 = "images/Selection/To dream/2.png"
-    image rs_image_8E402937BDE04C4592A986B14A1DA8A2 = "images/Selection/To dream/2 hover.png"
     image rs_image_151184A315FC4C9B900EA44EBDE998AA = "images/End of semester/Menu/Tentacle-earthworm cave.png"
     image rs_image_77EB522FB7DB4E62A339B925C896CDBA = "images/End of semester/Menu/Tentacle-earthworm cave hover.png"
     image rs_image_1673E7948A45451ABC87E3431067E7F6 = "images/End of semester/Menu/Tentacle-starfish cave.png"
     image rs_image_3D5FC53EB4F74DCCAC6CBFCBA98717B7 = "images/End of semester/Menu/Tentacle-starfish cave hover.png"
-    image rs_image_1289939EF1BC4474BE31A1A304378802 = "images/Selection/To past/Chapter 1.png"
-    image rs_image_8990DC5CCBCC439E85FFA379F3E5F6C5 = "images/Selection/To past/Chapter 1 hover.png"
-    image rs_image_F3775B3FD4894E9C85C03B3045361FC4 = "images/Selection/To past/Chapter 2.png"
-    image rs_image_76A18DE15E4B4720B960DA0063845009 = "images/Selection/To past/Chapter 2 hover.png"
-    image rs_image_35A7CBCB0F18416FA7C9101A9BC46BE5 = "images/Selection/To past/Chapter 3.png"
-    image rs_image_8BB2DAA21D4545B48D4CF796EB67BC32 = "images/Selection/To past/Chapter 3 hover.png"
-    image rs_image_518CFD427DAB4CB1AF54D71AF5D1F5CC = "images/Selection/To past/Back.png"
-    image rs_image_EFA60F57D1394CE98BD25012661D50ED = "images/Selection/To past/Back hover.png"
-    image rs_image_F40982BB2D4442908BBFB85AD33DE268 = "images/Selection/To gymno/1.png"
-    image rs_image_E46371CABD394A4C9C9863F188E6A3CF = "images/Selection/To gymno/1 hover.png"
-    image rs_image_60B4B88A8D074201AB3D70A00B330DBA = "images/Selection/To gymno/2.png"
-    image rs_image_830609589D664DFDAD847C955F67736B = "images/Selection/To gymno/2 hover.png"
     image rs_image_48A20FABFDBF4575847D850275815CD9 = "images/End of semester/Menu/Be--.png"
     image rs_image_023ADCEEF87D449FB77CFAC41FBE2863 = "images/End of semester/Menu/Be-- hover.png"
     image rs_image_1AEE852E63C942EC89F10472E18D5A0F = "images/End of semester/Menu/He--.png"
@@ -1859,43 +1465,6 @@ init -1:
             alpha 1
             pause 0.8833333333333333
             alpha 0
-    image rs_image_CB5DAC5DD54348CCAE37A809A8DE8C87 = "images/Start Scene/Pre-load movie/Click waiting.png"
-    image rs_image_65E55A90945E4CA79D1F66DFD816D51C:
-        contains:
-            "rs_image_CB5DAC5DD54348CCAE37A809A8DE8C87"
-            xanchor 0
-            yanchor 0
-            xpos 0
-            ypos 0
-            alpha 0.996078431372549
-            parallel:
-                linear 0.6666666666666666 alpha 1
-            pause 0.6666666666666666
-            alpha 0
-        contains:
-            "rs_image_CB5DAC5DD54348CCAE37A809A8DE8C87"
-            xanchor 0
-            yanchor 0
-            xpos 0
-            ypos 0
-            alpha 0
-            pause 0.9166666666666666
-            alpha 1
-            parallel:
-                linear 0.6666666666666666 alpha 0.996078431372549
-            pause 0.6666666666666666
-            alpha 0
-        contains:
-            "rs_image_CB5DAC5DD54348CCAE37A809A8DE8C87"
-            xanchor 0
-            yanchor 0
-            xpos 0
-            ypos 0
-            alpha 0
-            pause 0.6666666666666666
-            alpha 1
-            pause 0.25
-            alpha 0
     image rs_image_9C291073B0E14AC7BABB30C07BB5205D = "images/CG/Opening celemony/Opening celemony 1.png"
     image rs_image_246166525FD449B09D87DE661DFC870E:
         contains:
@@ -1921,41 +1490,6 @@ init -1:
             parallel:
                 easein 5.666666666666667 xpos 760
             pause 5.666666666666667
-            alpha 0
-    image rs_image_B6FF3E20B5704947BFB1B36028DCFBF0 = "images/Moving/Hint/Daytime light.png"
-    image rs_image_F135B6EBE210481EB716252F631F20B7:
-        contains:
-            "rs_image_B6FF3E20B5704947BFB1B36028DCFBF0"
-            xanchor 0
-            yanchor 0
-            xpos 0
-            ypos 0
-            alpha 1
-            pause 1.9166666666666667
-            alpha 0
-        contains:
-            "rs_image_B6FF3E20B5704947BFB1B36028DCFBF0"
-            xanchor 0
-            yanchor 0
-            xpos 0
-            ypos 0
-            alpha 0.996078431372549
-            parallel:
-                linear 0.8333333333333334 alpha 1
-            pause 0.8333333333333334
-            alpha 0
-        contains:
-            "rs_image_B6FF3E20B5704947BFB1B36028DCFBF0"
-            xanchor 0
-            yanchor 0
-            xpos 0
-            ypos 0
-            alpha 0
-            pause 0.8333333333333334
-            alpha 1
-            parallel:
-                linear 0.8333333333333334 alpha 0.996078431372549
-            pause 0.8333333333333334
             alpha 0
     image rs_image_FC58219D28C745EA9ECE009EBE237BE3 = "images/Moving/Weather/Daytime.png"
     image rs_image_5DACFD7D91CA4065B173C8F27646E54B:
@@ -3298,572 +2832,6 @@ init -1:
             pause 0.38333333333333336
             alpha 1
             pause 0.36666666666666664
-            alpha 0
-    image rs_image_A444ABB459C64A259AC09EA0640C17D1 = "images/Games/Tsukis-concentration-test/Status/Title.png"
-    image rs_image_D3A448C5F9EC401D86B4BDD300CEEE01 = "images/Games/Tsukis-concentration-test/Status/Progress bar.png"
-    image rs_image_6686FB88DBEF495F80CCF36A3DD93FAB = "images/Games/Tsukis-concentration-test/Status/Progress bar background.png"
-    image rs_image_716BAD9965594422868FBA180C9F1063 = "images/Games/Tsukis-concentration-test/Status/Effect.png"
-    image rs_image_CA6560AE36944ABEAE3093667EBB093D:
-        contains:
-            "rs_image_A444ABB459C64A259AC09EA0640C17D1"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 1
-            pause 2.6666666666666665
-            alpha 0
-        contains:
-            "rs_image_D3A448C5F9EC401D86B4BDD300CEEE01"
-            xanchor 8
-            yanchor 30
-            xpos 221
-            ypos 151
-            xzoom 1.01
-            alpha 1
-            parallel:
-                linear 0.3333333333333333 xpos 223
-            parallel:
-                linear 0.3333333333333333 xzoom 1
-            pause 0.3333333333333333
-            alpha 0
-        contains:
-            "rs_image_6686FB88DBEF495F80CCF36A3DD93FAB"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 1
-            pause 2.6666666666666665
-            alpha 0
-        contains:
-            "rs_image_D3A448C5F9EC401D86B4BDD300CEEE01"
-            xanchor 8
-            yanchor 30
-            xpos 222
-            ypos 151
-            xzoom 1.01
-            alpha 0
-            pause 0.3333333333333333
-            alpha 1
-            parallel:
-                linear 2.3333333333333335 xpos 226
-            parallel:
-                linear 2.3333333333333335 xzoom 0
-            pause 2.3333333333333335
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0.996078431372549
-            parallel:
-                linear 0.16666666666666666 alpha 1
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 0.16666666666666666
-            alpha 1
-            parallel:
-                linear 0.16666666666666666 alpha 0.996078431372549
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 0.3333333333333333
-            alpha 0.996078431372549
-            parallel:
-                linear 0.16666666666666666 alpha 1
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 0.5
-            alpha 1
-            parallel:
-                linear 0.16666666666666666 alpha 0.996078431372549
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 0.6666666666666666
-            alpha 0.996078431372549
-            parallel:
-                linear 0.16666666666666666 alpha 1
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 0.8333333333333334
-            alpha 1
-            parallel:
-                linear 0.16666666666666666 alpha 0.996078431372549
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 1
-            alpha 0.996078431372549
-            parallel:
-                linear 0.16666666666666666 alpha 1
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 1.1666666666666667
-            alpha 1
-            parallel:
-                linear 0.16666666666666666 alpha 0.996078431372549
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 1.3333333333333333
-            alpha 0.996078431372549
-            parallel:
-                linear 0.16666666666666666 alpha 1
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 1.5
-            alpha 1
-            parallel:
-                linear 0.16666666666666666 alpha 0.996078431372549
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 1.6666666666666667
-            alpha 0.996078431372549
-            parallel:
-                linear 0.16666666666666666 alpha 1
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 1.8333333333333333
-            alpha 1
-            parallel:
-                linear 0.16666666666666666 alpha 0.996078431372549
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 2
-            alpha 0.996078431372549
-            parallel:
-                linear 0.16666666666666666 alpha 1
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 2.1666666666666665
-            alpha 1
-            parallel:
-                linear 0.16666666666666666 alpha 0.996078431372549
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 2.3333333333333335
-            alpha 0.996078431372549
-            parallel:
-                linear 0.16666666666666666 alpha 1
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 2.5
-            alpha 1
-            parallel:
-                linear 0.16666666666666666 alpha 0.996078431372549
-            pause 0.16666666666666666
-            alpha 0
-    image rs_image_6C86822B75984401BA6BA0B58A7D6CA5:
-        contains:
-            "rs_image_A444ABB459C64A259AC09EA0640C17D1"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 1
-            pause 3.3333333333333335
-            alpha 0
-        contains:
-            "rs_image_D3A448C5F9EC401D86B4BDD300CEEE01"
-            xanchor 8
-            yanchor 30
-            xpos 221
-            ypos 151
-            xzoom 1.01
-            alpha 1
-            parallel:
-                linear 0.3333333333333333 xpos 223
-            parallel:
-                linear 0.3333333333333333 xzoom 1
-            pause 0.3333333333333333
-            alpha 0
-        contains:
-            "rs_image_6686FB88DBEF495F80CCF36A3DD93FAB"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 1
-            pause 3.3333333333333335
-            alpha 0
-        contains:
-            "rs_image_D3A448C5F9EC401D86B4BDD300CEEE01"
-            xanchor 8
-            yanchor 30
-            xpos 222
-            ypos 151
-            xzoom 1.01
-            alpha 0
-            pause 0.3333333333333333
-            alpha 1
-            parallel:
-                linear 3 xpos 226
-            parallel:
-                linear 3 xzoom 0
-            pause 3
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0.996078431372549
-            parallel:
-                linear 0.16666666666666666 alpha 1
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 0.16666666666666666
-            alpha 1
-            parallel:
-                linear 0.16666666666666666 alpha 0.996078431372549
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 0.3333333333333333
-            alpha 0.996078431372549
-            parallel:
-                linear 0.16666666666666666 alpha 1
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 0.5
-            alpha 1
-            parallel:
-                linear 0.16666666666666666 alpha 0.996078431372549
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 0.6666666666666666
-            alpha 0.996078431372549
-            parallel:
-                linear 0.16666666666666666 alpha 1
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 0.8333333333333334
-            alpha 1
-            parallel:
-                linear 0.16666666666666666 alpha 0.996078431372549
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 1
-            alpha 0.996078431372549
-            parallel:
-                linear 0.16666666666666666 alpha 1
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 1.1666666666666667
-            alpha 1
-            parallel:
-                linear 0.16666666666666666 alpha 0.996078431372549
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 1.3333333333333333
-            alpha 0.996078431372549
-            parallel:
-                linear 0.16666666666666666 alpha 1
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 1.5
-            alpha 1
-            parallel:
-                linear 0.16666666666666666 alpha 0.996078431372549
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 1.6666666666666667
-            alpha 0.996078431372549
-            parallel:
-                linear 0.16666666666666666 alpha 1
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 1.8333333333333333
-            alpha 1
-            parallel:
-                linear 0.16666666666666666 alpha 0.996078431372549
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 2
-            alpha 0.996078431372549
-            parallel:
-                linear 0.16666666666666666 alpha 1
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 2.1666666666666665
-            alpha 1
-            parallel:
-                linear 0.16666666666666666 alpha 0.996078431372549
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 2.3333333333333335
-            alpha 0.996078431372549
-            parallel:
-                linear 0.16666666666666666 alpha 1
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 2.5
-            alpha 1
-            parallel:
-                linear 0.16666666666666666 alpha 0.996078431372549
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 2.6666666666666665
-            alpha 0.996078431372549
-            parallel:
-                linear 0.16666666666666666 alpha 1
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 2.8333333333333335
-            alpha 1
-            parallel:
-                linear 0.16666666666666666 alpha 0.996078431372549
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 3
-            alpha 0.996078431372549
-            parallel:
-                linear 0.16666666666666666 alpha 1
-            pause 0.16666666666666666
-            alpha 0
-        contains:
-            "rs_image_716BAD9965594422868FBA180C9F1063"
-            xanchor 185
-            yanchor 29
-            xpos 400
-            ypos 150
-            alpha 0
-            pause 3.1666666666666665
-            alpha 1
-            parallel:
-                linear 0.16666666666666666 alpha 0.996078431372549
-            pause 0.16666666666666666
             alpha 0
     image rs_image_2AA11555E74B47CEBCD61F4C0B239F9A = "images/Ending/Border 1.png"
     image rs_image_1E4249CE4D61448BA0CCCFE9A226A837 = "images/Ending/Logo.png"
@@ -6398,14 +5366,8 @@ init -1:
     image rs_image_6AA1AE8F26894397B7B7A489DEA85104 = "images/Soundtrack/Background 1.png"
     image rs_image_F64E3FF4BF7646D49B8E5DDD6B6B6E38 = "images/Soundtrack/Background 2.png"
     image rs_image_2F188FD479C04C6B8D3D474C29A22CA4 = "images/Soundtrack/Background 3.png"
-    image rs_image_EFB4CEE844D0462FAB840D8D0726E94E = "images/Soundtrack/Tag/1.png"
-    image rs_image_4760E2ADE0604DD18660A4B1975B4E74 = "images/Soundtrack/Tag/2.png"
-    image rs_image_7B7E717736B7412886BC2025DE6CBD24 = "images/Soundtrack/Tag/3.png"
-    image rs_image_B89AFE9EDECF45BAA8A7D7C30EEAC5FD = "images/Soundtrack/Tag/4.png"
-    image rs_image_9C9CBA9BDD164D1D816F996967413802 = "images/Soundtrack/Tag/5.png"
     define rs_effect_4CBC3D399C6A4D2DAC7D06010FCCC122 = ComposeTransition(Shake((0.5, 1.0, 0.5, 1.0), 0.5, dist=5), after=dissolve) # Origin: Crack
     image rs_image_4150D18D984E4FA891D9F6C8921DCD50 = "images/Celemony/Background/Background.png"
-    image rs_image_B1E510DDC4194A5C97C9940BC33D4FE8 = "images/Celemony/Menu/4.png"
     image rs_image_2A556E5193EF4543B5E8BB913247F7B5 = "images/Celemony/Event/Running.png"
     image rs_image_3841B0D9B7B74C619486026456BDB66E = "images/Celemony/Event/Riding battle.png"
     image rs_image_50AC6BABF48C4D28B9FDFFCAA192B1F8 = "images/Celemony/Event/Race walking.png"
@@ -6415,8 +5377,6 @@ init -1:
     image rs_image_E0D6A617AD044B16B42360567510F7DD = "images/Chapter 1/Ayumi/Itou/Smile.png"
     image rs_image_498B24D29055445D92291B73D348191E = "images/Chapter 1/Ayumi/Shinobu/Calm.png"
     image rs_image_4C48D9E5007446F8B852C5E8EE39604F = "images/Celemony/Background/Background 2.png"
-    image rs_image_AB33905B5C9D44E890A5DD6A6089C076 = "images/Celemony/Menu/2.png"
-    image rs_image_B71190C7F45E4F359D3642FDB10222CD = "images/Celemony/Menu/5.png"
     image rs_image_361C19832955439A994D5E3FA7F3AD00 = "images/Celemony/Event/Soprano.png"
     image rs_image_8367CBABE1B94CC38DC2B5E8A8ADCA62 = "images/Celemony/Event/Alto.png"
     image rs_image_7F4961C5ED9840E9B18CEF4F3DF762C2 = "images/Celemony/Event/Tenor.png"
@@ -6518,8 +5478,6 @@ init -1:
     image rs_image_562F2C0F75454AEC893C9821564C213D = "images/Chapter 1/Ayumi/Saburo/Normal/Normal 1.png"
     image rs_image_2D4319C2F7C346428F7F6BAA6DAFF9CB = "images/Chapter 1/Ayumi/Saburo/Kiss.png"
     image rs_image_344B92C84B9646A6B7D0A379C3B1CEE7 = "images/Shintaro-notebook/Background.png"
-    image rs_image_CCD3961B940D419E84E7EB1A37DCA73B = "images/Shintaro-notebook/Page 1.png"
-    image rs_image_E0B202A5A11A4A18AFFF420F47345085 = "images/Shintaro-notebook/Back.png"
     image rs_image_E01AF7C84C654915A26714D9B09781EB = "images/Shintaro-notebook/Content/Tomo.png"
     define rs_effect_29912DDD51A1413D8CA4C0208EECE15C = Dissolve(0.5) # Origin: Mask
     define rs_effect_FC474B930CE449DD8BE5D4980A132631 = Dissolve(0.3) # Origin: Mask
@@ -6534,7 +5492,6 @@ init -1:
     image rs_image_5986E3F7D3E84E3C84B042C07E57AD7D = "images/Shintaro-notebook/Content/Yukio.png"
     image rs_image_38C4D56807D34472BB324F9AAB8CC7B5 = "images/Shintaro-notebook/Content/Tsubasa-chan.png"
     image rs_image_E624081C37424A82B0BAAC00405C3656 = "images/Shintaro-notebook/Content/Tsubasa-chan (Human).png"
-    image rs_image_FD41AF7498D24B27A444510FE6BAE032 = "images/Shintaro-notebook/Page 2.png"
     image rs_image_9B177427B0AE4CA19CD7EA7ED1BBA116 = "images/Shintaro-notebook/Content/Nameko.png"
     image rs_image_FC5AF08462664100A6C4F295157BECE8 = "images/Shintaro-notebook/Content/Itou.png"
     image rs_image_89F64643C65A43439A34522141B94FAF = "images/Shintaro-notebook/Content/Kimura.png"
@@ -6548,7 +5505,6 @@ init -1:
     image rs_image_20B24213AA8D489C8242741503719913 = "images/Shintaro-notebook/Content/Nakayama.png"
     image rs_image_14E20A5CB6CC4ADF9E335516B88D375B = "images/Shintaro-notebook/Content/Okajima-senior.png"
     image rs_image_4834E50CF63D43A1897DB60B5DEBFF7B = "images/Shintaro-notebook/Content/Nakayama-senior.png"
-    image rs_image_C269A47C07FC4BD295010B0BBE26AD8F = "images/Shintaro-notebook/Page 3.png"
     image rs_image_44EA2B7B1FCB4729960A6B607033A5BC = "images/Shintaro-notebook/Content/Yuuhi.png"
     image rs_image_E11FA5E6563E408B9021A0E86E907F5E = "images/Shintaro-notebook/Content/Mamoru.png"
     image rs_image_04A3A4B29A1A4C5CBBBAEFA035EEE021 = "images/Shintaro-notebook/Content/Tentacle-earthworm.png"
@@ -6560,7 +5516,6 @@ init -1:
     image rs_image_7C460B05CEF34685BE88806719BAA87D = "images/Shintaro-notebook/Content/MonsterA.png"
     image rs_image_24C49F4CA7A74F4B8E38A9889A217BC2 = "images/Shintaro-notebook/Content/MonsterB.png"
     image rs_image_30E5366165794F999DA744CC2310A193 = "images/Shintaro-notebook/Content/MonsterC.png"
-    image rs_image_73D6833D732E40178141B753B48A7432 = "images/Shintaro-notebook/Page 4.png"
     image rs_image_887B793042884C33A9EC38D1DEF0C5D9 = "images/Shintaro-notebook/Content/Kobayashi.png"
     image rs_image_CA7B9E39B71643C69E7A3D2AD94BABC0 = "images/Shintaro-notebook/Content/Minami.png"
     image rs_image_28CF9DD5B34E484AA69F066F5BE39B74 = "images/Shintaro-notebook/Content/Sumoto.png"
@@ -6607,40 +5562,6 @@ init -1:
     image rs_image_C33AC4318DF74FED80B18E300D08A925 = "images/Games/Tsukis-concentration-test/Phase/4-3.png"
     image rs_image_0C55A05D870D4AFD8FA6561C542AEB06 = "images/Games/Tsukis-concentration-test/Status/Correct.png"
     image rs_image_4C358D6358994092B67D2FE620F9E858 = "images/Games/Tsukis-concentration-test/Status/Wrong.png"
-    image rs_image_68975D5C597543F1B6B1FD797877D460 = "images/Games/Tsukis-concentration-test/Question/Lacking number.png"
-    image rs_image_317AE85C1BE748B89D08636A300C6541 = "images/Games/Tsukis-concentration-test/Question/Remember color.png"
-    image rs_image_6992278163DA45AE8B9F944BEE610150 = "images/Games/Tsukis-concentration-test/Question/Remember count.png"
-    image rs_image_450E72BACA8C41E386BD3F2E287115E3 = "images/Games/Tsukis-concentration-test/Question/Remember number.png"
-    image rs_image_DB5EC36E01C647DC96B9407DD2D3B764 = "images/Games/Tsukis-concentration-test/Question/Color of 0.png"
-    image rs_image_840F76BD432C469DBAC5C88D5846CACB = "images/Games/Tsukis-concentration-test/Question/Color of 1.png"
-    image rs_image_F906F307C98F48CF9E248BFC6B9F4139 = "images/Games/Tsukis-concentration-test/Question/Color of 2.png"
-    image rs_image_3D970EC1DA1D44E08E6A4D0159B6E0AB = "images/Games/Tsukis-concentration-test/Question/Color of 3.png"
-    image rs_image_B43ACF55F9A049D5BE9D6F41AD95DD06 = "images/Games/Tsukis-concentration-test/Question/Color of 7.png"
-    image rs_image_C5134219762B4D2FA324A911DD3C178C = "images/Games/Tsukis-concentration-test/Question/Color of 8.png"
-    image rs_image_F81B6D46B4D245A3AFCA33807CB0D84F = "images/Games/Tsukis-concentration-test/Question/Color of 9.png"
-    image rs_image_9100FA30DBF24263AEDD9D6F5828B7F1 = "images/Games/Tsukis-concentration-test/Question/How many 1.png"
-    image rs_image_9EC61F0B429746AA9DF80EE60877B435 = "images/Games/Tsukis-concentration-test/Question/How many 2.png"
-    image rs_image_4B988B65021947468BC13BBB543C39DE = "images/Games/Tsukis-concentration-test/Question/How many 3.png"
-    image rs_image_BA3A35B15B3642E296E0A438FB0CE11A = "images/Games/Tsukis-concentration-test/Question/How many 4.png"
-    image rs_image_1908B52A43414A2A93CEC7888568A43A = "images/Games/Tsukis-concentration-test/Question/How many 5.png"
-    image rs_image_78B83B4A2F2E4E9C9E00870B7C567047 = "images/Games/Tsukis-concentration-test/Question/How many 9.png"
-    image rs_image_937A282FBFF24D248621A92D245DDA8C = "images/Games/Tsukis-concentration-test/Question/Find talpidae.png"
-    image rs_image_22D773B0F8354CDAA23994409E496E01 = "images/Games/Tsukis-concentration-test/Question/Find yuuhi.png"
-    image rs_image_8E82228C596D439B883A659987F31545 = "images/Games/Tsukis-concentration-test/Question/Find nori.png"
-    image rs_image_2D8BF86857164020A9EAB9FB12589221 = "images/Games/Tsukis-concentration-test/Question/Find nameko.png"
-    image rs_image_7602EA7D281E4A2E85C6C66CC4B8E2F8 = "images/Games/Tsukis-concentration-test/Question/Find tomo.png"
-    image rs_image_850A05AF50FD449E9FCA0E4EAFC4C81E = "images/Games/Tsukis-concentration-test/Question/Find shinobu.png"
-    image rs_image_7611B06CA5B34E45B2DA09E11B45FC58 = "images/Games/Tsukis-concentration-test/Question/Find tsubasa.png"
-    image rs_image_B328C7BDA73A41388D184B977F7C8835 = "images/Games/Tsukis-concentration-test/Question/Find tsubasa (dog).png"
-    image rs_image_4058FB9489B7472193678C5B76FF8BCD = "images/Games/Tsukis-concentration-test/Question/Find shintarou.png"
-    image rs_image_49B9A509A95847ED97C21C7BF4C2068F = "images/Games/Tsukis-concentration-test/Question/Find sakuya.png"
-    image rs_image_7FFD4D8519BF4BF7A822FA32E2ABE7B6 = "images/Games/Tsukis-concentration-test/Question/Find saburo.png"
-    image rs_image_9A9723751F1A41DA806AA4FAF61DE1AB = "images/Games/Tsukis-concentration-test/Question/Find sora.png"
-    image rs_image_5CFD07A8448C400696FFD63D4E01D216 = "images/Games/Tsukis-concentration-test/Question/Find denma.png"
-    image rs_image_AF3D318D00D44EE6BA9CEAF429AB9280 = "images/Games/Tsukis-concentration-test/Question/Find scb.png"
-    image rs_image_0AED61BC2F8B4824A1EF6A5C042AE0B1 = "images/Games/Tsukis-concentration-test/Question/Find ayumi.png"
-    image rs_image_DB3492F41C0F4CA693801087CD1A588F = "images/Games/Tsukis-concentration-test/Question/Find wolfs.png"
-    image rs_image_ADF0CD37F0A14DB48CCF4E2912649EC2 = "images/Games/Tsukis-concentration-test/Question/Find majutsushi.png"
     image rs_image_3F98719CBD9B41E087611F52C3582403 = "images/Games/Shinobus-question-set/Background/Background 1-1.png"
     image rs_image_81983A1D78754F1D8D21DE2FA8D39EEC = "images/Games/Shinobus-question-set/Background/Background 1-2.png"
     image rs_image_D2B043653E9E43BBB3300DC502B5CD32 = "images/Games/Shinobus-question-set/Background/Background 2-1.png"
@@ -6657,7 +5578,6 @@ init -1:
     image rs_image_CE6D20694D9B4549B61DEB04A06351CF = "images/Games/Karuta-game-from-Kobayashi/Avatar/Minami Smile.png"
     define rs_effect_7ACA96681ED8438984D635078E9C20A5 = ImageDissolve("lib/lmeffect/grid_v.png", 0.6, reverse=True)
     image rs_image_989A2137014649A1B159FDDDA8F1DDFD = "images/Games/Karuta-game-from-Kobayashi/Background.png"
-    image rs_image_B97613BF336C43ECB48087EFE630E56D = "images/Games/Karuta-game-from-Kobayashi/Background with cover.png"
     define rs_effect_84D7210FBBF34E428243573CCC75C981 = ImageDissolve("lib/lmeffect/grid.png", 0.6, reverse=False)
     image rs_image_2D66580B8E7D43CD9D46BD73F15B291B = "images/Games/Karuta-game-from-Kobayashi/Avatar/Tomo Normal.png"
     image rs_image_CB9A3B7C3FB14F81B2F472B12826B614 = "images/Games/Karuta-game-from-Kobayashi/Avatar/Tomo Lose.png"
@@ -6681,8 +5601,6 @@ init -1:
     define rs_effect_F4E162020AD741B2A2A1C91F35FC43D9 = Dissolve(2)
     image rs_image_F9053C42DFA4452792C00A32912CF739 = "images/Flag title/Bordered.png"
     image rs_image_FA4776FF366F4940A99A1C7D6FBB5C6B = "images/Flag title/Bordered 2.png"
-    image rs_image_FA02DFEE218F46AFBECAD19F5D788174 = "images/Chapter 1/Flag title/Logo.png"
-    image rs_image_DCA9029DA90649DAAE0D0D442741ABCC = "images/Chapter 1/Flag title/Let-us-sumo-together.png"
     image rs_image_F87A8299C1A14C6895DFA0B9DD950727 = "images/Neta/G210-7.png"
     image rs_image_2028F963C6F041949E94C771B899A6AE = "images/Chapter 1/Photos/Tomo/Proud/Proud 3.png"
     image rs_image_792B06DE656A4438ACA72247908EF057 = "images/Chapter 1/Photos/Shintaro/Kira.png"
@@ -6809,9 +5727,7 @@ init -1:
     image rs_image_433F0A88855147318866B6C5D208894F = "images/Chapter 1/Photos/Tsuki/!Kimono/Happy.png"
     image rs_image_533A8779B5534514AE4D6BB11A554A30 = "images/Chapter 1/Photos/Sora/!Kimono/Kind/Kind 1.png"
     image rs_image_589A0E5D90374FD4B884810D95A6E2E5 = "images/Chapter 1/Photos/Tsuki/!Kimono/Smile/Smile 1.png"
-    image rs_image_B0E7B9C7BB174F418857E6B04D5E00EB = "images/Chapter 1/Flag title/Let-us-sumo-together end.png"
     image rs_image_78397398AE2744EF806FB352AC2BD4C7 = "images/Flag title/End black.png"
-    image rs_image_EA166A85F0BA4FEAA3E56CC45CD61C00 = "images/Chapter 1/Flag title/Tsubasas-Cantabile.png"
     define rs_effect_1DB92443238942EB873783BEE27CA495 = ComposeTransition(Shake((0.5, 1.0, 0.5, 1.0), 0.5, dist=5), after=dissolve) # Origin: Crack
     define rs_effect_E58D83DB9E234DE7AAB86A64350E6FC8 = OldMoveTransition(0.4, enter_factory=ZoomInOut(0.01, 1.0), leave_factory=ZoomInOut(1.0, 0.01))
     define rs_effect_6B0609ABE3C348F3A84F5E9250E70BE7 = ImageDissolve("lib/lmeffect/center.png", 1.2, reverse=False)
@@ -6879,8 +5795,6 @@ init -1:
     image rs_image_13C4DC022C7E4638BB26DDDEB53212F6 = "images/Chapter 1/Photos/Sakuya/Normal/Normal 1.png"
     image rs_image_6158BA9B7EE24D2EA88699A9FDB26B97 = "images/Background/School outside/Atrium 2.png"
     image rs_image_BA352EDF384A442A8803EE8B218482A7 = "images/Chapter 1/Photos/Angel/Normal.png"
-    image rs_image_AD86D298DD4F4CDA8D667E6B2550513F = "images/Chapter 1/Flag title/Tsubasas-Cantabile end.png"
-    image rs_image_1EF2E55A096A449BBF3D8C5E20623208 = "images/Chapter 1/Flag title/Seeking-for-stimulation-finally.png"
     define rs_effect_7F932474FD4A465598E0CFBE32B9CD09 = Pixellate(1.0, 10)
     define rs_effect_5EB601DCA8974E1A8C893840BF4F8D12 = Fade(0.3, 0.0, 0.3, color="#FFFFFF") # Origin: BlurWhite
     define rs_effect_FF4D3C8D6CBC4BA09B73C83E06D18F76 = OldMoveTransition(0.8, enter_factory=ZoomInOut(0.01, 1.0))
@@ -6941,8 +5855,6 @@ init -1:
     image rs_image_4D8F1D6A70C24A34A3E6C37B69619470 = "images/Effect/Blade/Blade 2.png"
     image rs_image_E04DFA4059EE40D18051F1CAA5223C75 = "images/Effect/Blade/Blade 3.png"
     image rs_image_1C0C4120492547BCA9CB3657FA718354 = "images/CG/Seeking-for-stimulation-finally/Seeking-for-stimulation-finally 8.png"
-    image rs_image_E0EC314DDA6B49DF8D2C2EEFC0F658CD = "images/Chapter 1/Flag title/Seeking-for-stimulation-finally end.png"
-    image rs_image_AAEAB043B5894FE1B43BCE958DF41A67 = "images/Chapter 1/Flag title/Inconceivable-story-of-wong-mew.png"
     define rs_effect_A5017E40756A40EC8FEE981F51739B02 = OldMoveTransition(0.6, enter_factory=ZoomInOut(1.0, 0.01))
     define rs_effect_2A4B517D0134471FA0C8A1E9DD0DA129 = Pixellate(1.0, 10) # Origin: RubberHorizontal
     define rs_effect_2DC336BC0731483296854FF29AE7380E = ComposeTransition(Shake((0.5, 1.0, 0.5, 1.0), 0.5, dist=5), after=dissolve) # Origin: Crack
@@ -6995,7 +5907,6 @@ init -1:
     image rs_image_752FA16B677941C5A9A2623B79A40F24 = "images/Background/Road/Road 2.png"
     image rs_image_99C5410C32FF4E188D0338F65716E386 = "images/Chapter 1/Photos/Yukio/Anger/Anger 2.png"
     image rs_image_8540C7DB25BA424CAE3F5349B0307CCC = "images/Chapter 1/Photos/Yukio/Anger/Anger 1.png"
-    image rs_image_11E07A4188A3404DB8B742B10C7B9835 = "images/Chapter 1/Flag title/Inconceivable-story-of-wong-mew end.png"
     define rs_effect_C12FF1316A0E498897D145142055878A = Dissolve(2.6)
     image rs_image_23D4891106E849B3821D574553A19EF6 = "images/Chapter 1/Flag title/Prelife-memory.png"
     define rs_effect_34FA0D57799A4460A99781122493D86A = Fade(0.275, 0.0, 0.8250000000000001, color="#FFFFFF")
@@ -7070,8 +5981,6 @@ init -1:
     image rs_image_4837F6B6AF604F54BF6339BCB1FFAFEA = "images/Chapter 1/Photos/Shinobu/Shy.png"
     image rs_image_EAA2AFC1658347D38884AD39C0C5F1B7 = "images/Chapter 1/Flag title/Prelife-memory end.png"
     image rs_image_98B8B62B35A94921925C747DDFC15186 = "images/Flag title/End white.png"
-    image rs_image_A5334F5BEF734B2597614F45FD7ABE02 = "images/Chapter 2/Flag title/Logo.png"
-    image rs_image_7CCDCA93444F47C6BD3E9DD40F1B4C96 = "images/Chapter 2/Flag title/Parallel-boats.png"
     image rs_image_B0873EFC1DD2407F862D1D97E2A4B64D = "images/Chapter 2/Photos/Shinobu/Downcast/Downcast 1.png"
     image rs_image_A63EF01FC6F944EE987A5ACCB2753E30 = "images/Chapter 2/Photos/Tsuki/Anger/Anger 3.png"
     image rs_image_32D03B1B0EA34051AEC7EDA0B618F93C = "images/Chapter 2/Photos/Tsuki/Normal/Normal 4.png"
@@ -7189,7 +6098,6 @@ init -1:
     image rs_image_60ECD8EF08754EBEB76052A8F16E8BE3 = "images/Background/Right shadow.png"
     image rs_image_C7F4596A0B074B1B83944D7039323DB6 = "images/Chapter 2/Photos/Tsuki/!Glass/Shy.png"
     image rs_image_ECD1914DBFDB442F9D1A9232EEEC99F6 = "images/Chapter 2/Photos/Shinobu/Smile/Smile 1.png"
-    image rs_image_7657201AB7C745D283FD877CF4CB895C = "images/Chapter 2/Flag title/Parallel-boats end.png"
     image rs_image_A0BF18F892C54E3D9D094E5CD477ECEE = "images/CG/Drug-for-tsundere/Drug-for-tsundere 1-1.png"
     image rs_image_07E85511B35D42B2A68B24FACDB172AB = "images/Chapter 2/Photos/Tomo/Vigour/Vigour 2.png"
     image rs_image_A56A27CF00F74EF798B09E4211817332 = "images/Chapter 2/Photos/Tomo/Vigour/Vigour 1.png"
@@ -7279,12 +6187,9 @@ init -1:
     image rs_image_75628AB8DD2D4F06B3308EDBD92F74C3 = "images/Background/Public rooms/Hospital 2.png"
     image rs_image_9D4ED68CEC2D4E5BA0296B4CA2A90847 = "images/Chapter 2/Photos/Tsubasa/Serious.png"
     image rs_image_9379B2194CA6444BB5C1B77F9AAD8328 = "images/Chapter 1/Photos/Nameko/Kindly.png"
-    image rs_image_A42F0DF0690F4CC4B60308ADDCC10937 = "images/Chapter 2/Flag title/Drug-for-tsundere end.png"
-    image rs_image_4B22992F44BA446E8A5824BAB656C2A1 = "images/Chapter 2/Flag title/Drug-for-tsundere.png"
     image rs_image_3766CD2AF98244F5AECA23E096C299D8 = "images/Chapter 2/Photos/Tomo/Serious.png"
     image rs_image_871E0CFED93745B19E9B12161459C49C = "images/Chapter 2/Photos/Saburo/Tsukkomi/Tsukkomi 2.png"
     image rs_image_166EF55B360E499C9F44815A403A153D = "images/Neta/G60-3.png"
-    image rs_image_9FF89B02CBEB4806B33992FC827BD7A2 = "images/Chapter 2/Flag title/Run-Run-Lovers.png"
     image rs_image_33665B8748114E3689513AC58C58D121 = "images/Chapter 2/Photos/Kimura/Downcast/Downcast 1.png"
     image rs_image_A6E2B83133264FE2AC7ED2F9767DAB76 = "images/Chapter 2/Photos/Shintaro/Downcast/Downcast 2.png"
     image rs_image_D648DEFEBFB849EDABEC0C42208FB02C = "images/Chapter 2/Photos/Kimura/Vigour/Vigour 2.png"
@@ -7307,8 +6212,6 @@ init -1:
     image rs_image_4C1E5313E76B46C7820213CD711B9387 = "images/Chapter 2/Photos/Itou/!Gym outfit/Normal/Normal 1.png"
     image rs_image_47EDA5202ED44FEDB4C0ABBE5F35D734 = "images/Chapter 2/Photos/Itou/!Gym outfit/Happy.png"
     image rs_image_1EEC48C516054F7AB9D93B395C0E8776 = "images/Chapter 2/Photos/Kimura/!Track/Smile.png"
-    image rs_image_590110EFF7E24C8C87C2F5B692674767 = "images/Chapter 2/Flag title/Run-Run-Lovers end.png"
-    image rs_image_25040CDCEEF4482794906A47420A78EF = "images/Chapter 2/Flag title/I-am-none-gay-with-no-lovers.png"
     define rs_effect_368B77480A054493BB9DAE441AA65BC2 = Fade(0.3, 0.0, 0.3, color="#000000") # Origin: BlurBlack
     define rs_effect_9CE409DAE147469DBD509038CF1C42F0 = OldMoveTransition(0.5, enter_factory=ZoomInOut(0.01, 1.0))
     define rs_effect_9616F933879E44CF9FC74D8A58CB9559 = Fade(0.6, 0.0, 0.6, color="#000000") # Origin: BlurBlack
@@ -7370,9 +6273,7 @@ init -1:
     define rs_effect_9E09486464FF4D6B9B164050310B14B2 = ImageDissolve("lib/lmeffect/center.png", 0.8, reverse=False) # Origin: Ripple
     image rs_image_F58ABF21359B4B2EA4ED7022D95A52FE = "images/Chapter 2/Photos/Shintaro/!Working/Smile/Smile 1.png"
     image rs_image_BCC96979835C48B5A3DDA509A4B82C4B = "images/Chapter 2/Photos/Saburo/!Working/Proud.png"
-    image rs_image_5F468817156C4E3BADA0BE9C4EE11680 = "images/Chapter 2/Flag title/I-am-none-gay-with-no-lover end.png"
     image rs_image_91D6AB046C4B44AD8E8AD4C9C9DC7407 = "images/Chapter 2/Photos/Saburo/!Underware/Shy/Shy 1.png"
-    image rs_image_F40E7A84D999498A91417B93E6AA4146 = "images/Chapter 2/Flag title/Gratitude-payment-of-fox.png"
     define rs_effect_AF99178A5BA8436FADEDFE321A1B70F6 = Fade(1, 0.0, 1, color="#000000")
     image rs_image_4C93031E01A5478DBE357440B6071654 = "images/CG/Gratitude-payment-of-fox-extended/Gratitude-payment-of-fox-extended 1.png"
     image rs_image_BD20E3AB6F2B49FAAE431177F57B0E33 = "images/CG/Gratitude-payment-of-fox-extended/Gratitude-payment-of-fox-extended 2.png"
@@ -7420,7 +6321,6 @@ init -1:
     define rs_effect_6C349ECA854742E3A20CD1589DE42DF3 = ComposeTransition(Shake((0.5, 1.0, 0.5, 1.0), 0.6, dist=5), after=dissolve) # Origin: Crack
     image rs_image_1B04937674574C949F5F45A3B3BC8B6B = "images/Background/Public rooms/Hall.png"
     image rs_image_7662CADE8A614BF4A4CEFF3DAB9450A7 = "images/CG/Curse 1.png"
-    image rs_image_AFAF0D39C34745D1B007DCD73CD3BE38 = "images/Chapter 2/Flag title/Gratitude-payment-of-fox end.png"
     image rs_image_FC29A6E108FC420AA588728CD98B7C3B = "images/Chapter 2/Flag title/Welcomt-to-wolfs-celemony covered.png"
     define rs_effect_933B4652A6BC4717B52077103CB5742A = Fade(1.7, 0.0, 1.7, color="#FFFFFF") # Origin: BlurWhite
     define rs_effect_7E92C9134E124E86A660C199B445F321 = ComposeTransition(Shake((0.5, 1.0, 0.5, 1.0), 0.5, dist=5), after=dissolve) # Origin: Crack
@@ -7529,7 +6429,6 @@ init -1:
     image rs_image_4C7B0452B51546E8A6B501F94A0F93E9 = "images/Background/Hotel/Room kai 2.png"
     image rs_image_CED2471FD5264B5B82273369AE30FA2B = "images/Chapter 2/Photos/Kai/Normal/Normal 2.png"
     image rs_image_D64F60163C0440CDA776A48688E14063 = "images/Chapter 2/Photos/Kai/Tired.png"
-    image rs_image_781FF3C8A0574225AE001C40EE1C4331 = "images/Chapter 2/Flag title/Welcomt-to-wolfs-celemony end.png"
     image rs_image_08AE4ECDDA23441AA3B1BE7AE33BF9DD = "images/Chapter 3/Ayumi/Tsubasa/Desperation/Desperation 1.png"
     image rs_image_5EE98B290E4A4EF59DC7EBDEF8DB60EA = "images/Chapter 3/Ayumi/Tsubasa/Desperation/Desperation 2.png"
     image rs_image_8117F83D42B34F79AFE28B7497CB9CC2 = "images/Chapter 3/Ayumi/Sakuya/Surprise/Surprise 1.png"
@@ -7568,8 +6467,6 @@ init -1:
     image rs_image_0B4D1CA8EB3342D881C010956B338E02 = "images/Chapter 2/Photos/Sato/Surprise.png"
     image rs_image_8B5E09CB821B48C29590BEFB90AE0DDB = "images/Chapter 2/Photos/Sato/Shy/Shy 1.png"
     image rs_image_2503197DA0544ED183523C3D443AF62E = "images/Chapter 2/Photos/Kojima/Smile 2.png"
-    image rs_image_307ABC0DCE954BBE81549D084B4DFA55 = "images/Chapter 3/Flag title/Logo.png"
-    image rs_image_6F271326FBE14967BABF08D054095D1B = "images/Chapter 3/Flag title/Legacy-of-asynchronized-myself.png"
     define rs_effect_83D9AE51F7F644FA8FBA1490DE4D4EFE = ImageDissolve("lib/lmeffect/center.png", 0.25, reverse=True)
     define rs_effect_7F67F5F44DB547A1BE823BA2E67A759D = ImageDissolve("lib/lmeffect/dither.png", 0.7, reverse=False)
     image rs_image_19EA6CF277DB411DAAFC4FAD639EE7DA = "images/Chapter 3/Photos/Kiyo/Kira.png"
@@ -7618,8 +6515,6 @@ init -1:
     image rs_image_D37BD99933D640558EDE55BF285BD05F = "images/Chapter 2/Photos/Shouhei/Kind.png"
     image rs_image_0DCD6DA8D946484F9F316BDB90DB6D40 = "images/Chapter 3/Photos/Tomo/Proud/Proud 2.png"
     image rs_image_2A528A20757145A78087B876421EFAF4 = "images/Chapter 3/Photos/Tomo/Vigour/Vigour 2.png"
-    image rs_image_EDAC41C4BDDF4D519D0822BA3D8E16B5 = "images/Chapter 3/Flag title/Legacy-of-asynchronized-myself end.png"
-    image rs_image_C7349873ED4043C69B6AF2697ACF4BFA = "images/Chapter 3/Flag title/Precept-of-justice.png"
     define rs_effect_5AF726F3D86C4FD7BCCD53EEA33689F0 = ImageDissolve("lib/lmeffect/grid.png", 0.9, reverse=False)
     define rs_effect_306C7487DB45469D8D387C96B770D327 = ImageDissolve("lib/lmeffect/grid_v.png", 0.8, reverse=False)
     image rs_image_7F843C6F478A4CA391089291EB2F56A3 = "images/Chapter 3/Photos/Sakuya/Normal/Normal 3.png"
@@ -7714,8 +6609,6 @@ init -1:
     image rs_image_AAAEA4F6F87F4C9E9D2EA46DBB711AED = "images/Chapter 2/Photos/Mamoru/Proud.png"
     image rs_image_08A60BE855F842738514E4884FEB1529 = "images/Neta/G160-1 2.png"
     image rs_image_270A2307D9DC40C0AD9EA0A56F2A07BF = "images/Chapter 2/Photos/Mamoru/Hentai.png"
-    image rs_image_BDF7362A545145E3AC1A7C11FCD0B987 = "images/Chapter 3/Flag title/Precept-of-justice end.png"
-    image rs_image_1C6DE88FF0C349E1BCD1203377FAF384 = "images/Chapter 3/Flag title/Join-misaki-danjiri.png"
     define rs_effect_74B3A688276A401A820C8D2C80E347EF = Dissolve(0.9) # Origin: MaskBlack
     image rs_image_32E34DC6044942FDB2E664C9223A1A28 = "images/Background/Room/Jinja room twilight.png"
     image rs_image_2EB4DEBFAA7D4D7FB0F8D20EF70EC6B4 = "images/Chapter 3/Photos/Tsuki/!Matsuri/Happy.png"
@@ -7754,8 +6647,6 @@ init -1:
     image rs_image_B4F55DFE937C4D9B8956BB29AB3AB0B3 = "images/Chapter 3/Photos/Tsuki/Smile/Smile 3.png"
     image rs_image_460C6B5F6FA34A3E939381F99A268C0E = "images/Chapter 3/Photos/Sora/Uncomfortable.png"
     image rs_image_4683860EE22143EDB1980090E250F53A = "images/Chapter 3/Photos/Tsuki/Anxious/Anxious 4.png"
-    image rs_image_46C25E831C89401CABC64E0D4D982567 = "images/Chapter 3/Flag title/Join-misaki-danjiri end.png"
-    image rs_image_90EB29FFD7C344E4A42F3DAC9BD7632F = "images/Chapter 3/Flag title/Drastic-remedy-for-tsundere.png"
     image rs_image_E28C2DB578FC4F31B06A10BB926E6BE4 = "images/Chapter 3/Photos/Sakuya/Downcast/Downcast 1.png"
     image rs_image_347F557C183C4273850A0949A097CBAB = "images/Background/School outside/Club room.png"
     image rs_image_D46359E31BB0468CA6B3E9997C1C2BBC = "images/Chapter 3/Photos/Sakuya/Shy/Shy 2.png"
@@ -7878,7 +6769,6 @@ init -1:
     image rs_image_87068767729842AF903679E9A80C638C = "images/Background/Gingon mountain/Road twilight.png"
     image rs_image_3BFB9DEF4B0B4342AB76E8147EDAA875 = "images/Background/Gingon mountain/Road 2 twilight.png"
     image rs_image_007FC3B89CCB4F35BDB06265267D8401 = "images/Background/Forest view/Forest view 1 twilight.png"
-    image rs_image_1FEA3FCC284B4F8AA6342607D48FBFAC = "images/Chapter 3/Flag title/The-inbelieveble-of-school end.png"
     image rs_image_82231ADF123047EF98DEC3113C52C10A = "images/Chapter 3/Ayumi/Shintaro/Sinister smile.png"
     image rs_image_0F2FF68508D6483F9A130D2B025269C2 = "images/Chapter 3/Ayumi/Shintaro/Decide.png"
     image rs_image_DDB8C95C32944AE58D2742027CC2A3D6 = "images/Chapter 3/Ayumi/Saburo/Shy/Shy 2.png"
@@ -8057,7 +6947,6 @@ init -1:
     image rs_image_649AC9296ECB4EDAB9947E297F77F10C = "images/Score/Fine.png"
     define rs_effect_21F1EA2277F74660BEB3B56A8ACEAE1A = Dissolve(0.6) # Origin: Mask
     image rs_image_DDEA0DFE1E9C413E81B40E334B3E1659 = "images/Score/Logo.png"
-    image rs_image_D06BF932A506486CB3D75A20705D72C3 = "images/Chapter 3/Flag title/Revolution-march.png"
     define rs_effect_E580C53DC9094B758B4CEDC63D288AE4 = Dissolve(1.3) # Origin: MaskBlack
     image rs_image_DA3F8B10BDD94A2EA7654CAF57BE44D6 = "images/Chapter 3/Photos/Tomo/Performance.png"
     image rs_image_959CCF2FB8CB4C7A859CD9B384B728FF = "images/Chapter 3/Photos/Tsubasa/Excited.png"
@@ -8117,7 +7006,6 @@ init -1:
     image rs_image_CA830C5BFF094868BD5D4E1AF370A76A = "images/CG/Revolution-march/Revolution-march Concert 3.png"
     define rs_effect_832FF861A1F843A791AAA75DA7D7D8FE = Dissolve(1.1) # Origin MaskWhite
     image rs_image_41072B3B99654E4E81C3965CF973A6D4 = "images/Chapter 3/Photos/Shinobu/Shy.png"
-    image rs_image_9E961EC9242F4937A256A0A78DFF0A14 = "images/Chapter 3/Flag title/Revolution-march end.png"
     image rs_image_64FE521C7CFC4339B609B88E4AE9FFFB = "images/Chapter 2/Photos/Sato/Shy/Shy 2.png"
     image rs_image_AD84853E028D4D33B3C789E264354AE3 = "images/Chapter 3/Photos/Tsubasa/Normal/Normal 1.png"
     image rs_image_4195495DF15242A7A0EB7645DFF83377 = "images/Chapter 3/Photos/Tsubasa/Delusion.png"
