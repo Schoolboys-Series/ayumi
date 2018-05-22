@@ -4,7 +4,7 @@ image white = Solid("#FFFFFF")
 image color_primary = Solid("#00B3C7")
 
 init python:
-    import time
+    # import time 会在6.X最后一个版本导致无法存档。7.X未知。
     # Help function
     def split(arr, size):
         arrs = []
@@ -565,7 +565,7 @@ screen main_menu():
                 last_saved_game_name[0], # file name
                 last_saved_game_name[1], # page name
                 last_saved_game[2], # image
-                time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(last_saved_game[3]))  # time
+                "" #time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(last_saved_game[3]))  # time
             )
             print last_saved_game
             del last_saved_game_name

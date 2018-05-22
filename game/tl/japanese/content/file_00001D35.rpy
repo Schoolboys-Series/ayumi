@@ -1750,7 +1750,7 @@ translate japanese strings:
 
     # content\file_00001D35.rpy:372
     old "所有物品"
-    new "アイテム"
+    new "{font=font/honyaji-re.ttf}アイテム{/font}"
 
     # content\file_00001D35.rpy:410
     old "确定"
@@ -1770,7 +1770,7 @@ translate japanese strings:
 
     # content\file_00001D35.rpy:35
     old "据说能体验到非常愉悦之感的咖啡店。"
-    new "正式名称\"Madchen Cafe\"の优惠券。\nいけば素敵な体験ができること間違いなし（？）"
+    new "正式名称\"Madchen Cafe\"の割引券。\nいけば素敵な体験ができること間違いなし（？）"
 
     # content\file_00001D35.rpy:35
     old "天玉寺游乐园情侣票"
@@ -1806,7 +1806,7 @@ translate japanese strings:
 
     # content\file_00001D35.rpy:35
     old "眼镜布"
-    new "眼鏡拭"
+    new "眼鏡拭き"
 
     # content\file_00001D35.rpy:35
     old "当戴眼镜的人遭受天降至灾时\n牺牲自己另其重见光明的……布。"
@@ -1873,7 +1873,10 @@ translate japanese strings:
     new "小島による風景の写真集。\nロマンチックな大人になった気分に浸れる。"
 
 translate japanese style danjiri_selector_item_text:
-    font "../font/honyaji-re.ttf"
+    font "font/honyaji-re.ttf"
 
 translate japanese style danjiri_preview_text:
-    font "../font/honyaji-re.ttf"
+    font "font/honyaji-re.ttf"
+
+translate japanese style danjiri_detail_comfirm_button:
+    font "font/honyaji-re.ttf"

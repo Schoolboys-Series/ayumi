@@ -5318,9 +5318,9 @@ label block_0000277B:
     stop music fadeout 2
     $ sys_music_current_file = ""
 
+    $ set_place_title("")
     hide tag_ECFB5B509A334A868686B3435242BF90
     hide tag_C389451CCE5A4CEAB24DEF9A7C02635D
-    $ set_place_title("")
     hide tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3
     show rs_image_7131112E86B24D6A9BE667868088D590 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_D40B37AD6AF94EE0AFF8CB0762377A91

@@ -3,6 +3,7 @@
 # From LiveMaker Scene: 0000213E (Theater)
 
 label theater_prepare:
+    $ zorder_tag_ECFB5B509A334A868686B3435242BF90 = 300
     show black zorder -100
     with Dissolve(0.5)
 
