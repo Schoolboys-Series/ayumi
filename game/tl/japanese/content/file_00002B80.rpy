@@ -1256,7 +1256,7 @@ translate japanese strings:
 
     # content\file_00002B80.rpy:4383
     old "第三章"
-    new "第三章"
+    new "CHAPTER 3"
 
     # content\file_00002B80.rpy:4383
     old "我对过去没有留恋"

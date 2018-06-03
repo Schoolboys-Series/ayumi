@@ -15,6 +15,7 @@ label block_00003CBD:
     $ E_TAG_TalkOkajimaInitNumber = 0
     $ E_TAG_StudyCount = 0
     $ E_TalkShintaroNoteComplete = True
+    $ E_NativeMusicAvailable = False
 
     if judge_lm_condition([]):
         jump block_00003FB4

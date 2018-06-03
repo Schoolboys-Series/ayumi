@@ -796,7 +796,7 @@ translate japanese block_00003B27_583e67dd:
 translate japanese block_00003B27_63705b59:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "嘛算了，这种情侣也是有的吧……{w=0.5}大概。"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "まあいいや。そういうカップルも\nいるっちゃいるよね……{w=0.5うん。"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "まあいいや。そういうカップルも\nいるっちゃいるよね……{w=0.5}うん。"
 
 # game/content/file_00003B10.rpy:1527
 translate japanese block_00003B27_a01a031b:

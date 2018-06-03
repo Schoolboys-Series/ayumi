@@ -7596,9 +7596,9 @@ label block_000008E4:
     $ del sys_lm_menu_item
     $ del sys_lm_menu_sound
 
-    if judge_lm_condition([{ "scope": 0, "content": "C2S2Phase >= 97" },{ "scope": 1, "content": "_lm_selected_value == \"加藤\"" },{ "scope": 2, "content": "TalkKatouF2 == 1" }]):
+    if judge_lm_condition([{ "scope": 1, "content": "_lm_selected_value == \"加藤\"" },{ "scope": 0, "content": "C2S2Phase >= 97" },{ "scope": 2, "content": "TalkKatouF2 == 1" }]):
         jump block_00001F48
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"加藤\"" },{ "scope": 1, "content": "TalkKatouStudy == True" },{ "scope": 2, "content": "C2SG1 == True" }]):
+    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"加藤\"" },{ "scope": 1, "content": "TalkKatouStudy == False" },{ "scope": 2, "content": "C2SG1 == True" }]):
         jump block_00002525
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"加藤\"" },{ "scope": 1, "content": "C2SG1 == True" }]):
         jump block_00002528

@@ -5,7 +5,6 @@
 label block_0000405D:
     # Node: 0000405D (開始)
     $ MusicRandom = 0
-    $ E_NativeMusicAvailable = False
 
     if judge_lm_condition([]):
         jump block_0000405F
@@ -5222,8 +5221,8 @@ label block_000040A0:
         play effect "sound/Effect Sound/Scene changing 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Scene changing 2.ogg"
 
-    hide tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3
     $ set_place_title("")
+    hide tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3
     hide tag_ECFB5B509A334A868686B3435242BF90
     hide tag_99488938252D4BC2B7FA91D436D9159B
     hide tag_88D3209FDD1D4A2E8369A5A61DF50852

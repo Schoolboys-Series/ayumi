@@ -3170,6 +3170,9 @@ label block_0000243A:
     if sys_music2_current_file != "sound/BGM/Theme/Schoolboys Theme - Fear.ogg":
         play music2 "sound/BGM/Theme/Schoolboys Theme - Fear.ogg" loop
         $ sys_music2_current_file = "sound/BGM/Theme/Schoolboys Theme - Fear.ogg"
+    
+    $ record_volume("music")
+    $ renpy.music.set_volume(0, 1, "music")
 
     show rs_image_3D1658550AAD4B23B72B22E477CAE581 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -3231,6 +3234,8 @@ label block_0000243A:
     hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     show rs_image_3E5246A6872C4ED9A1B378593AEDFD83 as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_64306473DF684E3FAFE0CF654B017265
+
+    $ reverse_volume("music", 1)
 
     extend "我怎么可能会对别人说\n{color=#FF00FF}『汪汪！抱抱！舔舔？』{/color}这种话！"
 
