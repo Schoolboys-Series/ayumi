@@ -146,8 +146,6 @@ label start:
         text_align=0.5,
         outlines=[(absolute(2), "#FFFFFF", absolute(0), absolute(0))])
 
-    $ zorder_tag_ECFB5B509A334A868686B3435242BF90 = 300
-    jump block_00002C2C
     jump block_00003985
 
     return
