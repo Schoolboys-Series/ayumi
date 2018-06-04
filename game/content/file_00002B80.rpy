@@ -491,7 +491,7 @@ label block_00002BC5:
 
 label block_00002BC6:
     # Node: 00002BC6 (Inside 1)
-    $ sys_lm_menu_item = [{"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}, {"pos": (130, 320),"image": "images/Dream/Menu/Nori.png","hover": "images/Dream/Menu/Nori hover.png","name": "朔"}, {"pos": (238, 334),"image": "images/Dream/Menu/Kai.png","hover": "images/Dream/Menu/Kai hover.png","name": "晦"}, {"pos": (375, 245),"image": "images/Dream/Menu/Sumoto+Rikuta.png","hover": "images/Dream/Menu/Sumoto+Rikuta hover.png","name": "漫才"}, {"pos": (610, 233),"image": "images/Dream/Menu/Tokiwa.png","hover": "images/Dream/Menu/Tokiwa hover 2.png","name": "常磐"}]
+    $ sys_lm_menu_item = [{"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}, {"pos": (130, 320),"image": "images/Dream/Menu/Nori.png","hover": "images/Dream/Menu/Nori hover.png","name": "朔"}, {"pos": (238, 334),"image": "images/Dream/Menu/Kai.png","hover": "images/Dream/Menu/Kai hover.png","name": "晦"}, {"pos": (375, 245),"image": "images/Dream/Menu/Sumoto+Rikuta.png","hover": "images/Dream/Menu/Sumoto+Rikuta hover.png","name": "漫才"}, {"pos": (610, 233),"image": "images/Dream/Menu/Tokiwa.png","hover": "images/Dream/Menu/Tokiwa hover.png","name": "常磐"}]
     $ sys_lm_menu_sound = {"hover": "sound/Effect Sound/System - choose.ogg", "click": "sound/Effect Sound/System - click.ogg"}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0.2, 0.2) from _call_lm_menu_784
     $ del sys_lm_menu_item

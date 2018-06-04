@@ -1079,7 +1079,7 @@ label block_00001050:
 
 label block_00001051:
     # Node: 00001051 (Outside toilet 常磐 point)
-    $ sys_lm_menu_item = [{"pos": (648, 496),"image": "images/Moving/Actions/Back.png","hover": "images/Moving/Actions/Back hover.png","name": "移動"}, {"pos": (472, 192),"image": "images/Chapter 2/Menu/F3/Tokiwa point.png","hover": "images/Menu/Tokiwa hover 2.png","name": "常磐"}]
+    $ sys_lm_menu_item = [{"pos": (648, 496),"image": "images/Moving/Actions/Back.png","hover": "images/Moving/Actions/Back hover.png","name": "移動"}, {"pos": (472, 192),"image": "images/Chapter 2/Menu/F3/Tokiwa point.png","hover": "images/Menu/Tokiwa hover.png","name": "常磐"}]
     $ sys_lm_menu_sound = {"hover": "sound/Effect Sound/System - choose.ogg", "click": "sound/Effect Sound/System - click.ogg"}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0.2, 0.2) from _call_lm_menu_681
     $ del sys_lm_menu_item

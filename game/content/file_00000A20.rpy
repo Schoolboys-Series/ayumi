@@ -415,7 +415,7 @@ label block_00002EFD:
 
 label block_00000A6E:
     # Node: 00000A6E (Misaki school 常磐 flag)
-    $ sys_lm_menu_item = [{"pos": (304, 240),"image": "images/Chapter 2/Menu/F5/Tokiwa flag.png","hover": "images/Chapter 2/Menu/F5/Tokiwa hover 2.png","name": "常磐"}]
+    $ sys_lm_menu_item = [{"pos": (304, 240),"image": "images/Chapter 2/Menu/F5/Tokiwa flag.png","hover": "images/Chapter 2/Menu/F5/Tokiwa hover.png","name": "常磐"}]
     $ sys_lm_menu_sound = {"hover": "sound/Effect Sound/System - choose.ogg", "click": "sound/Effect Sound/System - click.ogg"}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0.5, 0.2) from _call_lm_menu_512
     $ del sys_lm_menu_item

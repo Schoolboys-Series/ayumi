@@ -131,11 +131,11 @@ translate japanese strings:
 
     # screens.rpy:729
     old "这是一个由2eme Gymnopédie使用LiveMaker制作、GILESFVK ËKITES使用Ren'py移植的游戏。游戏的LiveMaker日文版本可以在{a=http://2emegymnopedie.blog77.fc2.com/blog-entry-502.html}此处（需翻墙）{/s}得到。"
-    new "This is a game creatde by 2eme Gymnopédie for Windows PC and migrate to multiple platform version by GILESFVK ËKITES. You could find game's original Japanese version at {a=http://2emegymnopedie.blog77.fc2.com/blog-entry-502.html}here{/s}."
+    new "The game created by 2eme Gymnopédie for Windows PC and migrated to multiple platform version by GILESFVK ËKITES. You could find game's original Japanese version at {a=http://2emegymnopedie.blog77.fc2.com/blog-entry-502.html}here{/s}."
 
     # screens.rpy:730
     old "本软件的源代码可在PC发行版中找到（不含资源文件）。"
-    new "Also you have the right to have game's source code (without resource file) by contact GILESFVK ËKITES."
+    new "It is stated that you have the right to have and use game's source code (without resource file) by contact GILESFVK ËKITES."
 
     # screens.rpy:731
     old "由于没有来自2eme Gymnopédie的使用条款，因此使用者必须遵守来自GILESFVK ËKITES的相关条款："
