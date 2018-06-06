@@ -26,8 +26,8 @@ label block_000001B4:
         play music "sound/BGM/Chapter 1.ogg" loop
         $ sys_music_current_file = "sound/BGM/Chapter 1.ogg"
 
-    hide tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3
     $ set_place_title(False)
+    hide tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3
     hide tag_ECFB5B509A334A868686B3435242BF90
     hide tag_99488938252D4BC2B7FA91D436D9159B
     hide tag_88D3209FDD1D4A2E8369A5A61DF50852

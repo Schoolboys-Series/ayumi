@@ -245,139 +245,139 @@ label block_00003933:
             {
                 "condition": [[], ["Itou", "Kimura"]], # RUN RUN LOVERS
                 "range": [
-                    {"rate": [0, 0.5], "value": 2},
-                    {"rate": [0.5, 0.6], "value": -2},
+                    {"rate": [0, 0.5], "value": 2, "description": _("因为和木村亲在一起，伊藤酱变得很努力")},
+                    {"rate": [0.5, 0.6], "value": -2, "description": _("因为太过在意木村亲，伊藤酱犯了不少小失误")},
                     {"rate": [0.6, 1], "value": 0}
                 ]
             },
             {
                 "condition": [[], ["Itou", "Kimura", "Sakuya", "Saburou"]], # 双低集团
                 "range": [
-                    {"rate": [0, 1], "value": -2}
+                    {"rate": [0, 1], "value": -2, "description": _("双低集团混在一起不会有好事的……")}
                 ]
             },
             {
                 "condition": [[], ["Katou", "Matsuda"]], # 找不到对象同盟
                 "range": [
-                    {"rate": [0, 1], "value": 2}
+                    {"rate": [0, 1], "value": 2, "description": _("加藤酱和松田亲达成了奇妙的共识")}
                 ]
             },
             {
                 "condition": [[], ["Okajima", "Kojima"]], # “搞个大新闻”
                 "range": [
-                    {"rate": [0, 0.5], "value": 3},
-                    {"rate": [0.5, 1], "value": -3}
+                    {"rate": [0, 0.5], "value": 3, "description": _("小岛君在部长面前特别努力")},
+                    {"rate": [0.5, 1], "value": -3, "description": _("新闻部的两人又把比赛放到一边取材去了")}
                 ]
             },
             {
                 "condition": [[], ["Kojima", "Tsubasa"]], # 白色***同志
                 "range": [
-                    {"rate": [0, 0.5], "value": 3},
-                    {"rate": [0.5, 1], "value": -3}
+                    {"rate": [0, 0.5], "value": 3, "description": _("小岛君在帮翼亲，他们的关系有这么好吗")},
+                    {"rate": [0.5, 1], "value": -3, "description": _("小岛君在帮翼亲，但好像起了反效果")}
                 ]
             },
             {
                 "condition": [[], ["Matsuda", "Sakuya"]], # 远观而不亵玩
                 "range": [
-                    {"rate": [0, 0.5], "value": 4},
-                    {"rate": [0.5, 0.6], "value": 2},
-                    {"rate": [0.6, 0.8], "value": -4},
+                    {"rate": [0, 0.5], "value": 4, "description": _("松田亲真的很想在傲娇君面前好好表现呢")},
+                    {"rate": [0.5, 0.6], "value": 2, "description": _("松田亲很卖力，是因为傲娇君吗")},
+                    {"rate": [0.6, 0.8], "value": -4, "description": _("因为傲娇君的存在松田亲彻底慌乱了")},
                     {"rate": [0.8, 1], "value": 0}
                 ]
             },
             {
                 "condition": [[1], ["Saburou", "Shintarou"]], # 肌肤相亲
                 "range": [
-                    {"rate": [0, 0.2], "value": 10},
-                    {"rate": [0.2, 0.4], "value": -10},
+                    {"rate": [0, 0.2], "value": 10, "description": _("和三酱的肌肤相亲，嘿嘿")},
+                    {"rate": [0.2, 0.4], "value": -10, "description": _("比赛算什么，三酱最重要！")},
                     {"rate": [0.4, 1], "value": 0}
                 ]
             },
             {
                 "condition": [[], ["Saburou", "Tomo"]], # 猫的本性
                 "range": [
-                    {"rate": [0, 0.35], "value": 1},
-                    {"rate": [0.35, 0.5], "value": -1},
+                    {"rate": [0, 0.35], "value": 1, "description": _("三酱总是盯着友亲看，呜呜")},
+                    {"rate": [0.35, 0.5], "value": -1, "description": _("三酱居然会袭击友亲，真是的")},
                     {"rate": [0.5, 1], "value": 0}
                 ]
             },
             {
                 "condition": [[], ["Tsubasa", "Tomo", "Sakuya"]], # 三角恋？
                 "range": [
-                    {"rate": [0, 0.2], "value": 1},
-                    {"rate": [0.2, 0.5], "value": -1},
+                    {"rate": [0, 0.2], "value": 1, "description": _("傲娇君和翼亲关系真好")},
+                    {"rate": [0.2, 0.5], "value": -1, "description": _("果然傲娇君翼亲和友亲的三角恋会出问题")},
                     {"rate": [0.5, 1], "value": 0}
                 ]
             },
             {
                 "condition": [[], ["Tsubasa", "Matsuda", "Sakuya"]], # 三角恋
                 "range": [
-                    {"rate": [0, 0.25], "value": 1},
+                    {"rate": [0, 0.25], "value": 1, "description": _("翼亲和松田亲是竞争对手呢")},
                     {"rate": [0.25, 1], "value": 0}
                 ]
             },
             {
                 "condition": [[0, 2, 3], ["Saburou", "Shintarou"]], # 我是直(wan)的
                 "range": [
-                    {"rate": [0, 0.4], "value": 1},
-                    {"rate": [0.4, 0.5], "value": 2},
-                    {"rate": [0.5, 0.6], "value": -2},
+                    {"rate": [0, 0.4], "value": 1, "description": _("和三酱同一个项目真好")},
+                    {"rate": [0.4, 0.5], "value": 2, "description": _("必须给三酱展现出我的毅力！")},
+                    {"rate": [0.5, 0.6], "value": -2, "description": _("太过在意三酱了……大家对不起")},
                     {"rate": [0.6, 1], "value": 0}
                 ]
             },
             {
                 "condition": [[], ["Sakuya", "Tsubasa"]], # 并不讨厌
                 "range": [
-                    {"rate": [0, 0.2], "value": 1},
-                    {"rate": [0.2, 0.4], "value": -1},
-                    {"rate": [0.4, 0.5], "value": -5},
-                    {"rate": [0.5, 0.6], "value": 4},
+                    {"rate": [0, 0.2], "value": 1, "description": _("傲娇君很卖力呢，是因为翼亲吧")},
+                    {"rate": [0.2, 0.4], "value": -1, "description": _("翼亲总是心神不宁")},
+                    {"rate": [0.4, 0.5], "value": -5, "description": _("啊，早知道不把傲娇君和翼亲分在同一个组就好了")},
+                    {"rate": [0.5, 0.6], "value": 4, "description": _("哇，傲娇君的大活跃！")},
                     {"rate": [0.6, 1], "value": 0}
                 ]
             },
             {
                 "condition": [[], ["Sora", "Tsuki"]], # 赤峰双子
                 "range": [
-                    {"rate": [0, 0.65], "value": 4},
-                    {"rate": [0.65, 0], "value": -1}
+                    {"rate": [0, 0.65], "value": 4, "description": _("赤峰兄弟真的好厉害")},
+                    {"rate": [0.65, 1], "value": -1, "description": _("阿月在赛场上也这么开放，我也想和三酱……")}
                 ]
             },
             {
                 "condition": [[], ["Sora", "Tomo"]], # 甜食党
                 "range": [
-                    {"rate": [0, 1], "value": 1}
+                    {"rate": [0, 1], "value": 1, "description": _("小空和友亲都喜欢料理吧，难怪他们这么默契")}
                 ]
             },
             {
                 "condition": [[], ["Tsubasa", "Tomo"]], # 第一次的温柔
                 "range": [
-                    {"rate": [0, 0.5], "value": 1},
-                    {"rate": [0.5, 0.6], "value": 2},
-                    {"rate": [0.6, 0.7], "value": -1},
+                    {"rate": [0, 0.5], "value": 1, "description": _("总觉得友亲和翼亲有一腿")},
+                    {"rate": [0.5, 0.6], "value": 2, "description": _("翼亲的超常发挥！")},
+                    {"rate": [0.6, 0.7], "value": -1, "description": _("以后绝对不允许友亲和翼亲不分场合秀恩爱了")},
                     {"rate": [0.7, 0.95], "value": 0},
-                    {"rate": [0.95, 0.1], "value": 5}
+                    {"rate": [0.95, 1], "value": 5, "description": _("友亲和翼亲又在约会")}
                 ]
             },
             {
                 "condition": [[], ["Shintarou", "Tomo"]], # 变态同志
                 "range": [
-                    {"rate": [0, 0.5], "value": 3},
-                    {"rate": [0.5, 1], "value": -3}
+                    {"rate": [0, 0.5], "value": 3, "description": _("和友亲达成了共识")},
+                    {"rate": [0.5, 1], "value": -3, "description": _("唔，友亲的作战好像问题很大……")}
                 ]
             },
             {
                 "condition": [[1], ["Tomo", "Shinobu"]], # 青梅竹马 高级版
                 "range": [
-                    {"rate": [0, 0.5], "value": 10},
-                    {"rate": [0.5, 0.9], "value": -2},
+                    {"rate": [0, 0.5], "value": 10, "description": _("哇，友亲居然差点活到最后，佩服")},
+                    {"rate": [0.5, 0.9], "value": -2, "description": _("连小忍都被友亲打乱步调了")},
                     {"rate": [0.9, 1], "value": 0}
                 ]
             },
             {
                 "condition": [[0, 2, 3], ["Tomo", "Shinobu"]], # 青梅竹马
                 "range": [
-                    {"rate": [0, 0.5], "value": 2},
-                    {"rate": [0.5, 0.9], "value": -2},
+                    {"rate": [0, 0.5], "value": 2, "description": _("小忍在帮友亲呢")},
+                    {"rate": [0.5, 0.9], "value": -2, "description": _("友亲真是总在给小忍帮倒忙呢")},
                     {"rate": [0.9, 1], "value": 0}
                 ]
             }
@@ -425,7 +425,7 @@ label block_0000395F:
 
     pause 2
 
-    if sum(1 if x > 8 else 0 for x in _return) > 2:
+    if sum(1 if x > 8 else 0 for x in _return["score"]) > 2:
         jump block_000024C9
     else:
         jump block_000024CB
@@ -482,12 +482,18 @@ label block_000024CB:
 
 label block_0000147F:
     # Node: 0000147F (Result)
-    $ set_window("イベントモード")
-    window show
+    call convert_celemony_detail(_return, [_("百米田径"), _("骑马战"), _("借物竞走"), _("投球入篮")])
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#FF8000}详情（9为基础值）{/color}\n百米田径: [_return[0]] 骑马战: [_return[1]]\n借物竞走: [_return[2]] 投球入篮: [_return[3]]"
+    python:
+        set_window("イベントモード")
+        for index, event in enumerate(_return):
+            _return[index]["succeed"] = _return[index]["score"] > 8
 
-    window hide
+    pause
+
+    $ renpy.block_rollback()
+
+    call screen celemony_detail(_return)
 
     pause 1
 

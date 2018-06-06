@@ -282,95 +282,95 @@ label block_00003C0C:
             {
                 "condition": [[], ["Izumi", "Matsuda"]], # 卡拉OK训练
                 "range": [
-                    {"rate": [0, 0.5], "value": 2},
+                    {"rate": [0, 0.5], "value": 2, "description": _("泉酱好像在唱卡拉OK一样")},
                     {"rate": [0.5, 1], "value": 0}
                 ]
             }, {
                 "condition": [[], ["Itou", "Kimura"]], # 五音不全
                 "range": [
-                    {"rate": [0, 0.5], "value": -3},
+                    {"rate": [0, 0.5], "value": -3, "description": _("不想描述木村亲唱了什么")},
                     {"rate": [0.5, 1], "value": 0}
                 ]
             }, {
                 "condition": [[0], ["Kojima", "Okajima"]], # 受到惊吓
                 "range": [
-                    {"rate": [0, 1], "value": -1}
+                    {"rate": [0, 1], "value": -1, "description": _("小岛君的歌声吓到部长了")}
                 ]
             }, {
                 "condition": [[0, 1], ["Matsusa", "Sakuya"]], # 超极限荷尔蒙
                 "range": [
-                    {"rate": [0, 0.4], "value": 3},
-                    {"rate": [0.4, 0.8], "value": -3},
-                    {"rate": [0.8, 1], "value": 1}
+                    {"rate": [0, 0.4], "value": 3, "description": _("傲娇君肯定专门练习过")},
+                    {"rate": [0.4, 0.8], "value": -3, "description": _("傲娇君声音飚太高了")},
+                    {"rate": [0.8, 1], "value": 1, "description": _("傲娇君意外唱的不错")}
                 ]
             }, {
                 "condition": [[0, 1], ["Tomo", "Tsubasa"]], # 小钢琴部
                 "range": [
-                    {"rate": [0, 1], "value": 2}
+                    {"rate": [0, 1], "value": 2, "description": _("不愧是小钢琴部")}
                 ]
             }, {
                 "condition": [[], ["Tomo", "Sakuya", "Tsubasa"]], # 嫉妒心
                 "range": [
-                    {"rate": [0, 0.6], "value": 4},
-                    {"rate": [0.6, 0.8], "value": -3},
+                    {"rate": [0, 0.6], "value": 4, "description": _("傲娇君对友亲的对抗心产生了不错的效果")},
+                    {"rate": [0.6, 0.8], "value": -3, "description": _("傲娇君对友亲的对抗心强过头了")},
                     {"rate": [0.8, 1], "value": 0}
                 ]
             }, {
                 "condition": [[], ["Sakuya", "Tsubasa"]], # 天籁之音
                 "range": [
-                    {"rate": [0, 0.8], "value": 6},
+                    {"rate": [0, 0.8], "value": 6, "description": _("翼亲的声音好好听~")},
                     {"rate": [0.8, 1], "value": 0}
                 ]
             }, {
                 "condition": [[], ["Tomo", "Shinobu"]], # 天才音乐家
                 "range": [
-                    {"rate": [0, 0.5], "value": 2},
-                    {"rate": [0.5, 0.7], "value": 1},
+                    {"rate": [0, 0.5], "value": 2, "description": _("哟，天才音乐家！")},
+                    {"rate": [0.5, 0.7], "value": 1, "description": _("友亲真的很有音乐天分呢")},
                     {"rate": [0.7, 1], "value": 0}
                 ]
             }, {
                 "condition": [[], ["Tomo", "Satou"]], # 迟早发生的事
                 "range": [
-                    {"rate": [0, 0.2], "value": 1},
+                    {"rate": [0, 0.2], "value": 1, "description": _("佐藤君的样子有些奇怪")},
                     {"rate": [0.2, 1], "value": 0}
                 ]
             }, {
                 "condition": [[], ["Matsuda", "Sakuya", "Izumi"]], # 继续卡拉OK？
                 "range": [
-                    {"rate": [0, 0.2], "value": 1},
-                    {"rate": [0.2, 0.4], "value": 2},
-                    {"rate": [0.4, 0.6], "value": -2},
-                    {"rate": [0.6, 0.8], "value": -1},
+                    {"rate": [0, 0.2], "value": 1, "description": _("松田亲像在唱卡拉OK")},
+                    {"rate": [0.2, 0.4], "value": 2, "description": _("松田亲好起劲")},
+                    {"rate": [0.4, 0.6], "value": -2, "description": _("松田亲居然会唱错词")},
+                    {"rate": [0.6, 0.8], "value": -1, "description": _("松田亲看起来累坏了")},
                     {"rate": [0.8, 1], "value": 0}
                 ]
             }, {
                 "condition": [[0], ["Tomo", "Sakuya"]], # 听天由命
                 "range": [
-                    {"rate": [0, 0.5], "value": 5},
-                    {"rate": [0, 0.5], "value": -5}
+                    {"rate": [0, 0.5], "value": 5, "description": _("在女高音上听天由命的友亲和傲娇君")},
+                    {"rate": [0, 0.5], "value": -5, "description": _("在女高音上听天由命的友亲和傲娇君")}
                 ]
             }, {
                 "condition": [[2, 3], ["Tsuki", "Sora"]], # 意外还不错
                 "range": [
-                    {"rate": [0, 0.65], "value": 2},
+                    {"rate": [0, 0.65], "value": 2, "description": _("阿月和小空的互相激励效果看来随时都有")},
                     {"rate": [0.65, 1], "value": 0}
                 ]
             }, {
                 "condition": [[2, 3], ["Saburou", "Shintarou"]], # 猫咪催眠曲
                 "range": [
-                    {"rate": [0, 0.4], "value": -2},
+                    {"rate": [0, 0.4], "value": -2, "description": _("差点因为三酱的声音睡着了")},
                     {"rate": [0.4, 1], "value": 0}
                 ]
             }, {
                 "condition": [[0, 1], ["Saburou", "Shintarou"]], # 猫咪狂躁曲
                 "range": [
-                    {"rate": [0, 0.4], "value": 2},
+                    {"rate": [0, 0.4], "value": 2, "description": _("三酱好棒！")},
                     {"rate": [0.4, 1], "value": 0}
                 ]
             }, {
                 "condition": [[], ["Sakuya", "Shintarou"]], # 傲娇君的歌声
                 "range": [
-                    {"rate": [0, 0.2], "value": 2},
+                    {"rate": [0, 0.2], "value": 2, "description": _("傲娇君为什么要看着我唱歌……")},
                     {"rate": [0.2, 1], "value": 0}
                 ]
             }
@@ -419,7 +419,7 @@ label block_00003C06:
     pause 2
 
 
-    if sum(1 if x > 12 else 0 for x in _return) > 2:
+    if sum(1 if x > 12 else 0 for x in _return["score"]) > 2:
         jump block_00003C08
     else:
         jump block_00003BF4
@@ -483,11 +483,19 @@ label block_00003BF4:
 label block_00003C04:
     # Node: 00003C04 (Result)
     $ set_window("イベントモード")
-    window show
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#FF8000}详情（13为基础值）{/color}\n女高音: [_return[0]] 女低音: [_return[1]]\n男高音: [_return[2]] 男低音: [_return[3]]"
+    call convert_celemony_detail(_return, [_("女高音"), _("女低音"), _("男高音"), _("男低音")])
 
-    window hide
+    python:
+        set_window("イベントモード")
+        for index, event in enumerate(_return):
+            _return[index]["succeed"] = _return[index]["score"] > 12
+
+    pause
+
+    $ renpy.block_rollback()
+
+    call screen celemony_detail(_return)
 
     pause 1
 

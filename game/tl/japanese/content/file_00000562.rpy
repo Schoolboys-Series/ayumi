@@ -18,12 +18,6 @@ translate japanese block_00003C06_9d2853ca:
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "音乐祭当天，一班和二班的成绩是——"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 "音楽祭当日、１・２組の評価は―"
 
-# game/content/file_00000562.rpy:491
-translate japanese block_00003C04_f8100d18:
-
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#FF8000}详情（13为基础值）{/color}\n女高音: [_return[0]] 女低音: [_return[1]]\n男高音: [_return[2]] 男低音: [_return[3]]"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#FF8000}内訳（基礎ポイント１3）{/color}\nソプラノ: [_return[0]] アルト: [_return[1]]\nテノール: [_return[2]] バス: [_return[3]]"
-
 # game/content/file_00000562.rpy:531
 translate japanese block_0000261A_2be2b25b:
 
@@ -149,3 +143,114 @@ translate japanese strings:
     # content\file_00000562.rpy:200
     old "选择出赛人员"
     new "メンバーを選んでください"
+# TODO: Translation updated at 2018-06-05 21:33
+
+translate japanese strings:
+
+    # content\file_00000562.rpy:487
+    old "女高音"
+    new "ソプラノ"
+
+    # content\file_00000562.rpy:487
+    old "女低音"
+    new "アルト"
+
+    # content\file_00000562.rpy:487
+    old "男高音"
+    new "テノール"
+
+    # content\file_00000562.rpy:487
+    old "男低音"
+    new "バス"
+
+# TODO: Translation updated at 2018-06-06 13:40
+
+translate japanese strings:
+
+    # content\file_00000562.rpy:245
+    old "泉酱好像在唱卡拉OK一样"
+    new "イズミンがまるでカラオケ選手みたいな。"
+
+    # content\file_00000562.rpy:245
+    old "不想描述木村亲唱了什么"
+    new "まったく木村っちの歌が言葉による描写ができない。"
+
+    # content\file_00000562.rpy:245
+    old "小岛君的歌声吓到部长了"
+    new "小島くんの歌声が部長を驚いたようなないたような……どち？"
+
+    # content\file_00000562.rpy:245
+    old "傲娇君肯定专门练习过"
+    new "絶対練習してたの、ツンデレくん。"
+
+    # content\file_00000562.rpy:245
+    old "傲娇君声音飚太高了"
+    new "ツンデレくんの声が大き過ぎる。"
+
+    # content\file_00000562.rpy:245
+    old "傲娇君意外唱的不错"
+    new "ツンデレくん、意外やるね。"
+
+    # content\file_00000562.rpy:245
+    old "不愧是小钢琴部"
+    new "さすがプチピアノ部！"
+
+    # content\file_00000562.rpy:245
+    old "傲娇君对友亲的对抗心产生了不错的效果"
+    new "ツンデレくんに友っちとの対抗意識が良い成果が出るかも。"
+
+    # content\file_00000562.rpy:245
+    old "傲娇君对友亲的对抗心强过头了"
+    new "ツンデレくんに友っちとの対抗意識が強すぎる。"
+
+    # content\file_00000562.rpy:245
+    old "翼亲的声音好好听~"
+    new "つば吉の声がやさしいいいいいいいいい～"
+
+    # content\file_00000562.rpy:245
+    old "哟，天才音乐家！"
+    new "よ、天才音楽者！"
+
+    # content\file_00000562.rpy:245
+    old "友亲真的很有音乐天分呢"
+    new "友っち本当音楽上手だね。"
+
+    # content\file_00000562.rpy:245
+    old "佐藤君的样子有些奇怪"
+    new "佐藤くんの様子がおかしい。"
+
+    # content\file_00000562.rpy:245
+    old "松田亲像在唱卡拉OK"
+    new "まっつんがまるでカラオケ選手みたいな。"
+
+    # content\file_00000562.rpy:245
+    old "松田亲好起劲"
+    new "まっつん、やる气ある～"
+
+    # content\file_00000562.rpy:245
+    old "松田亲居然会唱错词"
+    new "まさかまっつんが歌詞をとちったなんで……。"
+
+    # content\file_00000562.rpy:245
+    old "松田亲看起来累坏了"
+    new "まっつんが酷い疲れたのよう。"
+
+    # content\file_00000562.rpy:245
+    old "在女高音上听天由命的友亲和傲娇君"
+    new "ソプラノの上で一か八かを賭けている友っちとツンデレくん。"
+
+    # content\file_00000562.rpy:245
+    old "阿月和小空的互相激励效果看来随时都有"
+    new "ツッキーと空っちのお互い激励効果がどこにもあるそう。"
+
+    # content\file_00000562.rpy:245
+    old "差点因为三酱的声音睡着了"
+    new "あぶないあぶない、眠りをさそうぶちゃんの声が恐ろしい。"
+
+    # content\file_00000562.rpy:245
+    old "三酱好棒！"
+    new "さぶちゃん素敵！"
+
+    # content\file_00000562.rpy:245
+    old "傲娇君为什么要看着我唱歌……"
+    new "なぜツンデレくんがオイラを見て歌なければならないなの……。"

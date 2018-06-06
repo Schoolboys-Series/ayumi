@@ -50,6 +50,7 @@ label celemony_selector_tag:
                 final_status[groups[index]["id"]].append(pieces[character]["id"])
         call celemony_calculator from _call_celemony_calculator
         $ del final_score
+        $ del celemony_actions
         return _return
     else:
         jump celemony_selector_tag
@@ -94,14 +95,115 @@ style celemony_selector_accept_button_text:
 label celemony_calculator:
     python:
         final_score = [0] * 4
+        celemony_actions = []
         for index, characters in enumerate(final_status):
             for character in characters:
-                final_score[index] += score_table["base"][character][index]
+                score = score_table["base"][character][index]
+                final_score[index] += score
+                celemony_actions.append({
+                    "type": "base",
+                    "character": character,
+                    "event": index,
+                    "score": score
+                })
             for extra in score_table["extra"]:
                 if (len(extra["condition"][0]) == 0 or index in extra["condition"][0]) and set(extra["condition"][1]).issubset(set(characters)):
                     random_offset = renpy.random.random()
-                    final_score[index] += next((x for x in extra["range"] if x["rate"][0] <= random_offset and x["rate"][1] > random_offset), 0)["value"]
+                    offset = next((x for x in extra["range"] if x["rate"][0] <= random_offset and x["rate"][1] > random_offset), 0)
+                    final_score[index] += offset["value"]
+                    celemony_actions.append({
+                        "type": "extra",
+                        "character": extra["condition"][1],
+                        "event": index,
+                        "score": offset["value"],
+                        "description": offset["description"] if "description" in offset else ""
+                    })
                     del random_offset
         del final_status
 
-    return final_score
+    return { "score": final_score, "actions": celemony_actions }
+
+label convert_celemony_detail(data, events):
+    python:
+        events = [{ "index": i, "name": e } for i, e in enumerate(events)]
+        for index, event in enumerate(events):
+            dataset = [x for x in data["actions"] if x["event"] == event["index"]]
+            events[index] = {
+                "score": data["score"][index],
+                "name": events[index]["name"],
+                "base": [x for x in dataset if x["type"] == "base"],
+                "extra": [x for x in dataset if x["type"] == "extra"]
+            }
+
+    return events
+
+screen celemony_detail(events):
+    add "gui/celemony_detail.png"
+    frame:
+        style "celemony_detail_frame"
+        has viewport:
+            mousewheel "change"
+            draggable True
+            side_yfill True
+        vbox:
+            style "celemony_detail_frame_viewarea"
+            null height 10
+            text _("慎酱的比赛日志") style "celemony_detail_text"
+            null height 10
+            for index, event in enumerate(events):
+                text event["name"] style "celemony_detail_event_title"
+                python:
+                    y_size = len(events) / 4.0
+                    if y_size > int(y_size):
+                        y_size += 1
+                vpgrid:
+                    style "celemony_detail_frame_viewarea"
+                    ysize y_size * 90
+                    cols 4
+                    for character in event["base"]:
+                        fixed:
+                            style "celemony_detail_character_box"
+                            add "images/Celemony/Avatar/" + character["character"] + ".png"
+                            if character["character"] in ["Satou", "Okajima", "Itou", "Kimura", "Kojima", "Saburou", "Sakuya", "Tsubasa"]:
+                                text str(character["score"]) style "celemony_detail_character_score_blue"
+                            else:
+                                text str(character["score"]) style "celemony_detail_character_score"
+                if len([x for x in event["extra"] if x["description"] != ""]) == 0:
+                    text _("一切照常进行") style "celemony_detail_text"
+                else:
+                    for extra in [x for x in event["extra"] if x["description"] != ""]:
+                        text __(extra["description"]) + (" (%s)" % (extra["score"] if extra["score"] < 0 else "+%d" % extra["score"])) style "celemony_detail_text"
+                null height 10
+                text __("结果：%d分（%s）") % (event["score"], __("成功") if event["succeed"] else __("失败")) style "celemony_detail_text"
+                null height 20
+            textbutton _("继续") style "celemony_detail_next_button" action Return()
+            null height 20
+
+style celemony_detail_frame is default:
+    area (70, 0, 680, 600)
+style celemony_detail_frame_viewarea:
+    xsize 700
+style celemony_detail_text:
+    font "font/zcool-happy-ayumi-extended.ttf"
+style celemony_detail_event_title is celemony_detail_text:
+    xalign 0.5
+    size 34
+style celemony_detail_next_button:
+    xalign 0.9
+style celemony_detail_next_button_text is celemony_detail_text:
+    size 28
+    color "#C1718E"
+    outlines [(absolute(3), "#FFFFFFFF", absolute(0), absolute(0))]
+    hover_color "#FFFFFF"
+    hover_outlines [(absolute(3), "#C1718EFF", absolute(0), absolute(0))]
+style celemony_detail_character_box is default:
+    xsize 158
+    ysize 90
+style celemony_detail_character_score is celemony_detail_text:
+    xpos 140
+    ypos 55
+    size 28
+    color "#FFFFFF"
+    outlines [(absolute(6), "#FF6702FF", absolute(0), absolute(0))]
+style celemony_detail_character_score_blue is celemony_detail_character_score:
+    outlines [(absolute(6), "#01B0FEFF", absolute(0), absolute(0))]

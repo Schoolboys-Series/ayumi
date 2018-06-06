@@ -18,12 +18,6 @@ translate japanese block_0000395F_3796d5c8:
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "最后，红队的成绩是——"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 "赤組の結果は―"
 
-# game/content/file_00000332.rpy:481
-translate japanese block_0000147F_d0f3ac7e:
-
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#FF8000}详情（9为基础值）{/color}\n百米田径: [_return[0]] 骑马战: [_return[1]]\n借物竞走: [_return[2]] 投球入篮: [_return[3]]"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#FF8000}内訳（基礎ポイント９）{/color}\n100m走: [_return[0]] 騎馬戦: [_return[1]]\n借り物: [_return[2]] 玉入れ: [_return[3]]"
-
 # game/content/file_00000332.rpy:521
 translate japanese block_000024F1_28deb940:
 
@@ -137,3 +131,174 @@ translate japanese strings:
     # content\file_00000332.rpy:163
     old "选择出赛选手"
     new "メンバーを選んでください"
+# TODO: Translation updated at 2018-06-05 21:33
+
+translate japanese strings:
+
+    # content\file_00000332.rpy:208
+    old "因为和木村亲在一起，伊藤酱变得很努力"
+    new "木村っちと一緒だったので、伊藤ちゃんはすごく頑張る。"
+
+    # content\file_00000332.rpy:208
+    old "因为太过在意木村亲，伊藤酱犯了不少小失误"
+    new "木村っちに意識過剩のせいで伊藤ちゃんが多くなミスを犯した。"
+
+    # content\file_00000332.rpy:208
+    old "双低集团混在一起不会有好事的……"
+    new "これがDQNグループの実力……？"
+
+    # content\file_00000332.rpy:208
+    old "加藤酱和松田亲达成了奇妙的共识"
+    new "加藤ちゃんとまっつんが妙な合意を達した。"
+
+    # content\file_00000332.rpy:208
+    old "小岛君在部长面前特别努力"
+    new "部長の前の小島くんは本当すごい。"
+
+    # content\file_00000332.rpy:208
+    old "新闻部的两人又把比赛放到一边取材去了"
+    new "新聞部の二人はまだ試合を放置されて取材しにきたんだ。"
+
+    # content\file_00000332.rpy:208
+    old "小岛君在帮翼亲，他们的关系有这么好吗"
+    new "小島くんとつば吉は仲良しのともたち。"
+
+    # content\file_00000332.rpy:208
+    old "小岛君在帮翼亲，但好像起了反效果"
+    new "小島くんとつば吉の関係は良いのか悪いにか、わからない。"
+
+    # content\file_00000332.rpy:208
+    old "松田亲真的很想在傲娇君面前好好表现呢"
+    new "まっつんは本当ツンデレくんの前にいい印象を残したんだね。"
+
+    # content\file_00000332.rpy:208
+    old "松田亲很卖力，是因为傲娇君吗"
+    new "まっつんはすごく頑張る、さてツンデレくんは原因だね。"
+
+    # content\file_00000332.rpy:208
+    old "因为傲娇君的存在松田亲彻底慌乱了"
+    new "まっつんにとってツンデレくんとの共同作業のプレッシャーが想う以上多いかも。"
+
+    # content\file_00000332.rpy:208
+    old "和三酱的肌肤相亲，嘿嘿"
+    new "さぶちゃんとのスキンシップ、ふふふ。"
+
+    # content\file_00000332.rpy:208
+    old "比赛算什么，三酱最重要！"
+    new "試合はともかく、さぶちゃんが一番なの！"
+
+    # content\file_00000332.rpy:208
+    old "三酱总是盯着友亲看，呜呜"
+    new "さぶちゃんはなぜ友っちばっか見ているなの、ショック……。"
+
+    # content\file_00000332.rpy:208
+    old "三酱居然会袭击友亲，真是的"
+    new "さぶちゃんが友っちに襲われるなんて、もう。"
+
+    # content\file_00000332.rpy:208
+    old "傲娇君和翼亲关系真好"
+    new "まさかツンデレくんとつば吉が既に仲直りしたなの！？"
+
+    # content\file_00000332.rpy:208
+    old "果然傲娇君翼亲和友亲的三角恋会出问题"
+    new "やっぱり友っちとつば吉とツンデレくんの三角関係が重い。"
+
+    # content\file_00000332.rpy:208
+    old "翼亲和松田亲是竞争对手呢"
+    new "ある意味つば吉とまっつんは恋のライバルだ……よな？"
+
+    # content\file_00000332.rpy:208
+    old "和三酱同一个项目真好"
+    new "さぶちゃんと同じグループが幸せそのもの。"
+
+    # content\file_00000332.rpy:208
+    old "必须给三酱展现出我的毅力！"
+    new "まず、さぶちゃんにオイラの根性を示せ！"
+
+    # content\file_00000332.rpy:208
+    old "太过在意三酱了……大家对不起"
+    new "さぶちゃんに意識過ぎた……みんなごめん。"
+
+    # content\file_00000332.rpy:208
+    old "傲娇君很卖力呢，是因为翼亲吧"
+    new "ツンデレくんはすごく頑張る、きっとつば吉はその原因だ。"
+
+    # content\file_00000332.rpy:208
+    old "翼亲总是心神不宁"
+    new "つば吉はいつもウロウロした。"
+
+    # content\file_00000332.rpy:208
+    old "啊，早知道不把傲娇君和翼亲分在同一个组就好了"
+    new "もう、これはつば吉とツンデレくんが同じグループを分けすんたの友っちの悪い！"
+
+    # content\file_00000332.rpy:208
+    old "哇，傲娇君的大活跃！"
+    new "ツンデレくんの大活躍！"
+
+    # content\file_00000332.rpy:208
+    old "赤峰兄弟真的好厉害"
+    new "ツッキーと空っちに匹敵する人はいないかも。"
+
+    # content\file_00000332.rpy:208
+    old "阿月在赛场上也这么开放，我也想和三酱……"
+    new "まさかツッキーがこんな事を……オイラもさぶちゃんと……。"
+
+    # content\file_00000332.rpy:208
+    old "小空和友亲都喜欢料理吧，难怪他们这么默契"
+    new "空っちと友っち二人が料理好きっ屋だね。"
+
+    # content\file_00000332.rpy:208
+    old "总觉得友亲和翼亲有一腿"
+    new "思いとおり友っちとつば吉が何か裏がある。"
+
+    # content\file_00000332.rpy:208
+    old "翼亲的超常发挥！"
+    new "つば吉の超常識得点！"
+
+    # content\file_00000332.rpy:208
+    old "以后绝对不允许友亲和翼亲不分场合秀恩爱了"
+    new "説教だ！友っちとつば吉が、のぶさんで！"
+
+    # content\file_00000332.rpy:208
+    old "友亲和翼亲又在约会"
+    new "友っちとつば吉がまだデートしている。"
+
+    # content\file_00000332.rpy:208
+    old "和友亲达成了共识"
+    new "友っちと微妙な合意を達した。"
+
+    # content\file_00000332.rpy:208
+    old "唔，友亲的作战好像问题很大……"
+    new "うん、友っちの作戦はほとんど間違えた。"
+
+    # content\file_00000332.rpy:208
+    old "哇，友亲居然差点活到最后，佩服"
+    new "友っちが最後まで残した、感心感心。"
+
+    # content\file_00000332.rpy:208
+    old "连小忍都被友亲打乱步调了"
+    new "まさかのぶさんまで友っちの悪い影響のせいでDOWNした……。"
+
+    # content\file_00000332.rpy:208
+    old "小忍在帮友亲呢"
+    new "友っちとのぶさんの連携がすごい。"
+
+    # content\file_00000332.rpy:208
+    old "友亲真是总在给小忍帮倒忙呢"
+    new "友っちがいつものようにのぶさんを迷惑している。"
+
+    # content\file_00000332.rpy:485
+    old "百米田径"
+    new "100m走"
+
+    # content\file_00000332.rpy:485
+    old "骑马战"
+    new "騎馬戦"
+
+    # content\file_00000332.rpy:485
+    old "借物竞走"
+    new "借り物競走"
+
+    # content\file_00000332.rpy:485
+    old "投球入篮"
+    new "玉入れ"
