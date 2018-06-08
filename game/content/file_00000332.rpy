@@ -482,7 +482,7 @@ label block_000024CB:
 
 label block_0000147F:
     # Node: 0000147F (Result)
-    call convert_celemony_detail(_return, [_("百米田径"), _("骑马战"), _("借物竞走"), _("投球入篮")])
+    call convert_celemony_detail(_return, [_("百米田径"), _("骑马战"), _("借物竞走"), _("投球入篮")]) from _call_convert_celemony_detail
 
     python:
         set_window("イベントモード")

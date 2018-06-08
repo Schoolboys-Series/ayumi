@@ -484,7 +484,7 @@ label block_00003C04:
     # Node: 00003C04 (Result)
     $ set_window("イベントモード")
 
-    call convert_celemony_detail(_return, [_("女高音"), _("女低音"), _("男高音"), _("男低音")])
+    call convert_celemony_detail(_return, [_("女高音"), _("女低音"), _("男高音"), _("男低音")]) from _call_convert_celemony_detail_1
 
     python:
         set_window("イベントモード")
