@@ -95,7 +95,6 @@ init -1 python:
         if style.exists("ctc"):
             style.ctc.pos = dialogue_ctc[name]
         style.rebuild()
-        run_hotfixes()
 
     # Action support for set_window(name)
     class SetWindow(Action):

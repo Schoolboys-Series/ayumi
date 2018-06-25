@@ -5070,6 +5070,7 @@ label block_00004191:
 
 label block_00004192:
     # Node: 00004192 (慎太郎筆記)
+    $ renpy.block_rollback()
     call screen shintarou_notebook()
 
     if judge_lm_condition([]):

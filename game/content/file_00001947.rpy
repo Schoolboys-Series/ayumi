@@ -6654,6 +6654,8 @@ label block_0000401C:
 
 label block_0000401D:
     # Node: 0000401D (慎太郎筆記)
+    $ renpy.block_rollback()
+
     call screen shintarou_notebook()
 
     if judge_lm_condition([]):

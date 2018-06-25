@@ -961,6 +961,7 @@ label block_00002ED9:
 
 label block_00002EDA:
     # Node: 00002EDA (慎太郎筆記)
+    $ renpy.block_rollback()
     call screen shintarou_notebook()
 
     if judge_lm_condition([]):
@@ -4116,6 +4117,7 @@ label block_00002CC8:
 
 label block_00002CC7:
     # Node: 00002CC7 (慎太郎筆記)
+    $ renpy.block_rollback()
     call screen shintarou_notebook()
 
     if judge_lm_condition([]):

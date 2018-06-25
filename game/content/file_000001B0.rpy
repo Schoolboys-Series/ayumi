@@ -8828,6 +8828,7 @@ label block_000029C4:
 
 label block_000029C0:
     # Node: 000029C0 (慎太郎筆記)
+    $ renpy.block_rollback()
     call screen shintarou_notebook()
 
     if judge_lm_condition([]):
