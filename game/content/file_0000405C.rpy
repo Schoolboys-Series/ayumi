@@ -99,9 +99,6 @@ label block_00004154:
 
     $ set_window("(標準)")
 
-    if judge_lm_condition([]):
-        jump block_00004089
-
     return
 
 label block_00004168:
@@ -2621,9 +2618,6 @@ label block_000041AF:
     window hide
 
     $ set_window("(標準)")
-
-    if judge_lm_condition([]):
-        jump block_0000408A
 
     return
 
