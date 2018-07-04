@@ -562,7 +562,6 @@ label block_00000891:
 
 label block_00003907:
     # Node: 00003907 (FLAG: 尋求刺激-解)
-    $ set_place_title("")
     call block_00003900 from _call_block_00003900
 
     if judge_lm_condition([]):

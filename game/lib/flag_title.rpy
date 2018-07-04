@@ -63,6 +63,9 @@ init:
 
 label scb_flag_title(chapter, title, with_image=None):
     window hide
+    $ set_place_title("")
+    hide tag_ECFB5B509A334A868686B3435242BF90
+    with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
     stop effect2 fadeout 0.5
     $ sys_effect2_current_file = ""
@@ -127,6 +130,9 @@ label scb_flag_title(chapter, title, with_image=None):
 
 label scb_flag_title_end(chapter, title, with_image=None, reverse_color=False):
     window hide
+    $ set_place_title("")
+    hide tag_ECFB5B509A334A868686B3435242BF90
+    with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
     pause 2
 
