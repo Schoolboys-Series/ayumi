@@ -2423,9 +2423,9 @@ label block_00002437:
     stop music fadeout 2
     $ sys_music_current_file = ""
 
+    $ set_place_title("")
     hide tag_ECFB5B509A334A868686B3435242BF90
     hide tag_2C4A74BADF6540698EF3E9A300893D1A
-    $ set_place_title("")
     hide tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3
     with rs_effect_D40B37AD6AF94EE0AFF8CB0762377A91
 

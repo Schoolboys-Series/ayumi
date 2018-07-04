@@ -4,6 +4,7 @@ define config.layers = [ 'master', 'transient', 'screens', 'overlay' ]
 
 init -1 python:
     import random
+    import copy
     # Volume stack
     volume_stack = {
         "music": [],
@@ -88,7 +89,7 @@ init -1 python:
         else:
             globals()["current_window"] = name = "イベントモード"
         print "Set windows to : %s" % (name)
-        style.window = dialogue_stylesheet[name]
+        style.window = copy.deepcopy(dialogue_stylesheet[name])
         if style.exists("say_dialogue"):
             style.say_dialogue.color = dialogue_stylesheet[name].color
             style.say_dialogue.size = dialogue_stylesheet[name].size
