@@ -6,14 +6,9 @@ init python:
         globals()["sys_current_place_title"] = place
         renpy.hide_screen("scb_place_title")
         renpy.with_statement(Dissolve(0.2))
-        if place == False:
-            renpy.hide_screen("scb_quick_menu")
-            renpy.with_statement(Dissolve(0.2))
-            pass
-        else:
+        if place != False:
             renpy.show_screen("scb_place_title", _layer="screens", _tag="scb_place_title", place=place)
             renpy.with_statement(Dissolve(0.2))
-            hotfix_2()
 
 screen scb_place_title(place):
     if place == "" or place == None:
@@ -22,11 +17,11 @@ screen scb_place_title(place):
         text place style "scb_place_title_text"
 
 style scb_place_title_text:
-    xpos 160
+    xpos 790
     ypos 25
     size 18
     color "#60300C"
-    xanchor 0.5
+    xanchor 1.0
     yanchor 0.5
     text_align 0.5
     outlines [(absolute(2), "#FFFFFFFF", absolute(0), absolute(0)),

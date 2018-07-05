@@ -26,6 +26,7 @@ init -1 python:
     # Basic Messagebox data to support LiveMaker
     dialogue_stylesheet = {}
     dialogue_ctc = {}
+    dialogue_show_actions = {}
     dialogue_stylesheet["(標準)"] = Style(style.default)
     dialogue_stylesheet["(標準)"].size = 22
     dialogue_stylesheet["(標準)"].color = "#000000"
@@ -34,24 +35,27 @@ init -1 python:
     dialogue_stylesheet["(標準)"].padding = (20, 14, 20, 19)
     dialogue_stylesheet["(標準)"].background = Image("gui/window_ayumi.png", xalign=0, yalign=0)
     dialogue_ctc["(標準)"] = (754, 556)
+    dialogue_show_actions["(標準)"] = True
 
     dialogue_stylesheet["イベントモード"] = Style(style.default)
     dialogue_stylesheet["イベントモード"].size = 22
     dialogue_stylesheet["イベントモード"].color = "#FFFFFF"
     dialogue_stylesheet["イベントモード"].outlines = [(absolute(1), "#000000", absolute(0), absolute(0))]
     dialogue_stylesheet["イベントモード"].area = (0, 300, 800, 300)
-    dialogue_stylesheet["イベントモード"].padding = (20, 130, 20, 15)
+    dialogue_stylesheet["イベントモード"].padding = (20, 130, 10, 15)
     dialogue_stylesheet["イベントモード"].background = Image("gui/window_event.png", xalign=0.5, yalign=1.0)
     dialogue_ctc["イベントモード"] = (764, 566)
+    dialogue_show_actions["イベントモード"] = True
 
     dialogue_stylesheet["チャット"] = Style(style.default)
     dialogue_stylesheet["チャット"].size = 22
     dialogue_stylesheet["チャット"].color = "#000000"
     dialogue_stylesheet["チャット"].outlines = [(absolute(1), "#FFFFFF", absolute(0), absolute(0))]
     dialogue_stylesheet["チャット"].area = (250, 50, 510, 104)
-    dialogue_stylesheet["チャット"].padding = (72, 10, 43, 14)
+    dialogue_stylesheet["チャット"].padding = (72, 10, 10, 14)
     dialogue_stylesheet["チャット"].background = Image("gui/window_alert.png", xalign=0.0, yalign=0.0)
     dialogue_ctc["チャット"] = (754, 195)
+    dialogue_show_actions["チャット"] = True
 
     dialogue_stylesheet["体育祭、音楽祭"] = Style(style.default)
     dialogue_stylesheet["体育祭、音楽祭"].size = 22
@@ -61,6 +65,7 @@ init -1 python:
     dialogue_stylesheet["体育祭、音楽祭"].padding = (20, 10, 20, 10)
     dialogue_stylesheet["体育祭、音楽祭"].background = Image("gui/window_center.png", xalign=0.5, yalign=0.5)
     dialogue_ctc["体育祭、音楽祭"] = (635, 329)
+    dialogue_show_actions["体育祭、音楽祭"] = False
 
     dialogue_stylesheet["チャット画面"] = Style(style.default)
     dialogue_stylesheet["チャット画面"].size = 22
@@ -70,6 +75,7 @@ init -1 python:
     dialogue_stylesheet["チャット画面"].padding = (127, 103, 15, 105)
     dialogue_stylesheet["チャット画面"].background = Image("gui/window_channel.png", xalign=1.0, yalign=0.0)
     dialogue_ctc["チャット画面"] = (755, 460)
+    dialogue_show_actions["チャット画面"] = False
 
     dialogue_stylesheet["カルタ"] = Style(style.default)
     dialogue_stylesheet["カルタ"].size = 30
@@ -79,6 +85,7 @@ init -1 python:
     dialogue_stylesheet["カルタ"].padding = (10, 0, 0, 0)
     dialogue_stylesheet["カルタ"].background = Image("gui/window_empty.png", xalign=0, yalign=0)
     dialogue_ctc["カルタ"] = (580, 70)
+    dialogue_show_actions["カルタ"] = False
 
     # set_window("<Messagebox's name from LiveMaker project>")
     def set_window(name=None):
@@ -95,6 +102,7 @@ init -1 python:
             style.say_dialogue.size = dialogue_stylesheet[name].size
         if style.exists("ctc"):
             style.ctc.pos = dialogue_ctc[name]
+        globals()["sys_dialogue_show_actions"] = dialogue_show_actions[name]
         style.rebuild()
 
     # Action support for set_window(name)

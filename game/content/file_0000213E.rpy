@@ -119,9 +119,6 @@ label theater_content:
         $ SYSTempChapterValue = Chapter
     $ Chapter = theater_current_chapter
 
-    $ renpy.show_screen("scb_quick_menu", _layer="screens", _tag="scb_quick_menu")
-    $ renpy.with_statement(Dissolve(0.2))
-
     if theater_current_chapter == 1:
         if _return == 0:
             jump block_00002B5F

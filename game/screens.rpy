@@ -435,7 +435,6 @@ style ctc:
 
 screen say(who, what):
     style_prefix "say"
-
     window:
         id "window"
         style "window"
@@ -445,13 +444,19 @@ screen say(who, what):
                 style "namebox"
                 text who id "who"
         text what id "what"
-    if not renpy.variant("small"):
-        add SideImage() xalign 0.0 yalign 1.0
+        if "sys_dialogue_show_actions" in globals() and globals()["sys_dialogue_show_actions"] == True:
+            hbox:
+                style "say_actions"
+                imagebutton:
+                    idle "gui/menu_screenshot.png"
+                    hover "gui/menu_screenshot hover.png"
+                    action Screenshot()
+                imagebutton:
+                    idle "gui/menu_button.png"
+                    hover "gui/menu_button hover.png"
+                    action ShowMenu("save")
 
 style window is default
-style say_label is default
-style say_dialogue is default
-style say_thought is say_dialogue
 style namebox is default
 style namebox_label is say_label
 style namebox:
@@ -471,6 +476,10 @@ style say_dialogue:
     xpos gui.dialogue_xpos
     xsize gui.dialogue_width
     ypos gui.dialogue_ypos
+style say_actions:
+    xalign 1.0
+    yalign 0.05
+    spacing 15
 
 ## Input screen ################################################################
 ##
