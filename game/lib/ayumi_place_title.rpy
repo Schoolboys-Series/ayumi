@@ -11,15 +11,18 @@ init python:
             renpy.with_statement(Dissolve(0.2))
 
 screen scb_place_title(place):
-    if place == "" or place == None:
-        pass
-    else:
+    if place != "" and place != None:
         text place style "scb_place_title_text"
+        imagebutton:
+                style "scb_place_title_save_button"
+                idle "gui/menu_button.png"
+                hover "gui/menu_button hover.png"
+                action ShowMenu("save")
 
 style scb_place_title_text:
-    xpos 790
-    ypos 25
-    size 18
+    xpos 760
+    ypos 30
+    size 22
     color "#60300C"
     xanchor 1.0
     yanchor 0.5
@@ -29,3 +32,7 @@ style scb_place_title_text:
               (absolute(6), "#FFFFFF44", absolute(0), absolute(0)),
               (absolute(8), "#FFFFFF00", absolute(0), absolute(0))]
     font "font/zcool-happy-ayumi-extended.ttf"
+style scb_place_title_save_button:
+    xanchor 1.0
+    xpos 795
+    ypos 5

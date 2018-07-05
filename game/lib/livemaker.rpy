@@ -35,7 +35,7 @@ init -1 python:
     dialogue_stylesheet["(標準)"].padding = (20, 14, 20, 19)
     dialogue_stylesheet["(標準)"].background = Image("gui/window_ayumi.png", xalign=0, yalign=0)
     dialogue_ctc["(標準)"] = (754, 556)
-    dialogue_show_actions["(標準)"] = True
+    dialogue_show_actions["(標準)"] = False
 
     dialogue_stylesheet["イベントモード"] = Style(style.default)
     dialogue_stylesheet["イベントモード"].size = 22
@@ -319,6 +319,7 @@ screen lm_menu_screen(items, sound, time_limit, fadein_time, fadeout_time):
                                 hovered Play("menu_effect", sound["hover"])
         if time_limit and time_limit > 0:
             timer time_limit action Return({ "name": "", "index": -1 })
+        
 
 screen lm_menu_preview(x, y, target):
     add target pos (x, y)

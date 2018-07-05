@@ -448,10 +448,6 @@ screen say(who, what):
             hbox:
                 style "say_actions"
                 imagebutton:
-                    idle "gui/menu_screenshot.png"
-                    hover "gui/menu_screenshot hover.png"
-                    action Screenshot()
-                imagebutton:
                     idle "gui/menu_button.png"
                     hover "gui/menu_button hover.png"
                     action ShowMenu("save")
