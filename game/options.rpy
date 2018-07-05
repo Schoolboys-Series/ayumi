@@ -176,13 +176,17 @@ init python:
     build.classify('**.ai', None)  # Illustrator file
     build.classify('**.fcp', None) # FontCreator file
     build.classify('README.md', None) # Readme file
+    build.classify('Steamwork/**', None) # Steam file
+    build.classify('CONTRIBUTING.md', None) # GitHub file
+    build.classify('LICENSE', None) # GitHub file
     build.classify('**/thumbs.db', None) # Thumbnail file
     build.classify('**/.**', None) # Hidden file
     build.classify('raw/**', None) # Raw file
     build.classify('**/#**', None)
-    build.classify('_confidentiality_agreement.pdf', None)
     build.classify('game/images/**.png', 'archive')
     build.classify('game/sound/**.ogg', 'archive')
+    build.classify('game/tl/**/**.png', 'archive')
+    build.classify('game/tl/**/**.ogg', 'archive')
 
     ## To archive files, classify them as 'archive'.
 
