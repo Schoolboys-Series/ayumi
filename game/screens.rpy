@@ -4,7 +4,6 @@ image white = Solid("#FFFFFF")
 image color_primary = Solid("#00B3C7")
 
 init python:
-    # import time 会在6.X最后一个版本导致无法存档。7.X未知。
     # Help function
     def split(arr, size):
         arrs = []

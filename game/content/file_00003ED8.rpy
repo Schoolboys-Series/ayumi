@@ -59,7 +59,7 @@ label block_00003F2A:
     stop effect2 fadeout 0.2
     $ sys_effect2_current_file = ""
 
-    if sys_effect_current_file != "sound/Effect Sound/Open door 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Open door 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Open door 1.ogg"
 
@@ -82,7 +82,7 @@ label block_00003EF2:
         play music "sound/BGM/Night.ogg" loop
         $ sys_music_current_file = "sound/BGM/Night.ogg"
 
-    if sys_effect_current_file != "sound/Effect Sound/Walk 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Walk 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Walk 1.ogg"
 
@@ -96,7 +96,7 @@ label block_00003EF2:
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
     $ set_place_title(_("宝咲上学路"))
-    if sys_effect2_current_file != "sound/Effect Sound/Night insect 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Night insect 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Night insect 1.ogg"
 
@@ -129,7 +129,7 @@ label block_00003EF3:
 
 label block_00003EF0:
     # Node: 00003EF0 (宝咲)
-    if sys_effect_current_file != "sound/Effect Sound/Walk 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Walk 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Walk 1.ogg"
 
@@ -141,7 +141,7 @@ label block_00003EF0:
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
     $ set_place_title(_("宝咲"))
-    if sys_effect2_current_file != "sound/Effect Sound/Night insect 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Night insect 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Night insect 1.ogg"
 
@@ -210,7 +210,7 @@ label block_00003EE9:
     hide tag_D71B998959E446A69B3BAF1EFCCB35F6
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect2_current_file != "sound/Effect Sound/Train 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Train 2.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Train 2.ogg"
 
@@ -231,7 +231,7 @@ label block_00003EE9:
 
 label block_00003EF7:
     # Node: 00003EF7 (御咲站)
-    if sys_effect_current_file != "sound/Effect Sound/Walk 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Walk 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Walk 1.ogg"
 
@@ -244,7 +244,7 @@ label block_00003EF7:
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
     $ set_place_title(_("御咲站"))
-    if sys_effect2_current_file != "sound/Effect Sound/Night insect 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Night insect 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Night insect 1.ogg"
 
@@ -355,7 +355,7 @@ label block_00003F00:
 
 label block_00003EE0:
     # Node: 00003EE0 (Misaki school)
-    if sys_effect_current_file != "sound/Effect Sound/Walk 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Walk 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Walk 1.ogg"
 
@@ -370,7 +370,7 @@ label block_00003EE0:
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
     $ set_place_title(_("校门"))
-    if sys_effect2_current_file != "sound/Effect Sound/Night insect 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Night insect 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Night insect 1.ogg"
 
@@ -405,7 +405,7 @@ label block_00003EDF:
 
 label block_00003F07:
     # Node: 00003F07 (Outside toilet)
-    if sys_effect_current_file != "sound/Effect Sound/Walk 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Walk 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Walk 1.ogg"
 
@@ -419,7 +419,7 @@ label block_00003F07:
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
     $ set_place_title(_("室外厕所"))
-    if sys_effect2_current_file != "sound/Effect Sound/Wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Wind 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Wind 1.ogg"
 
@@ -451,7 +451,7 @@ label block_00003F06:
 
 label block_00003F05:
     # Node: 00003F05 (Board)
-    if sys_effect_current_file != "sound/Effect Sound/Decision 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Decision 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Decision 1.ogg"
 
@@ -472,7 +472,7 @@ label block_00003F05:
 
 label block_00003EDE:
     # Node: 00003EDE (Residential street)
-    if sys_effect_current_file != "sound/Effect Sound/Walk 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Walk 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Walk 1.ogg"
 
@@ -485,7 +485,7 @@ label block_00003EDE:
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
     $ set_place_title(_("住宅街"))
-    if sys_effect2_current_file != "sound/Effect Sound/Night insect 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Night insect 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Night insect 1.ogg"
 
@@ -520,7 +520,7 @@ label block_00003EE2:
 
 label block_00003EE6:
     # Node: 00003EE6 (Residential street turning)
-    if sys_effect_current_file != "sound/Effect Sound/Walk 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Walk 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Walk 1.ogg"
 
@@ -532,7 +532,7 @@ label block_00003EE6:
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
     $ set_place_title(_("住宅街路口"))
-    if sys_effect2_current_file != "sound/Effect Sound/Night insect 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Night insect 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Night insect 1.ogg"
 
@@ -565,7 +565,7 @@ label block_00003EE7:
 
 label block_00003EEE:
     # Node: 00003EEE (Jinja)
-    if sys_effect_current_file != "sound/Effect Sound/Walk 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Walk 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Walk 1.ogg"
 
@@ -577,7 +577,7 @@ label block_00003EEE:
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
     $ set_place_title(_("神社"))
-    if sys_effect2_current_file != "sound/Effect Sound/Night insect 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Night insect 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Night insect 1.ogg"
 
@@ -626,7 +626,7 @@ label block_00003F0A:
 
     window hide
 
-    if sys_effect_current_file != "sound/Effect Sound/Paper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Paper 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Paper 1.ogg"
 
@@ -646,7 +646,7 @@ label block_00003F0A:
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "好！作为好孩子就由我处理了！"
 
-    if sys_effect_current_file != "sound/Effect Sound/Paper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Paper 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Paper 1.ogg"
 
@@ -656,7 +656,7 @@ label block_00003F0A:
 
     pause 0.7
 
-    if sys_effect2_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Surprise 1.ogg"
 
@@ -664,7 +664,7 @@ label block_00003F0A:
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哈哈，会不会被神明夸奖呐。\n"
-    if sys_effect2_current_file != "sound/Effect Sound/As you wish 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/As you wish 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/As you wish 1.ogg"
 
@@ -678,7 +678,7 @@ label block_00003F0A:
     $ set_place_title(_("神社"))
     pause 0.3
 
-    if sys_effect2_current_file != "sound/Effect Sound/Night insect 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Night insect 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Night insect 1.ogg"
 
@@ -715,7 +715,7 @@ label block_00003EEA:
     stop effect2 fadeout 0.5
     $ sys_effect2_current_file = ""
 
-    if sys_effect_current_file != "sound/Effect Sound/Walk 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Walk 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Walk 1.ogg"
 
@@ -729,7 +729,7 @@ label block_00003EEA:
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
     $ set_place_title(_("广场"))
-    if sys_effect2_current_file != "sound/Effect Sound/Night insect 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Night insect 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Night insect 1.ogg"
 
@@ -764,7 +764,7 @@ label block_00003EEB:
 
 label block_00003EF4:
     # Node: 00003EF4 (Spring water park)
-    if sys_effect_current_file != "sound/Effect Sound/Walk 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Walk 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Walk 1.ogg"
 
@@ -779,7 +779,7 @@ label block_00003EF4:
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
     $ set_place_title(_("泉水公园"))
-    if sys_effect2_current_file != "sound/Effect Sound/Wave 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Wave 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Wave 1.ogg"
 
@@ -857,11 +857,11 @@ label block_00003EF6:
 
     extend "晚上好，森海友同学。"
 
-    if sys_effect2_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Surprise 1.ogg"
 
-    $ zorder_tag_ECFB5B509A334A868686B3435242BF90 = 200
+    $ zorder_tag_ECFB5B509A334A868686B3435242BF90 = 300
     show rs_image_3CCC6DE5C5ED405DB1BBB15ECA3CDD44 as tag_ECFB5B509A334A868686B3435242BF90 at left_top zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
@@ -877,7 +877,7 @@ label block_00003EF6:
 
     rs_character_62324AD297554FE987C680452CEE232E "那段时间对我们双方应该都很有意义。"
 
-    if sys_effect2_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Strike 1.ogg"
 
@@ -952,7 +952,7 @@ label block_00003EF6:
 
     pause 0.5
 
-    if sys_effect2_current_file != "sound/Effect Sound/Walk 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Walk 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Walk 1.ogg"
 
@@ -968,7 +968,7 @@ label block_00003EF6:
         play music "sound/BGM/Night.ogg" loop
         $ sys_music_current_file = "sound/BGM/Night.ogg"
 
-    if sys_effect2_current_file != "sound/Effect Sound/Night insect 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Night insect 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Night insect 1.ogg"
 
@@ -981,7 +981,7 @@ label block_00003EF6:
 
     pause 1.8
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -1003,7 +1003,7 @@ label block_00003EF6:
     rs_character_62324AD297554FE987C680452CEE232E "你想去什么地方？“不勉强”是用强硬手段也要达到目标的意思。"
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "诶？"
-    if sys_effect2_current_file != "sound/Effect Sound/Flash 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Flash 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Flash 1.ogg"
 
@@ -1077,7 +1077,7 @@ label block_00003EF6:
     $ sys_music2_current_file = ""
 
     extend "{color=#FFFF80}我……{/color}{w}{w=0.5}{nw}"
-    if sys_effect2_current_file != "sound/Effect Sound/Look! 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Look! 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Look! 1.ogg"
 
@@ -1106,7 +1106,7 @@ label block_00003EF6:
 label block_00003F08:
     # Node: 00003F08 (QUEST FINISH)
     $ set_window("(標準)")
-    if sys_effect2_current_file != "sound/BGM/Quest Finished.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/BGM/Quest Finished.ogg" noloop
         $ sys_effect2_current_file = "sound/BGM/Quest Finished.ogg"
 
@@ -1163,7 +1163,7 @@ label block_00003F04:
 
 label block_00003EEC:
     # Node: 00003EEC (Forest)
-    if sys_effect_current_file != "sound/Effect Sound/Walk 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Walk 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Walk 1.ogg"
 
@@ -1181,7 +1181,7 @@ label block_00003EEC:
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
     $ set_place_title(_("迷之地点"))
-    if sys_effect2_current_file != "sound/Effect Sound/Wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Wind 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Wind 1.ogg"
 
@@ -1229,14 +1229,14 @@ label block_00003F17:
     # Node: 00003F17 (First arrive)
     window show
 
-    if sys_effect_current_file != "sound/Effect Sound/Notice 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Notice 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Notice 1.ogg"
 
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『这前面非常危险。』{/color}"
 
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『不过，以前得到过一件寄宿着\n不可思议力量的{/color}{color=#FF0000}超人服装{/color}{color=#0080FF}。{/color}\n{nw}"
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -1281,7 +1281,7 @@ label block_00003F19:
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
     $ set_place_title(_("迷之地点"))
-    if sys_effect2_current_file != "sound/Effect Sound/Wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Wind 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Wind 1.ogg"
 
@@ -1312,7 +1312,7 @@ label block_00003EED:
 
 label block_00003EE4:
     # Node: 00003EE4 (Shopping street)
-    if sys_effect_current_file != "sound/Effect Sound/Walk 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Walk 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Walk 1.ogg"
 
@@ -1361,7 +1361,7 @@ label block_00003F20:
     stop music fadeout 1
     $ sys_music_current_file = ""
 
-    if sys_effect_current_file != "sound/Effect Sound/Scene changing 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Scene changing 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Scene changing 2.ogg"
 
@@ -1468,7 +1468,7 @@ label block_00003EFF:
 
 label block_00003EE1:
     # Node: 00003EE1 (Park)
-    if sys_effect_current_file != "sound/Effect Sound/Walk 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Walk 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Walk 1.ogg"
 
@@ -1481,7 +1481,7 @@ label block_00003EE1:
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
     $ set_place_title(_("公园"))
-    if sys_effect2_current_file != "sound/Effect Sound/Night insect 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Night insect 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Night insect 1.ogg"
 
@@ -1546,7 +1546,7 @@ label block_00003EE8:
     hide tag_D71B998959E446A69B3BAF1EFCCB35F6
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect2_current_file != "sound/Effect Sound/Train 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Train 2.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Train 2.ogg"
 
@@ -1567,7 +1567,7 @@ label block_00003EE8:
 
 label block_00003EFE:
     # Node: 00003EFE (Map)
-    if sys_effect_current_file != "sound/Effect Sound/Decision 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Decision 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Decision 1.ogg"
 
@@ -1631,7 +1631,7 @@ label block_00003F0E:
 
     rs_character_57471360F48A413AB843A4E46D8C5541 "要是比现在出席率再降低就麻烦了。\n下次必须和他好好谈谈。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"
 
@@ -1644,7 +1644,7 @@ label block_00003F0E:
     window hide
 
     $ set_place_title(_("宝咲"))
-    if sys_effect2_current_file != "sound/Effect Sound/Night insect 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Night insect 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Night insect 1.ogg"
 
@@ -1684,7 +1684,7 @@ label block_00003F01:
     stop effect2 fadeout 0.2
     $ sys_effect2_current_file = ""
 
-    if sys_effect_current_file != "sound/Effect Sound/Open door 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Open door 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Open door 1.ogg"
 
@@ -1741,7 +1741,7 @@ label block_00003F2E:
     stop music2 fadeout 1
     $ sys_music2_current_file = ""
 
-    if sys_effect2_current_file != "sound/BGM/Finally.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/BGM/Finally.ogg" noloop
         $ sys_effect2_current_file = "sound/BGM/Finally.ogg"
 
@@ -1793,7 +1793,7 @@ label block_00003F31:
 
 label block_00003F02:
     # Node: 00003F02 (Photo)
-    if sys_effect_current_file != "sound/Effect Sound/Decision 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Decision 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Decision 1.ogg"
 

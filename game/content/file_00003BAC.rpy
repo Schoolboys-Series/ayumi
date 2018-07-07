@@ -55,7 +55,7 @@ label block_00003BAE:
 
     window hide
 
-    if sys_effect3_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
+    if "sys_effect3_current_file" in globals() and sys_effect3_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
         play effect3 "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect3_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -63,7 +63,7 @@ label block_00003BAE:
     hide tag_9D0001B69AD04AE9A8D1DE7AF344E0A3
     with rs_effect_9B79BC7F460B4E06BA4FDB458B5423C1
 
-    if sys_effect3_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
+    if "sys_effect3_current_file" in globals() and sys_effect3_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
         play effect3 "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect3_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -82,7 +82,7 @@ label block_00003BAE:
     hide tag_ECFB5B509A334A868686B3435242BF90
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Drum 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Drum 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Drum 1.ogg"
 
@@ -108,7 +108,7 @@ label block_00003BAE:
     hide tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 3.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 3.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 3.ogg"
 
@@ -127,7 +127,7 @@ label block_00003BAE:
     hide tag_9D0001B69AD04AE9A8D1DE7AF344E0A3
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -141,7 +141,7 @@ label block_00003BAE:
 
     window hide
 
-    if sys_effect3_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
+    if "sys_effect3_current_file" in globals() and sys_effect3_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
         play effect3 "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect3_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -150,7 +150,7 @@ label block_00003BAE:
     hide tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD
     with rs_effect_9B79BC7F460B4E06BA4FDB458B5423C1
 
-    if sys_effect3_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
+    if "sys_effect3_current_file" in globals() and sys_effect3_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
         play effect3 "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect3_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -166,7 +166,7 @@ label block_00003BAE:
 
     window show
 
-    if sys_effect_current_file != "sound/Effect Sound/Surprise 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 2.ogg"
 
@@ -192,7 +192,7 @@ label block_00003BAE:
     with rs_effect_3F09116E1F944952A143A708C140C6CA
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "“夕阳”是，{nw}"
-    if sys_effect_current_file != "sound/Effect Sound/Notice 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Notice 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Notice 1.ogg"
 
@@ -211,7 +211,7 @@ label block_00003BAE:
 
     pause 1
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -229,7 +229,7 @@ label block_00003BAE:
 
     window show
 
-    if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
@@ -238,7 +238,7 @@ label block_00003BAE:
 
     rs_character_94BAB10DED8E4AE2B5B532EDC28ACA68 "姆——！姆——！不是这样的不是这样的！"
 
-    if sys_effect2_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
@@ -255,7 +255,7 @@ label block_00003BAE:
     hide tag_359C09A6BFDC41098D3302BF3F292D65
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
 
@@ -286,7 +286,7 @@ label block_00003BAE:
 
     pause 0.5
 
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -316,7 +316,7 @@ label block_00003BAE:
 
     rs_character_50A3B84756FC458695CF53C0DC1DC85C "一等奖是{color=#FFFF00}三天两夜{/color}的豪华旅行券哦。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Look! 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Look! 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Look! 1.ogg"
 
@@ -337,7 +337,7 @@ label block_00003BAE:
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "真是的～基本上忍总是会大惊小怪地误会呐——\n要好好反省哦——"
 
-    if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
 
@@ -374,7 +374,7 @@ label block_00003BAE:
 
     window show
 
-    if sys_effect_current_file != "sound/Effect Sound/Lottery 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Lottery 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Lottery 1.ogg"
 
@@ -382,7 +382,7 @@ label block_00003BAE:
     stop effect fadeout 0.5
     $ sys_effect_current_file = ""
 
-    if sys_effect2_current_file != "sound/Effect Sound/Lottery 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Lottery 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Lottery 1.ogg"
 
@@ -399,7 +399,7 @@ label block_00003BAE:
     show rs_image_C0BD1F4E52FF496AA98961E053D79050 as tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 at center_bottom zorder zorder_tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 onlayer master
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
-    if sys_effect2_current_file != "sound/Effect Sound/Wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Wind 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Wind 1.ogg"
 
@@ -424,7 +424,7 @@ label block_00003BAE:
 
     pause 3.5
 
-    if sys_effect3_current_file != "sound/Effect Sound/Night insect 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
+    if "sys_effect3_current_file" in globals() and sys_effect3_current_file != "sound/Effect Sound/Night insect 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
         play effect3 "sound/Effect Sound/Night insect 1.ogg" loop
         $ sys_effect3_current_file = "sound/Effect Sound/Night insect 1.ogg"
 
@@ -452,7 +452,7 @@ label block_00003BAE:
 
     pause 0.4
 
-    if sys_effect_current_file != "sound/Effect Sound/Dash 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dash 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dash 1.ogg"
 
@@ -475,7 +475,7 @@ label block_00003BAE:
 
     rs_character_50A3B84756FC458695CF53C0DC1DC85C "……"
 
-    if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
@@ -490,7 +490,7 @@ label block_00003BAE:
 
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 "你这样的大叔我们没兴趣。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Frustrated 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Frustrated 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Frustrated 1.ogg"
 
@@ -504,7 +504,7 @@ label block_00003BAE:
 
     rs_character_9EDF48057FB84D428D56198A69E2880E "大、大叔！？怎么这么失礼！！\n看起来这样我才25岁！肌肉也……"
 
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -526,7 +526,7 @@ label block_00003BAE:
 
     pause 0.5
 
-    if sys_effect_current_file != "sound/Effect Sound/Flash 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Flash 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Flash 1.ogg"
 
@@ -544,12 +544,12 @@ label block_00003BAE:
 
     pause 0.3
 
-    if sys_effect_current_file != "sound/Effect Sound/Impact 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 2.ogg"
 
     rs_character_F798676F0E9448499D48B0E2448BB32D "{size=32}快・{/size}{w=0.3}{nw}"
-    if sys_effect2_current_file != "sound/Effect Sound/Impact 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Impact 2.ogg"
 
@@ -561,7 +561,7 @@ label block_00003BAE:
     hide tag_359C09A6BFDC41098D3302BF3F292D65
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Flee 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Flee 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Flee 1.ogg"
 
@@ -595,7 +595,7 @@ label block_00003BAE:
 
     pause 3.5
 
-    if sys_effect3_current_file != "sound/Effect Sound/Swallow 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
+    if True: # Hotfix: Ignore multiplay defenser for voice sound
         play effect3 "sound/Effect Sound/Swallow 1.ogg" loop
         $ sys_effect3_current_file = "sound/Effect Sound/Swallow 1.ogg"
 
@@ -607,7 +607,7 @@ label block_00003BAE:
 
     window show
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 1.ogg"
 
@@ -615,7 +615,7 @@ label block_00003BAE:
 
     rs_character_D93E396B7ADB48CBAE13F206958FC08B "这种事也是有的呐。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 2.ogg"
 
@@ -653,7 +653,7 @@ label block_00003BAE:
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "有三天两夜的旅行的话，也只能选星期五了呐～♪"
 
-    if sys_effect_current_file != "sound/Effect Sound/Attack 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Attack 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Attack 1.ogg"
 
@@ -671,7 +671,7 @@ label block_00003BAE:
     hide tag_9D0001B69AD04AE9A8D1DE7AF344E0A3
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -704,7 +704,7 @@ label block_00003BAE:
 
     window show
 
-    if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
@@ -714,7 +714,7 @@ label block_00003BAE:
 
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "这、这边二班队也都没有问题……"
 
-    if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
 
@@ -728,7 +728,7 @@ label block_00003BAE:
     with rs_effect_B70215F4C83E407D8C2CA682FB6965D7
 
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "冷静点一之濑，客气得太厉害了，"
-    if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Strike 1.ogg"
 
@@ -745,7 +745,7 @@ label block_00003BAE:
     hide tag_F533D76D6EDF4AB39ECAAB90D8F4723D
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Flee 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Flee 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Flee 1.ogg"
 
@@ -757,7 +757,7 @@ label block_00003BAE:
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "什么！？面对这么愉快的我们不可能高兴不起来的！"
 
-    if sys_effect2_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Strike 1.ogg"
 
@@ -797,7 +797,7 @@ label block_00003BAE:
 
     window show
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 1.ogg"
 
@@ -840,7 +840,7 @@ label block_00003BAE:
 
     rs_character_57471360F48A413AB843A4E46D8C5541 "……那不是我们该说的。那边才是比我们高一级的前辈。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
 
@@ -854,7 +854,7 @@ label block_00003BAE:
 
     rs_character_D93E396B7ADB48CBAE13F206958FC08B "不、不用、不用在意。……经常会被认错，已经习惯了……"
 
-    if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
@@ -862,7 +862,7 @@ label block_00003BAE:
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "啊啊啊……那个、那个……\n"
-    if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Strike 1.ogg"
 
@@ -914,7 +914,7 @@ label block_00003BAE:
 
     pause 1
 
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -966,7 +966,7 @@ label block_00003BAE:
     hide tag_25C83DBF35814073B3DF9FF7BCEF75AC
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Impact 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 2.ogg"
 
@@ -975,7 +975,7 @@ label block_00003BAE:
     with rs_effect_86C6DB3C38A946C09D75722DCD2AE27B
 
     rs_character_3AD49134E90444729FD2EFC8D1296F7D "波乱万丈奇奇怪怪、奇想天外吃惊仰天！\n接下来会是何种旅行……"
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -997,7 +997,7 @@ label block_00003BAE:
     hide tag_C389451CCE5A4CEAB24DEF9A7C02635D
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 1.ogg"
 
@@ -1070,7 +1070,7 @@ label block_00003BAE:
 
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "……毫无人气的迷之房屋。感觉就像要发生什么的样子不太舒服。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
@@ -1098,7 +1098,7 @@ label block_00003BAE:
 
     rs_character_57471360F48A413AB843A4E46D8C5541 "没看天气预报吗？那边在下雨。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Strike 1.ogg"
 
@@ -1146,7 +1146,7 @@ label block_00003BAE:
 
     pause 2
 
-    if sys_effect_current_file != "sound/Effect Sound/Break 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Break 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Break 1.ogg"
 
@@ -1160,7 +1160,7 @@ label block_00003BAE:
 
     pause 2
 
-    if sys_effect3_current_file != "sound/Effect Sound/Wave 2.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
+    if "sys_effect3_current_file" in globals() and sys_effect3_current_file != "sound/Effect Sound/Wave 2.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
         play effect3 "sound/Effect Sound/Wave 2.ogg" loop
         $ sys_effect3_current_file = "sound/Effect Sound/Wave 2.ogg"
 
@@ -1186,7 +1186,7 @@ label block_00003BAE:
     hide tag_51E1CA5715FC4887A4E4083BB8D521B0
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Kirakira 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Kirakira 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Kirakira 1.ogg"
 
@@ -1205,7 +1205,7 @@ label block_00003BAE:
 
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "哦——！爱情酒店风的好下流♪"
 
-    if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Strike 1.ogg"
 
@@ -1220,7 +1220,7 @@ label block_00003BAE:
     hide tag_25C83DBF35814073B3DF9FF7BCEF75AC
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
@@ -1271,7 +1271,7 @@ label block_00003BAE:
     hide tag_FD7EEC63649F4ABB88B3E11A041AF5A6
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -1283,7 +1283,7 @@ label block_00003BAE:
 
     rs_character_57471360F48A413AB843A4E46D8C5541 "“啊啊，要是喜欢的那个孩子能来就好了呐”\n这样的想法在夕阳君心中驰骋。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
 
@@ -1315,7 +1315,7 @@ label block_00003BAE:
 
     pause 0.5
 
-    if sys_effect4_current_file != "sound/Effect Sound/Wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
+    if True: # Hotfix: Ignore multiplay defenser for voice sound
         play effect4 "sound/Effect Sound/Wind 1.ogg" loop
         $ sys_effect4_current_file = "sound/Effect Sound/Wind 1.ogg"
 
@@ -1324,7 +1324,7 @@ label block_00003BAE:
 
     pause 0.7
 
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -1342,7 +1342,7 @@ label block_00003BAE:
 
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "怎么了友亲？"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -1372,7 +1372,7 @@ label block_00003BAE:
     hide tag_9D0001B69AD04AE9A8D1DE7AF344E0A3
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect2_current_file != "sound/Effect Sound/Rain 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Rain 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Rain 1.ogg"
 
@@ -1389,13 +1389,13 @@ label block_00003BAE:
     show rs_image_69E4B1516C13405D8DC9ADE4070255DB as tag_ECFB5B509A334A868686B3435242BF90 at left_top zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_B70215F4C83E407D8C2CA682FB6965D7
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 1.ogg"
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔哇啊啊啊撤退撤退！！快点进去！"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 3.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 3.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 3.ogg"
 
@@ -1405,7 +1405,7 @@ label block_00003BAE:
 
     pause 0.3
 
-    if sys_effect_current_file != "sound/Effect Sound/Dash 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dash 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dash 1.ogg"
 
@@ -1424,7 +1424,7 @@ label block_00003BAE:
     pause 1.5
 
     $ set_window("イベントモード")
-    if sys_effect_current_file != "sound/Effect Sound/Open door 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Open door 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Open door 1.ogg"
 
@@ -1434,7 +1434,7 @@ label block_00003BAE:
 
     pause 1.5
 
-    if sys_effect_current_file != "sound/Effect Sound/Walk 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Walk 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Walk 1.ogg"
 
@@ -1451,7 +1451,7 @@ label block_00003BAE:
 
     pause 0.8
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -1466,7 +1466,7 @@ label block_00003BAE:
     hide tag_E99970E1386B453DAF81C3AE2C72BE8E
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -1522,7 +1522,7 @@ label block_00003BAE:
     hide tag_9D0001B69AD04AE9A8D1DE7AF344E0A3
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Flee 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Flee 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Flee 1.ogg"
 
@@ -1545,13 +1545,13 @@ label block_00003BAE:
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
     rs_character_62324AD297554FE987C680452CEE232E "这句话原封不动还给你。你们这群人来这家酒店……\n"
-    if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"
 
     extend "哦，难道是迷路了？"
 
-    if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
 
@@ -1565,7 +1565,7 @@ label block_00003BAE:
     hide tag_E99970E1386B453DAF81C3AE2C72BE8E
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect3_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
+    if "sys_effect3_current_file" in globals() and sys_effect3_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
         play effect3 "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect3_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -1577,7 +1577,7 @@ label block_00003BAE:
 
     rs_character_57471360F48A413AB843A4E46D8C5541 "“但就是这一点令人着迷”……"
 
-    if sys_effect_current_file != "sound/Effect Sound/Surprise 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 2.ogg"
 
@@ -1595,7 +1595,7 @@ label block_00003BAE:
     hide tag_FD7EEC63649F4ABB88B3E11A041AF5A6
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Kirakira 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Kirakira 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Kirakira 1.ogg"
 
@@ -1617,7 +1617,7 @@ label block_00003BAE:
     rs_character_D93E396B7ADB48CBAE13F206958FC08B "啊，嗯。这个人是朔同学，比我们小一岁。"
 
     rs_character_D93E396B7ADB48CBAE13F206958FC08B "之前{color=#008080}有点事{/color}认识的，意气相投，好几次一起去买衣服或者吃饭……{nw}"
-    if sys_effect_current_file != "sound/Effect Sound/Decision 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Decision 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Decision 1.ogg"
 
@@ -1632,7 +1632,7 @@ label block_00003BAE:
     hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect2_current_file != "sound/Effect Sound/Boom 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Boom 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Boom 1.ogg"
 
@@ -1684,7 +1684,7 @@ label block_00003BAE:
     hide tag_9D0001B69AD04AE9A8D1DE7AF344E0A3
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Frustrated 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Frustrated 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Frustrated 1.ogg"
 
@@ -1769,7 +1769,7 @@ label block_00003C0D:
 
     window show
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 3.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 3.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 3.ogg"
 
@@ -1784,7 +1784,7 @@ label block_00003C0D:
 
     rs_character_62324AD297554FE987C680452CEE232E "什么事？官能师。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Surprise 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 2.ogg"
 
@@ -1816,7 +1816,7 @@ label block_00003C0D:
 
     rs_character_62324AD297554FE987C680452CEE232E "为了以后能更加努力，休息是必要的。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -1862,7 +1862,7 @@ label block_00003C0D:
 
     rs_character_62324AD297554FE987C680452CEE232E "这下完全休息不成了，洗澡和睡觉时也完全没气氛了。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -1871,7 +1871,7 @@ label block_00003C0D:
 
     rs_character_62324AD297554FE987C680452CEE232E "不好不好，有企图的到底是谁呐。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Flee 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Flee 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Flee 1.ogg"
 
@@ -1886,7 +1886,7 @@ label block_00003C0D:
 
     rs_character_62324AD297554FE987C680452CEE232E "不过，真的没关系？{w}\n克服那个下雨天不能用魔法的滑稽的弱点了？？"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 3.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 3.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 3.ogg"
 
@@ -1914,7 +1914,7 @@ label block_00003C0D:
 
     rs_character_62324AD297554FE987C680452CEE232E "哦？这可真是有意思。可以好好帮我打发休息时的无聊时间了。"
 
-    if sys_effect_current_file != "sound/Effect Sound/As you wish 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/As you wish 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/As you wish 1.ogg"
 
@@ -1954,7 +1954,7 @@ label block_00003C0D:
 label block_00003C0E:
     # Node: 00003C0E (歡迎來到食人狼之館 2)
     $ set_window("イベントモード")
-    if sys_effect2_current_file != "sound/Effect Sound/Wind 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Wind 2.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Wind 2.ogg"
 
@@ -2012,7 +2012,7 @@ label block_00003C0E:
 
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "简直就是The・平民的做派～这种感觉。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
 
@@ -2035,7 +2035,7 @@ label block_00003C0E:
     hide tag_25C83DBF35814073B3DF9FF7BCEF75AC
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -2057,7 +2057,7 @@ label block_00003C0E:
 
     rs_character_57471360F48A413AB843A4E46D8C5541 "不过话说回来，夕阳那家伙真是容易明白。\n见到朔同学后马上就黏上去了。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"
 
@@ -2075,7 +2075,7 @@ label block_00003C0E:
 
     extend "……不过，有些羡慕呐，能和喜欢的人一起度过这段时间。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -2084,7 +2084,7 @@ label block_00003C0E:
 
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "哦呀～？难道守守也有这样的对象？单相思？还是说互相喜欢？"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 3.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 3.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 3.ogg"
 
@@ -2093,7 +2093,7 @@ label block_00003C0E:
 
     rs_character_57471360F48A413AB843A4E46D8C5541 "啊……这个，勉、勉强算后者……"
 
-    if sys_effect_current_file != "sound/Effect Sound/Kirakira 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Kirakira 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Kirakira 1.ogg"
 
@@ -2107,7 +2107,7 @@ label block_00003C0E:
 
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "哦～！什么嘛——！我想听听你那方面的事～！"
 
-    if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Strike 1.ogg"
 
@@ -2116,7 +2116,7 @@ label block_00003C0E:
 
     rs_character_57471360F48A413AB843A4E46D8C5541 "不，这就有点……话、话题到此为止。结束了，下面的都是秘密了！"
 
-    if sys_effect_current_file != "sound/Effect Sound/As you wish 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/As you wish 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/As you wish 1.ogg"
 
@@ -2132,7 +2132,7 @@ label block_00003C0E:
 
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "原来如此！所以看到阿夕朔朔夫妇会寂寞呐！"
 
-    if sys_effect_current_file != "sound/Effect Sound/Flee 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Flee 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Flee 1.ogg"
 
@@ -2146,7 +2146,7 @@ label block_00003C0E:
 
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "这下子只能回房间如字面所述好好安慰自己了呐！\n多么美妙，多么官能！快忍不住了！"
 
-    if sys_effect_current_file != "sound/Effect Sound/Waoh 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Waoh 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Waoh 1.ogg"
 
@@ -2162,7 +2162,7 @@ label block_00003C0E:
     hide tag_A77E36FB70FF4F60B12060B2747E46D1
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -2180,7 +2180,7 @@ label block_00003C0E:
 
     pause 0.3
 
-    if sys_effect2_current_file != "sound/Effect Sound/Tick tock 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Tick tock 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Tick tock 1.ogg"
 
@@ -2202,7 +2202,7 @@ label block_00003C0E:
     stop effect2 fadeout 0.5
     $ sys_effect2_current_file = ""
 
-    if sys_effect_current_file != "sound/Effect Sound/Attack 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Attack 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Attack 1.ogg"
 
@@ -2215,7 +2215,7 @@ label block_00003C0E:
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "刚、刚才的是玩笑……"
-    if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Strike 1.ogg"
 
@@ -2258,7 +2258,7 @@ label block_00003C0E:
 
     pause 0.5
 
-    if sys_effect_current_file != "sound/Effect Sound/Walk 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Walk 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Walk 1.ogg"
 
@@ -2274,7 +2274,7 @@ label block_00003C0E:
 
     rs_character_D93E396B7ADB48CBAE13F206958FC08B "我回来了。"
 
-    if sys_effect2_current_file != "sound/Effect Sound/As you wish 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/As you wish 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/As you wish 1.ogg"
 
@@ -2299,7 +2299,7 @@ label block_00003C0E:
 
     rs_character_D93E396B7ADB48CBAE13F206958FC08B "成年男性不是么？友对大多数成年男性都很软弱。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
 
@@ -2312,7 +2312,7 @@ label block_00003C0E:
     hide tag_9D0001B69AD04AE9A8D1DE7AF344E0A3
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 3.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 3.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 3.ogg"
 
@@ -2373,7 +2373,7 @@ label block_00003C0E:
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "欸——真假的。以防万一还是看看天气应用……\n"
-    if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
@@ -2411,7 +2411,7 @@ label block_00003C0E:
 
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "欸？到底咋了？"
 
-    if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"
 
@@ -2439,7 +2439,7 @@ label block_00003C0E:
         play music "sound/BGM/Hotel 2.ogg" loop
         $ sys_music_current_file = "sound/BGM/Hotel 2.ogg"
 
-    if sys_effect_current_file != "sound/Effect Sound/Search 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Search 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Search 1.ogg"
 
@@ -2447,7 +2447,7 @@ label block_00003C0E:
 
     rs_character_62324AD297554FE987C680452CEE232E "唔，这、这种事，看对方的反应自己、想。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Search 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Search 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Search 1.ogg"
 
@@ -2455,7 +2455,7 @@ label block_00003C0E:
 
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "欸，抱、抱歉！这、这里呢、行吗？可以吗？"
 
-    if sys_effect_current_file != "sound/Effect Sound/Search 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Search 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Search 1.ogg"
 
@@ -2467,7 +2467,7 @@ label block_00003C0E:
 
     pause 0.7
 
-    if sys_effect2_current_file != "sound/Effect Sound/Thunder 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Thunder 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Thunder 1.ogg"
 
@@ -2479,7 +2479,7 @@ label block_00003C0E:
 
     window show
 
-    if sys_effect_current_file != "sound/Effect Sound/Impact 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Impact 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 1.ogg"
 
@@ -2500,7 +2500,7 @@ label block_00003C0E:
     hide tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -2512,7 +2512,7 @@ label block_00003C0E:
 
     rs_character_62324AD297554FE987C680452CEE232E "真是的，那你到底能做什么。接下来选什么好呢，嗯……"
 
-    if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Strike 1.ogg"
 
@@ -2531,7 +2531,7 @@ label block_00003C0E:
 
     rs_character_62324AD297554FE987C680452CEE232E "而且，难道是我感觉错了？\n按摩时当手接近下半身的时候，明显有什么企图的样子。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 2.ogg"
 
@@ -2550,7 +2550,7 @@ label block_00003C0E:
 
     rs_character_62324AD297554FE987C680452CEE232E "本来还想在最后允许你接触你最喜欢的、最想触摸的地方的。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"
 
@@ -2559,7 +2559,7 @@ label block_00003C0E:
 
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "诶……难道是……"
 
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -2568,7 +2568,7 @@ label block_00003C0E:
 
     rs_character_62324AD297554FE987C680452CEE232E "当然是脚了，很合适对不对？相对于平伏在地专职侍奉的你。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Surprise 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 2.ogg"
 
@@ -2587,7 +2587,7 @@ label block_00003C0E:
 
     rs_character_62324AD297554FE987C680452CEE232E "哦呀，这个提案似乎也不受欢迎呐。真是的，难伺候的正义的伙伴（笑）。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -2607,7 +2607,7 @@ label block_00003C0E:
 
     pause 1
 
-    if sys_effect_current_file != "sound/Effect Sound/Flash 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Flash 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Flash 1.ogg"
 
@@ -2635,13 +2635,13 @@ label block_00003C0E:
 
     rs_character_62324AD297554FE987C680452CEE232E "你的师父不是因为魔法才能认同的你，而是因为紧致的大腿……呵。"
 
-    if sys_effect_current_file != "sound/Effect Sound/As you wish 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/As you wish 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/As you wish 1.ogg"
 
     rs_character_62324AD297554FE987C680452CEE232E "呀，这可真是杰作，听到了比预想中脑袋还有问题的事情呐，\n满足了，想做还是能做到的嘛。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
 
@@ -2651,7 +2651,7 @@ label block_00003C0E:
 
     rs_character_62324AD297554FE987C680452CEE232E "本来就很期待夕阳成为魔法师的最核心的秘密……这可真是预想以上的收获。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
@@ -2681,7 +2681,7 @@ label block_00003C0E:
 
     rs_character_62324AD297554FE987C680452CEE232E "不要闹脾气了，来，下个笑料也要这么有意思。下一个是……"
 
-    if sys_effect_current_file != "sound/Effect Sound/Flee 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Flee 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Flee 1.ogg"
 
@@ -2700,7 +2700,7 @@ label block_00003C0E:
 
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "不是那个！肯定有什么能说的！！以前的事，家族的事……"
 
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -2727,7 +2727,7 @@ label block_00003C0E:
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
     extend "那——个，Wolfs是……“狼”？"
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -2740,7 +2740,7 @@ label block_00003C0E:
 
     pause 0.5
 
-    if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"
 
@@ -2758,7 +2758,7 @@ label block_00003C0E:
 
     window show
 
-    if sys_effect2_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Strike 1.ogg"
 
@@ -2802,7 +2802,7 @@ label block_00003C0E:
     stop music2 fadeout 1
     $ sys_music2_current_file = ""
 
-    if sys_effect_current_file != "sound/Effect Sound/Kirakira 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Kirakira 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Kirakira 1.ogg"
 
@@ -2822,7 +2822,7 @@ label block_00003C0E:
 
     pause 0.5
 
-    if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Strike 1.ogg"
 
@@ -2860,7 +2860,7 @@ label block_00003C0E:
 
     rs_character_62324AD297554FE987C680452CEE232E "不错啊。和之前不一样，第一次从你口中听到这么深刻的问题。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"
 
@@ -2883,7 +2883,7 @@ label block_00003C0E:
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
     rs_character_62324AD297554FE987C680452CEE232E "其实，Wolfs确实会像现实中的狼那样，基本都是集团行动的。"
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -2896,7 +2896,7 @@ label block_00003C0E:
 
     rs_character_62324AD297554FE987C680452CEE232E "不过，我和哥哥则不算在此列。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -2910,7 +2910,7 @@ label block_00003C0E:
 
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "欸！？哥、哥哥！？你、你这家伙原来有哥哥！！"
 
-    if sys_effect3_current_file != "sound/Effect Sound/Surprise 2.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
+    if "sys_effect3_current_file" in globals() and sys_effect3_current_file != "sound/Effect Sound/Surprise 2.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
         play effect3 "sound/Effect Sound/Surprise 2.ogg" noloop
         $ sys_effect3_current_file = "sound/Effect Sound/Surprise 2.ogg"
 
@@ -2939,7 +2939,7 @@ label block_00003C0E:
 
     rs_character_62324AD297554FE987C680452CEE232E "我可是知道你的哥哥的。和你不同，很成熟很可靠。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Impact 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Impact 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 1.ogg"
 
@@ -2967,7 +2967,7 @@ label block_00003C0E:
     hide tag_E99970E1386B453DAF81C3AE2C72BE8E
     with rs_effect_9EB6D16F01EC4823B16A7F9817B2E3F1
 
-    if sys_effect4_current_file != "sound/Effect Sound/Rain 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
+    if True: # Hotfix: Ignore multiplay defenser for voice sound
         play effect4 "sound/Effect Sound/Rain 1.ogg" loop
         $ sys_effect4_current_file = "sound/Effect Sound/Rain 1.ogg"
 
@@ -3015,7 +3015,7 @@ label block_00003C0E:
 
     rs_character_62324AD297554FE987C680452CEE232E "我差不多要去洗澡了。夕阳也准备一下。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 3.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 3.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 3.ogg"
 
@@ -3029,7 +3029,7 @@ label block_00003C0E:
 
     rs_character_62324AD297554FE987C680452CEE232E "不是说过吗？二十四小时片刻不离？"
 
-    if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
@@ -3055,7 +3055,7 @@ label block_00003C0E:
 
     pause 0.4
 
-    if sys_effect_current_file != "sound/Effect Sound/Flee 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Flee 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Flee 1.ogg"
 
@@ -3067,7 +3067,7 @@ label block_00003C0E:
     pause 3.5
 
     $ set_window("イベントモード")
-    if sys_effect2_current_file != "sound/Effect Sound/Wind 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Wind 2.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Wind 2.ogg"
 
@@ -3301,7 +3301,7 @@ label block_00003C0E:
 
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "世依木君直到最后也没有来吃早饭呢。到底怎么了？"
 
-    if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"
 
@@ -3320,7 +3320,7 @@ label block_00003C0E:
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "拜此所赐我昨天的计划也都乱了……早点还给我就好了。"
-    if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
@@ -3350,7 +3350,7 @@ label block_00003C0E:
 
     rs_character_3AD49134E90444729FD2EFC8D1296F7D "……不，我并不清楚。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
 
@@ -3406,7 +3406,7 @@ label block_00003C0E:
     hide tag_E99970E1386B453DAF81C3AE2C72BE8E
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 2.ogg"
 
@@ -3430,11 +3430,11 @@ label block_00003C0E:
 
     pause 2
 
-    if sys_effect2_current_file != "sound/Effect Sound/Rain 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Rain 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Rain 1.ogg"
 
-    if sys_effect_current_file != "sound/Effect Sound/Knock 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Knock 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Knock 1.ogg"
 
@@ -3461,7 +3461,7 @@ label block_00003C0E:
 
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "真的，太不上心了。{w}守，我进来了——"
 
-    if sys_effect_current_file != "sound/Effect Sound/Open door 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Open door 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Open door 1.ogg"
 
@@ -3475,7 +3475,7 @@ label block_00003C0E:
 
     pause 0.8
 
-    if sys_effect_current_file != "sound/Effect Sound/Look! 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Look! 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Look! 1.ogg"
 
@@ -3486,7 +3486,7 @@ label block_00003C0E:
     with rs_effect_1B5FF639D1044BDDAEE2A66FB32F2CF7
 
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "早上好呀，守亲！要睡到什么时候呐！！\n就让我来献上早起的吻……"
-    if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Strike 1.ogg"
 
@@ -3580,7 +3580,7 @@ label block_00003C0F:
 
     window show
 
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -3595,7 +3595,7 @@ label block_00003C0F:
 
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "？？奇怪？"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 2.ogg"
 
@@ -3605,7 +3605,7 @@ label block_00003C0F:
 
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "青春期少年度过一晚的房间里必定有纸巾，这可是金科玉律。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
@@ -3627,7 +3627,7 @@ label block_00003C0F:
 
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "那……去厕所冲掉了？"
 
-    if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"
 
@@ -3637,7 +3637,7 @@ label block_00003C0F:
 
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "诶，你是这么做的？"
 
-    if sys_effect_current_file != "sound/Effect Sound/Pa 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Pa 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Pa 1.ogg"
 
@@ -3701,7 +3701,7 @@ label block_00003C10:
     hide tag_E99970E1386B453DAF81C3AE2C72BE8E
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -3711,7 +3711,7 @@ label block_00003C10:
     with rs_effect_BABCD5D2E5A54EBD81AEB01B3A0580F7
 
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "那是昨天找友亲借的电摩的声音！\n"
-    if sys_effect_current_file != "sound/Effect Sound/As you wish 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/As you wish 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/As you wish 1.ogg"
 
@@ -3764,7 +3764,7 @@ label block_00003C11:
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "这是什么？"
-    if sys_effect3_current_file != "sound/Effect Sound/Key 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
+    if "sys_effect3_current_file" in globals() and sys_effect3_current_file != "sound/Effect Sound/Key 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
         play effect3 "sound/Effect Sound/Key 1.ogg" noloop
         $ sys_effect3_current_file = "sound/Effect Sound/Key 1.ogg"
 
@@ -3882,7 +3882,7 @@ label block_00003C17:
 label block_00003C18:
     # Node: 00003C18 (歡迎來到食人狼之館 3)
     $ set_window("イベントモード")
-    if sys_effect2_current_file != "sound/Effect Sound/Wind 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Wind 2.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Wind 2.ogg"
 
@@ -3895,7 +3895,7 @@ label block_00003C18:
     stop effect2 fadeout 1
     $ sys_effect2_current_file = ""
 
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -3923,7 +3923,7 @@ label block_00003C18:
 
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "咦，没有还回来？"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 3.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 3.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 3.ogg"
 
@@ -3948,7 +3948,7 @@ label block_00003C18:
 
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "难道说，守守觉得在屋里声音太大怕被发现，\n就换到别的地方去继续“自力更生”了？"
 
-    if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Strike 1.ogg"
 
@@ -3976,7 +3976,7 @@ label block_00003C18:
     hide tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -3992,7 +3992,7 @@ label block_00003C18:
 
     rs_character_62324AD297554FE987C680452CEE232E "……为何？"
 
-    if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"
 
@@ -4000,7 +4000,7 @@ label block_00003C18:
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "那个……"
-    if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Strike 1.ogg"
 
@@ -4008,7 +4008,7 @@ label block_00003C18:
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
     extend "不，那家伙，看上去那样运动神经还是很好的，\n"
-    if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
@@ -4021,7 +4021,7 @@ label block_00003C18:
     hide tag_E99970E1386B453DAF81C3AE2C72BE8E
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
 
@@ -4052,7 +4052,7 @@ label block_00003C18:
 
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "嗯？"
 
-    if sys_effect_current_file != "sound/Effect Sound/As you wish 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/As you wish 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/As you wish 1.ogg"
 
@@ -4061,7 +4061,7 @@ label block_00003C18:
 
     rs_character_62324AD297554FE987C680452CEE232E "雨天之时的后手，我很期待哦。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"
 
@@ -4134,7 +4134,7 @@ label block_00003C18:
     hide tag_ECFB5B509A334A868686B3435242BF90
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -4147,7 +4147,7 @@ label block_00003C18:
     hide tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect3_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
+    if "sys_effect3_current_file" in globals() and sys_effect3_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
         play effect3 "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect3_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -4174,7 +4174,7 @@ label block_00003C18:
 
     pause 1
 
-    if sys_effect_current_file != "sound/Effect Sound/Open door 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Open door 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Open door 1.ogg"
 
@@ -4184,7 +4184,7 @@ label block_00003C18:
 
     pause 0.6
 
-    if sys_effect_current_file != "sound/Effect Sound/Open door 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Open door 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Open door 1.ogg"
 
@@ -4193,7 +4193,7 @@ label block_00003C18:
 
     pause 0.6
 
-    if sys_effect_current_file != "sound/Effect Sound/Open door 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Open door 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Open door 1.ogg"
 
@@ -4202,7 +4202,7 @@ label block_00003C18:
 
     pause 0.6
 
-    if sys_effect_current_file != "sound/Effect Sound/Open door 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Open door 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Open door 1.ogg"
 
@@ -4211,7 +4211,7 @@ label block_00003C18:
 
     pause 1
 
-    if sys_effect2_current_file != "sound/Effect Sound/Rain 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Rain 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Rain 1.ogg"
 
@@ -4240,7 +4240,7 @@ label block_00003C18:
 
     pause 0.3
 
-    if sys_effect_current_file != "sound/Effect Sound/Finger Snap 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Finger Snap 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Finger Snap 1.ogg"
 
@@ -4278,7 +4278,7 @@ label block_00003C18:
 
     pause 0.5
 
-    if sys_effect_current_file != "sound/Effect Sound/Walk 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Walk 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Walk 1.ogg"
 
@@ -4309,7 +4309,7 @@ label block_00003C18:
 
     rs_character_62324AD297554FE987C680452CEE232E "非常感谢。{w}说起来，一之濑同学和森海同学关系很好呐。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
@@ -4335,7 +4335,7 @@ label block_00003C18:
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "那个是、这个……没想到真的被借出去了什么的……\n"
-    if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
 
@@ -4482,7 +4482,7 @@ label block_00003C18:
 
     pause 1
 
-    if sys_effect_current_file != "sound/Effect Sound/Thunder 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Thunder 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Thunder 1.ogg"
 
@@ -4535,7 +4535,7 @@ label block_00003C18:
     hide tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 2.ogg"
 
@@ -4553,7 +4553,7 @@ label block_00003C18:
     hide tag_A77E36FB70FF4F60B12060B2747E46D1
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -4566,7 +4566,7 @@ label block_00003C18:
     hide tag_E99970E1386B453DAF81C3AE2C72BE8E
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -4583,7 +4583,7 @@ label block_00003C18:
 
     rs_character_62324AD297554FE987C680452CEE232E "这种湿度下你能做什么？还是说，用你之前说的后手？"
 
-    if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
@@ -4602,7 +4602,7 @@ label block_00003C18:
 
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "我觉得应该分成两队，派不上用场的人就别去碍手碍脚。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -4616,7 +4616,7 @@ label block_00003C18:
     hide tag_9D0001B69AD04AE9A8D1DE7AF344E0A3
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Attack 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Attack 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Attack 1.ogg"
 
@@ -4625,7 +4625,7 @@ label block_00003C18:
     with rs_effect_59AAF132B57B402BB1B9171904F5D5B2
 
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 "友 呃！\n{nw}"
-    if sys_effect_current_file != "sound/Effect Sound/Attack 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Attack 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Attack 1.ogg"
 
@@ -4634,7 +4634,7 @@ label block_00003C18:
     with rs_effect_59AAF132B57B402BB1B9171904F5D5B2
 
     extend "慎太郎 哦！\n{nw}"
-    if sys_effect_current_file != "sound/Effect Sound/Attack 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Attack 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Attack 1.ogg"
 
@@ -4672,7 +4672,7 @@ label block_00003C18:
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "那么，我们四个去搜索。\n"
-    if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"
 
@@ -4681,7 +4681,7 @@ label block_00003C18:
 
     extend "猫山，还好不？抖得挺厉害啊——"
 
-    if sys_effect_current_file != "sound/Effect Sound/Surprise 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 2.ogg"
 
@@ -4707,7 +4707,7 @@ label block_00003C18:
 
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "嘴上别说静不下来。嘛，真发生什么的话反正你逃得快没事。"
 
-    if sys_effect_current_file != "sound/Effect Sound/As you wish 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/As you wish 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/As you wish 1.ogg"
 
@@ -4722,7 +4722,7 @@ label block_00003C18:
 
     window hide
 
-    if sys_effect_current_file != "sound/Effect Sound/Kirakira 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Kirakira 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Kirakira 1.ogg"
 
@@ -4743,7 +4743,7 @@ label block_00003C18:
 
     pause 0.3
 
-    if sys_effect2_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Surprise 1.ogg"
 
@@ -4771,7 +4771,7 @@ label block_00003C18:
 
     rs_character_62324AD297554FE987C680452CEE232E "这种情况下也这么镇定，真是佩服大家的胆力呢。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Strike 1.ogg"
 
@@ -4787,7 +4787,7 @@ label block_00003C18:
 
     rs_character_62324AD297554FE987C680452CEE232E "万一之时就由我来保护你。请安心，正义的英雄君（笑）。"
 
-    if sys_effect2_current_file != "sound/Effect Sound/Flee 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Flee 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Flee 1.ogg"
 
@@ -4804,7 +4804,7 @@ label block_00003C18:
 
     window hide
 
-    if sys_effect_current_file != "sound/Effect Sound/Kirakira 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Kirakira 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Kirakira 1.ogg"
 
@@ -4827,7 +4827,7 @@ label block_00003C18:
 
     pause 0.3
 
-    if sys_effect2_current_file != "sound/Effect Sound/Attack 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Attack 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Attack 1.ogg"
 
@@ -4847,7 +4847,7 @@ label block_00003C18:
 
     pause 0.5
 
-    if sys_effect2_current_file != "sound/Effect Sound/Rain 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Rain 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Rain 1.ogg"
 
@@ -4916,7 +4916,7 @@ label block_00003C18:
 
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "诶？带过来会好吗？"
 
-    if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"
 
@@ -4932,7 +4932,7 @@ label block_00003C18:
 
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "欸……"
 
-    if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
 
@@ -4941,7 +4941,7 @@ label block_00003C18:
 
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "和、和狗比起来这种时候猫真是一点用都没有——！\n那边那只猫！给点什么有用的特技！"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -4949,7 +4949,7 @@ label block_00003C18:
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "出现了！穗海的不讲道理！\n两位这么下去可不行，这个家伙真……"
-    if sys_effect3_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
+    if "sys_effect3_current_file" in globals() and sys_effect3_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
         play effect3 "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect3_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
@@ -4959,7 +4959,7 @@ label block_00003C18:
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
     extend "啊、"
-    if sys_effect_current_file != "sound/Effect Sound/Surprise 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 2.ogg"
 
@@ -4972,7 +4972,7 @@ label block_00003C18:
 
     extend "啊嚏！！！"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 3.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 3.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 3.ogg"
 
@@ -4985,7 +4985,7 @@ label block_00003C18:
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "那个喷嚏难道就有什么用？"
 
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "这不是特技！真是的～扫都没扫干净～\n"
-    if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Strike 1.ogg"
 
@@ -5016,7 +5016,7 @@ label block_00003C18:
 
     pause 0.4
 
-    if sys_effect3_current_file != "sound/Effect Sound/Walk 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
+    if "sys_effect3_current_file" in globals() and sys_effect3_current_file != "sound/Effect Sound/Walk 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
         play effect3 "sound/Effect Sound/Walk 1.ogg" noloop
         $ sys_effect3_current_file = "sound/Effect Sound/Walk 1.ogg"
 
@@ -5030,7 +5030,7 @@ label block_00003C18:
 
     pause 1.5
 
-    if sys_effect2_current_file != "sound/Effect Sound/Open door 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Open door 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Open door 1.ogg"
 
@@ -5040,7 +5040,7 @@ label block_00003C18:
 
     pause 0.6
 
-    if sys_effect_current_file != "sound/Effect Sound/Surprise 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 2.ogg"
 
@@ -5061,7 +5061,7 @@ label block_00003C18:
 
     rs_character_62324AD297554FE987C680452CEE232E "这可真是……太过分了。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
 
@@ -5141,7 +5141,7 @@ label block_00003C1C:
 
     window show
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -5239,7 +5239,7 @@ label block_00003C1D:
     show rs_image_7C86294AACD0425D9BF004B5021B12F4 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Key 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Key 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Key 1.ogg"
 
@@ -5248,7 +5248,7 @@ label block_00003C1D:
 
     pause 0.3
 
-    if sys_effect_current_file != "sound/Effect Sound/Decision 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Decision 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Decision 1.ogg"
 
@@ -5354,7 +5354,7 @@ label block_00003C21:
 
 label block_00003C22:
     # Node: 00003C22 (歡迎來到食人狼之館 4)
-    if sys_effect2_current_file != "sound/Effect Sound/Rain 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Rain 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Rain 1.ogg"
 
@@ -5391,7 +5391,7 @@ label block_00003C22:
     hide tag_25C83DBF35814073B3DF9FF7BCEF75AC
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
-    if sys_effect_current_file != "sound/Effect Sound/Break 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Break 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Break 1.ogg"
 
@@ -5405,7 +5405,7 @@ label block_00003C22:
 
     pause 0.4
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -5421,7 +5421,7 @@ label block_00003C22:
 
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "森海前辈的声音！？"
 
-    if sys_effect_current_file != "sound/Effect Sound/Dash 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dash 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dash 1.ogg"
 
@@ -5437,7 +5437,7 @@ label block_00003C22:
 
     pause 0.8
 
-    if sys_effect_current_file != "sound/Effect Sound/Dash 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dash 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dash 1.ogg"
 
@@ -5449,7 +5449,7 @@ label block_00003C22:
 
     window show
 
-    if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
 
@@ -5459,7 +5459,7 @@ label block_00003C22:
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "大、大家！！"
 
-    if sys_effect2_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -5473,7 +5473,7 @@ label block_00003C22:
 
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "这个笨蛋！没事干什么到处乱窜！！"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 3.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 3.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 3.ogg"
 
@@ -5494,7 +5494,7 @@ label block_00003C22:
 
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "冷静！先深呼吸！吸吸呼！"
 
-    if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
@@ -5522,7 +5522,7 @@ label block_00003C22:
     hide tag_E99970E1386B453DAF81C3AE2C72BE8E
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Surprise 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 2.ogg"
 
@@ -5540,7 +5540,7 @@ label block_00003C22:
     hide tag_25C83DBF35814073B3DF9FF7BCEF75AC
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
@@ -5552,7 +5552,7 @@ label block_00003C22:
 
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "哇！？你为什么要挑这个时候！"
 
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -5561,7 +5561,7 @@ label block_00003C22:
 
     rs_character_62324AD297554FE987C680452CEE232E "！"
 
-    if sys_effect_current_file != "sound/Effect Sound/Flash 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Flash 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Flash 1.ogg"
 
@@ -5571,7 +5571,7 @@ label block_00003C22:
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "噫！？呜哇啊啊啊！又、又出现了！！！"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -5580,7 +5580,7 @@ label block_00003C22:
     hide tag_F533D76D6EDF4AB39ECAAB90D8F4723D
     with rs_effect_A4443243EC4043A8B5E78595C25D3327
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -5590,7 +5590,7 @@ label block_00003C22:
 
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "！？"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -5601,7 +5601,7 @@ label block_00003C22:
 
     rs_character_62324AD297554FE987C680452CEE232E "夕阳！背后！！"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -5609,7 +5609,7 @@ label block_00003C22:
     hide tag_E99970E1386B453DAF81C3AE2C72BE8E
     with rs_effect_A4443243EC4043A8B5E78595C25D3327
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -5620,7 +5620,7 @@ label block_00003C22:
 
     pause 0.8
 
-    if sys_effect_current_file != "sound/Effect Sound/Boom 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Boom 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Boom 1.ogg"
 
@@ -5653,7 +5653,7 @@ label block_00003C22:
     hide tag_51E1CA5715FC4887A4E4083BB8D521B0
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -5676,7 +5676,7 @@ label block_00003C22:
     hide tag_F533D76D6EDF4AB39ECAAB90D8F4723D
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    if sys_effect_current_file != "sound/Effect Sound/Impact 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 2.ogg"
 
@@ -5689,7 +5689,7 @@ label block_00003C22:
     hide tag_51E1CA5715FC4887A4E4083BB8D521B0
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -5712,7 +5712,7 @@ label block_00003C22:
     hide tag_ECFB5B509A334A868686B3435242BF90
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -5734,7 +5734,7 @@ label block_00003C22:
 
     pause 0.4
 
-    if sys_effect_current_file != "sound/Effect Sound/Impact 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 2.ogg"
 
@@ -5744,7 +5744,7 @@ label block_00003C22:
 
     pause 0.4
 
-    if sys_effect_current_file != "sound/Effect Sound/Impact 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 2.ogg"
 
@@ -5757,7 +5757,7 @@ label block_00003C22:
 
     rs_character_3AD49134E90444729FD2EFC8D1296F7D "不管你们再怎么强，也不过是小孩子。来，好好听大人的话。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -5768,7 +5768,7 @@ label block_00003C22:
 
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "要来了！大家后退！！你的对手是……"
 
-    if sys_effect_current_file != "sound/Effect Sound/Knife 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Knife 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Knife 1.ogg"
 
@@ -5782,7 +5782,7 @@ label block_00003C22:
     hide tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
@@ -5792,7 +5792,7 @@ label block_00003C22:
 
     pause 0.5
 
-    if sys_effect_current_file != "sound/Effect Sound/Battle 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Battle 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Battle 1.ogg"
 
@@ -5807,7 +5807,7 @@ label block_00003C22:
 
     pause 0.5
 
-    if sys_effect3_current_file != "sound/Effect Sound/Knife 3.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
+    if "sys_effect3_current_file" in globals() and sys_effect3_current_file != "sound/Effect Sound/Knife 3.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
         play effect3 "sound/Effect Sound/Knife 3.ogg" noloop
         $ sys_effect3_current_file = "sound/Effect Sound/Knife 3.ogg"
 
@@ -5820,7 +5820,7 @@ label block_00003C22:
 
     pause 0.5
 
-    if sys_effect_current_file != "sound/Effect Sound/Knife 4.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Knife 4.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Knife 4.ogg"
 
@@ -5833,7 +5833,7 @@ label block_00003C22:
 
     pause 0.5
 
-    if sys_effect3_current_file != "sound/Effect Sound/Knife 2.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
+    if "sys_effect3_current_file" in globals() and sys_effect3_current_file != "sound/Effect Sound/Knife 2.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
         play effect3 "sound/Effect Sound/Knife 2.ogg" noloop
         $ sys_effect3_current_file = "sound/Effect Sound/Knife 2.ogg"
 
@@ -5846,7 +5846,7 @@ label block_00003C22:
 
     pause 0.7
 
-    if sys_effect_current_file != "sound/Effect Sound/Battle 4.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Battle 4.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Battle 4.ogg"
 
@@ -5861,7 +5861,7 @@ label block_00003C22:
 
     pause 1.2
 
-    if sys_effect2_current_file != "sound/Effect Sound/Fight 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Fight 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Fight 1.ogg"
 
@@ -5876,7 +5876,7 @@ label block_00003C22:
 
     pause 1.4
 
-    if sys_effect_current_file != "sound/Effect Sound/Battle 6.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Battle 6.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Battle 6.ogg"
 
@@ -5897,7 +5897,7 @@ label block_00003C22:
 
     pause 0.3
 
-    if sys_effect_current_file != "sound/Effect Sound/Dash 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dash 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dash 1.ogg"
 
@@ -5913,31 +5913,31 @@ label block_00003C22:
 
     window show
 
-    if sys_effect2_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Dorky 1.ogg"
 
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "怎、怎么了！？发生什么了？！"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 1.ogg"
 
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "大家还好吗！？"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "一之濑！你咋拿绳子了？"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 3.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 3.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 3.ogg"
 
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "啊，至、至少能防身用……"
 
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -5954,19 +5954,19 @@ label block_00003C22:
     hide tag_3C0D2D9BB95B42AAA768FE8D105219CB
     with rs_effect_446CB9E7B6074C7F87730DF5D4AF793D
 
-    if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "什么什么，到底怎么了？为什么导游会被这样？？"
 
-    if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
 
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "之后再解释！！\n抓紧用你那个绝对无法逃脱的那啥技术把这家伙绑起来！！"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 2.ogg"
 
@@ -6004,7 +6004,7 @@ label block_00003C22:
 
     pause 1
 
-    if sys_effect2_current_file != "sound/Effect Sound/Wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Wind 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Wind 1.ogg"
 
@@ -6028,7 +6028,7 @@ label block_00003C22:
 
     rs_character_3AD49134E90444729FD2EFC8D1296F7D "……"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -6037,7 +6037,7 @@ label block_00003C22:
     rs_character_3AD49134E90444729FD2EFC8D1296F7D "……"
 
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "想活命就趁现在了。\n"
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -6073,7 +6073,7 @@ label block_00003C22:
 
     pause 2
 
-    if sys_effect_current_file != "sound/Effect Sound/Open door 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Open door 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Open door 1.ogg"
 
@@ -6087,7 +6087,7 @@ label block_00003C22:
         play music "sound/BGM/Hotel 3.ogg" loop
         $ sys_music_current_file = "sound/BGM/Hotel 3.ogg"
 
-    if sys_effect_current_file != "sound/Effect Sound/Walk 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Walk 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Walk 1.ogg"
 
@@ -6132,7 +6132,7 @@ label block_00003C22:
 
     pause 0.5
 
-    if sys_effect_current_file != "sound/Effect Sound/Open door 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Open door 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Open door 1.ogg"
 
@@ -6160,7 +6160,7 @@ label block_00003C22:
 
     pause 0.5
 
-    if sys_effect_current_file != "sound/Effect Sound/Open door 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Open door 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Open door 1.ogg"
 
@@ -6203,7 +6203,7 @@ label block_00003C22:
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "这样……\n"
-    if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"
 
@@ -6233,7 +6233,7 @@ label block_00003C22:
     hide tag_C389451CCE5A4CEAB24DEF9A7C02635D
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
-    if sys_effect_current_file != "sound/Effect Sound/Open door 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Open door 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Open door 1.ogg"
 
@@ -6263,7 +6263,7 @@ label block_00003C22:
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "友君……"
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -6312,7 +6312,7 @@ label block_00003C22:
 label block_00003C23:
     # Node: 00003C23 (歡迎來到食人狼之館 5)
     $ set_window("イベントモード")
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -6322,7 +6322,7 @@ label block_00003C23:
 
     pause 0.7
 
-    if sys_effect_current_file != "sound/Effect Sound/Switch 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Switch 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Switch 1.ogg"
 
@@ -6331,7 +6331,7 @@ label block_00003C23:
 
     pause 0.5
 
-    if sys_effect_current_file != "sound/Effect Sound/Dash 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dash 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dash 1.ogg"
 
@@ -6351,7 +6351,7 @@ label block_00003C23:
 
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "那个导游……不见了！！"
 
-    if sys_effect_current_file != "sound/Effect Sound/Frustrated 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Frustrated 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Frustrated 1.ogg"
 
@@ -6370,7 +6370,7 @@ label block_00003C23:
     hide tag_F533D76D6EDF4AB39ECAAB90D8F4723D
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect2_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
@@ -6401,7 +6401,7 @@ label block_00003C23:
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "……"
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -6411,7 +6411,7 @@ label block_00003C23:
     hide tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
-    if sys_effect_current_file != "sound/Effect Sound/Flash 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Flash 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Flash 1.ogg"
 
@@ -6435,7 +6435,7 @@ label block_00003C23:
 
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "……"
 
-    if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
 
@@ -6458,7 +6458,7 @@ label block_00003C23:
 
     pause 0.3
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -6467,7 +6467,7 @@ label block_00003C23:
     with rs_effect_3F09116E1F944952A143A708C140C6CA
 
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "正是如此。我们中存在叛徒。"
-    if sys_effect_current_file != "sound/Effect Sound/Finger Snap 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Finger Snap 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Finger Snap 2.ogg"
 
@@ -6481,7 +6481,7 @@ label block_00003C23:
 
     window hide
 
-    if sys_effect_current_file != "sound/Effect Sound/Impact 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 2.ogg"
 
@@ -6519,7 +6519,7 @@ label block_00003C23:
     hide tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -6528,7 +6528,7 @@ label block_00003C23:
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
     rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "不过，那家伙很明确地说了，\n"
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -6545,7 +6545,7 @@ label block_00003C23:
 
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "怎、怎么会……！"
 
-    if sys_effect_current_file != "sound/Effect Sound/Pa 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Pa 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Pa 1.ogg"
 
@@ -6554,7 +6554,7 @@ label block_00003C23:
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "背、背叛我们的人现在站出来还来得及！\n现在不会发火的！出来就原谅你！"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -6567,7 +6567,7 @@ label block_00003C23:
     hide tag_C389451CCE5A4CEAB24DEF9A7C02635D
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
 
@@ -6582,7 +6582,7 @@ label block_00003C23:
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "我、我不是！！对，对了，我有不在场证明！！\n晚饭后一直在和穗海聊天，然后又和奥村……"
 
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "我、我也不是！可以对绳子做指纹检查的！\n"
-    if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Strike 1.ogg"
 
@@ -6621,7 +6621,7 @@ label block_00003C23:
 
     pause 1.4
 
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -6641,7 +6641,7 @@ label block_00003C23:
     hide tag_ECFB5B509A334A868686B3435242BF90
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -6686,7 +6686,7 @@ label block_00003C23:
 
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "而且，现在也没有被罪恶感压倒仍然保持匿名的话，\n就是说这可能只是玩乐的程度。"
 
-    if sys_effect_current_file != "sound/Effect Sound/As you wish 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/As you wish 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/As you wish 1.ogg"
 
@@ -6698,7 +6698,7 @@ label block_00003C23:
     hide tag_A77E36FB70FF4F60B12060B2747E46D1
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 2.ogg"
 
@@ -6723,7 +6723,7 @@ label block_00003C23:
     hide tag_F533D76D6EDF4AB39ECAAB90D8F4723D
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/As you wish 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/As you wish 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/As you wish 1.ogg"
 
@@ -6745,7 +6745,7 @@ label block_00003C23:
 
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "好好释放压力也就不会有更年期了呐，\n不能太过在意，尤其是对于青春期的我们！"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 1.ogg"
 
@@ -6754,7 +6754,7 @@ label block_00003C23:
 
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "好——！先是准备战斗，肚子饿了——！腹空无以为战！"
 
-    if sys_effect_current_file != "sound/Effect Sound/Impact 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Impact 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 1.ogg"
 
@@ -6768,7 +6768,7 @@ label block_00003C23:
 
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "三酱！去厨房拿点好吃的♪这种紧急情况也只能这样了！"
 
-    if sys_effect_current_file != "sound/Effect Sound/Flee 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Flee 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Flee 1.ogg"
 
@@ -6781,7 +6781,7 @@ label block_00003C23:
 
     window hide
 
-    if sys_effect_current_file != "sound/Effect Sound/Dash 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dash 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dash 1.ogg"
 
@@ -6825,7 +6825,7 @@ label block_00003C23:
     hide tag_ECFB5B509A334A868686B3435242BF90
     with rs_effect_3F09116E1F944952A143A708C140C6CA
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -6848,7 +6848,7 @@ label block_00003C23:
     hide tag_C389451CCE5A4CEAB24DEF9A7C02635D
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
 
@@ -6864,7 +6864,7 @@ label block_00003C23:
 
     window hide
 
-    if sys_effect_current_file != "sound/Effect Sound/Dash 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dash 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dash 1.ogg"
 
@@ -6904,7 +6904,7 @@ label block_00003C23:
     hide tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 3.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 3.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 3.ogg"
 
@@ -6923,7 +6923,7 @@ label block_00003C23:
 
     rs_character_62324AD297554FE987C680452CEE232E "当然可以。森海同学一直是和我们分头行动的，\n将情报集中到一起会很有用的。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -6981,7 +6981,7 @@ label block_00003C23:
 
 label block_00003C24:
     # Node: 00003C24 (Q1)
-    if sys_effect_current_file != "sound/Effect Sound/Impact 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 2.ogg"
 
@@ -7050,7 +7050,7 @@ label block_00003C28:
     # Node: 00003C28 (Q2)
     pause 0.3
 
-    if sys_effect_current_file != "sound/Effect Sound/Impact 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 2.ogg"
 
@@ -7114,7 +7114,7 @@ label block_00003C2C:
     # Node: 00003C2C (Q3)
     pause 0.3
 
-    if sys_effect_current_file != "sound/Effect Sound/Impact 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 2.ogg"
 
@@ -7179,7 +7179,7 @@ label block_00003C30:
     # Node: 00003C30 (Q4)
     pause 0.3
 
-    if sys_effect_current_file != "sound/Effect Sound/Impact 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 2.ogg"
 
@@ -7248,7 +7248,7 @@ label block_00003C32:
     # Node: 00003C32 (Q5)
     pause 0.3
 
-    if sys_effect_current_file != "sound/Effect Sound/Impact 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 2.ogg"
 
@@ -7293,7 +7293,7 @@ label block_00003C33:
     show rs_image_5001328A201E490CB770173E51647B16 as tag_ECFB5B509A334A868686B3435242BF90 at right_top zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
-    if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Strike 1.ogg"
 
@@ -7317,7 +7317,7 @@ label block_00003C34:
     # Node: 00003C34 (Q6)
     pause 0.3
 
-    if sys_effect_current_file != "sound/Effect Sound/Impact 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 2.ogg"
 
@@ -7354,7 +7354,7 @@ label block_00003C36:
     # Node: 00003C36 (Q7)
     pause 0.4
 
-    if sys_effect_current_file != "sound/Effect Sound/Impact 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 2.ogg"
 
@@ -7391,7 +7391,7 @@ label block_00003C38:
     # Node: 00003C38 (Q8)
     pause 0.4
 
-    if sys_effect_current_file != "sound/Effect Sound/Impact 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 2.ogg"
 
@@ -7430,7 +7430,7 @@ label block_00003C3A:
     stop music fadeout 3
     $ sys_music_current_file = ""
 
-    if sys_effect3_current_file != "sound/Effect Sound/Wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
+    if "sys_effect3_current_file" in globals() and sys_effect3_current_file != "sound/Effect Sound/Wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
         play effect3 "sound/Effect Sound/Wind 1.ogg" loop
         $ sys_effect3_current_file = "sound/Effect Sound/Wind 1.ogg"
 
@@ -7439,7 +7439,7 @@ label block_00003C3A:
 
     pause 5
 
-    if sys_effect2_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -7455,7 +7455,7 @@ label block_00003C3A:
 
     window hide
 
-    if sys_effect_current_file != "sound/Effect Sound/Break 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Break 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Break 1.ogg"
 
@@ -7465,7 +7465,7 @@ label block_00003C3A:
 
     pause 2
 
-    if sys_effect_current_file != "sound/Effect Sound/Battle 5.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Battle 5.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Battle 5.ogg"
 
@@ -7476,7 +7476,7 @@ label block_00003C3A:
     hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Battle 5.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Battle 5.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Battle 5.ogg"
 
@@ -7491,7 +7491,7 @@ label block_00003C3A:
 
     pause 0.7
 
-    if sys_effect2_current_file != "sound/Effect Sound/Fall down 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Fall down 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Fall down 1.ogg"
 
@@ -7505,7 +7505,7 @@ label block_00003C3A:
     stop effect3 fadeout 1
     $ sys_effect3_current_file = ""
 
-    if sys_effect_current_file != "sound/Effect Sound/Impact 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 2.ogg"
 
@@ -7532,7 +7532,7 @@ label block_00003C3A:
 
     rs_character_3AD49134E90444729FD2EFC8D1296F7D "这个黄头发的就是最后一个了？\n呼～这次的工作比平时的要辛苦太多了。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -7558,7 +7558,7 @@ label block_00003C3A:
     pause 4
 
     $ set_window("イベントモード")
-    if sys_effect3_current_file != "sound/Effect Sound/Swallow 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
+    if True: # Hotfix: Ignore multiplay defenser for voice sound
         play effect3 "sound/Effect Sound/Swallow 1.ogg" loop
         $ sys_effect3_current_file = "sound/Effect Sound/Swallow 1.ogg"
 
@@ -7580,7 +7580,7 @@ label block_00003C3A:
         play music "sound/BGM/Daily 1.ogg" loop
         $ sys_music_current_file = "sound/BGM/Daily 1.ogg"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 2.ogg"
 
@@ -7604,7 +7604,7 @@ label block_00003C3A:
     hide tag_ECFB5B509A334A868686B3435242BF90
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 3.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 3.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 3.ogg"
 
@@ -7616,7 +7616,7 @@ label block_00003C3A:
 
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "三酱面对泳池时那股紧张感，想想就觉得……！哈哈哈！"
 
-    if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
 
@@ -7637,7 +7637,7 @@ label block_00003C3A:
 
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "作哉君也很坏心眼呐，没必要逼到那种程度的。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Surprise 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Surprise 1.ogg"
 
@@ -7658,7 +7658,7 @@ label block_00003C3A:
 
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "打西瓜也很有意思，能在那种地方感觉到平日练习的成果……不错。"
 
-    if sys_effect_current_file != "sound/Effect Sound/As you wish 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/As you wish 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/As you wish 1.ogg"
 
@@ -7687,7 +7687,7 @@ label block_00003C3A:
     hide tag_FD7EEC63649F4ABB88B3E11A041AF5A6
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
 
@@ -7719,7 +7719,7 @@ label block_00003C3A:
     hide tag_25C83DBF35814073B3DF9FF7BCEF75AC
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect_current_file != "sound/Effect Sound/Strike 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Strike 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Strike 1.ogg"
 
@@ -7734,7 +7734,7 @@ label block_00003C3A:
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "嗯？什么事？……"
-    if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
@@ -7743,7 +7743,7 @@ label block_00003C3A:
 
     extend "诶！为何！？"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -7758,7 +7758,7 @@ label block_00003C3A:
     hide tag_C389451CCE5A4CEAB24DEF9A7C02635D
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    if sys_effect2_current_file != "sound/Effect Sound/Tick tock 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Tick tock 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Tick tock 1.ogg"
 
@@ -7769,7 +7769,7 @@ label block_00003C3A:
     with rs_effect_995A246CCA8349168AE1D97DE29F1026
 
     rs_character_57471360F48A413AB843A4E46D8C5541 "可是……今天不是周日……是{w=0.6}{nw}"
-    if sys_effect_current_file != "sound/Effect Sound/Impact 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 2.ogg"
 
@@ -7794,7 +7794,7 @@ label block_00003C3A:
 
     pause 1
 
-    if sys_effect_current_file != "sound/Effect Sound/Impact 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Impact 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 1.ogg"
 
@@ -7814,7 +7814,7 @@ label block_00003C3A:
 
     window show
 
-    if sys_effect2_current_file != "sound/Effect Sound/Flee 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Flee 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Flee 1.ogg"
 
@@ -7829,7 +7829,7 @@ label block_00003C3A:
 
     pause 2.5
 
-    if sys_effect3_current_file != "sound/Effect Sound/Wave 2.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
+    if "sys_effect3_current_file" in globals() and sys_effect3_current_file != "sound/Effect Sound/Wave 2.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
         play effect3 "sound/Effect Sound/Wave 2.ogg" loop
         $ sys_effect3_current_file = "sound/Effect Sound/Wave 2.ogg"
 
@@ -7888,7 +7888,7 @@ label block_00003BBB:
 
     pause 1.5
 
-    if sys_effect_current_file != "sound/Effect Sound/Walk 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Walk 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Walk 1.ogg"
 
@@ -7916,7 +7916,7 @@ label block_00003BBB:
 
     pause 1.5
 
-    if sys_effect2_current_file != "sound/Effect Sound/Thunder 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Thunder 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Thunder 1.ogg"
 
@@ -7941,7 +7941,7 @@ label block_00003BBB:
 
     pause 0.3
 
-    if sys_effect_current_file != "sound/Effect Sound/Impact 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 2.ogg"
 
@@ -7960,7 +7960,7 @@ label block_00003BBB:
 
     rs_character_62324AD297554FE987C680452CEE232E "毕竟是最重要的哥哥的生日，早就决定好要送上最好的礼物了。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -8018,7 +8018,7 @@ label block_00003BBB:
 
     rs_character_62324AD297554FE987C680452CEE232E "即便如此听闻事件后，二话不说就答应下来。{w}\n足以一窥和哥哥的关系。还是一如既往的会使唤人。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -8049,7 +8049,7 @@ label block_00003BBB:
 
     pause 0.3
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -8101,7 +8101,7 @@ label block_00003BBB:
 
     rs_character_EE1903694D624E399209772C95A20AAA "并不需要奢求什么，只要能在一起就很满足了。\n只要能增加两人间的回忆就很幸福了。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -8119,7 +8119,7 @@ label block_00003BBB:
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
     rs_character_EE1903694D624E399209772C95A20AAA "还是那么不坦率呐。\n"
-    if sys_effect2_current_file != "sound/Effect Sound/Wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Wind 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Wind 1.ogg"
 
@@ -8172,7 +8172,7 @@ label block_00003BBB:
     hide tag_A45595F91B474CC9A0810932B96DD8EC
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -8201,11 +8201,11 @@ label block_00003BBB:
 
     pause 1
 
-    if sys_effect2_current_file != "sound/Effect Sound/Impact 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Impact 2.ogg"
 
-    if sys_effect_current_file != "sound/Effect Sound/Thunder 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Thunder 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Thunder 1.ogg"
 
@@ -8246,7 +8246,7 @@ label block_00003BBB:
     stop effect2 fadeout 0.5
     $ sys_effect2_current_file = ""
 
-    if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
@@ -8260,7 +8260,7 @@ label block_00003BBB:
     show rs_image_7591B090AFF548F4B3459E7CA9BD2848 as tag_E99970E1386B453DAF81C3AE2C72BE8E at left_top zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_1445BCCB339E41F196B5E8B4A0176595
 
-    if sys_effect_current_file != "sound/Effect Sound/Cut the wind 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
@@ -8276,13 +8276,13 @@ label block_00003BBB:
 
     rs_character_EE1903694D624E399209772C95A20AAA "欸——！！接下来才是有趣的地方的说！"
 
-    if sys_effect_current_file != "sound/Effect Sound/Stupid 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
     rs_character_62324AD297554FE987C680452CEE232E "真是的……喝酒喝到语气都变了真是没出息。\n醉酒的哥哥太傲慢了，我讨厌这样。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 3.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 3.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 3.ogg"
 
@@ -8291,7 +8291,7 @@ label block_00003BBB:
 
     rs_character_62324AD297554FE987C680452CEE232E "今天不许继续喝了。知道自己开瓶会有什么下场么。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 1.ogg"
 
@@ -8305,7 +8305,7 @@ label block_00003BBB:
 
     rs_character_62324AD297554FE987C680452CEE232E "对了对了，回床上去也很容易出问题，今天就请你睡浴室了。"
 
-    if sys_effect_current_file != "sound/Effect Sound/Flee 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Flee 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Flee 1.ogg"
 
@@ -8314,7 +8314,7 @@ label block_00003BBB:
 
     rs_character_EE1903694D624E399209772C95A20AAA "只、只有这个还请饶了我！我可是很柔软的，不在床上就睡不着的……！"
 
-    if sys_effect_current_file != "sound/Effect Sound/Cute 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 1.ogg"
 
@@ -8463,7 +8463,7 @@ label block_00003C3C:
     show rs_image_69E4B1516C13405D8DC9ADE4070255DB as tag_ECFB5B509A334A868686B3435242BF90 at right_top zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
-    if sys_effect_current_file != "sound/Effect Sound/Dorky 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
 

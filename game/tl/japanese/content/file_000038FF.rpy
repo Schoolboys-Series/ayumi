@@ -1285,9 +1285,9 @@ translate japanese block_00003902_713d2e71:
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "そのとおりです！\n人は、愛する人に癒され、尽くされて快楽を得るのです！！"
 
 # game/content/file_000038FF.rpy:2144
-translate japanese block_00003902_d5663ed5:
+translate japanese block_00003902_99aaeeef:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "只是想着毫无感情的机器追寻什么的，肯定是不对的！"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "只是向着毫无感情的机器追寻什么的，肯定是不对的！"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "愛もない、ただの無機質な道具にそれを求めるアナタたちは、\n間違っています！"
 
 # game/content/file_000038FF.rpy:2158

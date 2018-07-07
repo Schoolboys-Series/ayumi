@@ -29,7 +29,7 @@ label block_00002EC8:
 
     pause 0.4
 
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -118,7 +118,7 @@ label block_00002ECC:
 
     pause 0.3
 
-    if sys_effect_current_file != "sound/Effect Sound/Scene changing 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Scene changing 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Scene changing 2.ogg"
 
@@ -139,7 +139,7 @@ label block_00002ECC:
 label block_00002EC9:
     # Node: 00002EC9 (1)
     $ set_window("イベントモード")
-    if sys_effect_current_file != "sound/Effect Sound/Scene changing 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Scene changing 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Scene changing 1.ogg"
 
@@ -149,7 +149,7 @@ label block_00002EC9:
 
     pause 1
 
-    if sys_effect_current_file != "sound/Effect Sound/Look! 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Look! 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Look! 1.ogg"
 
@@ -214,7 +214,7 @@ label block_00003F37:
         play music "sound/BGM/End of semester.ogg" loop
         $ sys_music_current_file = "sound/BGM/End of semester.ogg"
 
-    if sys_effect2_current_file != "sound/Effect Sound/Swallow 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Swallow 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Swallow 1.ogg"
 
@@ -239,7 +239,7 @@ label block_00003F38:
 
     window show
 
-    if sys_effect_current_file != "sound/Effect Sound/As you wish 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/As you wish 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/As you wish 1.ogg"
 
@@ -321,7 +321,7 @@ label block_000030ED:
         play music "sound/BGM/Start scene.ogg" loop
         $ sys_music_current_file = "sound/BGM/Start scene.ogg"
 
-    if sys_effect2_current_file != "sound/Effect Sound/Swallow 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Swallow 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Swallow 1.ogg"
 
@@ -346,7 +346,7 @@ label block_000030EA:
 
     window show
 
-    if sys_effect_current_file != "sound/Effect Sound/As you wish 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/As you wish 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/As you wish 1.ogg"
 
@@ -383,7 +383,7 @@ label block_000030E9:
         play music "sound/BGM/Chapter 3.ogg" loop
         $ sys_music_current_file = "sound/BGM/Chapter 3.ogg"
 
-    if sys_effect2_current_file != "sound/Effect Sound/Swallow 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Swallow 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Swallow 1.ogg"
 
@@ -408,7 +408,7 @@ label block_00002ECD:
         play music "sound/BGM/Chapter 2.ogg" loop
         $ sys_music_current_file = "sound/BGM/Chapter 2.ogg"
 
-    if sys_effect2_current_file != "sound/Effect Sound/Swallow 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Swallow 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Swallow 1.ogg"
 
@@ -433,7 +433,7 @@ label block_00002ECF:
 
     window show
 
-    if sys_effect_current_file != "sound/Effect Sound/As you wish 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/As you wish 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/As you wish 1.ogg"
 
@@ -592,7 +592,7 @@ label block_00002454:
 
 label block_000029CF:
     # Node: 000029CF (1)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -628,7 +628,7 @@ label block_000029D0:
 
 label block_000029CD:
     # Node: 000029CD (2)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -664,7 +664,7 @@ label block_000029CE:
 
 label block_000029CB:
     # Node: 000029CB (3)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -700,7 +700,7 @@ label block_000029CC:
 
 label block_000029C7:
     # Node: 000029C7 (4)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -736,7 +736,7 @@ label block_000029CA:
 
 label block_000029C6:
     # Node: 000029C6 (5)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -772,7 +772,7 @@ label block_000029C8:
 
 label block_000029C5:
     # Node: 000029C5 (6)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -808,7 +808,7 @@ label block_000029C9:
 
 label block_000029D1:
     # Node: 000029D1 (7)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -979,7 +979,7 @@ label block_00001198:
 
     pause 0.5
 
-    if sys_effect_current_file != "sound/Effect Sound/Scene changing 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Scene changing 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Scene changing 2.ogg"
 
@@ -992,7 +992,7 @@ label block_00001198:
     pause 1
 
     $ set_window("イベントモード")
-    if sys_effect_current_file != "sound/Effect Sound/Scene changing 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Scene changing 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Scene changing 1.ogg"
 
@@ -1002,7 +1002,7 @@ label block_00001198:
 
     pause 1
 
-    if sys_effect_current_file != "sound/Effect Sound/Look! 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Look! 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Look! 1.ogg"
 
@@ -1279,7 +1279,7 @@ label block_00002A7B:
 
 label block_00002A13:
     # Node: 00002A13 (1)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -1315,7 +1315,7 @@ label block_00002A14:
 
 label block_00002A11:
     # Node: 00002A11 (2)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -1351,7 +1351,7 @@ label block_00002A12:
 
 label block_00002A0F:
     # Node: 00002A0F (3)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -1387,7 +1387,7 @@ label block_00002A10:
 
 label block_00002A0B:
     # Node: 00002A0B (4)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -1423,7 +1423,7 @@ label block_00002A0D:
 
 label block_00002A0C:
     # Node: 00002A0C (5)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -1493,7 +1493,7 @@ label block_00002482:
 
     pause 0.5
 
-    if sys_effect_current_file != "sound/Effect Sound/Scene changing 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Scene changing 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Scene changing 2.ogg"
 
@@ -1506,7 +1506,7 @@ label block_00002482:
     pause 1
 
     $ set_window("イベントモード")
-    if sys_effect_current_file != "sound/Effect Sound/Scene changing 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Scene changing 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Scene changing 1.ogg"
 
@@ -1516,7 +1516,7 @@ label block_00002482:
 
     pause 1
 
-    if sys_effect_current_file != "sound/Effect Sound/Look! 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Look! 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Look! 1.ogg"
 
@@ -1715,7 +1715,7 @@ label block_00002A83:
 
 label block_000029DD:
     # Node: 000029DD (1)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -1751,7 +1751,7 @@ label block_000029DE:
 
 label block_000029DB:
     # Node: 000029DB (2)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -1787,7 +1787,7 @@ label block_000029DC:
 
 label block_000029D9:
     # Node: 000029D9 (3)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -1823,7 +1823,7 @@ label block_000029DA:
 
 label block_000029D5:
     # Node: 000029D5 (4)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -1859,7 +1859,7 @@ label block_000029D6:
 
 label block_000029D4:
     # Node: 000029D4 (5)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -1895,7 +1895,7 @@ label block_000029D7:
 
 label block_000029D3:
     # Node: 000029D3 (6)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -1965,7 +1965,7 @@ label block_0000245A:
 
     pause 0.5
 
-    if sys_effect_current_file != "sound/Effect Sound/Scene changing 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Scene changing 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Scene changing 2.ogg"
 
@@ -1978,7 +1978,7 @@ label block_0000245A:
     pause 1
 
     $ set_window("イベントモード")
-    if sys_effect_current_file != "sound/Effect Sound/Scene changing 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Scene changing 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Scene changing 1.ogg"
 
@@ -1988,7 +1988,7 @@ label block_0000245A:
 
     pause 1
 
-    if sys_effect_current_file != "sound/Effect Sound/Look! 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Look! 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Look! 1.ogg"
 
@@ -2208,7 +2208,7 @@ label block_00002A7D:
 
 label block_00002445:
     # Node: 00002445 (1)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -2244,7 +2244,7 @@ label block_00002447:
 
 label block_00002448:
     # Node: 00002448 (2)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -2280,7 +2280,7 @@ label block_00002449:
 
 label block_0000244A:
     # Node: 0000244A (3)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -2316,7 +2316,7 @@ label block_0000244B:
 
 label block_0000244C:
     # Node: 0000244C (4)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -2352,7 +2352,7 @@ label block_0000244D:
 
 label block_0000244E:
     # Node: 0000244E (5)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -2388,7 +2388,7 @@ label block_0000244F:
 
 label block_00002450:
     # Node: 00002450 (6)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -2458,7 +2458,7 @@ label block_0000245F:
 
     pause 0.5
 
-    if sys_effect_current_file != "sound/Effect Sound/Scene changing 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Scene changing 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Scene changing 2.ogg"
 
@@ -2471,7 +2471,7 @@ label block_0000245F:
     pause 1
 
     $ set_window("イベントモード")
-    if sys_effect_current_file != "sound/Effect Sound/Scene changing 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Scene changing 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Scene changing 1.ogg"
 
@@ -2481,7 +2481,7 @@ label block_0000245F:
 
     pause 1
 
-    if sys_effect_current_file != "sound/Effect Sound/Look! 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Look! 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Look! 1.ogg"
 
@@ -2701,7 +2701,7 @@ label block_00002A79:
 
 label block_000029F5:
     # Node: 000029F5 (1)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -2737,7 +2737,7 @@ label block_000029F6:
 
 label block_000029F3:
     # Node: 000029F3 (2)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -2773,7 +2773,7 @@ label block_000029F4:
 
 label block_000029F1:
     # Node: 000029F1 (3)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -2809,7 +2809,7 @@ label block_000029F2:
 
 label block_000029ED:
     # Node: 000029ED (4)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -2845,7 +2845,7 @@ label block_000029F0:
 
 label block_000029EC:
     # Node: 000029EC (5)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -2915,7 +2915,7 @@ label block_0000246B:
 
     pause 0.5
 
-    if sys_effect_current_file != "sound/Effect Sound/Scene changing 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Scene changing 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Scene changing 2.ogg"
 
@@ -2928,7 +2928,7 @@ label block_0000246B:
     pause 1
 
     $ set_window("イベントモード")
-    if sys_effect_current_file != "sound/Effect Sound/Scene changing 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Scene changing 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Scene changing 1.ogg"
 
@@ -2938,7 +2938,7 @@ label block_0000246B:
 
     pause 1
 
-    if sys_effect_current_file != "sound/Effect Sound/Look! 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Look! 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Look! 1.ogg"
 
@@ -3135,7 +3135,7 @@ label block_00002A85:
 
 label block_000029FF:
     # Node: 000029FF (1)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -3171,7 +3171,7 @@ label block_00002A00:
 
 label block_000029FD:
     # Node: 000029FD (2)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -3207,7 +3207,7 @@ label block_000029FE:
 
 label block_000029F9:
     # Node: 000029F9 (3)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -3243,7 +3243,7 @@ label block_000029FC:
 
 label block_000029F8:
     # Node: 000029F8 (4)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -3279,7 +3279,7 @@ label block_000029FA:
 
 label block_000029F7:
     # Node: 000029F7 (5)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -3349,7 +3349,7 @@ label block_00002478:
 
     pause 0.5
 
-    if sys_effect_current_file != "sound/Effect Sound/Scene changing 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Scene changing 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Scene changing 2.ogg"
 
@@ -3362,7 +3362,7 @@ label block_00002478:
     pause 1
 
     $ set_window("イベントモード")
-    if sys_effect_current_file != "sound/Effect Sound/Scene changing 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Scene changing 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Scene changing 1.ogg"
 
@@ -3372,7 +3372,7 @@ label block_00002478:
 
     pause 1
 
-    if sys_effect_current_file != "sound/Effect Sound/Look! 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Look! 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Look! 1.ogg"
 
@@ -3573,7 +3573,7 @@ label block_00002A7F:
 
 label block_000029E9:
     # Node: 000029E9 (1)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -3609,7 +3609,7 @@ label block_000029EA:
 
 label block_000029E7:
     # Node: 000029E7 (2)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -3645,7 +3645,7 @@ label block_000029E8:
 
 label block_000029E5:
     # Node: 000029E5 (3)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -3681,7 +3681,7 @@ label block_000029E6:
 
 label block_000029E3:
     # Node: 000029E3 (4)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -3717,7 +3717,7 @@ label block_000029E4:
 
 label block_000029E1:
     # Node: 000029E1 (5)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -3753,7 +3753,7 @@ label block_000029E2:
 
 label block_000029DF:
     # Node: 000029DF (6)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -3823,7 +3823,7 @@ label block_00002465:
 
     pause 0.5
 
-    if sys_effect_current_file != "sound/Effect Sound/Scene changing 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Scene changing 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Scene changing 2.ogg"
 
@@ -3836,7 +3836,7 @@ label block_00002465:
     pause 1
 
     $ set_window("イベントモード")
-    if sys_effect_current_file != "sound/Effect Sound/Scene changing 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Scene changing 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Scene changing 1.ogg"
 
@@ -3846,7 +3846,7 @@ label block_00002465:
 
     pause 1
 
-    if sys_effect_current_file != "sound/Effect Sound/Look! 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Look! 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Look! 1.ogg"
 
@@ -4064,7 +4064,7 @@ label block_00002A81:
 
 label block_00002A09:
     # Node: 00002A09 (1)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -4100,7 +4100,7 @@ label block_00002A0A:
 
 label block_00002A07:
     # Node: 00002A07 (2)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -4136,7 +4136,7 @@ label block_00002A08:
 
 label block_00002A05:
     # Node: 00002A05 (3)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -4172,7 +4172,7 @@ label block_00002A06:
 
 label block_00002A02:
     # Node: 00002A02 (4)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -4208,7 +4208,7 @@ label block_00002A03:
 
 label block_00002A01:
     # Node: 00002A01 (5)
-    if sys_effect2_current_file != "sound/Effect Sound/Clipper 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Clipper 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Clipper 1.ogg"
 
@@ -4278,7 +4278,7 @@ label block_0000247D:
 
     pause 0.5
 
-    if sys_effect_current_file != "sound/Effect Sound/Scene changing 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Scene changing 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Scene changing 2.ogg"
 
@@ -4291,7 +4291,7 @@ label block_0000247D:
     pause 1
 
     $ set_window("イベントモード")
-    if sys_effect_current_file != "sound/Effect Sound/Scene changing 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Scene changing 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Scene changing 1.ogg"
 
@@ -4301,7 +4301,7 @@ label block_0000247D:
 
     pause 1
 
-    if sys_effect_current_file != "sound/Effect Sound/Look! 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Look! 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Look! 1.ogg"
 
@@ -4538,7 +4538,7 @@ label block_00001195:
 
     pause 0.4
 
-    if sys_effect_current_file != "sound/Effect Sound/Inspiration 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
@@ -4627,7 +4627,7 @@ label block_00002484:
 
     pause 0.3
 
-    if sys_effect_current_file != "sound/Effect Sound/Scene changing 2.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Scene changing 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Scene changing 2.ogg"
 
@@ -4648,7 +4648,7 @@ label block_00002484:
 label block_00002440:
     # Node: 00002440 (1)
     $ set_window("イベントモード")
-    if sys_effect_current_file != "sound/Effect Sound/Scene changing 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Scene changing 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Scene changing 1.ogg"
 
@@ -4658,7 +4658,7 @@ label block_00002440:
 
     pause 1
 
-    if sys_effect_current_file != "sound/Effect Sound/Look! 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Look! 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Look! 1.ogg"
 
@@ -4719,7 +4719,7 @@ label block_00002488:
         play music "sound/BGM/Chapter 1.ogg" loop
         $ sys_music_current_file = "sound/BGM/Chapter 1.ogg"
 
-    if sys_effect2_current_file != "sound/Effect Sound/Swallow 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Swallow 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Swallow 1.ogg"
 
@@ -4744,7 +4744,7 @@ label block_00002487:
 
     window show
 
-    if sys_effect_current_file != "sound/Effect Sound/As you wish 1.ogg" or True: # Hotfix: Ignore multiplay defenser for effect sound
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/As you wish 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/As you wish 1.ogg"
 

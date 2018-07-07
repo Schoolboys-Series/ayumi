@@ -10,15 +10,6 @@ init offset = -2
 ## width and height of the game.
 init python:
     gui.init(800, 600)
-    # Detect system language
-    if persistent.IsFirstLaunch == True:
-        import locale
-        user_system_location = locale.getdefaultlocale()[0][0:2]
-        if user_system_location == 'ja':
-            renpy.change_language('japanese')
-        persistent.IsFirstLaunch = False
-
-
 
 ################################################################################
 ## GUI Configuration Variables

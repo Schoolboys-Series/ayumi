@@ -900,231 +900,232 @@ translate japanese strings:
     new "jump <ラベル>: ラベルにジャンプ"
 
 define gui.system_font = u'font/source-hans-sans-medium.ttc'
-# # TODO: Translation updated at 2018-06-06 13:40
 
-# translate japanese strings:
+# TODO: Translation updated at 2018-07-07 17:30
 
-#     # 00action_file.rpy:344
-#     old "Save slot %s: [text]"
-#     new ""
+translate japanese strings:
 
-#     # 00action_file.rpy:417
-#     old "Load slot %s: [text]"
-#     new ""
+    # 00action_file.rpy:344
+    old "Save slot %s: [text]"
+    new ""
 
-#     # 00action_file.rpy:459
-#     old "Delete slot [text]"
-#     new ""
+    # 00action_file.rpy:417
+    old "Load slot %s: [text]"
+    new ""
 
-#     # 00action_file.rpy:539
-#     old "File page auto"
-#     new ""
+    # 00action_file.rpy:459
+    old "Delete slot [text]"
+    new ""
 
-#     # 00action_file.rpy:541
-#     old "File page quick"
-#     new ""
+    # 00action_file.rpy:539
+    old "File page auto"
+    new ""
 
-#     # 00action_file.rpy:543
-#     old "File page [text]"
-#     new ""
+    # 00action_file.rpy:541
+    old "File page quick"
+    new ""
 
-#     # 00action_file.rpy:733
-#     old "Next file page."
-#     new ""
+    # 00action_file.rpy:543
+    old "File page [text]"
+    new ""
 
-#     # 00action_file.rpy:797
-#     old "Previous file page."
-#     new ""
+    # 00action_file.rpy:733
+    old "Next file page."
+    new ""
 
-#     # 00action_file.rpy:876
-#     old "Quick save."
-#     new ""
+    # 00action_file.rpy:797
+    old "Previous file page."
+    new ""
 
-#     # 00action_file.rpy:895
-#     old "Quick load."
-#     new ""
+    # 00action_file.rpy:876
+    old "Quick save."
+    new ""
 
-#     # 00action_other.rpy:344
-#     old "Language [text]"
-#     new ""
+    # 00action_file.rpy:895
+    old "Quick load."
+    new ""
 
-#     # 00library.rpy:150
-#     old "bar"
-#     new ""
+    # 00action_other.rpy:344
+    old "Language [text]"
+    new ""
 
-#     # 00library.rpy:151
-#     old "selected"
-#     new ""
+    # 00library.rpy:150
+    old "bar"
+    new ""
 
-#     # 00library.rpy:152
-#     old "viewport"
-#     new ""
+    # 00library.rpy:151
+    old "selected"
+    new ""
 
-#     # 00library.rpy:153
-#     old "horizontal scroll"
-#     new ""
+    # 00library.rpy:152
+    old "viewport"
+    new ""
 
-#     # 00library.rpy:154
-#     old "vertical scroll"
-#     new ""
+    # 00library.rpy:153
+    old "horizontal scroll"
+    new ""
 
-#     # 00library.rpy:155
-#     old "activate"
-#     new ""
+    # 00library.rpy:154
+    old "vertical scroll"
+    new ""
 
-#     # 00library.rpy:156
-#     old "deactivate"
-#     new ""
+    # 00library.rpy:155
+    old "activate"
+    new ""
 
-#     # 00library.rpy:157
-#     old "increase"
-#     new ""
+    # 00library.rpy:156
+    old "deactivate"
+    new ""
 
-#     # 00library.rpy:158
-#     old "decrease"
-#     new ""
+    # 00library.rpy:157
+    old "increase"
+    new ""
 
-#     # 00preferences.rpy:207
-#     old "display"
-#     new ""
+    # 00library.rpy:158
+    old "decrease"
+    new ""
 
-#     # 00preferences.rpy:219
-#     old "transitions"
-#     new ""
+    # 00preferences.rpy:207
+    old "display"
+    new ""
 
-#     # 00preferences.rpy:228
-#     old "skip transitions"
-#     new ""
+    # 00preferences.rpy:219
+    old "transitions"
+    new ""
 
-#     # 00preferences.rpy:230
-#     old "video sprites"
-#     new ""
+    # 00preferences.rpy:228
+    old "skip transitions"
+    new ""
 
-#     # 00preferences.rpy:239
-#     old "show empty window"
-#     new ""
+    # 00preferences.rpy:230
+    old "video sprites"
+    new ""
 
-#     # 00preferences.rpy:248
-#     old "text speed"
-#     new ""
+    # 00preferences.rpy:239
+    old "show empty window"
+    new ""
 
-#     # 00preferences.rpy:256
-#     old "joystick"
-#     new ""
+    # 00preferences.rpy:248
+    old "text speed"
+    new ""
 
-#     # 00preferences.rpy:256
-#     old "joystick..."
-#     new ""
+    # 00preferences.rpy:256
+    old "joystick"
+    new ""
 
-#     # 00preferences.rpy:263
-#     old "skip"
-#     new ""
+    # 00preferences.rpy:256
+    old "joystick..."
+    new ""
 
-#     # 00preferences.rpy:266
-#     old "skip unseen [text]"
-#     new ""
+    # 00preferences.rpy:263
+    old "skip"
+    new ""
 
-#     # 00preferences.rpy:271
-#     old "skip unseen text"
-#     new ""
+    # 00preferences.rpy:266
+    old "skip unseen [text]"
+    new ""
 
-#     # 00preferences.rpy:273
-#     old "begin skipping"
-#     new ""
+    # 00preferences.rpy:271
+    old "skip unseen text"
+    new ""
 
-#     # 00preferences.rpy:277
-#     old "after choices"
-#     new ""
+    # 00preferences.rpy:273
+    old "begin skipping"
+    new ""
 
-#     # 00preferences.rpy:284
-#     old "skip after choices"
-#     new ""
+    # 00preferences.rpy:277
+    old "after choices"
+    new ""
 
-#     # 00preferences.rpy:286
-#     old "auto-forward time"
-#     new ""
+    # 00preferences.rpy:284
+    old "skip after choices"
+    new ""
 
-#     # 00preferences.rpy:300
-#     old "auto-forward"
-#     new ""
+    # 00preferences.rpy:286
+    old "auto-forward time"
+    new ""
 
-#     # 00preferences.rpy:307
-#     old "Auto forward"
-#     new ""
+    # 00preferences.rpy:300
+    old "auto-forward"
+    new ""
 
-#     # 00preferences.rpy:310
-#     old "auto-forward after click"
-#     new ""
+    # 00preferences.rpy:307
+    old "Auto forward"
+    new ""
 
-#     # 00preferences.rpy:319
-#     old "automatic move"
-#     new ""
+    # 00preferences.rpy:310
+    old "auto-forward after click"
+    new ""
 
-#     # 00preferences.rpy:328
-#     old "wait for voice"
-#     new ""
+    # 00preferences.rpy:319
+    old "automatic move"
+    new ""
 
-#     # 00preferences.rpy:337
-#     old "voice sustain"
-#     new ""
+    # 00preferences.rpy:328
+    old "wait for voice"
+    new ""
 
-#     # 00preferences.rpy:346
-#     old "self voicing"
-#     new ""
+    # 00preferences.rpy:337
+    old "voice sustain"
+    new ""
 
-#     # 00preferences.rpy:355
-#     old "clipboard voicing"
-#     new ""
+    # 00preferences.rpy:346
+    old "self voicing"
+    new ""
 
-#     # 00preferences.rpy:364
-#     old "debug voicing"
-#     new ""
+    # 00preferences.rpy:355
+    old "clipboard voicing"
+    new ""
 
-#     # 00preferences.rpy:373
-#     old "emphasize audio"
-#     new ""
+    # 00preferences.rpy:364
+    old "debug voicing"
+    new ""
 
-#     # 00preferences.rpy:382
-#     old "rollback side"
-#     new ""
+    # 00preferences.rpy:373
+    old "emphasize audio"
+    new ""
 
-#     # 00preferences.rpy:392
-#     old "gl powersave"
-#     new ""
+    # 00preferences.rpy:382
+    old "rollback side"
+    new ""
 
-#     # 00preferences.rpy:398
-#     old "gl framerate"
-#     new ""
+    # 00preferences.rpy:392
+    old "gl powersave"
+    new ""
 
-#     # 00preferences.rpy:401
-#     old "gl tearing"
-#     new ""
+    # 00preferences.rpy:398
+    old "gl framerate"
+    new ""
 
-#     # 00preferences.rpy:413
-#     old "music volume"
-#     new ""
+    # 00preferences.rpy:401
+    old "gl tearing"
+    new ""
 
-#     # 00preferences.rpy:414
-#     old "sound volume"
-#     new ""
+    # 00preferences.rpy:413
+    old "music volume"
+    new ""
 
-#     # 00preferences.rpy:415
-#     old "voice volume"
-#     new ""
+    # 00preferences.rpy:414
+    old "sound volume"
+    new ""
 
-#     # 00preferences.rpy:416
-#     old "mute music"
-#     new ""
+    # 00preferences.rpy:415
+    old "voice volume"
+    new ""
 
-#     # 00preferences.rpy:417
-#     old "mute sound"
-#     new ""
+    # 00preferences.rpy:416
+    old "mute music"
+    new ""
 
-#     # 00preferences.rpy:418
-#     old "mute voice"
-#     new ""
+    # 00preferences.rpy:417
+    old "mute sound"
+    new ""
 
-#     # 00preferences.rpy:419
-#     old "mute all"
-#     new ""
+    # 00preferences.rpy:418
+    old "mute voice"
+    new ""
+
+    # 00preferences.rpy:419
+    old "mute all"
+    new ""
 

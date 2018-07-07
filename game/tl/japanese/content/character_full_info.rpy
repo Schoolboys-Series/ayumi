@@ -1164,3 +1164,15 @@ translate japanese strings:
     old "{size=12}BE{/size}\n贝——"
     new "べー"
 
+# TODO: Translation updated at 2018-07-07 17:30
+
+translate japanese strings:
+
+    # content\character_full_info.rpy:18
+    old "吉木与行所属“陆田&杉本”中的\n玩梗担当。成为艺人刚一年多。\n经常玩以前从没有人玩过的梗，\n外加体型问题，在部分人中获得了赞赏。\n刚出道所以只在关西地方偶像圈，\n不过目标是全国！\n大家也要来多多应援！"
+    new ""
+
+    # content\character_full_info.rpy:18
+    old "吉木与行所属“陆田&杉本”中的\n吐槽担当。槽点都是杉本想的，\n不过在听到内容后也能给出精彩的吐槽。\n和杉本是青梅竹马，虽说舞台上吐槽\n毫不留情，但其实比谁都要重视杉本，\n认为他是自己最重要的人。"
+    new ""
+
