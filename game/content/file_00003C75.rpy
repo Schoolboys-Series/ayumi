@@ -412,7 +412,7 @@ label block_00003FA9:
     show rs_image_6DAA391E5F2A40618487F4AF2067F4AC as tag_3C0D2D9BB95B42AAA768FE8D105219CB at center_bottom zorder zorder_tag_3C0D2D9BB95B42AAA768FE8D105219CB onlayer master
     with rs_effect_1445BCCB339E41F196B5E8B4A0176595
 
-    show rs_image_29E65B9F2B294317A6C20C0C2C26C0DE ("{color=#42A5F5}ORIGINAL{/color}\nSCHOOL BOYS! Series\nSCHOOL BOYS! AYUMI\n{size=16}© 2016 Kiriya, Kasasagi{/size}\n\n{color=#42A5F5}CASTS{/color}\nTomo Moriumi\nShinobu Ayase\nTsubasa Ichinose\nSakuya Houmi\nTsuki Akamine\nSora Akamine\nShintarou Okumura\nSaburou Nekoyama\nShirou Nekoyama\nYukio Sakaki\nTsubasa-chan\nYuuhi\nNori\nMamoru Seigi\nKei Itou\nItsuki Kimura\nHikaru Satou\nNaoya Okajima\nTadashi Kojima\nJyunta Katou\nKenji Matsuda\nKakeru Izumi\nKobayashi\nMinami\nIsao Rikuta\nKokoro Sugimoto\nTakehito Kiyoshi\nKanon Nakayama\nYuusuke Okajima\nShion Nakayama\nMr. Nameko\nSyougintoki Suwabe\nSyouhei Suwabe\nYumi Nakajima\nOwner of Ramen shop\nOwner of Sushi shop\nOwner of Madchen Cafe\nOwner of Dagashi shop\nTentacle A\nTentacle B\nDark lesser panda\nMonster A\nMonster B\nMonster C\nOther monsters\nKyubi\nSusumo Tokiwa\nKouya Sakase\nKai\nHe——\nBe——\nGo——\n\n{color=#42A5F5}RESOURCE{/color}\nDOVA-SYNDROME\n音楽素材MusMus\nMusic is VFR\nポケットsound\n369\n音楽の卵\n小森平の使い方\n効果音ラボ\nGATAG (Steinway & Sons/Alan Alim)\n野田工房P\nOn-Jin ~音人~\n素材Good\nぴぽや\n\n{color=#42A5F5}OPENING THEME{/color}\n{size=30}Don't be afraid!!{/size}\n{size=16}by t.tam{/size}\n\n{color=#42A5F5}ENDING THEME{/color}\n{size=30}愛をかけて{/size}\n{size=16}by t.tam{/size}\n\n{color=#42A5F5}OPENING ANIMATION{/color}\nしょうちゃん\n\n{color=#42A5F5}PROGRAMMING{/color}\nLundarl Gholoi\n\n{color=#42A5F5}QUALITY ASSURANCE{/color}\nr98341034\n超级大白\n幽月艾\n凤箫剑\n\n{color=#42A5F5}LOCALIZATION - CHINESE{/color}\nLundarl Gholoi\nr98341034\n电摩星人 & 愉快的小伙伴们\n幽月艾\n\n{color=#42A5F5}LOCALIZATION - ENGLISH{/color}\nIn progress...\n\n{color=#42A5F5}LOCALIZATION - JAPANESE{/color}\nIn progress...") as staff_list zorder 1000:
+    show rs_image_29E65B9F2B294317A6C20C0C2C26C0DE ("{color=#42A5F5}ORIGINAL{/color}\nスクールボーイズ！\nスクールボーイズ！歩\n{size=16}© 2016 Kiriya, Kasasagi{/size}\n\n{color=#42A5F5}CASTS{/color}\nTomo Moriumi\nShinobu Ayase\nTsubasa Ichinose\nSakuya Houmi\nTsuki Akamine\nSora Akamine\nShintarou Okumura\nSaburou Nekoyama\nShirou Nekoyama\nYukio Sakaki\nTsubasa-chan\nYuuhi\nNori\nMamoru Seigi\nKei Itou\nItsuki Kimura\nHikaru Satou\nNaoya Okajima\nTadashi Kojima\nJyunta Katou\nKenji Matsuda\nKakeru Izumi\nKobayashi\nMinami\nIsao Rikuta\nKokoro Sugimoto\nTakehito Kiyoshi\nKanon Nakayama\nYuusuke Okajima\nShion Nakayama\nMr. Nameko\nSyougintoki Suwabe\nSyouhei Suwabe\nYumi Nakajima\nOwner of Ramen shop\nOwner of Sushi shop\nOwner of Madchen Cafe\nOwner of Dagashi shop\nTentacle A\nTentacle B\nDark lesser panda\nMonster A\nMonster B\nMonster C\nOther monsters\nKyubi\nSusumu Tokiwa\nKouya Sakase\nKai\nHe——\nBe——\n\n{color=#42A5F5}RESOURCES{/color}\nDOVA-SYNDROME\n音楽素材MusMus\nMusic is VFR\nポケットsound\n369\n音楽の卵\n小森平の使い方\n効果音ラボ\nGATAG (Steinway & Sons/Alan Alim)\n野田工房P\nOn-Jin ~音人~\n素材Good\nぴぽや\n\n{color=#42A5F5}OPENING THEME{/color}\n{size=30}Don't be afraid!!{/size}\n{size=16}by t.tam{/size}\n\n{color=#42A5F5}ENDING THEME{/color}\n{size=30}愛をかけて{/size}\n{size=16}by t.tam{/size}\n\n{color=#42A5F5}OPENING ANIMATION{/color}\nしょうちゃん\n\n{color=#42A5F5}PROGRAMMING{/color}\nLundarl Gholoi\n\n{color=#42A5F5}QUALITY ASSURANCES{/color}\nr98341034\n超级大白\n幽月艾\n凤箫剑\nTony Yang\n\n{color=#42A5F5}LOCALIZATION - CHINESE{/color}\nLundarl Gholoi\nr98341034\n电摩星人\n幽月艾\n") as staff_list zorder 1000:
         xanchor 0
         yanchor 0
         xpos 40
@@ -432,16 +432,6 @@ label block_00003FA9:
         pause 151
         linear 2 alpha 1    
     
-    show rs_image_1E4249CE4D61448BA0CCCFE9A226A837 as staff_2 zorder 1000:
-        xanchor 0
-        yanchor 1.0
-        xpos 0
-        ypos 600
-        alpha 0
-        zoom 0.5
-        pause 151
-        linear 2 alpha 1
-    
     pause 154
 
     hide tag_3C0D2D9BB95B42AAA768FE8D105219CB
@@ -456,7 +446,6 @@ label block_00003FA9:
     pause 1
 
     hide staff_1
-    hide staff_2
     with rs_effect_9271C226DF3F4D9F98AA8530D3BDF25B
 
     stop music fadeout 1

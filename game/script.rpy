@@ -146,6 +146,7 @@ label start:
         text_align=0.5,
         outlines=[(absolute(2), "#FFFFFF", absolute(0), absolute(0))])
 
+    jump block_00003FA9
     jump block_00003985
 
     return
