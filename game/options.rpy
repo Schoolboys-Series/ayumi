@@ -183,6 +183,7 @@ init python:
     build.classify('**/.**', None) # Hidden file
     build.classify('raw/**', None) # Raw file
     build.classify('**/#**', None)
+    build.classify('game/saves/**', None)
     build.classify('game/images/**.png', 'archive')
     build.classify('game/sound/**.ogg', 'archive')
     build.classify('game/tl/**/**.png', 'archive')

@@ -3,15 +3,6 @@
 # From LiveMaker Scene: 000038EE (SYSTEM UPDATE)
 
 label block_000038EF:
-    # Node: 000038EF ()
-
-    if judge_lm_condition([]):
-        jump block_000038F0
-
-    return
-
-label block_000038F0:
-    # Node: 000038F0 (Scalc)
     $ C1SG1 = C1S1 and C1S2 and C1S3
     $ C1SG2 = C1S4 and C1S5
     $ C2SG1 = C2S1 and C2S2 and C2S3
@@ -41,13 +32,4 @@ label block_000038F0:
         else:
             $ C3ShowLastWarning = False
 
-    if judge_lm_condition([]):
-        jump block_000038F1
-
     return
-
-label block_000038F1:
-    # Node: 000038F1 ()
-
-    return
-
