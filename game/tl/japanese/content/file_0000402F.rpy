@@ -2149,10 +2149,10 @@ translate japanese block_0000423E_f7843396:
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "な、なんやねん。"
 
 # game/content/file_0000402F.rpy:3473
-translate japanese block_0000423E_1a3914ae:
+translate japanese block_0000423E_b69ea0d1:
 
-    # rs_character_87ED686ED78C4AB6909895FBBBE8A60B "直、直说就是，到底喜欢奥村君的什么地方？"
-    rs_character_87ED686ED78C4AB6909895FBBBE8A60B "ず、ずばり、奥村くんのどういうところが\n好きなんですか？"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "直、直说就是，到底喜欢奥村君的什么地方？"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "ず、ずばり、奥村くんのどういうところが\n好きなんですか？"
 
 # game/content/file_0000402F.rpy:3479
 translate japanese block_0000423E_3d6f608a:

@@ -1657,19 +1657,17 @@ init -1:
             xpos 0
             ypos 0
             alpha 1
-            pause 2.3333333333333335
-            alpha 0
         contains:
             "rs_image_C2180BF5FA9F4F609CA0D2F5318983C6"
             xanchor 400
             yanchor 300
             xpos 400
             ypos 300
-            alpha 0.996078431372549
-            parallel:
+            block:
                 linear 0.5833333333333334 alpha 1
-            pause 0.5833333333333334
-            alpha 0
+                linear 0.5833333333333334 alpha 0
+                alpha 0
+                repeat
         contains:
             "rs_image_C2180BF5FA9F4F609CA0D2F5318983C6"
             xanchor 400
@@ -1678,11 +1676,11 @@ init -1:
             ypos 300
             alpha 0
             pause 0.5833333333333334
-            alpha 1
-            parallel:
-                linear 0.5833333333333334 alpha 0.996078431372549
-            pause 0.5833333333333334
-            alpha 0
+            block:
+                linear 0.5833333333333334 alpha 1
+                linear 0.5833333333333334 alpha 0
+                alpha 0
+                repeat
         contains:
             "rs_image_C2180BF5FA9F4F609CA0D2F5318983C6"
             xanchor 400
@@ -1691,11 +1689,11 @@ init -1:
             ypos 300
             alpha 0
             pause 1.1666666666666667
-            alpha 0.996078431372549
-            parallel:
+            block:
                 linear 0.5833333333333334 alpha 1
-            pause 0.5833333333333334
-            alpha 0
+                linear 0.5833333333333334 alpha 0
+                alpha 0
+                repeat
         contains:
             "rs_image_C2180BF5FA9F4F609CA0D2F5318983C6"
             xanchor 400
@@ -1704,11 +1702,11 @@ init -1:
             ypos 300
             alpha 0
             pause 1.75
-            alpha 1
-            parallel:
-                linear 0.5833333333333334 alpha 0.996078431372549
-            pause 0.5833333333333334
-            alpha 0
+            block:
+                linear 0.5833333333333334 alpha 1
+                linear 0.5833333333333334 alpha 0
+                alpha 0
+                repeat
     image rs_image_91ED003125F246C48F5E6EAE79EA049D = "images/Chapter 2/Moving/Tomo/Daytime.png"
     image rs_image_8E17ACC5A1844AA2881C89D1F688044F:
         contains:

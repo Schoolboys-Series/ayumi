@@ -571,7 +571,6 @@ screen main_menu():
                 last_saved_game[2], # image
                 "" #time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(last_saved_game[3]))  # time
             )
-            print last_saved_game
             del last_saved_game_name
         del last_saved_game_list
     style_prefix "main_menu"

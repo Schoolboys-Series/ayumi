@@ -14,14 +14,14 @@ screen scb_place_title(place):
     if place != "" and place != None:
         text place style "scb_place_title_text"
         imagebutton:
-                style "scb_place_title_save_button"
-                idle "gui/menu_button.png"
-                hover "gui/menu_button hover.png"
-                action ShowMenu("save")
+            style "scb_place_title_save_button"
+            idle "gui/menu_button.png"
+            hover "gui/menu_button hover.png"
+            action ShowMenu("save")
 
 style scb_place_title_text:
     xpos 760
-    ypos 30
+    ypos 28
     size 22
     color "#60300C"
     xanchor 1.0

@@ -4485,6 +4485,7 @@ label block_00003CD2:
 
 label block_00003CD3:
     # Node: 00003CD3 (Reset profile)
+    $ END = False
     if SYSReviewChapter == 1:
         $ C1S1 = False
         $ C1S2 = False
@@ -4607,6 +4608,7 @@ label block_00003CD7:
     $ del UserStoryCache
     $ del SYSReviewChapter
     $ Chapter = 4
+    $ END = True
 
     if judge_lm_condition([]):
         jump block_00003CDE
@@ -4633,12 +4635,11 @@ label block_00003CDB:
     stop music fadeout 2
     $ sys_music_current_file = ""
 
-    hide tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3
     $ set_place_title("")
+    hide tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3
     hide tag_ECFB5B509A334A868686B3435242BF90
     hide tag_D0357FA295AF4FCF969F3B43FCFDDE60
     with rs_effect_CB56E573F5D34F039682091C43399E19
-
 
     if judge_lm_condition([]):
         jump block_00002C17

@@ -3470,7 +3470,7 @@ label block_0000423E:
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
-    rs_character_87ED686ED78C4AB6909895FBBBE8A60B "直、直说就是，到底喜欢奥村君的什么地方？"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "直、直说就是，到底喜欢奥村君的什么地方？"
 
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop

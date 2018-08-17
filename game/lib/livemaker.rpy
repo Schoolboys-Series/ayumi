@@ -95,7 +95,6 @@ init -1 python:
             globals()["current_window"] = name
         else:
             globals()["current_window"] = name = "イベントモード"
-        print "Set windows to : %s" % (name)
         style.window = copy.deepcopy(dialogue_stylesheet[name])
         if style.exists("say_dialogue"):
             style.say_dialogue.color = dialogue_stylesheet[name].color
@@ -121,6 +120,7 @@ init -1 python:
     def reverse_volume(channel, fade=0):
         stack = globals()["volume_stack"][channel]
         if len(stack) == 0:
+            renpy.music.set_volume(1, fade, channel)
             return
         original_volume = stack.pop()
         renpy.music.set_volume(original_volume, fade, channel)

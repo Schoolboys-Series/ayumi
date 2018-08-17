@@ -332,7 +332,6 @@ label karuta_start:
             show screen karuta_minami_word(_("漂亮！"))
             pause
         elif _return == karuta_current_index: # 选择正确
-            $ print "Get card " + str(karuta_card_list[karuta_current_index])
             $ GKarutaStage[karuta_card_list[karuta_current_index]] = True
             $ WinCount += 1
             play effect2 "sound/Effect Sound/Eye shine 1.ogg" noloop
