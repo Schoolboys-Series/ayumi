@@ -1,7 +1,7 @@
 # SCHOOLBOYS! AYUMI Source code repository
 
-![Version](https://img.shields.io/badge/Version-2.3.0545.4-green.svg?style=flat-square)
-![RenPy](https://img.shields.io/badge/RenPy-6.99.14.3.3347-green.svg?style=flat-square)
+![Version](https://img.shields.io/badge/Version-2.3.0545.7-green.svg?style=flat-square)
+![RenPy](https://img.shields.io/badge/RenPy-7.1.0.882-green.svg?style=flat-square)
 
 This repository contains all source codes of SCHOOLBOYS! AYUMI, which is a Ren'Py game. Resources (images, sounds, and movies) are not included in this place because they are under other license.
 

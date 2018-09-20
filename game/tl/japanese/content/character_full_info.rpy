@@ -619,6 +619,10 @@ translate japanese strings:
     new "二十歳ぐらい"
 
     # content\character_full_info.rpy:18
+    old "5月14日"
+    new "5月14日"
+
+    # content\character_full_info.rpy:18
     old "这……"
     new "えど……"
 

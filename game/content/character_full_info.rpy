@@ -649,6 +649,7 @@ init 1000 python:
             "age": _("二十左右"),
             "height": _("159cm"),
             "weight": _("46kg"),
+            "birthdate": _("5月14日"),
             "club": _("WOLFS"),
             "pants": _("这……"),
             "appearances": [[
