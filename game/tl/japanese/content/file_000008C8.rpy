@@ -2611,9 +2611,9 @@ translate japanese block_00002534_cb62b112:
     rs_character_710A38AC94C841779DB701B5AC1010FD "は、はぁ？何勝手に決めてんの？\nお前、肝心な時に裏切りそうだから嫌なんだけど。"
 
 # game/content/file_000008C8.rpy:8621
-translate japanese block_00002534_e783b214:
+translate japanese block_00002534_a8708f9e:
 
-    # rs_character_E3F6ADD43DE44A428E1224756613C694 "好见外——！那就和穗海一起。至死都会保护伊藤的♪"
+    # rs_character_E3F6ADD43DE44A428E1224756613C694 "想多了啦——！别把我和穗海混为一谈，肯定至死都会保护伊藤的♪"
     rs_character_E3F6ADD43DE44A428E1224756613C694 "心外だなー！穂海と一緒にすんなよ。\n死ぬまで伊藤を守ってやるからさ♪"
 
 # game/content/file_000008C8.rpy:8630

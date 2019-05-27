@@ -147,7 +147,7 @@ label block_0000388C:
         { "content": _("奥村慎太郎家里开的店\n叫什么名字？"), "choice": [{"name":_("宝乃汤"),"target":"block_00003896"},{"name":_("花乃汤"),"target":"block_00003895"},{"name":_("淫乃汤"),"target":"block_00003897"}] },
         { "content": _("友和忍住在哪里？"), "choice": [{"name":_("御咲市"),"target":"block_00003897"},{"name":_("宝咲"),"target":"block_00003895"},{"name":_("伊丹咲"),"target":"block_00003897"}] },
         { "content": _("炎之魔法师夕阳最新习得的\n法术名为？"), "choice": [{"name":_("Phantom Fire"),"target":"block_00003895"},{"name":_("Fire Drive"),"target":"block_00003896"},{"name":_("Explosion"),"target":"block_00003896"}] },
-        { "content": _("WOLFS所属的朔的内裤种类是？"), "choice": [{"name":_("传统兜裆布"),"target":"block_00003896"},{"name":_("比基尼"),"target":"block_00003896"},{"name":_("并没有穿"),"target":"block_00003895"}] },
+        { "content": _("Wolf's所属的朔的内裤种类是？"), "choice": [{"name":_("传统兜裆布"),"target":"block_00003896"},{"name":_("比基尼"),"target":"block_00003896"},{"name":_("并没有穿"),"target":"block_00003895"}] },
         { "content": _("赤峰空最萌哥哥月的什么样子？"), "choice": [{"name":_("戴眼镜的样子"),"target":"block_00003895"},{"name":_("穿剑道服时"),"target":"block_00003896"},{"name":_("全裸的样子"),"target":"block_00003897"}] },
         { "content": _("二班的伊藤是什么社团的经理？"), "choice": [{"name":_("SM同好会"),"target":"block_00003897"},{"name":_("篮球部"),"target":"block_00003896"},{"name":_("田径部"),"target":"block_00003895"}] },
         { "content": _("猫山三朗的生日是？"), "choice": [{"name":_("一月十一日"),"target":"block_00003896"},{"name":_("二月十四日"),"target":"block_00003896"},{"name":_("二月二十二日"),"target":"block_00003895"}] },
@@ -176,7 +176,7 @@ label block_0000388D:
         { "content": _("奥村慎太郎介绍过的某寿司店\n的独特计价系统是？"), "choice": [{"name":_("闻一闻算给钱"),"target":"block_00003896"},{"name":_("脱衣服算给钱"),"target":"block_00003895"},{"name":_("摸一摸算给钱"),"target":"block_00003896"}] },
         { "content": _("森海友在电摩坏掉时作为\n替代会找什么？"), "choice": [{"name":_("绫濑忍"),"target":"block_00003926"},{"name":_("公园的滑梯"),"target":"block_00003895"},{"name":_("花乃汤的进水口"),"target":"block_00003896"}] },
         { "content": _("夕阳和守对什么敌人最不擅长？"), "choice": [{"name":_("火属性"),"target":"block_00003896"},{"name":_("水属性"),"target":"block_00003896"},{"name":_("工口型"),"target":"block_00003895"}] },
-        { "content": _("忍开始练习空手道的理由是？"), "choice": [{"name":_("保护重要的人"),"target":"block_00003895"},{"name":_("受漫画影响"),"target":"block_00003895"},{"name":_("打倒WOLFS"),"target":"block_00003896"}] }
+        { "content": _("忍开始练习空手道的理由是？"), "choice": [{"name":_("保护重要的人"),"target":"block_00003895"},{"name":_("受漫画影响"),"target":"block_00003895"},{"name":_("打倒Wolf's"),"target":"block_00003896"}] }
     ]
     
     $ QuestionLevel = 2

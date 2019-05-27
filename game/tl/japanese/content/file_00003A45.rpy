@@ -2083,9 +2083,9 @@ translate japanese block_00003B2C_ebc9ebd5:
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "ああ。"
 
 # game/content/file_00003A45.rpy:3368
-translate japanese block_00003B2C_df19a6e5:
+translate japanese block_00003B2C_bf1a14d3:
 
-    # extend "说起来，\n一之濑看上去就是那种一般不会去依赖的类型呢……"
+    # extend "这么说来，\n一之濑平常给人的感觉都是很靠不住的……"
     extend "それにしても、一ノ瀬は\n普段かなり頼りない感じだが……。"
 
 # game/content/file_00003A45.rpy:3382
@@ -2095,9 +2095,9 @@ translate japanese block_00003B2C_8fd60434:
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "そ、そんなあ……。"
 
 # game/content/file_00003A45.rpy:3388
-translate japanese block_00003B2C_c639288e:
+translate japanese block_00003B2C_e8d6dfdb:
 
-    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "不过在实际对话后，内在，还是很充实的。"
+    # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "不过实际上对话后就会发现，其实是很坚强的。"
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "しかし話してみると、\nその実、しっかりしているのだな。"
 
 # game/content/file_00003A45.rpy:3394

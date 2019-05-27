@@ -3370,7 +3370,7 @@ label block_00003B2C:
 
     pause 0.3
 
-    extend "说起来，\n一之濑看上去就是那种一般不会去依赖的类型呢……"
+    extend "这么说来，\n一之濑平常给人的感觉都是很靠不住的……"
 
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Frustrated 1.ogg" noloop
@@ -3390,7 +3390,7 @@ label block_00003B2C:
     show rs_image_145502EDDBC3476E9A145F085A8A9B88 as tag_81DF0CF91B224EAAA16B0366711BA01F zorder zorder_tag_81DF0CF91B224EAAA16B0366711BA01F onlayer master
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "不过在实际对话后，内在，还是很充实的。"
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "不过实际上对话后就会发现，其实是很坚强的。"
 
     show rs_image_CF6DA697EDFC4AA6BE851D5A148A69DB as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     show rs_image_D70FF4B21A4847569512C9C645404E99 as tag_81DF0CF91B224EAAA16B0366711BA01F zorder zorder_tag_81DF0CF91B224EAAA16B0366711BA01F onlayer master

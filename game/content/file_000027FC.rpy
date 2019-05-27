@@ -9,7 +9,7 @@ screen shintarou_notebook:
         add "images/Shintaro-notebook/Background.png"
         $ character_list = filter(lambda x: x["id"] in [
             "Tomo", "Shinobu", "Shintarou", "Tsuki", "Sora", "Tsubasa", "Sakuya", "Saburou", "Shirou", "Yukio",
-            "Tsubasa-chan", "Tsubasa-chan (Human)", "Nameko", "Itou", "Kimura", "Katou", "Matsuda", "Izumi",
+            "Tsubasa-chan", "Nameko", "Itou", "Kimura", "Katou", "Matsuda", "Izumi",
             "Okajima", "Kojima"], character_full_info)
         if C3S1 == True:
             $ character_list.extend(filter(lambda x: x["id"] in ["Kiyo", "Nakayama", "Okajima-senior", "Nakayama-senior"], character_full_info))
@@ -22,6 +22,8 @@ screen shintarou_notebook:
         if C2S6 == True or C3S5 == True:
             $ character_list.extend(filter(lambda x: x["id"]  == "Dark lesser", character_full_info))
         $ character_list.extend(filter(lambda x: x["id"]  == "Tokiwa", character_full_info))
+        if C1S4 == True:
+            $ character_list.extend(filter(lambda x: x["id"]  == "Tsubasa-chan (Human)", character_full_info))
         if C1S4 == True or Chapter > 1:
             $ character_list.extend(filter(lambda x: x["id"]  in ["Kobayashi", "Minami", "Sugimoto", "Rikuta", "Shougintoki"], character_full_info))
         if C3S1 == True:

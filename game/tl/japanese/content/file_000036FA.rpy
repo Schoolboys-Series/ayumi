@@ -487,9 +487,9 @@ translate japanese block_000036FE_2984520f:
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#80FFFF}―この薬を飲んだ、\nワンちゃん、ネコちゃん、タヌキちゃん。\nもしくは、オオカミちゃん。―{/color}"
 
 # game/content/file_000036FA.rpy:698
-translate japanese block_000036FE_f9874c70:
+translate japanese block_000036FE_cc3c72d4:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#80FFFF}― 欢迎使用我们\nMedicine Research Team of Wolfs\n开发的人类化药！ ―{/color}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#80FFFF}― 欢迎使用我们\nMedicine Research Team of Wolf's\n开发的人类化药！ ―{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#80FFFF}―この度は、我がウルフズ創薬チームが開発した\n人間化薬をお試しくださり、誠にありがとうございます！―{/color}"
 
 # game/content/file_000036FA.rpy:700
@@ -625,9 +625,9 @@ translate japanese block_000036FE_52268412:
     rs_character_87ED686ED78C4AB6909895FBBBE8A60B "わぁ～！すごーい！後ろ足だけで立ててる～。\nいつもと違う景色～！"
 
 # game/content/file_000036FA.rpy:931
-translate japanese block_000036FE_7615ff82:
+translate japanese block_000036FE_cb5ee4bd:
 
-    # rs_character_DCC0CCBA406049E6926152DB3A305950 "不愧是Wolfs的发明啊，\n能无事成功真是太好了。"
+    # rs_character_DCC0CCBA406049E6926152DB3A305950 "不愧是Wolf's的发明啊，\n能无事成功真是太好了。"
     rs_character_DCC0CCBA406049E6926152DB3A305950 "いやはや、さすがはウルフズの発明品、\n見事に成功いたしましたな。"
 
 # game/content/file_000036FA.rpy:936

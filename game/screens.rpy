@@ -988,13 +988,11 @@ screen file_slots(title):
                 xalign 0.5
                 yalign 1.0
                 spacing gui.page_spacing
-                textbutton _("<") action FilePagePrevious()
                 if config.has_autosave:
                     textbutton _("{#auto_page}自动") action FilePage("auto")
                 ## range(1, 10) gives the numbers from 1 to 9.
                 for page in range(1, 10):
                     textbutton "[page]" action FilePage(page)
-                textbutton _(">") action FilePageNext()
 
 style page_button is gui_button
 style page_button:

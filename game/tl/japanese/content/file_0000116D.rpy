@@ -542,6 +542,10 @@ translate japanese strings:
     new "『{color=#2196F3}AYUMI{/color}』を探せ！"
 
     # content\file_0000116D.rpy:802
+    old "找到 {color=#2196F3}Wolf's{/color}"
+    new "『{color=#2196F3}Wolf's{/color}』を探せ！"
+
+    # content\file_0000116D.rpy:809
     old "找到 {color=#2196F3}WOLFS{/color}"
     new "『{color=#2196F3}WOLFS{/color}』を探せ！"
 

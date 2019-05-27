@@ -1099,7 +1099,7 @@ translate japanese block_00003B27_12a14d13:
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "ひえええ！！待った待ったああ！！\nまだやりようは、あるって！！"
 
 # game/content/file_00003B10.rpy:2025
-translate japanese block_00003B27_1703113f:
+translate japanese block_00003B27_ab1da795:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "一定是伊藤酱的告白没能好好传达到，出现了什么恶不必要的误解！"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "きっと伊藤ちゃんの告白がうまく伝わってなくて、\n誤解からこういうことになっただけだと思うよ！"

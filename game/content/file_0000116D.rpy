@@ -851,10 +851,10 @@ label tsuki_test_find_2_content:
             "result": "WOLFS"
         }, {
             "type": "find",
-            "title": _("找到 {color=#2196F3}WOLFS{/color}"),
-            "item": ["WOPOS", "WALFZ", "WOLAS", "WOPLS", "WALFS", "WOLFZ", "WOLFS", "WOLPS"],
+            "title": _("找到 {color=#2196F3}Wolf's{/color}"),
+            "item": ["Wopo's", "Walf's", "Wola's", "Wopl's", "Walf's", "Wolfs", "Wolf's", "Wolp's"],
             "time": 3,
-            "result": "WOLFS"
+            "result": "Wolf's"
         }, {
             "type": "find",
             "title": _("找到 {color=#2196F3}PRAECANTATOR{/color}"),

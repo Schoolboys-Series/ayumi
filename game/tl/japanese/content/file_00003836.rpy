@@ -510,7 +510,7 @@ translate japanese strings:
     new "エクスプロージョン"
 
     # content\file_00003836.rpy:146
-    old "WOLFS所属的朔的内裤种类是？"
+    old "Wolf's所属的朔的内裤种类是？"
     new "ウルフズの『朔』の\n下着の種類は？"
 
     # content\file_00003836.rpy:146
@@ -746,7 +746,7 @@ translate japanese strings:
     new "漫画の影響"
 
     # content\file_00003836.rpy:169
-    old "打倒WOLFS"
+    old "打倒Wolf's"
     new "ウルフズを倒すため"
 
     # content\file_00003836.rpy:224

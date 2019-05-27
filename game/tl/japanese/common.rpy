@@ -900,3 +900,343 @@ translate japanese strings:
     new "jump <ラベル>: ラベルにジャンプ"
 
 define gui.system_font = u'font/source-hans-sans-medium.ttc'
+# TODO: Translation updated at 2019-05-23 21:05
+
+translate japanese strings:
+
+    # 00accessibility.rpy:76
+    old "Font Override"
+    new ""
+
+    # 00accessibility.rpy:80
+    old "Default"
+    new ""
+
+    # 00accessibility.rpy:84
+    old "DejaVu Sans"
+    new ""
+
+    # 00accessibility.rpy:88
+    old "Opendyslexic"
+    new ""
+
+    # 00accessibility.rpy:94
+    old "Text Size Scaling"
+    new ""
+
+    # 00accessibility.rpy:100
+    old "Reset"
+    new ""
+
+    # 00accessibility.rpy:105
+    old "Line Spacing Scaling"
+    new ""
+
+    # 00accessibility.rpy:117
+    old "Self-Voicing"
+    new ""
+
+    # 00accessibility.rpy:121
+    old "Off"
+    new ""
+
+    # 00accessibility.rpy:125
+    old "Text-to-speech"
+    new ""
+
+    # 00accessibility.rpy:129
+    old "Clipboard"
+    new ""
+
+    # 00accessibility.rpy:133
+    old "Debug"
+    new ""
+
+    # 00action_file.rpy:353
+    old "Save slot %s: [text]"
+    new ""
+
+    # 00action_file.rpy:434
+    old "Load slot %s: [text]"
+    new ""
+
+    # 00action_file.rpy:487
+    old "Delete slot [text]"
+    new ""
+
+    # 00action_file.rpy:569
+    old "File page auto"
+    new ""
+
+    # 00action_file.rpy:571
+    old "File page quick"
+    new ""
+
+    # 00action_file.rpy:573
+    old "File page [text]"
+    new ""
+
+    # 00action_file.rpy:772
+    old "Next file page."
+    new ""
+
+    # 00action_file.rpy:845
+    old "Previous file page."
+    new ""
+
+    # 00action_file.rpy:924
+    old "Quick save."
+    new ""
+
+    # 00action_file.rpy:943
+    old "Quick load."
+    new ""
+
+    # 00action_other.rpy:355
+    old "Language [text]"
+    new ""
+
+    # 00director.rpy:1481
+    old "⬆"
+    new ""
+
+    # 00director.rpy:1487
+    old "⬇"
+    new ""
+
+    # 00library.rpy:179
+    old "bar"
+    new ""
+
+    # 00library.rpy:180
+    old "selected"
+    new ""
+
+    # 00library.rpy:181
+    old "viewport"
+    new ""
+
+    # 00library.rpy:182
+    old "horizontal scroll"
+    new ""
+
+    # 00library.rpy:183
+    old "vertical scroll"
+    new ""
+
+    # 00library.rpy:184
+    old "activate"
+    new ""
+
+    # 00library.rpy:185
+    old "deactivate"
+    new ""
+
+    # 00library.rpy:186
+    old "increase"
+    new ""
+
+    # 00library.rpy:187
+    old "decrease"
+    new ""
+
+    # 00preferences.rpy:233
+    old "display"
+    new ""
+
+    # 00preferences.rpy:245
+    old "transitions"
+    new ""
+
+    # 00preferences.rpy:254
+    old "skip transitions"
+    new ""
+
+    # 00preferences.rpy:256
+    old "video sprites"
+    new ""
+
+    # 00preferences.rpy:265
+    old "show empty window"
+    new ""
+
+    # 00preferences.rpy:274
+    old "text speed"
+    new ""
+
+    # 00preferences.rpy:282
+    old "joystick"
+    new ""
+
+    # 00preferences.rpy:282
+    old "joystick..."
+    new ""
+
+    # 00preferences.rpy:289
+    old "skip"
+    new ""
+
+    # 00preferences.rpy:292
+    old "skip unseen [text]"
+    new ""
+
+    # 00preferences.rpy:297
+    old "skip unseen text"
+    new ""
+
+    # 00preferences.rpy:299
+    old "begin skipping"
+    new ""
+
+    # 00preferences.rpy:303
+    old "after choices"
+    new ""
+
+    # 00preferences.rpy:310
+    old "skip after choices"
+    new ""
+
+    # 00preferences.rpy:312
+    old "auto-forward time"
+    new ""
+
+    # 00preferences.rpy:326
+    old "auto-forward"
+    new ""
+
+    # 00preferences.rpy:333
+    old "Auto forward"
+    new ""
+
+    # 00preferences.rpy:336
+    old "auto-forward after click"
+    new ""
+
+    # 00preferences.rpy:345
+    old "automatic move"
+    new ""
+
+    # 00preferences.rpy:354
+    old "wait for voice"
+    new ""
+
+    # 00preferences.rpy:363
+    old "voice sustain"
+    new ""
+
+    # 00preferences.rpy:372
+    old "self voicing"
+    new ""
+
+    # 00preferences.rpy:381
+    old "clipboard voicing"
+    new ""
+
+    # 00preferences.rpy:390
+    old "debug voicing"
+    new ""
+
+    # 00preferences.rpy:399
+    old "emphasize audio"
+    new ""
+
+    # 00preferences.rpy:408
+    old "rollback side"
+    new ""
+
+    # 00preferences.rpy:418
+    old "gl powersave"
+    new ""
+
+    # 00preferences.rpy:424
+    old "gl framerate"
+    new ""
+
+    # 00preferences.rpy:427
+    old "gl tearing"
+    new ""
+
+    # 00preferences.rpy:430
+    old "font transform"
+    new ""
+
+    # 00preferences.rpy:433
+    old "font size"
+    new ""
+
+    # 00preferences.rpy:441
+    old "font line spacing"
+    new ""
+
+    # 00preferences.rpy:460
+    old "music volume"
+    new ""
+
+    # 00preferences.rpy:461
+    old "sound volume"
+    new ""
+
+    # 00preferences.rpy:462
+    old "voice volume"
+    new ""
+
+    # 00preferences.rpy:463
+    old "mute music"
+    new ""
+
+    # 00preferences.rpy:464
+    old "mute sound"
+    new ""
+
+    # 00preferences.rpy:465
+    old "mute voice"
+    new ""
+
+    # 00preferences.rpy:466
+    old "mute all"
+    new ""
+
+    # _developer\developer.rpym:63
+    old "Image Attributes"
+    new ""
+
+    # _developer\developer.rpym:90
+    old "[name] [attributes] (hidden)"
+    new ""
+
+    # _developer\developer.rpym:94
+    old "[name] [attributes]"
+    new ""
+
+    # _developer\developer.rpym:154
+    old "Hide deleted"
+    new ""
+
+    # _developer\developer.rpym:154
+    old "Show deleted"
+    new ""
+
+    # _errorhandling.rpym:542
+    old "Copy BBCode"
+    new ""
+
+    # _errorhandling.rpym:544
+    old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
+    new ""
+
+    # _errorhandling.rpym:546
+    old "Copy Markdown"
+    new ""
+
+    # _errorhandling.rpym:548
+    old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
+    new ""
+
+    # _errorhandling.rpym:683
+    old "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
+    new ""
+
+    # _errorhandling.rpym:687
+    old "Copies the errors.txt file to the clipboard as Markdown for Discord."
+    new ""
+

@@ -8616,7 +8616,7 @@ label block_00002534:
     show rs_image_FDFBAD9B5DBD42D1A353D0492FAF5B9F as tag_2C4A74BADF6540698EF3E9A300893D1A zorder zorder_tag_2C4A74BADF6540698EF3E9A300893D1A onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_E3F6ADD43DE44A428E1224756613C694 "好见外——！那就和穗海一起。至死都会保护伊藤的♪"
+    rs_character_E3F6ADD43DE44A428E1224756613C694 "想多了啦——！别把我和穗海混为一谈，肯定至死都会保护伊藤的♪"
 
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Strike 1.ogg" noloop

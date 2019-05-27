@@ -1531,9 +1531,9 @@ translate japanese block_00003C0E_7c7612e5:
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "そんなんじゃなくて！何かあるだろ！！\n生い立ちとか、家族のこととか……。"
 
 # game/content/file_00003BAC.rpy:2710
-translate japanese block_00003C0E_1eb6e12f:
+translate japanese block_00003C0E_39f496fa:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "对了！顺便还有Wolfs的！把邪恶组织Wolfs的事全都吐出来！"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "对了！顺便还有Wolf's的！把邪恶组织Wolf's的事全都吐出来！"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "そうだ！ウルフズについて！\n悪の組織ウルフズについて、洗いざらい白状しやがれ！"
 
 # game/content/file_00003BAC.rpy:2715
@@ -1555,9 +1555,9 @@ translate japanese block_00003C0E_8cea00f7:
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "ふん！だったら、なおのことオレは追求するぜ！\n"
 
 # game/content/file_00003BAC.rpy:2729
-translate japanese block_00003C0E_c599ee25:
+translate japanese block_00003C0E_d4800f21:
 
-    # extend "那——个，Wolfs是……“狼”？"
+    # extend "那——个，Wolf's是……“狼”？"
     extend "　えーっと、ウルフズ……ウルフ。『狼』？"
 
 # game/content/file_00003BAC.rpy:2737
@@ -1609,9 +1609,9 @@ translate japanese block_00003C0E_e46d38ee:
     rs_character_62324AD297554FE987C680452CEE232E "……それは、喩え話でしょう。{w}そこでいう『狼』というのは\n悪事のことで、それを暴いて治安を維持するということでは？"
 
 # game/content/file_00003BAC.rpy:2798
-translate japanese block_00003C0E_64164792:
+translate japanese block_00003C0E_6f235249:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "唔～是吗。是不是太过理想了呢。{w}\n和魔法师敌对的组织正好就叫Wolfs什么的……"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "唔～是吗。是不是太过理想了呢。{w}\n和魔法师敌对的组织正好就叫Wolf's什么的……"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "う～ん、そうなのかな。できすぎかと思ったんだけど。{w}魔術師と敵対する組織が『ウルフズ』なんて……。"
 
 # game/content/file_00003BAC.rpy:2800
@@ -1657,9 +1657,9 @@ translate japanese block_00003C0E_a43fefe6:
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "えっと、そうだな……。"
 
 # game/content/file_00003BAC.rpy:2856
-translate japanese block_00003C0E_8caf75eb:
+translate japanese block_00003C0E_afb33b73:
 
-    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "Wolfs的家伙们不会集团行动吗？就像现实中的狼群那样。"
+    # rs_character_EFC67D522B5F4615BFAE716D87F58204 "Wolf's的家伙们不会集团行动吗？就像现实中的狼群那样。"
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "ウルフズの連中は集団で動かないのか？\n実際の狼は群れで動くらしいけど。"
 
 # game/content/file_00003BAC.rpy:2861
@@ -1681,9 +1681,9 @@ translate japanese block_00003C0E_d9d99717:
     rs_character_62324AD297554FE987C680452CEE232E "はい。では約束どおり、お答えします。"
 
 # game/content/file_00003BAC.rpy:2885
-translate japanese block_00003C0E_1e526c18:
+translate japanese block_00003C0E_96e2a791:
 
-    # rs_character_62324AD297554FE987C680452CEE232E "其实，Wolfs确实会像现实中的狼那样，基本都是集团行动的。"
+    # rs_character_62324AD297554FE987C680452CEE232E "其实，Wolf's确实会像现实中的狼那样，基本都是集团行动的。"
     rs_character_62324AD297554FE987C680452CEE232E "実は、ウルフズも実際の狼と同じく、\n基本的にはグループごとにミッションを遂行します。\n"
 
 # game/content/file_00003BAC.rpy:2897

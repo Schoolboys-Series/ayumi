@@ -695,7 +695,7 @@ label block_000036FE:
         play effect "sound/Effect Sound/Look! 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Look! 1.ogg"
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#80FFFF}― 欢迎使用我们\nMedicine Research Team of Wolfs\n开发的人类化药！ ―{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#80FFFF}― 欢迎使用我们\nMedicine Research Team of Wolf's\n开发的人类化药！ ―{/color}"
 
     rs_character_87ED686ED78C4AB6909895FBBBE8A60B "……？"
 
@@ -928,7 +928,7 @@ label block_000036FE:
     show rs_image_1C6D8B500DD44C7E8BBB20FC805C715A as tag_D0357FA295AF4FCF969F3B43FCFDDE60 zorder zorder_tag_D0357FA295AF4FCF969F3B43FCFDDE60 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_DCC0CCBA406049E6926152DB3A305950 "不愧是Wolfs的发明啊，\n能无事成功真是太好了。"
+    rs_character_DCC0CCBA406049E6926152DB3A305950 "不愧是Wolf's的发明啊，\n能无事成功真是太好了。"
 
     show rs_image_77DA094AA72B4CEDA4B70788981CE585 as tag_D0357FA295AF4FCF969F3B43FCFDDE60 zorder zorder_tag_D0357FA295AF4FCF969F3B43FCFDDE60 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01

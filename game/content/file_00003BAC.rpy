@@ -2707,7 +2707,7 @@ label block_00003C0E:
     show rs_image_FDB36A5B31714742AD6D29EB49DC75EB as tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD zorder zorder_tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_EFC67D522B5F4615BFAE716D87F58204 "对了！顺便还有Wolfs的！把邪恶组织Wolfs的事全都吐出来！"
+    rs_character_EFC67D522B5F4615BFAE716D87F58204 "对了！顺便还有Wolf's的！把邪恶组织Wolf's的事全都吐出来！"
 
     show rs_image_6D71784C723F4F21A0E2717D3503E19E as tag_E99970E1386B453DAF81C3AE2C72BE8E zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -2726,7 +2726,7 @@ label block_00003C0E:
     show rs_image_07F2639BB0524AEBB4F93F1989365243 as tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD zorder zorder_tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    extend "那——个，Wolfs是……“狼”？"
+    extend "那——个，Wolf's是……“狼”？"
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
@@ -2795,7 +2795,7 @@ label block_00003C0E:
 
     rs_character_62324AD297554FE987C680452CEE232E "……那只是打比方。{w}话里的“狼”指的就是坏事，要做的不就是维持治安吗？"
 
-    rs_character_EFC67D522B5F4615BFAE716D87F58204 "唔～是吗。是不是太过理想了呢。{w}\n和魔法师敌对的组织正好就叫Wolfs什么的……"
+    rs_character_EFC67D522B5F4615BFAE716D87F58204 "唔～是吗。是不是太过理想了呢。{w}\n和魔法师敌对的组织正好就叫Wolf's什么的……"
 
     rs_character_62324AD297554FE987C680452CEE232E "那你是想说我们会趁你们不注意吃人？就算是妄想也不会这么野蛮。"
 
@@ -2853,7 +2853,7 @@ label block_00003C0E:
     show rs_image_BEE780ABA64C4D7ABB8972D17BDCBFAB as tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD zorder zorder_tag_C0A07765EA8A4A8D8CCADC4F9E5B43AD onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_EFC67D522B5F4615BFAE716D87F58204 "Wolfs的家伙们不会集团行动吗？就像现实中的狼群那样。"
+    rs_character_EFC67D522B5F4615BFAE716D87F58204 "Wolf's的家伙们不会集团行动吗？就像现实中的狼群那样。"
 
     show rs_image_A477062F5CFB45259A5183ED5584C4A5 as tag_E99970E1386B453DAF81C3AE2C72BE8E zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -2882,7 +2882,7 @@ label block_00003C0E:
     show rs_image_D41773CA35204737A4DF7ACE459D6756 as tag_E99970E1386B453DAF81C3AE2C72BE8E at center_top zorder zorder_tag_E99970E1386B453DAF81C3AE2C72BE8E onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_62324AD297554FE987C680452CEE232E "其实，Wolfs确实会像现实中的狼那样，基本都是集团行动的。"
+    rs_character_62324AD297554FE987C680452CEE232E "其实，Wolf's确实会像现实中的狼那样，基本都是集团行动的。"
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"

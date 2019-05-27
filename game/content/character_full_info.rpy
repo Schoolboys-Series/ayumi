@@ -572,7 +572,7 @@ init 1000 python:
                 ["C2S6", "C2SYuuhi", "C2QYuuhi"],
                 ["C3S2", "C3QNewsclub", "C3QNori"]
             ]],
-            "description": _("被师父认可才能后作为正义的\n魔法师守护着城市的和平。\n因为不愿学习，初级魔法都\n用不好。一直在和企图征服世界\n的WOLFS的朔进行工口战斗，打着\n打着就喜欢上对方了。")
+            "description": _("被师父认可才能后作为正义的\n魔法师守护着城市的和平。\n因为不愿学习，初级魔法都\n用不好。一直在和企图征服世界\n的Wolf's的朔进行工口战斗，打着\n打着就喜欢上对方了。")
         }, {
             "id": "Mamoru",
             "name": _("{size=12}SEIGI MAMORU{/size}\n世依木守"),
@@ -596,25 +596,25 @@ init 1000 python:
             "height": _("没量过"),
             "weight": _("似乎很轻？"),
             "birthdate": _("不知"),
-            "club": _("WOLFS"),
+            "club": _("Wolf's"),
             "appearances": [[
                 [],
                 ["C1QNewsclub"],
                 ["C2S6"],
                 []
             ]],
-            "description": _("WOLFS的一员。最早开始侍奉朔\n的触手，同时也是管家。说话\n像老妈子，很绅士。\n被其他触手信赖。")
+            "description": _("Wolf's的一员。最早开始侍奉朔\n的触手，同时也是管家。说话\n像老妈子，很绅士。\n被其他触手信赖。")
         }, {
             "id": "Tentacle-starfish",
             "name": _("{size=12}TENTACLE STARFISH{/size}\n触手B"),
-            "club": _("WOLFS"),
+            "club": _("Wolf's"),
             "appearances": [[
                 [],
                 [],
                 ["C2S6"],
                 []
             ]],
-            "description": _("WOLFS的一员。才刚开始加入朔\n的队伍。背后有无数触手，\n是备受期待的新人。看起来似乎\n不很努力，但也在奋力学习\n如何侍奉。")
+            "description": _("Wolf's的一员。才刚开始加入朔\n的队伍。背后有无数触手，\n是备受期待的新人。看起来似乎\n不很努力，但也在奋力学习\n如何侍奉。")
         }, {
             "id": "Tour-guide",
             "name": _("{size=12}TOUR GUIDE?{/size}\n导游？"),
@@ -634,7 +634,7 @@ init 1000 python:
             "age": _("十三岁左右？"),
             "height": _("152cm"),
             "weight": _("40kg"),
-            "club": _("WOLFS"),
+            "club": _("Wolf's"),
             "pants": _("没有资料"),
             "appearances": [[
                 [],
@@ -642,7 +642,7 @@ init 1000 python:
                 ["C2S6", "C2SNori"],
                 ["C3QNori"]
             ]],
-            "description": _("企图征服世界的组织WOLFS的一员。\n操纵着触手怪物，喜欢玩弄敌人。\n某些意义上和忍关系很好，\n偶尔一起出门。\n正在进行从欲望中提取能量的研究，\n为此不断寻找实验体。")
+            "description": _("企图征服世界的组织Wolf's的一员。\n操纵着触手怪物，喜欢玩弄敌人。\n某些意义上和忍关系很好，\n偶尔一起出门。\n正在进行从欲望中提取能量的研究，\n为此不断寻找实验体。")
         }, {
             "id": "Kai",
             "name": _("{size=12}KAI{/size}\n晦"),
@@ -650,7 +650,7 @@ init 1000 python:
             "height": _("159cm"),
             "weight": _("46kg"),
             "birthdate": _("5月14日"),
-            "club": _("WOLFS"),
+            "club": _("Wolf's"),
             "pants": _("这……"),
             "appearances": [[
                 [],
@@ -658,7 +658,7 @@ init 1000 python:
                 ["C2S6"],
                 []
             ]],
-            "description": _("朔的哥哥，豪迈奔放。\n和WOLFS一贯的方针不同，\n现在正在地球上离岛的宾馆悠闲度日。\n在梅咲开的酒吧一下子就成了热门。\n好像有个高中生恋人。")
+            "description": _("朔的哥哥，豪迈奔放。\n和Wolf's一贯的方针不同，\n现在正在地球上离岛的宾馆悠闲度日。\n在梅咲开的酒吧一下子就成了热门。\n好像有个高中生恋人。")
         }, {
             "id": "Dark lesser",
             "name": _("{size=12}DARK LESSER{/size}\n暗黑小熊猫"),
