@@ -87,8 +87,8 @@ translate japanese block_0000108F_8e818727:
 # game/content/file_00000E8C.rpy:505
 translate japanese block_00000EBC_5db32ac8:
 
-    # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "诶？穗海喜欢的东西？\n"
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "え？穂海の欲しそうな物？\n"
+    # rs_character_EA9AA88E88D84B559B925363E2931756 "诶？穗海喜欢的东西？\n"
+    rs_character_EA9AA88E88D84B559B925363E2931756 "え？穂海の欲しそうな物？\n"
 
 # game/content/file_00000E8C.rpy:509
 translate japanese block_00000EBC_2350d809:
@@ -523,7 +523,7 @@ translate japanese block_0000242C_09c4632d:
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "ほな、頑張りなはれやー。"
 
 # game/content/file_00000E8C.rpy:2099
-translate japanese block_00000EBB_ebedab25:
+translate japanese block_00000EBC_02383d08:
 
     # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "穗海喜欢的东西？"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "穂海が欲しそうなモノ？"
