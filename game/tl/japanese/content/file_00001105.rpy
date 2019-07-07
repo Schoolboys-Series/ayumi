@@ -505,9 +505,9 @@ translate japanese block_0000112D_d9e6af60:
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "あー、そうなんや。\nでもまあ、時間あるときで良いから\n一度ぐらい遊びに来てーな。"
 
 # game/content/file_00001105.rpy:1431
-translate japanese block_0000112D_b01302cd:
+translate japanese block_0000112D_1bc7ab40:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "你和冈岛关系挺不错的，顺便把他也带过去。"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "你和冈岛他们关系挺不错的，顺便把他们也带过去。"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "自分、岡島らと仲良いんやから\nそいつらとか誘ってさ。"
 
 # game/content/file_00001105.rpy:1437

@@ -3325,9 +3325,9 @@ translate japanese block_000008E8_a323d5ef:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "ていうか、\nそんなん歌うジャイアン想像できない……。\nいつも斜に構えてるくせに。"
 
 # game/content/file_000008C8.rpy:10424
-translate japanese block_000008E8_14f3f2f4:
+translate japanese block_000008E8_efb9e771:
 
-    # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "嗯～还有二班的佐藤，\n他唱了南〇之星的《TSUNAMI》。"
+    # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "嗯～还有二班的佐藤也不错，\n他唱了南〇之星的《TSUNAMI》。"
     rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "ん～あと、２組の佐藤はうまかったな。\n○ザンの『○SUNAMI』を歌ってた。"
 
 # game/content/file_000008C8.rpy:10429

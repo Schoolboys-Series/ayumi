@@ -13,9 +13,9 @@ translate japanese block_00000A71_1f21103f:
     rs_character_3B4C660F421B4BE392BB540B580F0339 "あ、どうもこんにちは。{w}\n穂海先輩と一緒に帰る約束をしたので、\n待ち合わせをしているんです。"
 
 # game/content/file_00000A20.rpy:203
-translate japanese block_00000A71_81b411f8:
+translate japanese block_00000A71_def75ed4:
 
-    # rs_character_7009C1117C004F51829614A203C67DE7 "三朗哥也是一起的。真是的……\n四朗总是这么轻视自己的哥哥呐～"
+    # rs_character_7009C1117C004F51829614A203C67DE7 "三朗哥也是一起的。真是的……\n四朗太轻视自己的哥哥啦～"
     rs_character_7009C1117C004F51829614A203C67DE7 "三朗さんともでしょ。\nも～……四朗はお兄さんを蔑ろにしすぎだよ～。"
 
 # game/content/file_00000A20.rpy:216

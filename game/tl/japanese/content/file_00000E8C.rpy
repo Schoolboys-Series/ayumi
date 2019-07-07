@@ -822,4 +822,11 @@ translate japanese strings:
 
     # content\file_00000E8C.rpy:2144
     old "明显不行"
-    new "明らかにそうではない"
+    new "明らかにそうではない"# TODO: Translation updated at 2019-06-05 00:02
+
+# game/content/file_00000E8C.rpy:2099
+translate japanese block_00000EBB_ebedab25:
+
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "穗海喜欢的东西？"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
+
