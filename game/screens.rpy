@@ -612,8 +612,9 @@ screen main_menu():
         textbutton _("关于本作") action ShowMenu("about")
         textbutton _("系统设置") action ShowMenu("preferences")
         textbutton _("帮助文档") action ShowMenu("help")
-        if renpy.variant("pc"):
-            textbutton _("退出游戏") action Quit(confirm=False)
+        hbox:
+            textbutton "简体中文" action Language(None) text_style "language_sc_button"
+            textbutton "日本語" action Language("japanese") text_style "language_ja_button"
     vbox at main_menu_right_action_panel:
         style "main_menu_right_action_panel"
         style_prefix "main_menu_right_action_panel"

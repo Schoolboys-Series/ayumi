@@ -16,7 +16,7 @@ define config.name = _("SCHOOLBOYS! 步")
 
 ## The version of the game.
 
-define config.version = "2.3.0562.0"
+define config.version = "2.3.0562.1"
 
 # 2.3.XXXX.X
 # XXXX: 0010    0011    0010
