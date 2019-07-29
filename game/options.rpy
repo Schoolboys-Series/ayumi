@@ -120,6 +120,11 @@ default preferences.text_cps = 160
 
 default preferences.afm_time = 15
 
+## Control the window mode. If True, the game boots on fullscreen mode.
+## To hide iOS's status bar, preferences.fullscreen is True only iOS.
+
+## default preferences.fullscreen = False
+
 
 ## Save directory ##############################################################
 ##

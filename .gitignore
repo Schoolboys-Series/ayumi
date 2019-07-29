@@ -10,3 +10,4 @@ errors.txt
 log.txt
 traceback.txt
 /android.keystore
+*.DS_Store
