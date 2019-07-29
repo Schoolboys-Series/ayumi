@@ -55,7 +55,7 @@ translate japanese strings:
 
     # screens.rpy:12
     old "第三章和学期末"
-    new "CHAPTER 3と後"
+    new "CHAPTER 3"
 
     # screens.rpy:12
     old "野球拳"
@@ -67,15 +67,15 @@ translate japanese strings:
 
     # screens.rpy:561
     old "新的故事"
-    new "新しい物語"
+    new "はじめから"
 
     # screens.rpy:562
     old "回到日常"
-    new "日常へ戻る"
+    new "つづきから"
 
     # screens.rpy:563
     old "事件画廊"
-    new "ギャラリー"
+    new "CGモード"
 
     # screens.rpy:565
     old "音乐鉴赏"
@@ -87,7 +87,7 @@ translate japanese strings:
 
     # screens.rpy:572
     old "关于本作"
-    new "ゲーム情報"
+    new "ライセンス"
 
     # screens.rpy:573
     old "系统设置"
@@ -107,7 +107,7 @@ translate japanese strings:
 
     # screens.rpy:663
     old "历史记录"
-    new "歴史対話"
+    new "バックログ"
 
     # screens.rpy:664
     old "保存进度"
@@ -123,7 +123,7 @@ translate japanese strings:
 
     # screens.rpy:676
     old "继续游戏"
-    new "つつく"
+    new "戻る"
 
     # screens.rpy:728
     old "版本 [config.version!t]\n"
@@ -227,7 +227,7 @@ translate japanese strings:
 
     # screens.rpy:793
     old "自动保存"
-    new "自動"
+    new "オートセーブ"
 
     # screens.rpy:793
     old "快读保存"
@@ -239,7 +239,7 @@ translate japanese strings:
 
     # screens.rpy:820
     old "没有记录"
-    new "記録なし"
+    new "No data"
 
     # screens.rpy:831
     old "<"
@@ -247,7 +247,7 @@ translate japanese strings:
 
     # screens.rpy:833
     old "{#auto_page}自动"
-    new "{#auto_page}自動"
+    new "{#auto_page}オートセーブ"
 
     # screens.rpy:837
     old ">"
@@ -275,15 +275,15 @@ translate japanese strings:
 
     # screens.rpy:897
     old "文字显示速度"
-    new "文字表示速度"
+    new "文字の表示速度"
 
     # screens.rpy:901
     old "音乐音量"
-    new "音楽の音量"
+    new "BGMの音量"
 
     # screens.rpy:905
     old "音效音量"
-    new "効果音の音量"
+    new "SEの音量"
 
     # screens.rpy:909
     old "测试"
@@ -311,7 +311,7 @@ translate japanese strings:
 
     # screens.rpy:1049
     old "用来确定并提交你的操作，同时也可以用来继续阅读下一句"
-    new "台詞を読み進める。またはボタンを選択する。"
+    new "台詞を読み進めます。また、決定ボタンでもあります。"
 
     # screens.rpy:1051
     old "空格"
@@ -319,7 +319,7 @@ translate japanese strings:
 
     # screens.rpy:1052
     old "用来确定你的操作，不过不会提交"
-    new "台詞を読み進める。ただしボタンは選択しない。"
+    new "台詞を読み進めます。"
 
     # screens.rpy:1054
     old "四个箭头"
@@ -327,7 +327,7 @@ translate japanese strings:
 
     # screens.rpy:1055
     old "当做比较难用的鼠标好了"
-    new "インターフェースを移動する。"
+    new "人物や選択肢を選択します。"
 
     # screens.rpy:1057
     old "ESC"
@@ -335,7 +335,7 @@ translate japanese strings:
 
     # screens.rpy:1058
     old "进入系统菜单"
-    new "ゲームメニューを開く。"
+    new "ゲームメニューを開きます。"
 
     # screens.rpy:1060
     old "Ctrl"
@@ -343,7 +343,7 @@ translate japanese strings:
 
     # screens.rpy:1061
     old "按下这个键的期间你会处在快进模式"
-    new "押し続けている間スキップする。"
+    new "押し続けている間スキップします。"
 
     # screens.rpy:1063
     old "Tab"
@@ -351,7 +351,7 @@ translate japanese strings:
 
     # screens.rpy:1064
     old "开关快进模式"
-    new "スキップモードに切り替える。"
+    new "スキップモードに切り替えます。"
 
     # screens.rpy:1066
     old "Page Up"
@@ -359,7 +359,7 @@ translate japanese strings:
 
     # screens.rpy:1067
     old "回到上一句，很适合点得太快漏下句子的情况"
-    new "前の台詞に戻る。"
+    new "前の台詞に戻ります。"
 
     # screens.rpy:1069
     old "Page Down"
@@ -367,15 +367,15 @@ translate japanese strings:
 
     # screens.rpy:1070
     old "回到下一句，仅当你现在看的不是最新一句时才管用"
-    new "ロールバック中、次の台詞に進む。"
+    new "ロールバック中、次の台詞に進みます。"
 
     # screens.rpy:1073
     old "隐藏所有能隐藏的东西，除了CG和立绘"
-    new "インターフェースを隠す。"
+    new "インターフェースを隠します。"
 
     # screens.rpy:1076
     old "快速截图"
-    new "スクリーンショットを撮る。"
+    new "スクリーンショットを撮ります。"
 
     # screens.rpy:1080
     old "左键"
@@ -383,7 +383,7 @@ translate japanese strings:
 
     # screens.rpy:1081
     old "可以用来点东西，点什么就是什么"
-    new "台詞を読み進める。またはボタンを選択する。"
+    new "台詞を読み進めます。また、決定ボタンでもあります。"
 
     # screens.rpy:1083
     old "中键"
@@ -399,7 +399,7 @@ translate japanese strings:
 
     # screens.rpy:1090
     old "在最近看过的句子中来回切，不会一不小心滚到没看过的句子里去，放心就好"
-    new "前の台詞に戻る。或はロールバック中、次の台詞に進む。"
+    new "前の台詞に戻ります。またはロールバック中、次の台詞に進みます。"
 
     # screens.rpy:1094
     old "RT/A"
@@ -407,7 +407,7 @@ translate japanese strings:
 
     # screens.rpy:1095
     old "相当于鼠标左键点击"
-    new "台詞を読み進める。またはボタンを選択する。"
+    new "台詞を読み進めます。また、決定ボタンでもあります。"
 
     # screens.rpy:1097
     old "LT/LB"
@@ -423,7 +423,7 @@ translate japanese strings:
 
     # screens.rpy:1104
     old "当鼠标用"
-    new "インターフェースを移動する。"
+    new "人物や選択肢を選択します。"
 
     # screens.rpy:1106
     old "START/GUIDE"
@@ -455,7 +455,7 @@ translate japanese strings:
 
     # screens.rpy:1105
     old "回到下一句台词，前提是看过"
-    new "ロールバック中、次の台詞に進む。"
+    new "ロールバック中、次の台詞に進みます。"
 
 # TODO: Translation updated at 2018-02-24 20:37
 
@@ -463,9 +463,9 @@ translate japanese strings:
 
     # screens.rpy:592
     old "最近的存档"
-    new "最近のセーブデータ"
+    new "最新のセーブデータ"
 
     # screens.rpy:594
     old "从这里继续"
-    new "ここから続く"
+    new "このつづきから"
 
