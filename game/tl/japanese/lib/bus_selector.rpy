@@ -4,7 +4,7 @@ translate japanese strings:
 
     # lib\bus_selector.rpy:17
     old "选择目标地点"
-    new "目標を選択してください"
+    new "目的地を選択してください"
 
     # lib\bus_selector.rpy:19
     old "梅咲站"

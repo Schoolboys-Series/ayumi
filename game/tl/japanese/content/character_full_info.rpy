@@ -60,7 +60,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "矮小无口的少年。\n一般来看很酷，但只要和青梅竹马\n的友说起话来就很孩子气。\n因为长相中性常被认错性别，\n对此有些烦恼。空手道黑带。\n生气时常用铁拳制裁。"
-    new "小柄で無口な少年。\n普段はクールだけど、幼なじみの友と\n話すと子供っぽい部分が出る。\nよく女の子に間違えられ、中性的な\n容姿にコンプレックスを抱いている。\n空手は黒带の腕前。怒らせると\n鉄拳制裁が飛んでいるゾ☆"
+    new "小柄で無口な少年。\n普段はクールだけど、幼なじみの友と\n話すと子供っぽい部分が出る。\nよく女の子に間違えられ、中性的な\n容姿にコンプレックスを抱いている。\n空手は黒帯の腕前。怒らせると\n鉄拳制裁が飛んでいるゾ☆"
 
     # content\character_full_info.rpy:18
     old "45kg"
@@ -80,7 +80,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "总是战战兢兢的弱气的男孩子。\n因为学号是1就被副班主任弄成了\n班长。年级开会时遇到了友，不知所措\n时被友的温柔感动，喜欢上了友。\n现在也仍然如此。之后和友组建了\n小钢琴部。偶尔会有些病娇。"
-    new "いつもオドオドしている気の弱い男の子。\n副担任に、出席番号が１番とい理由で\n学級委員を託されてしまった。\n委員の集まりで友と出会い、その隙に\n親切にしてくれた彼に、次第に心惹かれ、\n今ではゾッコン❤その後、友とプチピアノ部の\n活動を始めた。たまにダークな部分が出ちゃう。"
+    new "いつもオドオドしている気の弱い男の子。\n副担任に、出席番号が１番という理由で\n学級委員を託されてしまった。\n委員の集まりで友と出会い、その隙に\n親切にしてくれた彼に、次第に心惹かれ、\n今ではゾッコン❤その後、友とプチピアノ部の\n活動を始めた。たまにダークな部分が出ちゃう。"
 
     # content\character_full_info.rpy:18
     old "追记：终于和作哉重归于好，现在两人一起照顾\n小翼，也开始学习饲育知识了。"
@@ -828,7 +828,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:864
     old "小故事《三朗的烦恼》"
-    new "サブイベンド《三朗の悩み》"
+    new "サブイベント《三朗の悩み》"
 
     # content\character_full_info.rpy:864
     old "事件《并驶之舟》"
@@ -856,11 +856,11 @@ translate japanese strings:
 
     # content\character_full_info.rpy:864
     old "小故事《在意的魔法师 续》"
-    new "サブイベンド《気にする魔術師　続く》"
+    new "サブイベント《気にする魔術師　続く》"
 
     # content\character_full_info.rpy:864
     old "小故事《魔法森林》"
-    new "サブイベンド《魔法の森》"
+    new "サブイベント《魔法の森》"
 
     # content\character_full_info.rpy:864
     old "事件《异我战纪》"
@@ -888,23 +888,23 @@ translate japanese strings:
 
     # content\character_full_info.rpy:864
     old "小故事《慎太郎的烦恼》"
-    new "サブイベンド《慎太郎の悩み》"
+    new "サブイベント《慎太郎の悩み》"
 
     # content\character_full_info.rpy:864
     old "小故事《埋伏作战》"
-    new "サブイベンド《待ち伏せ大作戦》"
+    new "サブイベント《待ち伏せ大作戦》"
 
     # content\character_full_info.rpy:864
     old "小故事《照片和记忆》"
-    new "サブイベンド《写真の記憶》"
+    new "サブイベント《写真の記憶》"
 
     # content\character_full_info.rpy:864
     old "小故事《常磐前辈》"
-    new "サブイベンド《常盤先輩》"
+    new "サブイベント《常盤先輩》"
 
     # content\character_full_info.rpy:864
     old "小故事《喝茶风波》"
-    new "サブイベンド《お巡りさん、この人です》"
+    new "サブイベント《お巡りさん、この人です》"
 
     # content\character_full_info.rpy:864
     old "委托《找到巨大蚯蚓》"
@@ -1110,7 +1110,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "{size=12}DARK LESSER{/size}\n暗黑小熊猫"
-    new "ダークレーザー"
+    new "ダークレッサー"
 
     # content\character_full_info.rpy:18
     old "{size=12}MONSTER A{/size}\n妖怪A"

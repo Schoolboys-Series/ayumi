@@ -371,7 +371,7 @@ translate japanese strings:
 
     # content\file_00003836.rpy:123
     old "忍的姓氏是？"
-    new "『しのぶ』に苗字は？"
+    new "『しのぶ』の苗字は？"
 
     # content\file_00003836.rpy:123
     old "逆濑"
@@ -463,7 +463,7 @@ translate japanese strings:
 
     # content\file_00003836.rpy:123
     old "小熊猫"
-    new "ダークレッザー"
+    new "ダークレッサー"
 
     # content\file_00003836.rpy:123
     old "章鱼章鱼星人"
@@ -499,7 +499,7 @@ translate japanese strings:
 
     # content\file_00003836.rpy:146
     old "Phantom Fire"
-    new "ファントム＾·ファイア"
+    new "ファントム·ファイア"
 
     # content\file_00003836.rpy:146
     old "Fire Drive"

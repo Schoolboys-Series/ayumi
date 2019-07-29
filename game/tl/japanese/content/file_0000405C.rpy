@@ -208,7 +208,7 @@ translate japanese block_000040CA_b9d1f04e:
 translate japanese block_0000410F_7e11a52c:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "呀，你好。看鞋子的颜色，你是二年级学生呐。{w}\n我是三年级的{color=#008A45}常磐进{/color}。"
-    rs_character_C223850065F6443080205D1F61C04C98 "やあ。こんにちは。\n上靴の色を見るに、キミは二年生の子かな。{w}\\n僕は、３年生の{color=#008A45}常磐進（ときわ　すすむ）{/color}。"
+    rs_character_C223850065F6443080205D1F61C04C98 "やあ。こんにちは。\n上靴の色を見るに、キミは二年生の子かな。{w}\n僕は、３年生の{color=#008A45}常磐進（ときわ　すすむ）{/color}。"
 
 # game/content/file_0000405C.rpy:1426
 translate japanese block_0000410F_1f14e9f6:
@@ -238,7 +238,7 @@ translate japanese block_00004082_b6425e0e:
 translate japanese block_00004082_7b32f081:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『……。\n……。\n重点是，{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『……。\n……。\n……。\nまた、{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『……。\n……。\nまた、{/color}"
 
 # game/content/file_0000405C.rpy:1506
 translate japanese block_00004082_46732696:
@@ -904,7 +904,7 @@ translate japanese block_000040EE_5ccec374:
 translate japanese block_000040EE_74167292:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "交涉成立。{w=0.5}\n{nw}"
-    rs_character_53FF68C192E3494AB005C1909579AFFB "交渉成立。\n{w=0.5}{nw}。"
+    rs_character_53FF68C192E3494AB005C1909579AFFB "交渉成立。\n{w=0.5}{nw}"
 
 # game/content/file_0000405C.rpy:3341
 translate japanese block_000040EE_4f469c83:

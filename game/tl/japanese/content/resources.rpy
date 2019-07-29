@@ -204,11 +204,11 @@ translate japanese strings:
 
     # content\resources.rpy:304
     old " 天使"
-    new " 天使"
+    new " 天使つばさ"
 
     # content\resources.rpy:305
     old " 恶魔"
-    new " 悪魔"
+    new " 悪魔つばさ"
 
     # content\resources.rpy:312
     old " 疑似暗黑小熊猫A"

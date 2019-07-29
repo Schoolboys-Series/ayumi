@@ -16,7 +16,7 @@ translate japanese strings:
 
     # lib\ayumi_global_map.rpy:15
     old "CHAPTER 1 第一章"
-    new "CHAPTER 1 第一章"
+    new "CHAPTER 1"
 
     # lib\ayumi_global_map.rpy:17
     old "御咲学园内"
@@ -28,7 +28,7 @@ translate japanese strings:
 
     # lib\ayumi_global_map.rpy:23
     old "CHAPTER 2 第二章"
-    new "CHAPTER 2 第二章"
+    new "CHAPTER 2"
 
     # lib\ayumi_global_map.rpy:31
     old "酒店"
@@ -36,11 +36,11 @@ translate japanese strings:
 
     # lib\ayumi_global_map.rpy:33
     old "CHAPTER 3 第三章"
-    new "CHAPTER 3 第三章"
+    new "CHAPTER 3"
 
     # lib\ayumi_global_map.rpy:41
     old "END OF SEMESTER 学期末"
-    new "END OF SEMESTER 期末の前"
+    new "END OF SEMESTER"
 
     # lib\ayumi_global_map.rpy:49
     old "梦之温泉"
