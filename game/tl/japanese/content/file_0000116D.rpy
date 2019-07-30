@@ -13,7 +13,7 @@ translate japanese tsuki_test_find_1_9894db6a:
 translate japanese tsuki_test_find_1_cc32e73a:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "这次的训练是“{color=#0080FF}寻找正确选项{/color}”。\n然而，存在{color=#FF0000}时间限制{/color}。"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "今回は{color=#0080FF}正解探し{/color}のテストだ。\nなお、選択中には{color=#FF0000}一定の制限時間{/colorがある。"
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "今回は{color=#0080FF}正解探し{/color}のテストだ。\nなお、選択中には{color=#FF0000}一定の制限時間{/color}がある。"
 
 # game/content/file_0000116D.rpy:236
 translate japanese tsuki_test_find_1_dacd57d6:
@@ -319,7 +319,7 @@ translate japanese tsuki_test_find_2_9894db6a_1:
 translate japanese tsuki_test_find_2_c2345bb8_1:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "这次的训练也是“{color=#0080FF}寻找正确选项{/color}”。\n然而，存在{color=#FF0000}时间限制{/color}。"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "今回は{color=#0080FF}正解探し{/color}のテストだ。\nなお、選択中には{color=#FF0000}一定の制限時間{/color}がある"
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "今回は{color=#0080FF}正解探し{/color}のテストだ。\nなお、選択中には{color=#FF0000}一定の制限時間{/color}がある。"
 
 # game/content/file_0000116D.rpy:792
 translate japanese tsuki_test_find_2_e4ffe6a1_1:
@@ -439,23 +439,23 @@ translate japanese strings:
 
     # content\file_0000116D.rpy:73
     old "寻找文字\n简单"
-    new "文字を探せ\n簡単"
+    new "◯◯を探せ\nかんたん"
 
     # content\file_0000116D.rpy:79
     old "寻找文字\n中等"
-    new "文字を探せ\n普通"
+    new "◯◯を探せ\nふつう"
 
     # content\file_0000116D.rpy:90
     old "寻找文字\n困难"
-    new "文字を探せ\n困難"
+    new "◯◯を探せ\nむずかしい"
 
     # content\file_0000116D.rpy:101
     old "寻找数字\n简单"
-    new "数字を探せ\n簡単"
+    new "数字遊び\nかんたん"
 
     # content\file_0000116D.rpy:112
     old "寻找数字\n困难"
-    new "数字を探せ\n困難"
+    new "数字遊び\nむずかしい"
 
     # content\file_0000116D.rpy:122
     old "离开"

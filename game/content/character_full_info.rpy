@@ -478,7 +478,7 @@ init 1000 python:
             "description": _("在新闻部负责摄影，和部长不同是\n个很安静的怪孩子。会给提供有趣\n情报的人对方喜欢的照片。据本人说，\n“我们尊重肖像权”。非常喜欢部长\n冈岛，但有些过保护。")
         }, {
             "id": "Kiyo",
-            "name": _("{size=12}KIYO TAKEHITO{/size}\n清武一"),
+            "name": _("{size=12}KIYOSHI TAKEHITO{/size}\n清武一"),
             "age": _("中学一年级"),
             "height": _("150cm"),
             "weight": _("45kg"),

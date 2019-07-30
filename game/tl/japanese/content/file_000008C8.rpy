@@ -2212,7 +2212,7 @@ translate japanese block_00002C56_bd2b066c:
 translate japanese block_00002C56_320d974d:
 
     # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "不过，这段时间我可以帮你。\n和斯巴达哥哥不同，我们可以慢慢来。"
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "だから、しばらくは僕が変わりに付き合うね。\nスパルタな兄さんと違って、\n僕は緩いから安心してよ。"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "だから、しばらくは僕が代わりに付き合うね。\nスパルタな兄さんと違って、\n僕は緩いから安心してよ。"
 
 # game/content/file_000008C8.rpy:7474
 translate japanese block_00002C56_577cc050:

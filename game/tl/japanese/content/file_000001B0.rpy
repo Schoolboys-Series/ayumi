@@ -5164,11 +5164,11 @@ translate japanese strings:
 
     # content\file_000001B0.rpy:11429
     old "走，去训练了"
-    new "トレーニングしよ"
+    new "する！"
 
     # content\file_000001B0.rpy:11429
     old "我很忙的"
-    new "今忙しいけど"
+    new "今は忙しい"
 
     # content\file_000001B0.rpy:12508
     old "室外厕所"

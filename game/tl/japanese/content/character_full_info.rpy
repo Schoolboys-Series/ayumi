@@ -652,7 +652,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "从“上古封印之箱”里逃出来的\n正太控妖怪的一个。曾经从箱子\n里出来过一次夜里“拜访”\n慎太郎，但手都没下去，为此\n耿耿于怀，最后被常磐给的\n符咒打败。"
-    new "『古より伝わりし呪いの箱』に\n封印されていた、ショタコン幽霊その３。\n一度、箱から抜け出して\n慎太郎に夜這うしたことがあるが、\n下手くそと一蹴されてしまう。\nそのことを根に持ち、再度相対するが、\n常盤からもらった御札を貼られ、撃退された。"
+    new "『古より伝わりし呪いの箱』に\n封印されていた、ショタコン幽霊その３。\n一度、箱から抜け出して\n慎太郎に夜這うしたことがあるが、\n下手くそと一蹴されてしまう。\nそのことを根に持ち、再度相対するが、\n常磐からもらった御札を貼られ、撃退された。"
 
     # content\character_full_info.rpy:18
     old "小学四年级"
@@ -856,7 +856,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:864
     old "小故事《在意的魔法师 续》"
-    new "サブイベント《気にする魔術師　続く》"
+    new "サブイベント《気にする魔術師　続》"
 
     # content\character_full_info.rpy:864
     old "小故事《魔法森林》"
@@ -900,7 +900,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:864
     old "小故事《常磐前辈》"
-    new "サブイベント《常盤先輩》"
+    new "サブイベント《常磐先輩》"
 
     # content\character_full_info.rpy:864
     old "小故事《喝茶风波》"
@@ -940,7 +940,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:864
     old "委托《猫狗物语 续》"
-    new "クエスト《ワンニャン物語　続く》"
+    new "クエスト《ワンニャン物語　続》"
 
     # content\character_full_info.rpy:864
     old "委托《蛋糕大作战》"
@@ -1065,8 +1065,8 @@ translate japanese strings:
     new "{size=12}こじま　ただし{/size}\n小島　正"
 
     # content\character_full_info.rpy:18
-    old "{size=12}KIYO TAKEHITO{/size}\n清武一"
-    new "{size=12}きよ　たけひと{/size}\n清　武一"
+    old "{size=12}KIYOSHI TAKEHITO{/size}\n清武一"
+    new "{size=12}きよし　たけひと{/size}\n清　武一"
 
     # content\character_full_info.rpy:18
     old "{size=12}NAKAYAMA KANON{/size}\n中山花音"
@@ -1086,7 +1086,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "{size=12}SEIGI MAMORU{/size}\n世依木守"
-    new "{size=12}せいじ　まもる{/size}\n世依木　マモル"
+    new "{size=12}せいぎ　まもる{/size}\n世依木　マモル"
 
     # content\character_full_info.rpy:18
     old "{size=12}TENTACLE EARTHWORM{/size}\n触手A"
@@ -1134,7 +1134,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "{size=12}SUGIMOTO KOKORO{/size}\n杉本志"
-    new "{size=12}すきもと　こころ{/size}\n杉本　志"
+    new "{size=12}すぎもと　こころ{/size}\n杉本　志"
 
     # content\character_full_info.rpy:18
     old "{size=12}RIKUTA ISAO{/size}\n陆田功"
@@ -1146,7 +1146,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "{size=12}TOKIWA SUSUMU{/size}\n常磐进"
-    new "{size=12}ときわ　すすむ{/size}\n常盤　進"
+    new "{size=12}ときわ　すすむ{/size}\n常磐　進"
 
     # content\character_full_info.rpy:18
     old "{size=12}SUWABE SHOUGINTOKI{/size}\n诹访部翔银时"
