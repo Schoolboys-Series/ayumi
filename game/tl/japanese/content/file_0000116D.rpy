@@ -461,17 +461,171 @@ translate japanese strings:
     old "离开"
     new "戻る"
 
+    # ◯◯を探せ！で登場する単語のスペルはそのままでは訳せないため、
+    # 原作に準拠して翻訳
     # content\file_0000116D.rpy:263
     old "找到 {color=#2196F3}TALPIDAE{/color}"
-    new "『{color=#2196F3}TALPIDAE{/color}』を探せ！"
+    new "『{color=#2196F3}モグラ{/color}』を探せ！"
+
+    # content\file_0000116D.rpy:274
+    old "TALPIDAE"
+    new "モグラ"
+
+    # content\file_0000116D.rpy:274
+    old "TALPIDEA"
+    new "モギラ"
+
+    # content\file_0000116D.rpy:274
+    old "TALPIDOE"
+    new "モスラ"
+
+    # content\file_0000116D.rpy:274
+    old "PANTS"
+    new "パンツ"
+
+    # content\file_0000116D.rpy:280
+    old "BIKINI"
+    new "ビキニ"
+
+    # content\file_0000116D.rpy:286
+    old "TOLPIDAE"
+    new "モカラ"
+
+    # content\file_0000116D.rpy:286
+    old "TOLPIDIE"
+    new "モクラ"
+
+    # content\file_0000116D.rpy:286
+    old "AILURUS FULGENS"
+    new "レッサーパンダ"
+
+    # content\file_0000116D.rpy:286
+    old "TALPIDEE"
+    new "モケラ"
+
+    # content\file_0000116D.rpy:292
+    old "TOLPLDAE"
+    new "モゴラ"
+
+    # content\file_0000116D.rpy:292
+    old "TOLPODOE"
+    new "ロゴモ"
+
+    # content\file_0000116D.rpy:292
+    old "TSUBASA"
+    new "ツバサ"
+
+    # content\file_0000116D.rpy:292
+    old "AUTUMN FOLIAGE"
+    new "モミジ"
+
+    # content\file_0000116D.rpy:292
+    old "TALPTALP"
+    new "モミモミ"
 
     # content\file_0000116D.rpy:263
     old "找到 {color=#2196F3}TSUBASA{/color}"
-    new "『{color=#2196F3}TSUBASA{/color}』を探せ！"
+    new "『{color=#2196F3}ツバサ{/color}』を探せ！"
+
+    # content\file_0000116D.rpy:300
+    old "TSUMIKI"
+    new "ツミキ"
+
+    # content\file_0000116D.rpy:300
+    old "TSUBOMI"
+    new "ツボミ"
+
+    # content\file_0000116D.rpy:300
+    old "TSUBAME"
+    new "ツバメ"
+
+    # content\file_0000116D.rpy:304
+    old "TSUBASE"
+    new "ツバセ"
+
+    # content\file_0000116D.rpy:304
+    old "TSUBASO"
+    new "ツバソ"
+
+    # content\file_0000116D.rpy:304
+    old "TSUPASA"
+    new "ツパサ"
+
+    # content\file_0000116D.rpy:310
+    old "SHIPASA"
+    new "シパサ"
+
+    # content\file_0000116D.rpy:310
+    old "SHIBASA"
+    new "シバサ"
+
+    # content\file_0000116D.rpy:310
+    old "TSUPAZA"
+    new "ツパザ"
+
+    # content\file_0000116D.rpy:310
+    old "TSUBAZA"
+    new "ツバザ"
+
+    # content\file_0000116D.rpy:316
+    old "ZUBASA"
+    new "ヅバサ"
+
+    # content\file_0000116D.rpy:316
+    old "TSBASA"
+    new "トバサ"
+
+    # content\file_0000116D.rpy:316
+    old "ZUBAZA"
+    new "ズバザ"
+
+    # content\file_0000116D.rpy:316
+    old "TSUHAZA"
+    new "ツハザ"
 
     # content\file_0000116D.rpy:263
     old "找到 {color=#2196F3}VIBRATOR{/color}"
-    new "『{color=#2196F3}VIBRATOR{/color}』を探せ！"
+    new "『{color=#2196F3}電マ{/color}』を探せ！"
+
+    # content\file_0000116D.rpy:322
+    old "VIBRATOR"
+    new "電マ"
+
+    # content\file_0000116D.rpy:322
+    old "VIBRETAR"
+    new "電キ"
+
+    # content\file_0000116D.rpy:322
+    old "VIBRETOR"
+    new "電ア"
+
+    # content\file_0000116D.rpy:322
+    old "VIBRATER"
+    new "電カ"
+
+    # content\file_0000116D.rpy:322
+    old "VIBRETER"
+    new "電ラ"
+
+    # content\file_0000116D.rpy:322
+    old "VIBROTAR"
+    new "電ム"
+
+    # content\file_0000116D.rpy:322
+    old "VIBROTER"
+    new "電モ"
+
+    # content\file_0000116D.rpy:322
+    old "VINROTOR"
+    new "電レ"
+
+    # content\file_0000116D.rpy:328
+    old "VIBROTOR"
+    new "電ロ"
+
+    # content\file_0000116D.rpy:328
+    old "VIBRATAR"
+    new "電ハ"
 
     # content\file_0000116D.rpy:680
     old "0-9没有出现的数字是"
@@ -535,23 +689,200 @@ translate japanese strings:
 
     # content\file_0000116D.rpy:802
     old "找到 {color=#2196F3}SCHOOLBOYS{/color}"
-    new "『{color=#2196F3}SCHOOLBOYS{/color}』を探せ！"
+    new "『{color=#2196F3}スクボ{/color}』を探せ！"
+
+    # content\file_0000116D.rpy:813
+    old "SCHOOLBOYS"
+    new "スクボ"
+
+    # content\file_0000116D.rpy:813
+    old "SCHOOLBOYZ"
+    new "ズクボ"
+
+    # content\file_0000116D.rpy:813
+    old "SCHOLOBOYS"
+    new "スグボ"
+
+    # content\file_0000116D.rpy:813
+    old "SCHOLLBOYS"
+    new "ズクホ"
+
+    # content\file_0000116D.rpy:813
+    old "SCHOOLBOLS"
+    new "ズグポ"
+
+    # content\file_0000116D.rpy:819
+    old "SCHOLBOOYS"
+    new "ズグボ"
+
+    # content\file_0000116D.rpy:819
+    old "SCHOOLBLOS"
+    new "スホボ"
+
+    # content\file_0000116D.rpy:825
+    old "SCHLOOBOYZ"
+    new "スフボ"
+
+    # content\file_0000116D.rpy:825
+    old "SCHOLOBOYZ"
+    new "スコボ"
+
+    # content\file_0000116D.rpy:825
+    old "SCHLOOBOYS"
+    new "ズコボ"
+
+    # content\file_0000116D.rpy:825
+    old "SCHOULBOYS"
+    new "スホホ"
+
+    # content\file_0000116D.rpy:825
+    old "SCHLOLBOYS"
+    new "ズクポ"
 
     # content\file_0000116D.rpy:802
     old "找到 {color=#2196F3}AYUMI{/color}"
-    new "『{color=#2196F3}AYUMI{/color}』を探せ！"
+    new "『{color=#2196F3}歩{/color}』を探せ！"
+
+    # content\file_0000116D.rpy:831
+    old "AYUMI"
+    new "歩"
+
+    # content\file_0000116D.rpy:831
+    old "AYUMU"
+    new "渉"
+
+    # content\file_0000116D.rpy:831
+    old "AYOMU"
+    new "少"
+
+    # content\file_0000116D.rpy:831
+    old "AYOMI"
+    new "走"
+
+    # content\file_0000116D.rpy:831
+    old "AYAMI"
+    new "捗"
+
+    # content\file_0000116D.rpy:837
+    old "AYUMA"
+    new "電"
+
+    # content\file_0000116D.rpy:837
+    old "AYOMO"
+    new "足"
+
+    # content\file_0000116D.rpy:837
+    old "AYAMA"
+    new "小"
+
+    # content\file_0000116D.rpy:843
+    old "AYIMI"
+    new "装"
+
+    # content\file_0000116D.rpy:843
+    old "AYIMU"
+    new "疾"
 
     # content\file_0000116D.rpy:802
-    old "找到 {color=#2196F3}Wolf's{/color}"
-    new "『{color=#2196F3}Wolf's{/color}』を探せ！"
-
-    # content\file_0000116D.rpy:809
     old "找到 {color=#2196F3}WOLFS{/color}"
-    new "『{color=#2196F3}WOLFS{/color}』を探せ！"
+    new "『{color=#2196F3}ウルフズ{/color}』を探せ！"
+
+    # content\file_0000116D.rpy:849
+    old "WOLFS"
+    new "ウルフズ"
+
+    # content\file_0000116D.rpy:849
+    old "WALFS"
+    new "ワルフズ"
+
+    # content\file_0000116D.rpy:849
+    old "WOLPZ"
+    new "ウルプズ"
+
+    # content\file_0000116D.rpy:849
+    old "WOLPUS"
+    new "ウルプス"
+
+    # content\file_0000116D.rpy:849
+    old "FOLFS"
+    new "フルフズ"
+
+    # content\file_0000116D.rpy:849
+    old "WOLFZ"
+    new "ウルブズ"
+
+    # content\file_0000116D.rpy:849
+    old "WOLWZ"
+    new "ウルウズ"
+
+    # content\file_0000116D.rpy:849
+    old "WOLWS"
+    new "ウルウス"
+
+    # content\file_0000116D.rpy:855
+    old "WOPOS"
+    new "ウルポズ"
+
+    # content\file_0000116D.rpy:855
+    old "WOLAS"
+    new "ウルワズ"
+
+    # content\file_0000116D.rpy:855
+    old "WOPLS"
+    new "ウプロス"
+
+    # content\file_0000116D.rpy:855
+    old "WOLVS"
+    new "ウルブス"
+
+    # content\file_0000116D.rpy:855
+    old "WOLBS"
+    new "ウルブズ"
 
     # content\file_0000116D.rpy:802
     old "找到 {color=#2196F3}PRAECANTATOR{/color}"
-    new "『{color=#2196F3}PRAECANTATOR{/color}』を探せ！"
+    new "『{color=#2196F3}魔術師{/color}』を探せ！"
+
+    # content\file_0000116D.rpy:861
+    old "PRAECANTATOR"
+    new "魔術師"
+
+    # content\file_0000116D.rpy:861
+    old "PRAECAHTATER"
+    new "魔術帥"
+
+    # content\file_0000116D.rpy:861
+    old "PRAECAHTATOR"
+    new "魔術市"
+
+    # content\file_0000116D.rpy:861
+    old "PRAECANTETOR"
+    new "塵術師"
+
+    # content\file_0000116D.rpy:861
+    old "PRAECENTATOR"
+    new "魔衒師"
+
+    # content\file_0000116D.rpy:867
+    old "PREACANTATOR"
+    new "摩術師"
+
+    # content\file_0000116D.rpy:867
+    old "PRAECANTATER"
+    new "魔述師"
+
+    # content\file_0000116D.rpy:867
+    old "PRAECANTETER"
+    new "魔街師"
+
+    # content\file_0000116D.rpy:867
+    old "PRAEHANTATOR"
+    new "庶術師"
+
+    # content\file_0000116D.rpy:867
+    old "PRAECAHTOTER"
+    new "磨術師"
+
 
     # content\file_0000116D.rpy:907
     old "5出现了多少次"
@@ -585,38 +916,262 @@ translate japanese strings:
     old "找到 {color=#2196F3}ユウヒ{/color}"
     new "『{color=#2196F3}ユウヒ{/color}』を探せ！"
 
+    # content\file_0000116D.rpy:1048
+    old "ユウヒ{#test}"
+    new "ユウヒ"
+
+    # content\file_0000116D.rpy:1048
+    old "ユフヒ"
+    new "ユフヒ"
+
+    # content\file_0000116D.rpy:1048
+    old "ユウピ"
+    new "ユウピ"
+
+    # content\file_0000116D.rpy:1048
+    old "ヱウヒ"
+    new "ヱウヒ"
+
     # content\file_0000116D.rpy:1037
     old "找到 {color=#2196F3}朔{/color}"
     new "『{color=#2196F3}朔{/color}』を探せ！"
 
+    # content\file_0000116D.rpy:1054
+    old "朔{#test}"
+    new "朔"
+
+    # content\file_0000116D.rpy:1054
+    old "胡"
+    new "胡"
+
+    # content\file_0000116D.rpy:1054
+    old "朝"
+    new "朝"
+
+    # content\file_0000116D.rpy:1054
+    old "期"
+    new "期"
+
     # content\file_0000116D.rpy:1037
     old "找到 {color=#2196F3}滑子老师{/color}"
-    new "『{color=#2196F3}滑子老师{/color}』を探せ！"
+    new "『{color=#2196F3}滑子先生{/color}』を探せ！"
+
+    # content\file_0000116D.rpy:1060
+    old "滑子老师{#test}"
+    new "滑子先生"
+
+    # content\file_0000116D.rpy:1060
+    old "骨子老师"
+    new "骨子先生"
+    
+    # content\file_0000116D.rpy:1060
+    old "滑了老师"
+    new "滑了先生"
+
+    # content\file_0000116D.rpy:1060
+    old "滑子老帅"
+    new "滑子洗生"
 
     # content\file_0000116D.rpy:1037
     old "找到 {color=#2196F3}森海友{/color}"
     new "『{color=#2196F3}森海友{/color}』を探せ！"
 
+    # content\file_0000116D.rpy:1066
+    old "森海友{#test}"
+    new "森海友"
+
+    # content\file_0000116D.rpy:1066
+    old "林森友"
+    new "林森友"
+
+    # content\file_0000116D.rpy:1066
+    old "森梅友"
+    new "森梅友"
+
+    # content\file_0000116D.rpy:1066
+    old "森海反"
+    new "森海反"
+
     # content\file_0000116D.rpy:1037
     old "找到 {color=#2196F3}绫濑しのぶ{/color}"
-    new "『{color=#2196F3}绫濑しのぶ{/color}』を探せ！"
+    new "『{color=#2196F3}綾瀬しのぶ{/color}』を探せ！"
+
+    # content\file_0000116D.rpy:1072
+    old "绫濑しのぶ{#test}"
+    new "綾瀬しのぶ"
+
+    # content\file_0000116D.rpy:1072
+    old "绫頼しのぶ"
+    new "綾頼しのぶ"
+
+    # content\file_0000116D.rpy:1072
+    old "绫濑しのぷ"
+    new "綾瀬しのぷ"
+
+    # content\file_0000116D.rpy:1072
+    old "绫濑じのぶ"
+    new "綾瀬じのぶ"
+
+    # content\file_0000116D.rpy:1072
+    old "绫濑しのふ"
+    new "綾瀬しのふ"
 
     # content\file_0000116D.rpy:1037
     old "找到 {color=#2196F3}一之濑つばさ{/color}"
-    new "『{color=#2196F3}一之濑つばさ{/color}』を探せ！"
+    new "『{color=#2196F3}一ノ瀬つばさ{/color}』を探せ！"
+
+    # content\file_0000116D.rpy:1078
+    old "一之濑つばさ{#test}"
+    new "一ノ瀬つばさ"
+
+    # content\file_0000116D.rpy:1078
+    old "二之濑つばさ"
+    new "二ノ瀬つばさ"
+
+    # content\file_0000116D.rpy:1078
+    old "一之濑つはさ"
+    new "一ノ瀬つはさ"
+
+    # content\file_0000116D.rpy:1078
+    old "一之頼つばさ"
+    new "一ノ頼つばさ"
+
+    # content\file_0000116D.rpy:1078
+    old "三之濑つばさ"
+    new "三ノ瀬つばさ"
+
+    # content\file_0000116D.rpy:1078
+    old "一之濑つぱさ"
+    new "一ノ瀬つぱさ"
 
     # content\file_0000116D.rpy:1037
     old "找到 {color=#2196F3}奥村慎太郎{/color}"
     new "『{color=#2196F3}奥村慎太郎{/color}』を探せ！"
 
+    # content\file_0000116D.rpy:1084
+    old "奥村慎太郎{#test}"
+    new "奥村慎太郎"
+
+    # content\file_0000116D.rpy:1084
+    old "奥村真太郎"
+    new "奥村真太郎"
+
+    # content\file_0000116D.rpy:1084
+    old "奥材慎太郎"
+    new "奥材慎太郎"
+
+    # content\file_0000116D.rpy:1084
+    old "奥村慎大朗"
+    new "奥村慎大郎"
+
+    # content\file_0000116D.rpy:1084
+    old "奥村慎太朗"
+    new "奥村慎太朗"
+
+    # content\file_0000116D.rpy:1084
+    old "奥村慎犬郎"
+    new "奥村慎犬郎"
+
+    # content\file_0000116D.rpy:1084
+    old "奥村清太郎"
+    new "奥村清太郎"
+
     # content\file_0000116D.rpy:1037
     old "找到 {color=#2196F3}穂海作哉{/color}"
     new "『{color=#2196F3}穂海作哉{/color}』を探せ！"
+
+    # content\file_0000116D.rpy:1090
+    old "穂海作哉"
+    new "穂海作哉"
+
+    # content\file_0000116D.rpy:1090
+    old "穂梅作哉"
+    new "穂梅作哉"
+
+    # content\file_0000116D.rpy:1090
+    old "补海作哉"
+    new "朴海作哉"
+
+    # content\file_0000116D.rpy:1090
+    old "穂海昨哉"
+    new "穂海昨哉"
+
+    # content\file_0000116D.rpy:1090
+    old "穂海乍哉"
+    new "穂海乍哉"
+
+    # content\file_0000116D.rpy:1090
+    old "穂悔作哉"
+    new "穂悔作哉"
+
+    # content\file_0000116D.rpy:1090
+    old "穂侮作哉"
+    new "穂侮作哉"
 
     # content\file_0000116D.rpy:1037
     old "找到 {color=#2196F3}猫山三朗{/color}"
     new "『{color=#2196F3}猫山三朗{/color}』を探せ！"
 
+    # content\file_0000116D.rpy:1096
+    old "猫山三朗{#test}"
+    new "猫山三朗"
+
+    # content\file_0000116D.rpy:1096
+    old "猫山三郎"
+    new "猫山三郎"
+
+    # content\file_0000116D.rpy:1096
+    old "猫川三朗"
+    new "猫川三朗"
+
+    # content\file_0000116D.rpy:1096
+    old "猫山二朗"
+    new "猫山二朗"
+
+    # content\file_0000116D.rpy:1096
+    old "猫山三郞"
+    new "猫山三郞"
+
+    # content\file_0000116D.rpy:1096
+    old "描山三朗"
+    new "描山三朗"
+
+    # content\file_0000116D.rpy:1096
+    old "苗山三朗"
+    new "苗山三朗"
+
     # content\file_0000116D.rpy:1037
     old "找到 {color=#2196F3}赤峰空{/color}"
     new "『{color=#2196F3}赤峰空{/color}』を探せ！"
+
+    # content\file_0000116D.rpy:1102
+    old "赤峰空{#test}"
+    new "赤峰空"
+
+    # content\file_0000116D.rpy:1102
+    old "赤蜂空"
+    new "赤蜂空"
+
+    # content\file_0000116D.rpy:1102
+    old "赤峰究"
+    new "赤峰究"
+
+    # content\file_0000116D.rpy:1102
+    old "赤峰月"
+    new "赤峰月"
+
+    # content\file_0000116D.rpy:1102
+    old "赤锋空"
+    new "赤鉾空"
+
+    # content\file_0000116D.rpy:1102
+    old "赤烽空"
+    new "赤烽空"
+
+    # content\file_0000116D.rpy:1102
+    old "亦峰空"
+    new "亦峰空"
+
+    # content\file_0000116D.rpy:1102
+    old "赤峰突"
+    new "赤峰突"

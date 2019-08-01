@@ -271,63 +271,63 @@ label tsuki_test_find_1_content:
         {
             "type": "find",
             "title": _("找到 {color=#2196F3}TALPIDAE{/color}"),
-            "item": ["TALPIDAE", "TALPIDEA", "TALPIDOE", "PANTS"],
+            "item": [_("TALPIDAE"), _("TALPIDEA"), _("TALPIDOE"), _("PANTS")],
             "time": 3,
-            "result": "TALPIDAE"
+            "result": _("TALPIDAE")
         }, {
             "type": "find",
             "title": _("找到 {color=#2196F3}TALPIDAE{/color}"),
-            "item": ["BIKINI", "TALPIDAE", "TALPIDEA", "TALPIDOE"],
+            "item": [_("BIKINI"), _("TALPIDAE"), _("TALPIDEA"), _("TALPIDOE")],
             "time": 3,
-            "result": "TALPIDAE"
+            "result": _("TALPIDAE")
         }, {
             "type": "find",
             "title": _("找到 {color=#2196F3}TALPIDAE{/color}"),
-            "item": ["TOLPIDAE", "TALPIDAE", "TOLPIDIE", "PANTS", "AILURUS FULGENS", "TALPIDEE"],
+            "item": [_("TOLPIDAE"), _("TALPIDAE"), _("TOLPIDIE"), _("PANTS"), _("AILURUS FULGENS"), _("TALPIDEE")],
             "time": 3,
-            "result": "TALPIDAE"
+            "result": _("TALPIDAE")
         }, {
             "type": "find",
             "title": _("找到 {color=#2196F3}TALPIDAE{/color}"),
-            "item": ["TOLPIDAE", "TOLPLDAE", "TALPIDAE", "TOLPODOE", "PANTS", "TSUBASA", "AUTUMN FOLIAGE", "TALPTALP"],
+            "item": [_("TOLPIDAE"), _("TOLPLDAE"), _("TALPIDAE"), _("TOLPODOE"), _("PANTS"), _("TSUBASA"), _("AUTUMN FOLIAGE"), _("TALPTALP")],
             "time": 3,
-            "result": "TALPIDAE"
+            "result": _("TALPIDAE")
         }, {
             "type": "find",
             "title": _("找到 {color=#2196F3}TSUBASA{/color}"),
-            "item": ["TSUMIKI", "TSUBOMI", "TSUBAME", "TSUBASA"],
+            "item": [_("TSUMIKI"), _("TSUBOMI"), _("TSUBAME"), _("TSUBASA")],
+            "time": 3,
+            "result": _("TSUBASA")
+        }, {
+            "type": "find",
+            "title": _("找到 {color=#2196F3}TSUBASA{/color}"),
+            "item": [_("TSUBASE"), _("TSUBASO"), _("TSUBASA"), _("TSUPASA")],
+            "time": 3,
+            "result": _("TSUBASA")
+        }, {
+            "type": "find",
+            "title": _("找到 {color=#2196F3}TSUBASA{/color}"),
+            "item": [_("SHIPASA"), _("SHIBASA"), _("TSUPAZA"), _("TSUBAZA"), _("TSUBASA"), _("TSUPASA")],
             "time": 3,
             "result": "TSUBASA"
         }, {
             "type": "find",
             "title": _("找到 {color=#2196F3}TSUBASA{/color}"),
-            "item": ["TSUBASE", "TSUBASO", "TSUBASA", "TSUPASA"],
+            "item": [_("TSUPASA"), _("ZUBASA"), _("TSBASA"), _("ZUBAZA"), _("TSUBAZA"), _("TSUHAZA"), _("TSUPAZA"), _("TSUBASA")],
             "time": 3,
-            "result": "TSUBASA"
-        }, {
-            "type": "find",
-            "title": _("找到 {color=#2196F3}TSUBASA{/color}"),
-            "item": ["SHIPASA", "SHIBASA", "TSUPAZA", "TSUBAZA", "TSUBASA", "TSUPASA"],
-            "time": 3,
-            "result": "TSUBASA"
-        }, {
-            "type": "find",
-            "title": _("找到 {color=#2196F3}TSUBASA{/color}"),
-            "item": ["TSUPASA", "ZUBASA", "TSBASA", "ZUBAZA", "TSUBAZA", "TSUHAZA", "TSUPAZA", "TSUBASA"],
-            "time": 3,
-            "result": "TSUBASA"
+            "result": _("TSUBASA")
         }, {
             "type": "find",
             "title": _("找到 {color=#2196F3}VIBRATOR{/color}"),
-            "item": ["VIBRETAR", "VIBRETOR", "VIBRATER", "VIBRETER", "VIBROTAR", "VIBROTER", "VIBRATOR", "VINROTOR"],
+            "item": [_("VIBRETAR"), _("VIBRETOR"), _("VIBRATER"), _("VIBRETER"), _("VIBROTAR"), _("VIBROTER"), _("VIBRATOR"), _("VINROTOR")],
             "time": 3.5,
-            "result": "VIBRATOR"
+            "result": _("VIBRATOR")
         }, {
             "type": "find",
             "title": _("找到 {color=#2196F3}VIBRATOR{/color}"),
-            "item": ["VIBRETAR", "VIBROTAR", "VIBROTER", "VIBROTOR", "VIBRATOR", "VIBRATER", "VIBRATAR", "VIBRETER"],
+            "item": [_("VIBRETAR"), _("VIBROTAR"), _("VIBROTER"), _("VIBROTOR"), _("VIBRATOR"), _("VIBRATER"), _("VIBRATAR"), _("VIBRETER")],
             "time": 3.5,
-            "result": "VIBRATOR"
+            "result": _("VIBRATOR")
         }
     ]
 
@@ -810,63 +810,63 @@ label tsuki_test_find_2_content:
         {
             "type": "find",
             "title": _("找到 {color=#2196F3}SCHOOLBOYS{/color}"),
-            "item": ["SCHOOLBOYZ", "SCHOLOBOYS", "SCHOLLBOYS", "SCHOOLBOYS", "SCHOOLBOLS"],
+            "item": [_("SCHOOLBOYZ"), _("SCHOLOBOYS"), _("SCHOLLBOYS"), _("SCHOOLBOYS"), _("SCHOOLBOLS")],
             "time": 3,
-            "result": "SCHOOLBOYS"
+            "result": _("SCHOOLBOYS")
         }, {
             "type": "find",
             "title": _("找到 {color=#2196F3}SCHOOLBOYS{/color}"),
-            "item": ["SCHOLOBOYS", "SCHOOLBOYZ", "SCHOLBOOYS", "SCHOOLBOYS", "SCHOOLBLOS"],
+            "item": [_("SCHOLOBOYS"), _("SCHOOLBOYZ"), _("SCHOLBOOYS"), _("SCHOOLBOYS"), _("SCHOOLBLOS")],
             "time": 3,
-            "result": "SCHOOLBOYS"
+            "result": _("SCHOOLBOYS")
         }, {
             "type": "find",
             "title": _("找到 {color=#2196F3}SCHOOLBOYS{/color}"),
-            "item": ["SCHLOOBOYZ", "SCHOLOBOYZ", "SCHLOOBOYS", "SCHOOLBOYZ", "SCHOULBOYS", "SCHLOLBOYS", "SCHOLOBOYS", "SCHOOLBOYS"],
+            "item": [_("SCHLOOBOYZ"), _("SCHOLOBOYZ"), _("SCHLOOBOYS"), _("SCHOOLBOYZ"), _("SCHOULBOYS"), _("SCHLOLBOYS"), _("SCHOLOBOYS"), _("SCHOOLBOYS")],
             "time": 3,
-            "result": "SCHOOLBOYS"
+            "result": _("SCHOOLBOYS")
         }, {
             "type": "find",
             "title": _("找到 {color=#2196F3}AYUMI{/color}"),
-            "item": ["AYUMU", "AYOMU", "AYOMI", "AYUMI", "AYAMI"],
+            "item": [_("AYUMU"), _("AYOMU"), _("AYOMI"), _("AYUMI"), _("AYAMI")],
             "time": 3,
-            "result": "AYUMI"
+            "result": _("AYUMI")
         }, {
             "type": "find",
             "title": _("找到 {color=#2196F3}AYUMI{/color}"),
-            "item": ["AYUMA", "AYOMI", "AYOMO", "AYAMI", "AYAMA", "AYUMI", "AYUMU"],
+            "item": [_("AYUMA"), _("AYOMI"), _("AYOMO"), _("AYAMI"), _("AYAMA"), _("AYUMI"), _("AYUMU")],
             "time": 3,
-            "result": "AYUMI"
+            "result": _("AYUMI")
         }, {
             "type": "find",
             "title": _("找到 {color=#2196F3}AYUMI{/color}"),
-            "item": ["AYIMI", "AYIMU", "AYAMA", "AYAMI", "AYOMI", "AYUMU", "AYUMI", "AYUMA"],
+            "item": [_("AYIMI"), _("AYIMU"), _("AYAMA"), _("AYAMI"), _("AYOMI"), _("AYUMU"), _("AYUMI"), _("AYUMA")],
             "time": 3,
-            "result": "AYUMI"
+            "result": _("AYUMI")
         }, {
             "type": "find",
             "title": _("找到 {color=#2196F3}WOLFS{/color}"),
-            "item": ["WALFS", "WOLPZ", "WOLPUS", "FOLFS", "WOLFZ", "WOLWZ", "WOLFS", "WOLWS"],
+            "item": [_("WALFS"), _("WOLPZ"), _("WOLPUS"), _("FOLFS"), _("WOLFZ"), _("WOLWZ"), _("WOLFS"), _("WOLWS")],
             "time": 3,
-            "result": "WOLFS"
+            "result": _("WOLFS")
         }, {
             "type": "find",
-            "title": _("找到 {color=#2196F3}Wolf's{/color}"),
-            "item": ["Wopo's", "Walf's", "Wola's", "Wopl's", "Walf's", "Wolfs", "Wolf's", "Wolp's"],
+            "title": _("找到 {color=#2196F3}WOLFS{/color}"),
+            "item": [_("WOPOS"), _("WALFS"), _("WOLAS"), _("WOPLS"), _("WALFS"), _("WOLFS"), _("WOLVS"), _("WOLBS")],
             "time": 3,
-            "result": "Wolf's"
+            "result": _("WOLFS")
         }, {
             "type": "find",
             "title": _("找到 {color=#2196F3}PRAECANTATOR{/color}"),
-            "item": ["PRAECAHTATER", "PRAECAHTATOR", "PRAECANTATOR", "PRAECANTETOR", "PRAECENTATOR"],
+            "item": [_("PRAECAHTATER"), _("PRAECAHTATOR"), _("PRAECANTATOR"), _("PRAECANTETOR"), _("PRAECENTATOR")],
             "time": 3.5,
-            "result": "PRAECANTATOR"
+            "result": _("PRAECANTATOR")
         }, {
             "type": "find",
             "title": _("找到 {color=#2196F3}PRAECANTATOR{/color}"),
-            "item": ["PRAECAHTATOR", "PRAECANTATOR", "PRAECENTATOR", "PREACANTATOR", "PRAECANTATER", "PRAECANTETER", "PRAEHANTATOR", "PRAECAHTOTER"],
+            "item": [_("PRAECAHTATOR"), _("PRAECANTATOR"), _("PRAECENTATOR"), _("PREACANTATOR"), _("PRAECANTATER"), _("PRAECANTETER"), _("PRAEHANTATOR"), _("PRAECAHTOTER")],
             "time": 3.5,
-            "result": "PRAECANTATOR"
+            "result": _("PRAECANTATOR")
         }
     ]
 
@@ -1045,63 +1045,63 @@ label tsuki_test_find_3_content:
         {
             "type": "find",
             "title": _("找到 {color=#2196F3}ユウヒ{/color}"),
-            "item": ["ユフヒ", "ユウピ", "ユウヒ", "ヱウヒ"],
+            "item": [_("ユフヒ"), _("ユウピ"), _("ユウヒ{#test}"), _("ヱウヒ")],
             "time": 3,
-            "result": "ユウヒ"
+            "result": _("ユウヒ{#test}")
         }, {
             "type": "find",
             "title": _("找到 {color=#2196F3}朔{/color}"),
-            "item": ["胡", "朝", "期", "朔"],
+            "item": [_("胡"), _("朝"), _("期"), _("朔{#test}")],
             "time": 3,
-            "result": "朔"
+            "result": _("朔{#test}")
         }, {
             "type": "find",
             "title": _("找到 {color=#2196F3}滑子老师{/color}"),
-            "item": ["滑子老师", "骨子老师", "滑了老师", "滑子老帅"],
+            "item": [_("滑子老师{#test}"), _("骨子老师"), _("滑了老师"), _("滑子老帅")],
             "time": 3,
-            "result": "滑子老师"
+            "result": _("滑子老师{#test}")
         }, {
             "type": "find",
             "title": _("找到 {color=#2196F3}森海友{/color}"),
-            "item": ["林森友", "森梅友", "森海反", "森海友"],
+            "item": [_("林森友"), _("森梅友"), _("森海反"), _("森海友{#test}")],
             "time": 3,
-            "result": "森海友"
+            "result": _("森海友{#test}")
         }, {
             "type": "find",
             "title": _("找到 {color=#2196F3}绫濑しのぶ{/color}"),
-            "item": ["绫頼しのぶ", "绫濑しのぶ", "绫濑しのぷ", "绫濑じのぶ", "绫濑しのふ"],
+            "item": [_("绫頼しのぶ"), _("绫濑しのぶ{#test}"), _("绫濑しのぷ"), _("绫濑じのぶ"), _("绫濑しのふ")],
             "time": 3,
-            "result": "绫濑しのぶ"
+            "result": _("绫濑しのぶ{#test}")
         }, {
             "type": "find",
             "title": _("找到 {color=#2196F3}一之濑つばさ{/color}"),
-            "item": ["二之濑つばさ", "一之濑つはさ", "一之頼つばさ", "一之濑つばさ", "三之濑つばさ", "一之濑つぱさ"],
+            "item": [_("二之濑つばさ"), _("一之濑つはさ"), _("一之頼つばさ"), _("一之濑つばさ{#test}"), _("三之濑つばさ"), _("一之濑つぱさ")],
             "time": 3,
-            "result": "一之濑つばさ"
+            "result": _("一之濑つばさ{#test}")
         }, {
             "type": "find",
             "title": _("找到 {color=#2196F3}奥村慎太郎{/color}"),
-            "item": ["奥村真太郎", "奥材慎太郎", "奥村慎大朗", "奥村慎太朗", "奥村慎犬郎", "奥村慎太郎", "奥村清太郎"],
+            "item": [_("奥村真太郎"), _("奥材慎太郎"), _("奥村慎大朗"), _("奥村慎太朗"), _("奥村慎犬郎"), _("奥村慎太郎{#test}"), _("奥村清太郎")],
             "time": 3,
-            "result": "奥村慎太郎"
+            "result": _("奥村慎太郎{#test}")
         }, {
             "type": "find",
             "title": _("找到 {color=#2196F3}穂海作哉{/color}"),
-            "item": ["穂梅作哉", "补海作哉", "穂海昨哉", "穂海作哉", "穂海乍哉", "穂悔作哉", "穂侮作哉"],
+            "item": [_("穂梅作哉"), _("补海作哉"), _("穂海昨哉"), _("穂海作哉{#test}"), _("穂海乍哉"), _("穂悔作哉"), _("穂侮作哉")],
             "time": 3,
-            "result": "穂海作哉"
+            "result": _("穂海作哉{#test}")
         }, {
             "type": "find",
             "title": _("找到 {color=#2196F3}猫山三朗{/color}"),
-            "item": ["猫山三郎", "猫山三朗", "猫川三朗", "猫山二朗", "猫山三郞", "描山三朗", "苗山三朗"],
+            "item": [_("猫山三郎"), _("猫山三朗{#test}"), _("猫川三朗"), _("猫山二朗"), _("猫山三郞"), _("描山三朗"), _("苗山三朗")],
             "time": 3,
-            "result": "猫山三朗"
+            "result": _("猫山三朗{#test}")
         }, {
             "type": "find",
             "title": _("找到 {color=#2196F3}赤峰空{/color}"),
-            "item": ["赤峰空", "赤蜂空", "赤峰究", "赤峰月", "赤锋空", "赤烽空", "亦峰空", "赤峰突"],
+            "item": [_("赤峰空{#test}"), _("赤蜂空"), _("赤峰究"), _("赤峰月"), _("赤锋空"), _("赤烽空"), _("亦峰空"), _("赤峰突")],
             "time": 3,
-            "result": "赤峰空"
+            "result": _("赤峰空{#test}")
         }
     ]
 
