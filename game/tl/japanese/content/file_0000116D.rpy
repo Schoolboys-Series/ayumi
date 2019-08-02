@@ -1081,7 +1081,7 @@ translate japanese strings:
     new "『{color=#2196F3}穂海作哉{/color}』を探せ！"
 
     # content\file_0000116D.rpy:1090
-    old "穂海作哉"
+    old "穂海作哉{#test}"
     new "穂海作哉"
 
     # content\file_0000116D.rpy:1090
@@ -1175,3 +1175,4 @@ translate japanese strings:
     # content\file_0000116D.rpy:1102
     old "赤峰突"
     new "赤峰突"
+    
