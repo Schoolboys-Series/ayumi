@@ -3694,7 +3694,8 @@ translate japanese block_000024BA_3063320a:
 translate japanese block_000024BA_7e7dd7ff:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#008A45}最近有人在学园内见到了巨大的蚯蚓。然而，\n所有目击者都拒绝说明情况。因此，我们需要\n你亲自去探寻巨大蚯蚓的原委，并整理为报告！{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#008A45}ここ最近、学園内で喋る巨大ミミズが目撃されている。しかし、\n目撃者はその経験について詳しく話してくれない。とにかく歩き\nまくって巨大ミミズに出会い、その実態を調査・報告してほしい！{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#008A45}ここ最近、学園内で喋る巨大ミミズが目撃されている。\nしかし、目撃者はその経験について\n詳しく話してくれない。{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#008A45}とにかく歩きまくって巨大ミミズに出会い、\nその実態を調査・報告してほしい！{/color}"
 
 # game/content/file_000001B0.rpy:10206
 translate japanese block_000024BB_545bff5f:

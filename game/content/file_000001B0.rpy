@@ -5048,6 +5048,12 @@ label block_000024C0:
 
 label block_000001DC:
     # Node: 000001DC (Newsclub)
+
+    if C1QNewsclubPhase > 0:
+        $ zorder_tag_F398938348DE4C30BB9D510ED421A1C3 = 300
+        show rs_image_F398938348DE4C30BB9D510ED421A1C3 as tag_F398938348DE4C30BB9D510ED421A1C3 zorder zorder_tag_F398938348DE4C30BB9D510ED421A1C3 onlayer master
+        with rs_effect_1445BCCB339E41F196B5E8B4A0176595
+    
     $ sys_lm_menu_item = [{"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}, {"pos": (112, 160),"image": "images/Chapter 1/Menu/Okajima.png","hover": "images/Chapter 1/Menu/Okajima hover.png","name": "岡島"}, {"pos": (392, 160),"image": "images/Chapter 1/Menu/Kojima.png","hover": "images/Chapter 1/Menu/Kojima hover.png","name": "小島"}]
     $ sys_lm_menu_sound = {"hover": "sound/Effect Sound/System - choose.ogg", "click": "sound/Effect Sound/System - click.ogg"}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0.2, 0.2) from _call_lm_menu_249
@@ -5055,14 +5061,19 @@ label block_000001DC:
     $ del sys_lm_menu_sound
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"移動\"" }]):
+        hide tag_F398938348DE4C30BB9D510ED421A1C3
         jump block_000001B7
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"岡島\"" },{ "scope": 1, "content": "TalkOkajima == 0" }]):
+        hide tag_F398938348DE4C30BB9D510ED421A1C3
         jump block_000001EE
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"岡島\"" }]):
+        hide tag_F398938348DE4C30BB9D510ED421A1C3
         jump block_00000214
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"小島\"" },{ "scope": 1, "content": "C1QNewsclubPhase == 1" }]):
+        hide tag_F398938348DE4C30BB9D510ED421A1C3
         jump block_000024BC
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"小島\"" }]):
+        hide tag_F398938348DE4C30BB9D510ED421A1C3
         jump block_000001EF
 
     return
@@ -9687,10 +9698,12 @@ label block_000024BD:
     hide tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
+
     $ set_place_title(_("新闻部活动室"))
     $ zorder_tag_ECFB5B509A334A868686B3435242BF90 = 300
     show rs_image_7131112E86B24D6A9BE667868088D590 as tag_ECFB5B509A334A868686B3435242BF90 at center_bottom zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_1445BCCB339E41F196B5E8B4A0176595
+    
 
     $ zorder_tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 = 0
     show rs_image_928702F45F5E4011BDA3855AB8593F59 as tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 at center_bottom zorder zorder_tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 onlayer master
@@ -10304,6 +10317,8 @@ label block_000001DB:
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
     $ set_place_title(_("新闻部活动室"))
+
+
     $ zorder_tag_ECFB5B509A334A868686B3435242BF90 = 300
     show rs_image_7131112E86B24D6A9BE667868088D590 as tag_ECFB5B509A334A868686B3435242BF90 at center_bottom zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_1445BCCB339E41F196B5E8B4A0176595
