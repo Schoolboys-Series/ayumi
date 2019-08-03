@@ -1251,7 +1251,7 @@ label block_000001BE:
         jump block_000002B7
     if judge_lm_condition([{ "scope": 0, "content": "C1S2Phase == 1" }]):
         jump block_000002B9
-    if judge_lm_condition([{ "scope": 0, "content": "QTsubasaCheck1 == True" },{ "scope": 1, "content": "C1S1Phase + C1S2Phase + C1S3Phase + C1S4Phase + C1S5Phase == 0" },{ "scope": 2, "content": "C1QTsubasaPhase + C1QSabushinPhase + C1QMatsutaPhase == 0" },{ "scope": 0, "content": "C1QTsubasaPhase == 1" }]):
+    if judge_lm_condition([{ "scope": 0, "content": "QTsubasaCheck1 == True" }]):
         jump block_0000020A
     if judge_lm_condition([]):
         jump block_000001C8

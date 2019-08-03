@@ -3358,7 +3358,7 @@ translate japanese block_00002B13_edaf4756:
 translate japanese block_00002B13_99cc2c04:
 
     # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "呜……一定是我做错什么了。{w}\n…………{w}\n第一次见面时还是很温柔的……"
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "うぅ……。\nきっと、僕に原因があるんです。{w}\n…………。{w}\n最初は優しかったのになぁ……。"
 
 # game/content/file_000001B0.rpy:9011
 translate japanese block_00002B14_df4a500a:

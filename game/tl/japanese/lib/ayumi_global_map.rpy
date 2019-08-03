@@ -4,15 +4,15 @@ translate japanese strings:
 
     # lib\ayumi_global_map.rpy:1
     old "你确实要终止任务吗?"
-    new "本当に任務を止めたいですか？"
+    new "クエストを中止しますか？"
 
     # lib\ayumi_global_map.rpy:1
     old "说的是，以后再做吧"
-    new "そうですね、まだ後で"
+    new "はい"
 
     # lib\ayumi_global_map.rpy:1
     old "不不不，手滑了"
-    new "いいえ、ただのミステリー"
+    new "いいえ"
 
     # lib\ayumi_global_map.rpy:15
     old "CHAPTER 1 第一章"
