@@ -794,13 +794,11 @@ label block_00003706:
         play effect "sound/Effect Sound/Decision 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Decision 1.ogg"
 
-    pause
-
-    hide tag_F647A346C17043E4AA06DD4621FE0DFF
-    with rs_effect_351A8A667ECF419EB1A052B06E597A01
+    pause(0.5)
 
     extend "\n有时间再去好不好！加藤酱也一起，三人一起！好不好！？"
 
+    hide tag_F647A346C17043E4AA06DD4621FE0DFF
     hide tag_61A891D6A6D047DC93695DA12E13CC75
     hide tag_ECFB5B509A334A868686B3435242BF90
     hide tag_073D4E2B5E224963B025F95C92ED797A
@@ -994,11 +992,13 @@ label block_00003706:
     hide tag_073D4E2B5E224963B025F95C92ED797A
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
+    $ zorder_tag_61A891D6A6D047DC93695DA12E13CC75 = 300
+    show rs_image_D225376486A6442D884B00D8B01FDB1E as tag_61A891D6A6D047DC93695DA12E13CC75 at Transform(xpos=-10, yalign=0.0) zorder zorder_tag_61A891D6A6D047DC93695DA12E13CC75 onlayer master
+    with rs_effect_351A8A667ECF419EB1A052B06E597A01
+
     rs_character_81D16F74A3C44B8982DB528D7D934850 "哦哦～空点的豚骨版好棒！不愧是空，有品味！"
 
-    $ zorder_tag_61A891D6A6D047DC93695DA12E13CC75 = 300
     $ zorder_tag_ECFB5B509A334A868686B3435242BF90 = 300
-    show rs_image_D225376486A6442D884B00D8B01FDB1E as tag_61A891D6A6D047DC93695DA12E13CC75 at Transform(xpos=-50, yalign=0.0) zorder zorder_tag_61A891D6A6D047DC93695DA12E13CC75 onlayer master
     show rs_image_64D8D1E21F7F40938F719E0070CF195B as tag_ECFB5B509A334A868686B3435242BF90 at right_top zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 

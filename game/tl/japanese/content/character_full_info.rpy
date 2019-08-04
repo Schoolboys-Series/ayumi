@@ -808,7 +808,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:864
     old "事件《大家来相扑》"
-    new "ストーリーモード《みんなで相撲》"
+    new "ストーリーモード《みんなで相撲！》"
 
     # content\character_full_info.rpy:864
     old "事件《翼的流转音符》"

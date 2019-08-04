@@ -1810,7 +1810,7 @@ translate japanese block_00003708_50c02bc4:
 translate japanese block_00003708_5cac5d06:
 
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "其实……"
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "実はですね......。"
 
 # game/content/file_00003703.rpy:2782
 translate japanese block_00003708_b6fd1bfc:
@@ -2614,7 +2614,9 @@ translate japanese block_00003709_3e8ea75e:
 translate japanese block_00003709_2161728b:
 
     # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "同样入睡，一起早起，吃同样的饭，一起上学。\n一起学习，一起练习，为什么只有我一直在输。"
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "同じように寝て、起きて、\n同じようにご飯を食べて、学校へ通って、\n同じように勉強して、稽古もしてるのに、\nどうしてこうも負けちゃうのかなぁ。"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "同じように寝て、起きて、\n同じようにご飯を食べて、学校へ通って、"
+    
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "同じように勉強して、稽古もしてるのに、\nどうしてこうも負けちゃうのかなぁ。"
 
 # game/content/file_00003703.rpy:3966
 translate japanese block_00003709_f7a38742:
@@ -2710,7 +2712,7 @@ translate japanese block_00003709_366ebb55:
 translate japanese block_00003709_afdabe2c:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "什么声音？{w}\n空、空前辈刚才……拿竹刀敲地面了……{w}\n那个温柔的空君……？"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "何の音？{w}そ、空先輩が……竹刀を叩きつけた……。{w}あの温厚な空くんが……？"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "何の音？{w}そ、空先輩が……竹刀を叩きつけた……。{w}\nあの温厚な空くんが……？"
 
 # game/content/file_00003703.rpy:4074
 translate japanese block_00003709_c479dbc9:
@@ -3232,4 +3234,4 @@ translate japanese strings:
 
     # content\file_00003703.rpy:26
     old "「大家来相扑」"
-    new "{font=font/honyaji-re.ttf}「みんなで相撲」{/font}"
+    new "{font=font/honyaji-re.ttf}「みんなで相撲！」{/font}"

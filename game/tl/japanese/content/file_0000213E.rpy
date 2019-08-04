@@ -46,7 +46,7 @@ translate japanese strings:
 
     # content\file_0000213E.rpy:76
     old "大家来相扑"
-    new "みんなで相撲"
+    new "みんなで相撲！"
 
     # content\file_0000213E.rpy:76
     old "震惊！奖金五万！\n但这并不重要\n谁也未曾想到\n竟然会..."

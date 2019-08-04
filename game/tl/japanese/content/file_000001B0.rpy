@@ -82,7 +82,7 @@ translate japanese block_000001D6_56f2d8d0:
 translate japanese block_00002A6C_3070edbe:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『事件{/color}{color=#AA0055}“大家来相扑”{/color}{color=#0080FF}成功结束。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ストーリーモード{/color}{color=#AA0055}“みんなで相撲”{/color}{color=#0080FF}をクリアしました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ストーリーモード{/color}\n{color=#AA0055}“みんなで相撲！”{/color}{color=#0080FF}をクリアしました。』{/color}"
 
 # game/content/file_000001B0.rpy:548
 translate japanese block_00000307_1dd730c7:
