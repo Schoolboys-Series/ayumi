@@ -1889,7 +1889,7 @@ label block_000008D1:
 
 label block_0000251D:
     # Node: 0000251D (Music room 忍 waiting)
-    $ sys_lm_menu_item = [{"pos": (496, 184),"image": "images/Chapter 2/Menu/Shinobu waiting.png","hover": "","name": "しのぶ"}, {"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}]
+    $ sys_lm_menu_item = [{"pos": (496, 184),"image": "images/Chapter 2/Menu/Shinobu waiting.png","hover": "images/Chapter 2/Menu/Shinobu hover.png","name": "しのぶ"}, {"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}]
     $ sys_lm_menu_sound = {"hover": "sound/Effect Sound/System - choose.ogg", "click": "sound/Effect Sound/System - click.ogg"}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0.2, 0.2) from _call_lm_menu_463
     $ del sys_lm_menu_item
@@ -5580,7 +5580,7 @@ label block_00003A94:
 
 label block_000024FB:
     # Node: 000024FB (Stairwell 空 waiting)
-    $ sys_lm_menu_item = [{"pos": (224, 264),"image": "images/Chapter 2/Menu/Sora stairwell waiting.png","hover": "","name": "空"}, {"pos": (440, 256),"image": "images/Chapter 2/Menu/Tsuki stairwell.png","hover": "images/Chapter 2/Menu/Tsuki stairwell hover.png","name": "月"}, {"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}]
+    $ sys_lm_menu_item = [{"pos": (224, 264),"image": "images/Chapter 2/Menu/Sora stairwell waiting.png","hover": "images/Chapter 2/Menu/Sora stairwell hover.png","name": "空"}, {"pos": (440, 256),"image": "images/Chapter 2/Menu/Tsuki stairwell.png","hover": "images/Chapter 2/Menu/Tsuki stairwell hover.png","name": "月"}, {"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}]
     $ sys_lm_menu_sound = {"hover": "sound/Effect Sound/System - choose.ogg", "click": "sound/Effect Sound/System - click.ogg"}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0.2, 0.2) from _call_lm_menu_479
     $ del sys_lm_menu_item

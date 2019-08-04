@@ -1416,7 +1416,7 @@ label block_000002BB:
 
 label block_000002B9:
     # Node: 000002B9 (Atrium 翼 waiting)
-    $ sys_lm_menu_item = [{"pos": (216, 160),"image": "images/Chapter 1/Menu/Tsubasa waiting.png","hover": "","name": "つばさ"}, {"pos": (488, 208),"image": "images/MOVING/ACTIONS/Moving.png","hover": "images/MOVING/ACTIONS/Moving hover.png","name": "食堂へ"}, {"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}]
+    $ sys_lm_menu_item = [{"pos": (216, 160),"image": "images/Chapter 1/Menu/Tsubasa waiting.png","hover": "images/Chapter 1/Menu/Tsubasa hover.png","name": "つばさ"}, {"pos": (488, 208),"image": "images/MOVING/ACTIONS/Moving.png","hover": "images/MOVING/ACTIONS/Moving hover.png","name": "食堂へ"}, {"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}]
     $ sys_lm_menu_sound = {"hover": "sound/Effect Sound/System - choose.ogg", "click": "sound/Effect Sound/System - click.ogg"}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0.2, 0.2) from _call_lm_menu_240
     $ del sys_lm_menu_item
@@ -6261,7 +6261,7 @@ label block_000001B9:
 
 label block_000023C8:
     # Node: 000023C8 (Music room 忍 waiting)
-    $ sys_lm_menu_item = [{"pos": (176, 288),"image": "images/MOVING/ACTIONS/Focusing.png","hover": "images/MOVING/ACTIONS/Focusing hover.png","name": "ピアノ"}, {"pos": (496, 184),"image": "images/Chapter 1/Menu/F5/Shinobu waiting.png","hover": "","name": "しのぶ"}, {"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}]
+    $ sys_lm_menu_item = [{"pos": (176, 288),"image": "images/MOVING/ACTIONS/Focusing.png","hover": "images/MOVING/ACTIONS/Focusing hover.png","name": "ピアノ"}, {"pos": (496, 184),"image": "images/Chapter 1/Menu/F5/Shinobu waiting.png","hover": "images/Chapter 1/Menu/F5/Shinobu hover.png","name": "しのぶ"}, {"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}]
     $ sys_lm_menu_sound = {"hover": "sound/Effect Sound/System - choose.ogg", "click": "sound/Effect Sound/System - click.ogg"}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0.2, 0.2) from _call_lm_menu_254
     $ del sys_lm_menu_item
@@ -7177,7 +7177,7 @@ label block_000038F7:
 
 label block_000023AC:
     # Node: 000023AC (Library 忍 waiting)
-    $ sys_lm_menu_item = [{"pos": (250, 179),"image": "images/Chapter 1/Menu/Shinobu waiting.png","hover": "","name": "しのぶ"}, {"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}]
+    $ sys_lm_menu_item = [{"pos": (250, 179),"image": "images/Chapter 1/Menu/Shinobu waiting.png","hover": "images/Chapter 1/Menu/Shinobu hover.png","name": "しのぶ"}, {"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}]
     $ sys_lm_menu_sound = {"hover": "sound/Effect Sound/System - choose.ogg", "click": "sound/Effect Sound/System - click.ogg"}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0.2, 0.2) from _call_lm_menu_259
     $ del sys_lm_menu_item
@@ -8043,7 +8043,7 @@ label block_000001BB:
 
 label block_000002BE:
     # Node: 000002BE (Toilet 慎太郎 waiting)
-    $ sys_lm_menu_item = [{"pos": (368, 120),"image": "images/Chapter 1/Menu/Shintaro waiting.png","hover": "","name": "慎太郎"}, {"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}]
+    $ sys_lm_menu_item = [{"pos": (368, 120),"image": "images/Chapter 1/Menu/Shintaro waiting.png","hover": "images/Chapter 1/Menu/Shintaro hover.png","name": "慎太郎"}, {"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}]
     $ sys_lm_menu_sound = {"hover": "sound/Effect Sound/System - choose.ogg", "click": "sound/Effect Sound/System - click.ogg"}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0.2, 0.2) from _call_lm_menu_265
     $ del sys_lm_menu_item
