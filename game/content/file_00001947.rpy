@@ -415,7 +415,7 @@ label block_0000305F:
 
 label block_00002753:
     # Node: 00002753 (Shoecupboard 滑子 waiting)
-    $ sys_lm_menu_item = [{"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}, {"pos": (672, 248),"image": "images/MOVING/ACTIONS/Moving 2.png","hover": "images/MOVING/ACTIONS/Moving 2 hover.png","name": "校庭へ行く"}, {"pos": (160, 96),"image": "images/Chapter 3/Menu/Nameko waiting.png","hover": "images/Chapter 3/Menu/Nameko hover.png","name": "滑子"}]
+    $ sys_lm_menu_item = [{"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}, {"pos": (672, 248),"image": "images/MOVING/ACTIONS/Moving 2.png","hover": "images/MOVING/ACTIONS/Moving 2 hover.png","name": "校庭へ行く"}, {"pos": (160, 96),"image": "images/Chapter 3/Menu/Nameko waiting.png","hover": "images/Menu/Nameko hover.png","name": "滑子"}]
     $ sys_lm_menu_sound = {"hover": "sound/Effect Sound/System - choose.ogg", "click": "sound/Effect Sound/System - click.ogg"}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0.2, 0.2) from _call_lm_menu_378
     $ del sys_lm_menu_item
