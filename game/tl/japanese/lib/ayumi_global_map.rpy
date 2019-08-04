@@ -4,7 +4,7 @@ translate japanese strings:
 
     # lib\ayumi_global_map.rpy:1
     old "你确实要终止任务吗?"
-    new "クエストを中止しますか？"
+    new "目標を中止しますか？"
 
     # lib\ayumi_global_map.rpy:1
     old "说的是，以后再做吧"
