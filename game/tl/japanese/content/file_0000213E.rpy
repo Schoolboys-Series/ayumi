@@ -54,7 +54,7 @@ translate japanese strings:
 
     # content\file_0000213E.rpy:76
     old "翼的流转音符"
-    new "つばさカンタービレ"
+    new "つばさカンタービレ♪"
 
     # content\file_0000213E.rpy:76
     old "突然被滑子老师委托的翼\n他的最大难关不是练习\n而是友..."

@@ -1240,3 +1240,11 @@ translate japanese strings:
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new ""
 
+# TODO: Translation updated at 2019-08-08 00:22
+
+translate japanese strings:
+
+    # renpy/common/00accessibility.rpy:191
+    old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
+    new ""
+
