@@ -376,7 +376,7 @@ translate japanese block_000023ED_236003ec:
 translate japanese block_000023ED_c399c968:
 
     # rs_character_81D16F74A3C44B8982DB528D7D934850 "等会等会，那么一惊一乍地什么都听不明白啊。\n"
-    rs_character_81D16F74A3C44B8982DB528D7D934850 "ちょいちょい。そんなにオドオドされちゃあ\n内容も入ってこねーわ。\n"
+    rs_character_81D16F74A3C44B8982DB528D7D934850 "ちょいちょい。そんなにオドオドされちゃあ\n内容も入ってこねーわ。"
 
 # game/content/file_00000EE6.rpy:1494
 translate japanese block_000023ED_cee63011:

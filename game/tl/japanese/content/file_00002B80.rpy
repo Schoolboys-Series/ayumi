@@ -790,7 +790,7 @@ translate japanese block_00003610_1b75e6fa:
 translate japanese block_00003611_c65f820f:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}这是“翼的流转音符”的原画。{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『つばさカンタービレ』のラフ画を見せてもらった。{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『つばさカンタービレ♪』のラフ画を見せてもらった。{/color}"
 
 # game/content/file_00002B80.rpy:3285
 translate japanese block_00003613_fe9a48f3:

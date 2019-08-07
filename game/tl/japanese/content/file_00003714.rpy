@@ -394,13 +394,13 @@ translate japanese block_00003720_3bfb46e9:
 translate japanese block_00003720_8ccb35d8:
 
     # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "真、真是的，下次再做这种事的话，我……"
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "も、もう！\n次にそんなことしたら、僕......"
 
 # game/content/file_00003714.rpy:651
 translate japanese block_00003720_fcfeeb31:
 
     # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "就只能叫出{nw}"
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "{color=#00FFFF}『『もうひとりの僕』{/color}{nw}"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "{color=#00FFFF}『もうひとりの僕』{/color}{nw}"
 
 # game/content/file_00003714.rpy:656
 translate japanese block_00003720_d6d4b658:
@@ -559,10 +559,10 @@ translate japanese block_00003720_3a6d0fe3:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "つ、つばさくん。\nもっと力抜こう、ね？"
 
 # game/content/file_00003714.rpy:938
-translate japanese block_00003720_c1a16e41:
+translate japanese block_00003720_1723b932:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "可、可现在完全没时间了，\n为什么无名指和小指总是不听使唤啊！？\n{nw}"
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "い、一刻の猶予もないというのに、\nどうして薬指と小指が絡みつくの！？\n{nw}\n"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "可、可现在完全没时间了，\n为什么无名指和小指总是不听使唤啊！？\n{w}"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "い、一刻の猶予もないというのに、\nどうして薬指と小指が絡みつくの！？\n{w}"
 
 # game/content/file_00003714.rpy:946
 translate japanese block_00003720_01f8d130:
@@ -1000,7 +1000,7 @@ translate japanese block_00003720_9644438f:
 translate japanese block_00003720_9a16485a:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "顺便两手做剪刀状！！"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "ついでに両手はブイサイン作っちゃおう！！"
 
 # game/content/file_00003714.rpy:1484
 translate japanese block_00003720_ce9b4d83:
@@ -1957,10 +1957,10 @@ translate japanese block_0000371F_cce34cfd:
     rs_character_2EBE5D3FE4D24B89A65C688BA8BED15A "まあまあ。求める結果が同じなら、\nそのための力が増えるに越したことはないでしょう？"
 
 # game/content/file_00003714.rpy:2639
-translate japanese block_0000371F_6b53c2fe:
+translate japanese block_0000371F_f42fc5a2:
 
-    # rs_character_414B71521382454B97E8531A1ED4B265 "……也对，合作！要让“我”发挥出最大的实力！！\n{nw}"
-    rs_character_414B71521382454B97E8531A1ED4B265 "『僕』が出せる最大限のパワーを出すのです！！\n{nw}\n"
+    # rs_character_414B71521382454B97E8531A1ED4B265 "……也对，合作！要让“我”发挥出最大的实力！！{w}"
+    rs_character_414B71521382454B97E8531A1ED4B265 "『僕』が出せる最大限のパワーを出すのです！！{w}"
 
 # game/content/file_00003714.rpy:2657
 translate japanese block_0000371F_30ee4850:
@@ -2416,7 +2416,7 @@ translate japanese block_00003AF5_ffaa4e03:
 translate japanese block_00003AF5_0167bc6b:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "好了！奖励已经给了！！结束！"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 ""
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "はい！ご褒美あげました！！おしまい！"
 
 # game/content/file_00003714.rpy:3354
 translate japanese block_00003AF5_52476ace:
@@ -2536,19 +2536,19 @@ translate japanese strings:
 
     # content\file_00003714.rpy:26
     old "「翼的流转音符」"
-    new "{font=font/honyaji-re.ttf}「つばさカンタービレ」{/font}"
+    new "{font=font/honyaji-re.ttf}「つばさカンタービレ♪」{/font}"
 
     # content\file_00003714.rpy:1380
-    old "不过，不管怎样……"
-    new "でも、何はともあれ……。"
+    old "{color=#7FBFFF}不过，不管怎样……{/color}"
+    new "{color=#7FBFFF}でも、何はともあれ……。{/color}"
 
     # content\file_00003714.rpy:1563
-    old "能和友君单独在一起努力\n我真的非常幸福……！"
-    new "友くんと二人きりで何かに取り組むことができる。\n僕は本当に幸せです……！"
+    old "{color=#7FBFFF}能和友君单独在一起努力\n我真的非常幸福……！{/color}"
+    new "{color=#7FBFFF}友くんと二人きりで何かに取り組むことができる。\n僕は本当に幸せです……！{/color}"
 
     # content\file_00003714.rpy:3395
-    old "我一直都梦想着，或许有一天\n这份奖励能走出梦境，进入现实……"
-    new "いつかご褒美が\n本物になることを夢見て……。"
+    old "{color=#7FBFFF}我一直都梦想着，或许有一天\n这份奖励能走出梦境，进入现实……{/color}"
+    new "{color=#7FBFFF}いつかご褒美が\n本物になることを夢見て……。{/color}"
 
     # content\file_00003714.rpy:3438
     old "第二天"

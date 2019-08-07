@@ -935,7 +935,7 @@ label block_00003720:
     show rs_image_8676A882850344248D70E3A3623F329F as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "可、可现在完全没时间了，\n为什么无名指和小指总是不听使唤啊！？\n{nw}"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "可、可现在完全没时间了，\n为什么无名指和小指总是不听使唤啊！？\n{w}"
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
@@ -1377,7 +1377,7 @@ label block_00003720:
 
     pause 0.5
 
-    show center_title (_("不过，不管怎样……")) as center_title zorder 1000
+    show center_title (_("{color=#7FBFFF}不过，不管怎样……{/color}")) as center_title zorder 1000
     with rs_effect_29912DDD51A1413D8CA4C0208EECE15C
 
     pause 2.0
@@ -1560,7 +1560,7 @@ label block_00003720:
 
     pause 0.7
 
-    show center_title (_("能和友君单独在一起努力\n我真的非常幸福……！")) as center_title zorder 1000
+    show center_title (_("{color=#7FBFFF}能和友君单独在一起努力\n我真的非常幸福……！{/color}")) as center_title zorder 1000
     with rs_effect_29912DDD51A1413D8CA4C0208EECE15C
 
     pause 3.0
@@ -2636,7 +2636,7 @@ label block_0000371F:
     show rs_image_244A47A10443417BAC419CFC285CD946 as tag_FC96DA18D96F4848B6116D014A875A5C zorder zorder_tag_FC96DA18D96F4848B6116D014A875A5C onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_414B71521382454B97E8531A1ED4B265 "……也对，合作！要让“我”发挥出最大的实力！！\n{nw}"
+    rs_character_414B71521382454B97E8531A1ED4B265 "……也对，合作！要让“我”发挥出最大的实力！！{w}"
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Eye shine 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Eye shine 1.ogg"
@@ -3392,7 +3392,7 @@ label block_00003AF5:
 
     pause 0.7
 
-    show center_title (_("我一直都梦想着，或许有一天\n这份奖励能走出梦境，进入现实……")) as center_title zorder 1000
+    show center_title (_("{color=#7FBFFF}我一直都梦想着，或许有一天\n这份奖励能走出梦境，进入现实……{/color}")) as center_title zorder 1000
     with rs_effect_29912DDD51A1413D8CA4C0208EECE15C
 
     pause 3.5

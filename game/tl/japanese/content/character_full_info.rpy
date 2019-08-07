@@ -812,7 +812,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:864
     old "事件《翼的流转音符》"
-    new "ストーリーモード《つばさカンタービレ》"
+    new "ストーリーモード《つばさカンタービレ♪》"
 
     # content\character_full_info.rpy:864
     old "事件《寻求刺激·解》"

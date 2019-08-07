@@ -1810,7 +1810,7 @@ translate japanese block_00003708_50c02bc4:
 translate japanese block_00003708_5cac5d06:
 
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "其实……"
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "実はですね......。"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "実はですね......"
 
 # game/content/file_00003703.rpy:2782
 translate japanese block_00003708_b6fd1bfc:
