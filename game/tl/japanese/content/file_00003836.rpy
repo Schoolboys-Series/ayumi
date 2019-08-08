@@ -354,8 +354,8 @@ translate japanese strings:
     new "難易度：[level]"
 
     # content\file_00003836.rpy:123
-    old "森海友经常装在书包里带着走\n的道具是？"
-    new "『森海　友』がいつも持ち\n歩いている道具は？"
+    old "Q.1\n森海友经常装在书包里带着走\n的道具是？"
+    new "Q.1\n『森海　友』が\nいつも持ち歩いている\n道具は？"
 
     # content\file_00003836.rpy:123
     old "3DS"
@@ -370,8 +370,8 @@ translate japanese strings:
     new "電動マッサージ機"
 
     # content\file_00003836.rpy:123
-    old "忍的姓氏是？"
-    new "『しのぶ』の苗字は？"
+    old "Q.2\n忍的姓氏是？"
+    new "Q.2\n『しのぶ』の苗字は？"
 
     # content\file_00003836.rpy:123
     old "逆濑"
@@ -386,16 +386,16 @@ translate japanese strings:
     new "綾部"
 
     # content\file_00003836.rpy:123
-    old "赤峰双子的内裤是什么类型的？"
-    new "赤峰双子の下着の種類は？"
+    old "Q.3\n赤峰双子的内裤是什么类型的？"
+    new "Q.3\n赤峰双子の下着の種類は？"
 
     # content\file_00003836.rpy:123
     old "并没穿"
     new "穿いてない"
 
     # content\file_00003836.rpy:123
-    old "奥村慎太郎家经营着什么店？"
-    new "『奥村　慎太郎』の実家は\n何を営んでいる？"
+    old "Q.4\n奥村慎太郎家经营着什么店？"
+    new "Q.4\n『奥村　慎太郎』の実家は\n何を営んでいる？"
 
     # content\file_00003836.rpy:123
     old "澡堂"
@@ -410,24 +410,24 @@ translate japanese strings:
     new "ストリップ小屋"
 
     # content\file_00003836.rpy:123
-    old "《见习魔法师的任务》中\n主人公的名字是？"
-    new "『見習い魔術師の任務！』の\n主人公の名は？"
+    old "Q.5\n《见习魔法师的任务》中\n主人公的名字是？"
+    new "Q.5\n『見習い魔術師の任務！』の\n主人公の名は？"
 
     # content\file_00003836.rpy:123
     old "旭日"
     new "アサヒ"
 
     # content\file_00003836.rpy:123
-    old "御咲学园的制服内，泳装\n是什么样子的？"
-    new "御咲学園の指定水着のタイプは？"
+    old "Q.6\n御咲学园的制服内，泳装\n是什么样子的？"
+    new "Q.6\n御咲学園の指定水着の\nタイプは？"
 
     # content\file_00003836.rpy:123
     old "过膝短裤"
     new "ハーフパンツ型"
 
     # content\file_00003836.rpy:123
-    old "穗海作哉在校舍内养的狗的\n名字是？"
-    new "『穂海　作哉』が校舎裏で\n育てている仔犬の名前は？"
+    old "Q.7\n穗海作哉在校舍内养的狗的\n名字是？"
+    new "Q.7\n『穂海　作哉』が校舎裏で\n育てている仔犬の名前は？"
 
     # content\file_00003836.rpy:123
     old "小燕"
@@ -438,8 +438,8 @@ translate japanese strings:
     new "あなたの名前"
 
     # content\file_00003836.rpy:123
-    old "猫山三朗在学校里参加了什么\n社团？"
-    new "『猫山　三朗』が所属している\n部活は？"
+    old "Q.8\n猫山三朗在学校里参加了什么\n社团？"
+    new "Q.8\n『猫山　三朗』が所属している\n部活は？"
 
     # content\file_00003836.rpy:123
     old "SM同好会"
@@ -450,16 +450,16 @@ translate japanese strings:
     new "ホスト部"
 
     # content\file_00003836.rpy:123
-    old "一之濑翼的连帽衫是从谁那里\n得到的？"
-    new "『一ノ瀬　つばさ』が着ている\nパーカーは誰から貰ったもの？"
+    old "Q.9\n一之濑翼的连帽衫是从谁那里\n得到的？"
+    new "Q.9\n『一ノ瀬　つばさ』が着ている\nパーカーは誰から貰ったもの？"
 
     # content\file_00003836.rpy:123
     old "某正太控大叔"
     new "ショタコンおじさん"
 
     # content\file_00003836.rpy:123
-    old "世依木守的恋人是？"
-    new "『世依木　マモル』の恋人は？"
+    old "Q.10\n世依木守的恋人是？"
+    new "Q.10\n『世依木　マモル』の恋人は？"
 
     # content\file_00003836.rpy:123
     old "小熊猫"
@@ -470,8 +470,12 @@ translate japanese strings:
     new "タコタコ星人"
 
     # content\file_00003836.rpy:146
-    old "奥村慎太郎家里开的店\n叫什么名字？"
-    new "『奥村　慎太郎』の実家\nの銭湯屋の名前は？"
+    old "Q.1\n奥村慎太郎家里开的店\n叫什么名字？"
+    new "Q.1\n『奥村　慎太郎』の実家\nの銭湯屋の名前は？"
+
+    # content\file_00003836.rpy:146
+    old "花乃汤{#quiz}"
+    new "花乃湯"
 
     # content\file_00003836.rpy:146
     old "宝乃汤"
@@ -482,8 +486,8 @@ translate japanese strings:
     new "淫乃湯"
 
     # content\file_00003836.rpy:146
-    old "友和忍住在哪里？"
-    new "友としのぶが住んでいる\n場所は？"
+    old "Q.2\n友和忍住在哪里？"
+    new "Q.2\n友としのぶが住んでいる\n場所は？"
 
     # content\file_00003836.rpy:146
     old "御咲市"
@@ -494,8 +498,8 @@ translate japanese strings:
     new "伊丹咲"
 
     # content\file_00003836.rpy:146
-    old "炎之魔法师夕阳最新习得的\n法术名为？"
-    new "炎の魔術師『ユウヒ』が所得\nしている魔法の術名は？"
+    old "Q.3\n炎之魔法师夕阳最新习得的\n法术名为？"
+    new "Q.3\n炎の魔術師『ユウヒ』が\n所得している魔法の\n術名は？"
 
     # content\file_00003836.rpy:146
     old "Phantom Fire"
@@ -510,16 +514,16 @@ translate japanese strings:
     new "エクスプロージョン"
 
     # content\file_00003836.rpy:146
-    old "Wolf's所属的朔的内裤种类是？"
-    new "ウルフズの『朔』の\n下着の種類は？"
+    old "Q.4\nWolf's所属的朔的内裤种类是？"
+    new "Q.4\nウルフズの『朔』の\n下着の種類は？"
 
     # content\file_00003836.rpy:146
     old "并没有穿"
     new "穿いてない"
 
     # content\file_00003836.rpy:146
-    old "赤峰空最萌哥哥月的什么样子？"
-    new "『赤峰　空』は『月』の\nどんな姿に弱い？"
+    old "Q.5\n赤峰空最萌哥哥月的什么样子？"
+    new "Q.5\n『赤峰　空』は『月』の\nどんな姿に弱い？"
 
     # content\file_00003836.rpy:146
     old "戴眼镜的样子"
@@ -534,12 +538,12 @@ translate japanese strings:
     new "全裸姿"
 
     # content\file_00003836.rpy:146
-    old "二班的伊藤是什么社团的经理？"
-    new "２組の『伊藤　圭』は\n何部のマネージャー？"
+    old "Q.6\n二班的伊藤是什么社团的经理？"
+    new "Q.6\n２組の『伊藤　圭』は\n何部のマネージャー？"
 
     # content\file_00003836.rpy:146
-    old "猫山三朗的生日是？"
-    new "『猫山　三朗』の誕生日は？"
+    old "Q.7\n猫山三朗的生日是？"
+    new "Q.7\n『猫山　三朗』の誕生日は？"
 
     # content\file_00003836.rpy:146
     old "一月十一日"
@@ -554,8 +558,8 @@ translate japanese strings:
     new "２月２２日"
 
     # content\file_00003836.rpy:146
-    old "猫山三朗的弟弟四朗有一个\n好朋友，他的名字是？"
-    new "『猫山　三朗』の弟『四朗』\nの友人の名前は？"
+    old "Q.8\n猫山三朗的弟弟四朗有一个\n好朋友，他的名字是？"
+    new "Q.8\n『猫山　三朗』の弟『四朗』\nの友人の名前は？"
 
     # content\file_00003836.rpy:146
     old "榊幸绪"
@@ -566,8 +570,8 @@ translate japanese strings:
     new "榊　由紀緒"
 
     # content\file_00003836.rpy:146
-    old "这位老师的名字是？"
-    new "この先生のお名前は？"
+    old "Q.9\n这位老师的名字是？"
+    new "Q.9\nこの先生の\nお名前は？"
 
     # content\file_00003836.rpy:146
     old "安西"
@@ -582,8 +586,8 @@ translate japanese strings:
     new "滑子先生"
 
     # content\file_00003836.rpy:146
-    old "穗海作哉某次不堪其扰在二班\n后门贴了一张纸，内容为？"
-    new "『穂海　作哉』\nが２組の戸に貼った紙に\n書かれた文句は？"
+    old "Q.10\n穗海作哉某次不堪其扰在二班\n后门贴了一张纸，内容为？"
+    new "Q.10\n『穂海　作哉』が\n２組の戸に貼った紙に\n書かれた文句は？"
 
     # content\file_00003836.rpy:146
     old "御咲风俗店"
@@ -598,8 +602,8 @@ translate japanese strings:
     new "閉めたら開ける"
 
     # content\file_00003836.rpy:169
-    old "“御咲”的日文读法是？"
-    new "『御咲』の読み方は？"
+    old "Q.1\n“御咲”的日文读法是？"
+    new "Q.1\n『御咲』の読み方は？"
 
     # content\file_00003836.rpy:169
     old "GOSAKI"
@@ -614,8 +618,8 @@ translate japanese strings:
     new "みさき"
 
     # content\file_00003836.rpy:169
-    old "朔高价买入的这只\n触手的名字是？"
-    new "ウルフズの『朔』\nが新しい飼った\nこのモンスター\nの名前は？"
+    old "Q.2\n朔高价买入的这只\n触手的名字是？"
+    new "Q.2\nウルフズの『朔』\nが新しい飼った\nこのモンスター\nの名前は？"
 
     # content\file_00003836.rpy:169
     old "梅菲蒙特"
@@ -630,8 +634,8 @@ translate japanese strings:
     new "カササギムント"
 
     # content\file_00003836.rpy:169
-    old "榊雪绪参加了什么俱乐部？"
-    new "『榊　雪緒』が\n所属しているクラブは？"
+    old "Q.3\n榊雪绪参加了什么俱乐部？"
+    new "Q.3\n『榊　雪緒』が\n所属しているクラブは？"
 
     # content\file_00003836.rpy:169
     old "SM研究俱乐部"
@@ -642,8 +646,8 @@ translate japanese strings:
     new "ハイキングクラブ"
 
     # content\file_00003836.rpy:169
-    old "上次一班和二班的游泳比赛\n最后赢的是？"
-    new "１組VS２組の\n水泳リレーの勝敗は？"
+    old "Q.4\n上次一班和二班的游泳比赛\n最后赢的是？"
+    new "Q.4\n１組VS２組の\n水泳リレーの勝敗は？"
 
     # content\file_00003836.rpy:169
     old "一班"
@@ -658,8 +662,8 @@ translate japanese strings:
     new "引き分け"
 
     # content\file_00003836.rpy:169
-    old "一之濑翼的连帽衫多少钱？"
-    new "『一ノ瀬　つばさ』が\n着ているパーカーの\n値段は？"
+    old "Q.5\n一之濑翼的连帽衫多少钱？"
+    new "Q.5\n『一ノ瀬　つばさ』が\n着ているパーカーの\n値段は？"
 
     # content\file_00003836.rpy:169
     old "950日元"
@@ -674,8 +678,8 @@ translate japanese strings:
     new "１００００円"
 
     # content\file_00003836.rpy:169
-    old "穗海作哉新年参拜的愿望是？"
-    new "『穂海　作哉』は初初詣で、\nどんなお祈りをした？"
+    old "Q.6\n穗海作哉新年参拜的愿望是？"
+    new "Q.6\n『穂海　作哉』は初初詣で、\nどんなお祈りをした？"
 
     # content\file_00003836.rpy:169
     old "与一之濑翼和好"
@@ -690,8 +694,8 @@ translate japanese strings:
     new "犬になれますように"
 
     # content\file_00003836.rpy:169
-    old "奥村慎太郎介绍过的某寿司店\n的独特计价系统是？"
-    new "『奥村　慎太郎』が紹介した\n寿司屋の独自のシステムは？"
+    old "Q.7\n奥村慎太郎介绍过的某寿司店\n的独特计价系统是？"
+    new "Q.7\n『奥村　慎太郎』が紹介した\n寿司屋の独自のシステムは？"
 
     # content\file_00003836.rpy:169
     old "闻一闻算给钱"
@@ -706,8 +710,8 @@ translate japanese strings:
     new "触らせれば一丁"
 
     # content\file_00003836.rpy:169
-    old "森海友在电摩坏掉时作为\n替代会找什么？"
-    new "『森海　友』が電マを\n使えないときに\n頼る道具は？"
+    old "Q.8\n森海友在电摩坏掉时作为\n替代会找什么？"
+    new "Q.8\n『森海　友』が電マを\n使えないときに\n頼る道具は？"
 
     # content\file_00003836.rpy:169
     old "公园的滑梯"
@@ -718,8 +722,8 @@ translate japanese strings:
     new "花乃湯のジェットバス"
 
     # content\file_00003836.rpy:169
-    old "夕阳和守对什么敌人最不擅长？"
-    new "『ユウヒ』と『マモル』の\n一番弱点は？"
+    old "Q.9\n夕阳和守对什么敌人最不擅长？"
+    new "Q.9\n『ユウヒ』と『マモル』の\n一番弱点は？"
 
     # content\file_00003836.rpy:169
     old "火属性"
@@ -734,8 +738,8 @@ translate japanese strings:
     new "快楽性"
 
     # content\file_00003836.rpy:169
-    old "忍开始练习空手道的理由是？"
-    new "『綾瀬　しのぶ』が空手を\n始めた理由は？"
+    old "Q.10\n忍开始练习空手道的理由是？"
+    new "Q.10\n『綾瀬　しのぶ』が空手を\n始めた理由は？"
 
     # content\file_00003836.rpy:169
     old "保护重要的人"
@@ -812,3 +816,4 @@ translate japanese strings:
     # content\file_00003836.rpy:1306
     old "困难"
     new "ちょいむず"
+    

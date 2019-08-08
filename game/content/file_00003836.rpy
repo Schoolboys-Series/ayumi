@@ -69,8 +69,8 @@ label shinobu_question_answer_sheet_show(level):
     $ zorder_tag_17C5925FD8E5420F96A5D7708A5CD875 = 300
     show rs_image_2FC53155DF464987961ABA73E5371AD7 as tag_17C5925FD8E5420F96A5D7708A5CD875 at center_bottom zorder zorder_tag_17C5925FD8E5420F96A5D7708A5CD875 onlayer master
     show rs_image_505E4D67D9E0480190F94440CC260635 "[_return]" as shinobu_question_answer_content at Transform(xpos=196,ypos=57) zorder 1000
-    show rs_image_39BDF35F722B4A2FBF52EE3D9BAB608B (_("参考答案")) as shinobu_question_answer_title at Transform(xpos=195,ypos=18) zorder 1000
-    show rs_image_FBC78BE31EAE4A92979414FEEEEDE983 (_("难度：[level]")) as shinobu_question_answer_level at Transform(xpos=621,ypos=25) zorder 1000
+    show rs_image_39BDF35F722B4A2FBF52EE3D9BAB608B (_("参考答案")) as shinobu_question_answer_title at Transform(xpos=195,ypos=15) zorder 1000
+    show rs_image_FBC78BE31EAE4A92979414FEEEEDE983 (_("难度：[level]")) as shinobu_question_answer_level at Transform(xpos=500,ypos=18) zorder 1000
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
     pause
@@ -121,16 +121,16 @@ style shinobu_question_screen_text_item:
 label block_0000388A:
     # Node: 0000388A (Set: 0)
     $ QuestionSet = [
-        { "content": _("森海友经常装在书包里带着走\n的道具是？"), "choice": [{"name":_("3DS"),"target":"block_00003896"},{"name":_("科学计算器"),"target":"block_00003896"},{"name":_("电动按摩器"),"target":"block_00003895"}] },
-        { "content": _("忍的姓氏是？"), "choice": [{"name":_("逆濑"),"target":"block_00003897"},{"name":_("绫濑"),"target":"block_00003895"},{"name":_("绫部"),"target":"block_00003897"}] },
-        { "content": _("赤峰双子的内裤是什么类型的？"), "choice": [{"name":_("传统兜裆布"),"target":"block_00003895"},{"name":_("比基尼"),"target":"block_00003896"},{"name":_("并没穿"),"target":"block_00003897"}] },
-        { "content": _("奥村慎太郎家经营着什么店？"), "choice": [{"name":_("澡堂"),"target":"block_00003895"},{"name":_("基佬酒吧"),"target":"block_00003897"},{"name":_("风俗店"),"target":"block_00003897"}] },
-        { "content": _("《见习魔法师的任务》中\n主人公的名字是？"), "choice": [{"name":_("旭日"),"target":"block_00003896"},{"name":_("夕阳"),"target":"block_00003895"},{"name":_("朔"),"target":"block_00003896"}] },
-        { "content": _("御咲学园的制服内，泳装\n是什么样子的？"), "choice": [{"name":_("四角泳裤"),"target":"block_00003896"},{"name":_("三角泳裤"),"target":"block_00003895"},{"name":_("过膝短裤"),"target":"block_00003896"}] },
-        { "content": _("穗海作哉在校舍内养的狗的\n名字是？"), "choice": [{"name":_("小燕"),"target":"block_00003896"},{"name":_("小翼"),"target":"block_00003895"},{"name":_("小忍"),"target":"block_00003897"}] },
-        { "content": _("猫山三朗在学校里参加了什么\n社团？"), "choice": [{"name":_("SM同好会"),"target":"block_00003897"},{"name":_("篮球部"),"target":"block_00003895"},{"name":_("男公关部"),"target":"block_00003897"}] },
-        { "content": _("一之濑翼的连帽衫是从谁那里\n得到的？"), "choice": [{"name":_("某正太控大叔"),"target":"block_00003896"},{"name":_("森海友"),"target":"block_00003895"},{"name":_("穗海作哉"),"target":"block_00003896"}] },
-        { "content": _("世依木守的恋人是？"), "choice": [{"name":_("夕阳"),"target":"block_00003896"},{"name":_("小熊猫"),"target":"block_00003896"},{"name":_("章鱼章鱼星人"),"target":"block_00003895"}] }
+        { "content": __("Q.1\n森海友经常装在书包里带着走\n的道具是？"), "choice": [{"name":__("3DS"),"target":"block_00003896"},{"name":__("科学计算器"),"target":"block_00003896"},{"name":__("电动按摩器"),"target":"block_00003895"}] },
+        { "content": __("Q.2\n忍的姓氏是？"), "choice": [{"name":__("逆濑"),"target":"block_00003897"},{"name":__("绫濑"),"target":"block_00003895"},{"name":__("绫部"),"target":"block_00003897"}] },
+        { "content": __("Q.3\n赤峰双子的内裤是什么类型的？"), "choice": [{"name":__("传统兜裆布"),"target":"block_00003895"},{"name":__("比基尼"),"target":"block_00003896"},{"name":__("并没穿"),"target":"block_00003897"}] },
+        { "content": __("Q.4\n奥村慎太郎家经营着什么店？"), "choice": [{"name":__("澡堂"),"target":"block_00003895"},{"name":__("基佬酒吧"),"target":"block_00003897"},{"name":__("风俗店"),"target":"block_00003897"}] },
+        { "content": __("Q.5\n《见习魔法师的任务》中\n主人公的名字是？"), "choice": [{"name":__("旭日"),"target":"block_00003896"},{"name":__("夕阳"),"target":"block_00003895"},{"name":__("朔"),"target":"block_00003896"}] },
+        { "content": __("Q.6\n御咲学园的制服内，泳装\n是什么样子的？"), "choice": [{"name":__("四角泳裤"),"target":"block_00003896"},{"name":__("三角泳裤"),"target":"block_00003895"},{"name":__("过膝短裤"),"target":"block_00003896"}] },
+        { "content": __("Q.7\n穗海作哉在校舍内养的狗的\n名字是？"), "choice": [{"name":__("小燕"),"target":"block_00003896"},{"name":__("小翼"),"target":"block_00003895"},{"name":__("小忍"),"target":"block_00003897"}] },
+        { "content": __("Q.8\n猫山三朗在学校里参加了什么\n社团？"), "choice": [{"name":__("SM同好会"),"target":"block_00003897"},{"name":__("篮球部"),"target":"block_00003895"},{"name":__("男公关部"),"target":"block_00003897"}] },
+        { "content": __("Q.9\n一之濑翼的连帽衫是从谁那里\n得到的？"), "choice": [{"name":__("某正太控大叔"),"target":"block_00003896"},{"name":__("森海友"),"target":"block_00003895"},{"name":__("穗海作哉"),"target":"block_00003896"}] },
+        { "content": __("Q.10\n世依木守的恋人是？"), "choice": [{"name":__("夕阳"),"target":"block_00003896"},{"name":__("小熊猫"),"target":"block_00003896"},{"name":__("章鱼章鱼星人"),"target":"block_00003895"}] }
     ]
     $ QuestionLevel = 0
 
@@ -144,16 +144,16 @@ label block_0000388A:
 label block_0000388C:
     # Node: 0000388C (Set: 1)
     $ QuestionSet = [
-        { "content": _("奥村慎太郎家里开的店\n叫什么名字？"), "choice": [{"name":_("宝乃汤"),"target":"block_00003896"},{"name":_("花乃汤"),"target":"block_00003895"},{"name":_("淫乃汤"),"target":"block_00003897"}] },
-        { "content": _("友和忍住在哪里？"), "choice": [{"name":_("御咲市"),"target":"block_00003897"},{"name":_("宝咲"),"target":"block_00003895"},{"name":_("伊丹咲"),"target":"block_00003897"}] },
-        { "content": _("炎之魔法师夕阳最新习得的\n法术名为？"), "choice": [{"name":_("Phantom Fire"),"target":"block_00003895"},{"name":_("Fire Drive"),"target":"block_00003896"},{"name":_("Explosion"),"target":"block_00003896"}] },
-        { "content": _("Wolf's所属的朔的内裤种类是？"), "choice": [{"name":_("传统兜裆布"),"target":"block_00003896"},{"name":_("比基尼"),"target":"block_00003896"},{"name":_("并没有穿"),"target":"block_00003895"}] },
-        { "content": _("赤峰空最萌哥哥月的什么样子？"), "choice": [{"name":_("戴眼镜的样子"),"target":"block_00003895"},{"name":_("穿剑道服时"),"target":"block_00003896"},{"name":_("全裸的样子"),"target":"block_00003897"}] },
-        { "content": _("二班的伊藤是什么社团的经理？"), "choice": [{"name":_("SM同好会"),"target":"block_00003897"},{"name":_("篮球部"),"target":"block_00003896"},{"name":_("田径部"),"target":"block_00003895"}] },
-        { "content": _("猫山三朗的生日是？"), "choice": [{"name":_("一月十一日"),"target":"block_00003896"},{"name":_("二月十四日"),"target":"block_00003896"},{"name":_("二月二十二日"),"target":"block_00003895"}] },
-        { "content": _("猫山三朗的弟弟四朗有一个\n好朋友，他的名字是？"), "choice": [{"name":_("榊幸绪"),"target":"block_00003896"},{"name":_("榊雪绪"),"target":"block_00003895"},{"name":_("榊由纪绪"),"target":"block_00003896"}] },
-        { "content": _("这位老师的名字是？"), "choice": [{"name":_("安西"),"target":"block_00003897"},{"name":_("海"),"target":"block_00003896"},{"name":_("滑子"),"target":"block_00003895"}], "with_image": "rs_image_93EBA4B3E5A54F26BB82EE143EF84A0F" },
-        { "content": _("穗海作哉某次不堪其扰在二班\n后门贴了一张纸，内容为？"), "choice": [{"name":_("御咲风俗店"),"target":"block_00003897"},{"name":_("打开后记得关上"),"target":"block_00003895"},{"name":_("关上后记得打开"),"target":"block_00003896"}] }
+        { "content": __("Q.1\n奥村慎太郎家里开的店\n叫什么名字？"), "choice": [{"name":__("宝乃汤"),"target":"block_00003896"},{"name":__("花乃汤{#quiz}"),"target":"block_00003895"},{"name":__("淫乃汤"),"target":"block_00003897"}] },
+        { "content": __("Q.2\n友和忍住在哪里？"), "choice": [{"name":__("御咲市"),"target":"block_00003897"},{"name":__("宝咲"),"target":"block_00003895"},{"name":__("伊丹咲"),"target":"block_00003897"}] },
+        { "content": __("Q.3\n炎之魔法师夕阳最新习得的\n法术名为？"), "choice": [{"name":__("Phantom Fire"),"target":"block_00003895"},{"name":__("Fire Drive"),"target":"block_00003896"},{"name":__("Explosion"),"target":"block_00003896"}] },
+        { "content": __("Q.4\nWolf's所属的朔的内裤种类是？"), "choice": [{"name":__("传统兜裆布"),"target":"block_00003896"},{"name":__("比基尼"),"target":"block_00003896"},{"name":__("并没有穿"),"target":"block_00003895"}] },
+        { "content": __("Q.5\n赤峰空最萌哥哥月的什么样子？"), "choice": [{"name":__("戴眼镜的样子"),"target":"block_00003895"},{"name":__("穿剑道服时"),"target":"block_00003896"},{"name":__("全裸的样子"),"target":"block_00003897"}] },
+        { "content": __("Q.6\n二班的伊藤是什么社团的经理？"), "choice": [{"name":__("SM同好会"),"target":"block_00003897"},{"name":__("篮球部"),"target":"block_00003896"},{"name":__("田径部"),"target":"block_00003895"}] },
+        { "content": __("Q.7\n猫山三朗的生日是？"), "choice": [{"name":__("一月十一日"),"target":"block_00003896"},{"name":__("二月十四日"),"target":"block_00003896"},{"name":__("二月二十二日"),"target":"block_00003895"}] },
+        { "content": __("Q.8\n猫山三朗的弟弟四朗有一个\n好朋友，他的名字是？"), "choice": [{"name":__("榊幸绪"),"target":"block_00003896"},{"name":__("榊雪绪"),"target":"block_00003895"},{"name":__("榊由纪绪"),"target":"block_00003896"}] },
+        { "content": __("Q.9\n这位老师的名字是？"), "choice": [{"name":__("安西"),"target":"block_00003897"},{"name":__("海"),"target":"block_00003896"},{"name":__("滑子"),"target":"block_00003895"}], "with_image": "rs_image_93EBA4B3E5A54F26BB82EE143EF84A0F" },
+        { "content": __("Q.10\n穗海作哉某次不堪其扰在二班\n后门贴了一张纸，内容为？"), "choice": [{"name":__("御咲风俗店"),"target":"block_00003897"},{"name":__("打开后记得关上"),"target":"block_00003895"},{"name":__("关上后记得打开"),"target":"block_00003896"}] }
     ]
     $ QuestionLevel = 1
 
@@ -167,16 +167,16 @@ label block_0000388C:
 label block_0000388D:
     # Node: 0000388D (Set: 2)
     $ QuestionSet = [
-        { "content": _("“御咲”的日文读法是？"), "choice": [{"name":_("GOSAKI"),"target":"block_00003896"},{"name":_("ONSAKI"),"target":"block_00003896"},{"name":_("MISAKI"),"target":"block_00003895"}] },
-        { "content": _("朔高价买入的这只\n触手的名字是？"), "choice": [{"name":_("梅菲蒙特"),"target":"block_00003896"},{"name":_("艾森蒙特"),"target":"block_00003895"},{"name":_("鹊"),"target":"block_00003897"}], "with_image": "rs_image_50EB6BEE5CC74D72828F89A01D1A8B61" },
-        { "content": _("榊雪绪参加了什么俱乐部？"), "choice": [{"name":_("SM研究俱乐部"),"target":"block_00003897"},{"name":_("远足俱乐部"),"target":"block_00003895"},{"name":_("篮球俱乐部"),"target":"block_00003896"}] },
-        { "content": _("上次一班和二班的游泳比赛\n最后赢的是？"), "choice": [{"name":_("一班"),"target":"block_00003896"},{"name":_("二班"),"target":"block_00003896"},{"name":_("平手"),"target":"block_00003895"}] },
-        { "content": _("一之濑翼的连帽衫多少钱？"), "choice": [{"name":_("950日元"),"target":"block_00003895"},{"name":_("1500日元"),"target":"block_00003896"},{"name":_("10000"),"target":"block_00003896"}] },
-        { "content": _("穗海作哉新年参拜的愿望是？"), "choice": [{"name":_("与一之濑翼和好"),"target":"block_00003896"},{"name":_("干死森海友"),"target":"block_00003896"},{"name":_("希望变成狗"),"target":"block_00003895"}] },
-        { "content": _("奥村慎太郎介绍过的某寿司店\n的独特计价系统是？"), "choice": [{"name":_("闻一闻算给钱"),"target":"block_00003896"},{"name":_("脱衣服算给钱"),"target":"block_00003895"},{"name":_("摸一摸算给钱"),"target":"block_00003896"}] },
-        { "content": _("森海友在电摩坏掉时作为\n替代会找什么？"), "choice": [{"name":_("绫濑忍"),"target":"block_00003926"},{"name":_("公园的滑梯"),"target":"block_00003895"},{"name":_("花乃汤的进水口"),"target":"block_00003896"}] },
-        { "content": _("夕阳和守对什么敌人最不擅长？"), "choice": [{"name":_("火属性"),"target":"block_00003896"},{"name":_("水属性"),"target":"block_00003896"},{"name":_("工口型"),"target":"block_00003895"}] },
-        { "content": _("忍开始练习空手道的理由是？"), "choice": [{"name":_("保护重要的人"),"target":"block_00003895"},{"name":_("受漫画影响"),"target":"block_00003895"},{"name":_("打倒Wolf's"),"target":"block_00003896"}] }
+        { "content": __("Q.1\n“御咲”的日文读法是？"), "choice": [{"name":__("GOSAKI"),"target":"block_00003896"},{"name":__("ONSAKI"),"target":"block_00003896"},{"name":__("MISAKI"),"target":"block_00003895"}] },
+        { "content": __("Q.2\n朔高价买入的这只\n触手的名字是？"), "choice": [{"name":__("梅菲蒙特"),"target":"block_00003896"},{"name":__("艾森蒙特"),"target":"block_00003895"},{"name":__("鹊"),"target":"block_00003897"}], "with_image": "rs_image_50EB6BEE5CC74D72828F89A01D1A8B61" },
+        { "content": __("Q.3\n榊雪绪参加了什么俱乐部？"), "choice": [{"name":__("SM研究俱乐部"),"target":"block_00003897"},{"name":__("远足俱乐部"),"target":"block_00003895"},{"name":__("篮球俱乐部"),"target":"block_00003896"}] },
+        { "content": __("Q.4\n上次一班和二班的游泳比赛\n最后赢的是？"), "choice": [{"name":__("一班"),"target":"block_00003896"},{"name":__("二班"),"target":"block_00003896"},{"name":__("平手"),"target":"block_00003895"}] },
+        { "content": __("Q.5\n一之濑翼的连帽衫多少钱？"), "choice": [{"name":__("950日元"),"target":"block_00003895"},{"name":__("1500日元"),"target":"block_00003896"},{"name":__("10000"),"target":"block_00003896"}] },
+        { "content": __("Q.6\n穗海作哉新年参拜的愿望是？"), "choice": [{"name":__("与一之濑翼和好"),"target":"block_00003896"},{"name":__("干死森海友"),"target":"block_00003896"},{"name":__("希望变成狗"),"target":"block_00003895"}] },
+        { "content": __("Q.7\n奥村慎太郎介绍过的某寿司店\n的独特计价系统是？"), "choice": [{"name":__("闻一闻算给钱"),"target":"block_00003896"},{"name":__("脱衣服算给钱"),"target":"block_00003895"},{"name":__("摸一摸算给钱"),"target":"block_00003896"}] },
+        { "content": __("Q.8\n森海友在电摩坏掉时作为\n替代会找什么？"), "choice": [{"name":__("绫濑忍"),"target":"block_00003926"},{"name":__("公园的滑梯"),"target":"block_00003895"},{"name":__("花乃汤的进水口"),"target":"block_00003896"}] },
+        { "content": __("Q.9\n夕阳和守对什么敌人最不擅长？"), "choice": [{"name":__("火属性"),"target":"block_00003896"},{"name":__("水属性"),"target":"block_00003896"},{"name":__("工口型"),"target":"block_00003895"}] },
+        { "content": __("Q.10\n忍开始练习空手道的理由是？"), "choice": [{"name":__("保护重要的人"),"target":"block_00003895"},{"name":__("受漫画影响"),"target":"block_00003895"},{"name":__("打倒Wolf's"),"target":"block_00003896"}] }
     ]
     
     $ QuestionLevel = 2

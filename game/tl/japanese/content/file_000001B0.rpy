@@ -1828,7 +1828,7 @@ translate japanese block_00000200_d9ed57fb:
 translate japanese block_00000200_001c33ff:
 
     # rs_character_EA9AA88E88D84B559B925363E2931756 "慎重的轻覆嘴唇，不要太用力轻轻咬住，\n掌握好力度的话……"
-    rs_character_EA9AA88E88D84B559B925363E2931756 "丁寧に舐め解し、歯を立てないように咥えて\nそして力まずにかつ大胆に……。"
+    rs_character_EA9AA88E88D84B559B925363E2931756 "丁寧に舐め解し、歯を立てないように咥えて\nそして力まずにかつ大胆に……。\n"
 
 # game/content/file_000001B0.rpy:4652
 translate japanese block_00000200_9ed46737:

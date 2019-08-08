@@ -1,19 +1,19 @@
 init -1:
     image rs_image_505E4D67D9E0480190F94440CC260635 = ParameterizedText(
-        font="font/zcool-happy-ayumi-extended.ttf",
+        #font="font/zcool-happy-ayumi-extended.ttf",
         color="#000000",
-        size=18,
+        size=14,
         line_spacing=3,
         outlines=[(absolute(1), "#FFFFFF", absolute(0), absolute(0))])
     image rs_image_39BDF35F722B4A2FBF52EE3D9BAB608B = ParameterizedText(
-        font="font/zcool-happy-ayumi-extended.ttf",
-        color="#003300",
-        size=30,
-        outlines=[(absolute(1), "#FFFFFF", absolute(0), absolute(0))])
-    image rs_image_FBC78BE31EAE4A92979414FEEEEDE983 = ParameterizedText(
-        font="font/zcool-happy-ayumi-extended.ttf",
+        #font="font/zcool-happy-ayumi-extended.ttf",
         color="#003300",
         size=24,
+        outlines=[(absolute(1), "#FFFFFF", absolute(0), absolute(0))])
+    image rs_image_FBC78BE31EAE4A92979414FEEEEDE983 = ParameterizedText(
+        #font="font/zcool-happy-ayumi-extended.ttf",
+        color="#003300",
+        size=20,
         outlines=[(absolute(1), "#FFFFFF", absolute(0), absolute(0))])
     image rs_image_29E65B9F2B294317A6C20C0C2C26C0DE = ParameterizedText(
         font="font/source-hans-sans-medium.ttc",
