@@ -4,7 +4,7 @@
 translate japanese block_00003902_049e666d:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『本故事包含大量的那种剧情\n和见光死的梗（无车），\n请注意莫要翻车。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『本イベントでは、生々しい下ネタや、\n下品な表現が多数含まれております。\nご注意してください。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『本イベントでは、生々しい下ネタや、\n下品な表現が多数含まれております。\nご注意下さい。』{/color}"
 
 # game/content/file_000038FF.rpy:79
 translate japanese block_00003902_c9eb2381:
@@ -1024,7 +1024,7 @@ translate japanese block_00003902_89360eed:
 translate japanese block_00003902_191a2463:
 
     # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "{color=#FF80C0}哈啊、啊啊啊！！{/color}\n"
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "{color=#FF80C0}はぁッ、あぁあああッ！！\n"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "{color=#FF80C0}はぁッ、あぁあああッ！！{/color}\n"
 
 # game/content/file_000038FF.rpy:1747
 translate japanese block_00003902_e7167b0c:

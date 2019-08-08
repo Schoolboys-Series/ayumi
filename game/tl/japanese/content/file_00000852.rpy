@@ -178,7 +178,7 @@ translate japanese block_0000242A_4cf04060:
 translate japanese block_00002A6D_a11039a9:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『事件{/color}{color=#AA0055}“寻求刺激・解”{/color}{color=#0080FF}成功结束。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ストーリーモード{/color}{color=#AA0055}“刺激を求めて・解”{/color}{color=#0080FF}をクリアしました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ストーリーモード{/color}\n{color=#AA0055}“刺激を求めて・解”{/color}{color=#0080FF}をクリアしました。』{/color}"
 
 # game/content/file_00000852.rpy:647
 translate japanese block_00003924_65c1a67b:
