@@ -184,7 +184,7 @@ translate japanese block_00002A6D_a11039a9:
 translate japanese block_00003924_65c1a67b:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "呼呼，赶快去书店~"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "『商店街の中にある\n本屋さんへ向かいましょう。』"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "『早く本屋に行かなきゃ！』"
 
 # game/content/file_00000852.rpy:666
 translate japanese block_000024D0_989d596c:
