@@ -5073,11 +5073,11 @@ translate japanese strings:
 
     # content\file_000001B0.rpy:1147
     old "没问题"
-    new "問題ない"
+    new "帰る"
 
     # content\file_000001B0.rpy:1147
     old "还有其他事情没做完"
-    new "他のやる事もある"
+    new "まだ帰らない"
 
     # content\file_000001B0.rpy:1472
     old "食堂"
@@ -5145,11 +5145,11 @@ translate japanese strings:
 
     # content\file_000001B0.rpy:8176
     old "……忍不住了"
-    new "……も我慢できない"
+    new "致す！"
 
     # content\file_000001B0.rpy:8176
     old "这不合适这不合适"
-    new "までまでまで"
+    new "我慢する"
 
     # content\file_000001B0.rpy:8879
     old "看"

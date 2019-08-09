@@ -1600,7 +1600,7 @@ translate japanese block_00003911_9f8126d0:
 translate japanese block_00003911_c8b9ee23:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#800080}flower 这很麻烦啊(´；ω；｀){/color}{w}\n{color=#F9CE1D}YUU 能听我说真是太好了，轻松了一点……{/color}{w}\n{color=#800080}flower 没事没事～\n我也是有点担心的呐～最近总觉得你有些沮丧。\n不过说起来真是些不知轻重的人（｀Δ´）\n简直不敢相信！{/color}{w}\n{color=#F9CE1D}YUU 谢谢(>_<)\n不过，作为我唯一的同伴的那个孩子\n说了“不改变不行”这样的话……{/color}{w}\n{color=#800080}flower 不改变不行……嗯嗯，\n确实是呐。我也是，你也是，\n也许必须要做点什么才好。{/color}{w}\n{color=#F9CE1D}YUU 可就算这么说(>_<){/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#800080}flower＞なるほど(´；ω；｀)\nそいつぁつらいなぁあああ(´；ω；｀){/color}{w}\n{color=#F9CE1D}YUU＞聞いてくれてアリガト。ちょっとスッキリした。。。{/color}{w}\n{color=#800080}flower＞いえいえ～。\nボクもちょっと心配してたんだよね～最近元気ないな～って。\nそれにしてもヒドイ連中だなぁ（｀Δ´）\n本当信じられないや！{/color}{w}\n{color=#F9CE1D}YUU＞アリガトアリガト(>_<)\nそれでね、唯一オレの味方をしてくれる子がいるんだけど、\nその子が言うには、変わらないとダメ、\nみたいなことを言ってたんだよね。。。{/color}{w}\n{color=#800080}flower＞変わらないとダメかぁ……フムフム。\nたしかに、そうかも。ボクも、キミも。\n何か行動に移すべきなのかもしれないね。{/color}{w}\n{color=#F9CE1D}YUU＞と言われてもなぁ(>_<){/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#800080}flower＞なるほど(´；ω；｀)\nそいつぁつらいなぁあああ(´；ω；｀){/color}{w}\n{color=#F9CE1D}YUU＞聞いてくれてアリガト。ちょっとスッキリした。。。{/color}{w}\n{color=#800080}flower＞いえいえ～。ボクもちょっと心配してたんだよね～\n最近元気ないな～って。それにしてもヒドイ連中だなぁ（｀Δ´）\n本当信じられないや！{/color}{w}\n{color=#F9CE1D}YUU＞アリガトアリガト(>_<)それでね、唯一オレの味方を\nしてくれる子がいるんだけど、その子が言うには、\n変わらないとダメ、みたいなことを言ってたんだよね。。。{/color}{w}\n{color=#800080}flower＞変わらないとダメかぁ……フムフム。\nたしかに、そうかも。ボクも、キミも。\n何か行動に移すべきなのかもしれないね。{/color}{w}\n{color=#F9CE1D}YUU＞と言われてもなぁ(>_<){/color}"
 
 # game/content/file_0000390D.rpy:2369
 translate japanese block_00003911_7605b329:

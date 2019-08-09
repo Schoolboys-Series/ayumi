@@ -232,7 +232,7 @@ translate japanese block_00001B7E_48a05950:
 translate japanese block_00002A6E_97261b7f:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『事件{/color}{color=#3A00C4}“久远回忆”{/color}{color=#0080FF}成功结束。{/color}\n{color=#0080FF}辛苦了。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ストーリーモード{/color}{color=#3A00C4}“過去編”{/color}{color=#0080FF}をクリアしました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ストーリーモード{/color}\n{color=#3A00C4}“過去編”{/color}{color=#0080FF}をクリアしました。』{/color}"
 
 # game/content/file_00000852.rpy:1635
 translate japanese block_00002429_f59f275d:
