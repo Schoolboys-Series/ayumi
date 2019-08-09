@@ -279,7 +279,7 @@ screen scb_global_map_screen(time, character, place, allow_change_time, allow_br
         $ place_list = global_map_places_school_inside
     elif place == 'school_outside':
         $ place_list = global_map_places_school_outside
-        if "C0SShinobuState" in globals():
+        if "C0SShinobuState" in globals() or C1S4Phase == 99:
             $ place_list = place_list[0:-1]
     elif place == 'misaki':
         $ place_list = global_map_places_misaki

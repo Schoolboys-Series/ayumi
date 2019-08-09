@@ -724,7 +724,7 @@ translate japanese block_0000278F_dd44d732:
 translate japanese block_00002794_7091d7b0:
 
     # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "STAY，小翼。{w}\n狗不能进入车站，前面不能走了。"
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "ＳＴＡＹ,ツバサ。これ以上進んじゃダメだぞ。{w}\n駅の中へはワンちゃんは入れないんだ。"
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "ＳＴＡＹ、ツバサ。これ以上進んじゃダメだぞ。{w}\n駅の中へはワンちゃんは入れないんだ。"
 
 # game/content/file_00001C51.rpy:2097
 translate japanese block_00002794_a6958640:

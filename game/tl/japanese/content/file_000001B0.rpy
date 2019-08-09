@@ -4505,7 +4505,7 @@ translate japanese block_000002C3_8a15f9e9:
 translate japanese block_000036F8_701889a6:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『事件{/color}{color=#008A45}“不可思议！猫狗物语”{/color}{color=#0080FF}成功结束。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ストーリーモード{/color}{color=#008A45}“ふしぎ！ワンニャン物語”{/color}{color=#0080FF}をクリアしました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ストーリーモード{/color}\n{color=#008A45}“ふしぎ！ワンニャン物語”{/color}{color=#0080FF}をクリアしました。』{/color}"
 
 # game/content/file_000001B0.rpy:12045
 translate japanese block_000001FF_f915fdfe:

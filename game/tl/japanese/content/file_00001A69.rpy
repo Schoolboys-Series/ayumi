@@ -328,7 +328,7 @@ translate japanese block_00002FF8_4cd9aa68:
 translate japanese block_00002FF8_23da205f:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "啊……不过，周三会有特别的客人来，那一天就算了。\n{w=0.4}{nw}"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 "ああ……ただ、水曜日は特別な客が来るから、遠慮しなさい。\n{w=0.4}{nw}"
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "ああ……ただ、水曜日は特別な客が来るから、\n遠慮しなさい。\n{w=0.4}{nw}"
 
 # game/content/file_00001A69.rpy:1356
 translate japanese block_00002FF8_f9ecb5d7:

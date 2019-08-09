@@ -1804,7 +1804,7 @@ translate japanese block_00003AF8_5c0e00fc:
 translate japanese block_00003AF8_fe1dbff3:
 
     # rs_character_3B4C660F421B4BE392BB540B580F0339 "翼前辈，从来公园开始精神年龄便急速下跌了……{w}\n真有这么高兴……"
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "つばささん、公園からどんどん精神年齢が下がってる気が……。{w\nそんなに楽しいんですかね……。"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "つばささん、公園からどんどん精神年齢が下がってる気が……。{w}\nそんなに楽しいんですかね……。"
 
 # game/content/file_000036FA.rpy:2776
 translate japanese block_00003AF8_58597df7:
@@ -2242,7 +2242,7 @@ translate japanese block_00003AF8_f18e8dc8:
 translate japanese block_00003AF8_cdb52a6b:
 
     # rs_character_3B4C660F421B4BE392BB540B580F0339 "等、等等。{w}阻止别人还挺难的。"
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "ちょ、ちょっと待ってください。{E}\n他人のボタン留めるのって案外難しいんだから。"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "ちょ、ちょっと待ってください。{w}\n他人のボタン留めるのって案外難しいんだから。"
 
 # game/content/file_000036FA.rpy:3393
 translate japanese block_00003AF8_1cd3b91c:
@@ -2266,7 +2266,7 @@ translate japanese block_00003AF8_bbf43c3f:
 translate japanese block_00003AF8_e754f00f:
 
     # rs_character_87ED686ED78C4AB6909895FBBBE8A60B "太好了！小林——！南——！！{nw}"
-    rs_character_87ED686ED78C4AB6909895FBBBE8A60B "やったー！\nコバヤシー！ミナミー！！{NW}"
+    rs_character_87ED686ED78C4AB6909895FBBBE8A60B "やったー！\nコバヤシー！ミナミー！！{nw}"
 
 # game/content/file_000036FA.rpy:3416
 translate japanese block_00003AF8_e1f385a7_3:

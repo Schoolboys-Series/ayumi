@@ -314,7 +314,7 @@ label block_00000F6D:
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
     rs_character_3B4C660F421B4BE392BB540B580F0339 "欸……？{w=0.45}啊，哦！是{color=#008080}那个时候{/color}的！{nw}"
-    if sys_music2_current_file != "sound/Effect Sound/Decision 1.ogg":
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
         play music2 "sound/Effect Sound/Decision 1.ogg" noloop
         $ sys_music2_current_file = "sound/Effect Sound/Decision 1.ogg"
 

@@ -70,7 +70,7 @@ translate japanese block_00000801_dea9146c:
 translate japanese block_00000801_287d053b:
 
     # rs_character_3B4C660F421B4BE392BB540B580F0339 "{size=32}噫呀啊啊啊啊！有、有狗！？{/size}\n"
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "{size=32}ギャアアアア！い、犬ぅううう！？{/size}\\n"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "{size=32}ギャアアアア！い、犬ぅううう！？{/size}\n"
 
 # game/content/file_000002C5.rpy:276
 translate japanese block_00000801_6596361b:
@@ -136,7 +136,7 @@ translate japanese block_0000082E_4cd9aa68:
 translate japanese block_0000082E_23da205f:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "啊……不过，周三会有特别的客人来，那一天就算了。\n{w=0.4}{nw}"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 "ああ……ただ、水曜日は特別な客が来るから、遠慮しなさい。\n{w=0.4}{nw}"
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "ああ……ただ、水曜日は特別な客が来るから、\n遠慮しなさい。\n{w=0.4}{nw}"
 
 # game/content/file_000002C5.rpy:566
 translate japanese block_0000082E_f9ecb5d7:
@@ -154,7 +154,7 @@ translate japanese block_0000080D_5df12ff7:
 translate japanese block_000008B1_7091d7b0:
 
     # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "STAY，小翼。{w}\n狗不能进入车站，前面不能走了。"
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "ＳＴＡＹ,ツバサ。これ以上進んじゃダメだぞ。{w}\n駅の中へはワンちゃんは入れないんだ。"
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "ＳＴＡＹ、ツバサ。これ以上進んじゃダメだぞ。{w}\n駅の中へはワンちゃんは入れないんだ。"
 
 # game/content/file_000002C5.rpy:746
 translate japanese block_000008B1_a6958640:
