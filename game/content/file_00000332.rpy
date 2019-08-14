@@ -207,21 +207,24 @@ label block_00003933:
 
     call celemony([
         {"x": 52, "y": 10, "id": 0, "image": "images/Celemony/Event/Running.png"},
-        {"x": 237, "y": 10, "id": 3, "image": "images/Celemony/Event/Ball shooting.png"},
+        {"x": 237, "y": 10, "id": 1, "image": "images/Celemony/Event/Riding battle.png"},
         {"x": 422, "y": 10, "id": 2, "image": "images/Celemony/Event/Race walking.png"},
-        {"x": 607, "y": 10, "id": 0, "image": "images/Celemony/Event/Running.png"},
-        {"x": 52, "y": 97, "id": 3, "image": "images/Celemony/Event/Ball shooting.png"},
+        {"x": 607, "y": 10, "id": 3, "image": "images/Celemony/Event/Ball shooting.png"},
+
+        {"x": 52, "y": 97, "id": 0, "image": "images/Celemony/Event/Running.png"},
         {"x": 237, "y": 97, "id": 1, "image": "images/Celemony/Event/Riding battle.png"},
-        {"x": 422, "y": 97, "id": 3, "image": "images/Celemony/Event/Ball shooting.png"},
-        {"x": 607, "y": 97, "id": 2, "image": "images/Celemony/Event/Race walking.png"},
-        {"x": 52, "y": 184, "id": 1, "image": "images/Celemony/Event/Riding battle.png"},
-        {"x": 237, "y": 184, "id": 0, "image": "images/Celemony/Event/Running.png"},
-        {"x": 422, "y": 184, "id": 3, "image": "images/Celemony/Event/Ball shooting.png"},
-        {"x": 607, "y": 184, "id": 1, "image": "images/Celemony/Event/Riding battle.png"},
-        {"x": 52, "y": 271, "id": 2, "image": "images/Celemony/Event/Race walking.png"},
+        {"x": 422, "y": 97, "id": 2, "image": "images/Celemony/Event/Race walking.png"},
+        {"x": 607, "y": 97, "id": 3, "image": "images/Celemony/Event/Ball shooting.png"},
+
+        {"x": 52, "y": 184, "id": 0, "image": "images/Celemony/Event/Running.png"},
+        {"x": 237, "y": 184, "id": 1, "image": "images/Celemony/Event/Riding battle.png"},
+        {"x": 422, "y": 184, "id": 2, "image": "images/Celemony/Event/Race walking.png"},
+        {"x": 607, "y": 184, "id": 3, "image": "images/Celemony/Event/Ball shooting.png"},
+
+        {"x": 52, "y": 271, "id": 0, "image": "images/Celemony/Event/Running.png"},
         {"x": 237, "y": 271, "id": 1, "image": "images/Celemony/Event/Riding battle.png"},
         {"x": 422, "y": 271, "id": 2, "image": "images/Celemony/Event/Race walking.png"},
-        {"x": 607, "y": 271, "id": 0, "image": "images/Celemony/Event/Running.png"},
+        {"x": 607, "y": 271, "id": 3, "image": "images/Celemony/Event/Ball shooting.png"}
     ], {
         "base": {
             "Itou": [1, -2,  1,  1],
@@ -538,7 +541,7 @@ label block_000024F1:
 
     window hide
 
-    $ set_place_title(_("二年一班教室"))
+    $ set_place_title(_("二年二班教室"))
 
     jump block_000007E1
 
@@ -570,7 +573,7 @@ label block_000024F0:
 
     window hide
 
-    $ set_place_title(_("二年一班教室"))
+    $ set_place_title(_("二年二班教室"))
 
     jump block_000007E1
 
@@ -598,7 +601,7 @@ label block_000024EF:
 
     window hide
 
-    $ set_place_title(_("二年一班教室"))
+    $ set_place_title(_("二年二班教室"))
 
     jump block_000007E1
 
@@ -626,7 +629,7 @@ label block_000024EE:
 
     window hide
 
-    $ set_place_title(_("二年一班教室"))
+    $ set_place_title(_("二年二班教室"))
 
     jump block_000007E1
 
@@ -658,7 +661,7 @@ label block_000024ED:
 
     window hide
 
-    $ set_place_title(_("二年一班教室"))
+    $ set_place_title(_("二年二班教室"))
 
     jump block_000007E1
 
@@ -690,7 +693,7 @@ label block_000024EC:
 
     window hide
 
-    $ set_place_title(_("二年一班教室"))
+    $ set_place_title(_("二年二班教室"))
 
     jump block_000007E1
 
@@ -718,7 +721,7 @@ label block_000024EB:
 
     window hide
 
-    $ set_place_title(_("二年一班教室"))
+    $ set_place_title(_("二年二班教室"))
 
     jump block_000007E1
 

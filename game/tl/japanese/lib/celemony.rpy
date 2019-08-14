@@ -14,11 +14,11 @@ translate japanese strings:
 
     # lib\celemony.rpy:151
     old "慎酱的比赛日志"
-    new "慎ちゃんの試合日誌"
+    new "慎ちゃんからの結果報告"
 
     # lib\celemony.rpy:167
     old "一切照常进行"
-    new "すべてはいつも通り"
+    new "イベントなし"
 
     # lib\celemony.rpy:172
     old "结果：%d分（%s）"

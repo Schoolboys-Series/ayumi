@@ -5069,15 +5069,15 @@ translate japanese strings:
 
     # content\file_000001B0.rpy:1061
     old "再等一会"
-    new "もちょっとだけ"
+    new "もうちょっとだけ"
 
     # content\file_000001B0.rpy:1147
     old "没问题"
-    new "帰る"
+    new "はい"
 
     # content\file_000001B0.rpy:1147
     old "还有其他事情没做完"
-    new "まだ帰らない"
+    new "いいえ"
 
     # content\file_000001B0.rpy:1472
     old "食堂"

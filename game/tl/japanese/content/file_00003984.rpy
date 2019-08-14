@@ -593,5 +593,5 @@ translate japanese strings:
 
     # content\file_00003984.rpy:1159
     old "{font=font/zcool-happy-ayumi-extended.ttf}第一章 完成{/font}"
-    new "{font=font/honyaji-re.ttf}Chapter1 END{/font}"
+    new "{font=font/honyaji-re.ttf}CHAPTER1 END{/font}"
 
