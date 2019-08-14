@@ -13,7 +13,7 @@ translate japanese strings:
     # lib\ayumi_global_map.rpy:1
     old "不不不，手滑了"
     new "いいえ"
-
+    
     # lib\ayumi_global_map.rpy:15
     old "CHAPTER 1 第一章"
     new "CHAPTER 1"
@@ -81,4 +81,12 @@ translate japanese strings:
     # lib\ayumi_global_map.rpy:356
     old "泳池"
     new "プール"
+
+# TODO: Translation updated at 2019-08-15 05:00
+
+translate japanese strings:
+
+    # game/lib/ayumi_global_map.rpy:15
+    old "CHAPTER 0 序章"
+    new "PROLOGUE"
 

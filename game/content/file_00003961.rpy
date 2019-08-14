@@ -363,27 +363,30 @@ label block_00003965:
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
 
-    $ set_place_title(_("图书馆"))
-    pause 1
-
-    if True: # Hotfix: Ignore multiplay defenser for effect sound
-        play effect "sound/Effect Sound/Look! 1.ogg" noloop
-        $ sys_effect_current_file = "sound/Effect Sound/Look! 1.ogg"
-
-    hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     $ zorder_tag_507130D7BD574651B179D6DEF2CE814D = 400
     $ zorder_tag_ECFB5B509A334A868686B3435242BF90 = 300
     $ zorder_tag_26CE4420E4BF43ADBA4E35F2A9784E98 = 300
     show rs_image_EE31CA18510041B0B14F3F78B918C22F as tag_507130D7BD574651B179D6DEF2CE814D at center_bottom zorder zorder_tag_507130D7BD574651B179D6DEF2CE814D onlayer master
     show rs_image_7131112E86B24D6A9BE667868088D590 as tag_ECFB5B509A334A868686B3435242BF90 at center_bottom zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     show rs_image_107F1D49D8E64904B63165A87DBFC26D as tag_26CE4420E4BF43ADBA4E35F2A9784E98 at center_bottom zorder zorder_tag_26CE4420E4BF43ADBA4E35F2A9784E98 onlayer master
+    with rs_effect_3CD1D1BAAA614EC5B716922FC26E97B9
+
+    pause 1.5
+
+    if True: # Hotfix: Ignore multiplay defenser for effect sound
+        play effect "sound/Effect Sound/Look! 1.ogg" noloop
+        $ sys_effect_current_file = "sound/Effect Sound/Look! 1.ogg"
+
+
     show rs_image_DFF2A9F38FC64BFD8997DE5E33FE4870 as tag_507130D7BD574651B179D6DEF2CE814D zorder zorder_tag_507130D7BD574651B179D6DEF2CE814D onlayer master
     with rs_effect_9B79BC7F460B4E06BA4FDB458B5423C1
 
     pause 2
-
+    
+    $ set_place_title(_("图书馆"))
     $ set_window("(標準)")
     hide tag_507130D7BD574651B179D6DEF2CE814D
+    hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     with rs_effect_E105874A5CD740D285F7ACB5031E97EB
 
     pause 0.6

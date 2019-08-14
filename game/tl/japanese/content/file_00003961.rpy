@@ -52,7 +52,7 @@ translate japanese block_00003965_253a5e15:
 translate japanese block_00003965_193c682c:
 
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "啊——？我说了，是你没听到。"
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B ""
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "はー？言ったし。聞いてない友が悪いんでしょ。"
 
 # game/content/file_00003961.rpy:204
 translate japanese block_00003965_f36c8847:
@@ -148,7 +148,7 @@ translate japanese block_00003968_dfdb2b56:
 translate japanese block_00003968_407a87f0:
 
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "你又……"
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "キミはいくつだ……。"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "キミはいくつだ……。\n"
 
 # game/content/file_00003961.rpy:463
 translate japanese block_00003968_46b2ed98:

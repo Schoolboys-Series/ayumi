@@ -11,6 +11,10 @@ label scb_global_map(time, character, place, allow_change_time, allow_break, all
     elif time == 'night':
         show expression "images/Moving/Weather/Night.png" at global_map_weather_night as global_map_weather
     # Show title and place string
+    if Chapter == 0:
+        show global_map_title_0 (_("CHAPTER 0 序章")) at global_map_fade as global_map_title
+        if place == 'school_outside':
+            show global_map_place_0 (_("御咲学园外")) at global_map_fade as global_map_place
     if Chapter == 1:
         show global_map_title_1 (_("CHAPTER 1 第一章")) at global_map_fade as global_map_title
         if place == 'school_inside':
@@ -97,6 +101,29 @@ label scb_global_map(time, character, place, allow_change_time, allow_break, all
     $ _lm_selected_value = _return
     return _return
 
+image global_map_title_0 = ParameterizedText(
+    size=16,
+    color="#FFFFFF",
+    font="font/source-hans-sans-heavy.ttc",
+    pos=(131, 5),
+    outlines=[
+        (absolute(3), "#FFD70000", absolute(0), absolute(0)),
+        (absolute(2), "#FFD70088", absolute(0), absolute(0)),
+        (absolute(1), "#FFD700FF", absolute(0), absolute(0))
+    ]
+)
+image global_map_place_0 = ParameterizedText(
+    size=16,
+    color="#FFFFFF",
+    font="font/source-hans-sans-heavy.ttc",
+    xanchor=1.0,
+    pos=(665, 5),
+    outlines=[
+        (absolute(3), "#FFD70000", absolute(0), absolute(0)),
+        (absolute(2), "#FFD70088", absolute(0), absolute(0)),
+        (absolute(1), "#FFD700FF", absolute(0), absolute(0))
+    ]
+)
 image global_map_title_1 = ParameterizedText(
     size=16,
     color="#FFFFFF",
@@ -279,7 +306,7 @@ screen scb_global_map_screen(time, character, place, allow_change_time, allow_br
         $ place_list = global_map_places_school_inside
     elif place == 'school_outside':
         $ place_list = global_map_places_school_outside
-        if "C0SShinobuState" in globals() or C1S4Phase == 99:
+        if "C0SShinobuState" in globals() or ("C1S4Phase" in globals() and C1S4Phase == 99):
             $ place_list = place_list[0:-1]
     elif place == 'misaki':
         $ place_list = global_map_places_misaki
@@ -364,6 +391,8 @@ define global_map_place_dream = [
     { "name": "プールゾーン", "title": _("泳池"), "image": "images/Dream/Moving/Places/Swimming pool.png" }
 ]
 
+image global_map_character_moving_lunchtime_tomo_0 = "images/Chapter 1/Moving/Tomo/Daytime.png"
+image global_map_character_moving_lunchtime_tomo_shinobu_0 = "images/Chapter 1/Moving/Tomo+Shinobu/Daytime.png"
 image global_map_character_moving_lunchtime_sakuya_tsubasachan_1 = "images/Chapter 1/Moving/Sakuya+Tsubasa-chan/Daytime.png"
 image global_map_character_moving_lunchtime_shiro_tsubasachan_1 = "images/Chapter 1/Moving/Shiro+Tsubasa-chan/Daytime.png"
 image global_map_character_moving_lunchtime_shiro_yukio_1 = "images/Chapter 1/Moving/Shiro+Yukio/Daytime.png"

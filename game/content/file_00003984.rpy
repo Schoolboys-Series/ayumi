@@ -46,8 +46,8 @@ label block_00003985:
     return
 
 label block_00003992:
-    # Node: 00003992 (Chapter: 1)
-    $ Chapter = 1
+    # Node: 00003992 (Chapter: Prologue)
+    $ Chapter = 0
 
     if judge_lm_condition([]):
         jump block_00003986
@@ -64,6 +64,7 @@ label block_00003986:
     return
 
 label block_00003987:
+    # (Chapter: 1)
     # Node: 00003987 (Daytime)
     call block_000001B1 from _call_block_000001B1
 
