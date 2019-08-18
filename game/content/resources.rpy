@@ -5591,8 +5591,8 @@ init -1:
     image rs_image_B6EFB6A87E574EEE8DB2F23EC55F4A12 = "images/Games/Karuta-game-from-Kobayashi/Finish.png"
     image rs_image_601DB506811341439D5AD034B152D4B1 = "images/Games/Karuta-game-from-Kobayashi/Wrong.png"
     image rs_image_421E8D85A1FB47B2B600FA24FDF1ED74 = "images/Games/Karuta-game-from-Kobayashi/Cover.png"
-    image rs_image_345982F54C7E4D819B8EFD9BB1463E34 = "images/Games/Karuta-game-from-Kobayashi/Placeholder.png"
-    image rs_image_345982F54C7E4D819B8EFD9BB1463E34 = "images/Games/Karuta-game-from-Kobayashi/Placeholder hover.png"
+    image rs_image_345982F54C7E4D819B8EFD9BB1463E35 = "images/Games/Karuta-game-from-Kobayashi/Placeholder.png"
+    image rs_image_345982F54C7E4D819B8EFD9BB1463E36 = "images/Games/Karuta-game-from-Kobayashi/Placeholder hover.png"
     define rs_effect_EF2A46F3AC1640F184034E18DCB12407 = ImageDissolve("lib/lmeffect/grid.png", 0.9, reverse=False)
     define rs_effect_8AA612D407D74E07909834B8E9243893 = OldMoveTransition(0.5, enter_factory=ZoomInOut(0.01, 1.0), leave_factory=ZoomInOut(1.0, 0.01))
     image rs_image_D5EEA08F613D4581B90B56569FE7A25D = "images/Chapter 3/Photos/Shinobu/Trance/Trance 1.png"

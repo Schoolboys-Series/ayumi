@@ -1132,7 +1132,7 @@ translate japanese block_0000250F_c6c975f4:
 translate japanese block_0000250F_ce22ec87:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "没关系！我发誓要是真的不小心，\n这辈子都娶……\n{w=0.6}{nw}"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "大丈夫！オレ、新聞を踏まずに部室を出たら、結婚……{w=0.6}{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "大丈夫！オレ、新聞を踏まずに部室を出たら、結婚……{w=0.6}{nw}\n"
 
 # game/content/file_000008C8.rpy:4925
 translate japanese block_0000250F_e3d9a0bf:
@@ -1222,7 +1222,7 @@ translate japanese block_0000250F_8b91f1df:
 translate japanese block_0000250F_02700427:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "为了弥补毁掉原稿的错误，{w}\n接下来你必须帮助我们，帮助新闻部收集情报。"
-    rs_character_53FF68C192E3494AB005C1909579AFFB "あなたには、原稿を台無しにした責任を取っていただきます。{w}具体的には、新聞部の情報収集に協力し、挽回してください。"
+    rs_character_53FF68C192E3494AB005C1909579AFFB "あなたには、原稿を台無しにした責任を取っていただきます。{w}\n具体的には、新聞部の情報収集に協力し、挽回してください。"
 
 # game/content/file_000008C8.rpy:5077
 translate japanese block_0000250F_553e08ee:
@@ -1242,23 +1242,24 @@ translate japanese block_0000250F_ee2b6fac:
     # rs_character_53FF68C192E3494AB005C1909579AFFB "嗯，很好。"
     rs_character_53FF68C192E3494AB005C1909579AFFB "ふふ、よいお返事です。"
 
-# game/content/file_000008C8.rpy:5166
-translate japanese block_00002517_3e26d75e:
+# game/content/file_000008C8.rpy:5164
+translate japanese block_00002517_5df7e2f9:
 
-    # rs_character_53FF68C192E3494AB005C1909579AFFB "森海同学，请处理一下这个。{w}\n内容是验证“厕所的花子君”的真伪。"
-    rs_character_53FF68C192E3494AB005C1909579AFFB "森海さん、出動を願います。{w}\n内容は『トイレの花子くん』の検証です。"
+    # rs_character_53FF68C192E3494AB005C1909579AFFB "森海同学，请处理一下这个。{w}\n内容是验证{color=#3A00C4}“厕所的花子君”{/color}的真伪。"
+    rs_character_53FF68C192E3494AB005C1909579AFFB "森海さん、出動を願います。{w}\n内容は{color=#3A00C4}『トイレの花子くん』{/color}の検証です。"
 
 # game/content/file_000008C8.rpy:5171
 translate japanese block_00002517_753b8ea1:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "据说，在厕所的单间连续三次说\n“花子君快来”就会出现……\n至少这是主流说法。"
-    rs_character_53FF68C192E3494AB005C1909579AFFB "『花子くんもおいで』と３回唱えると\n現れる……という説が主流です。"
+    rs_character_53FF68C192E3494AB005C1909579AFFB "噂ではトイレの個室にて、\n『花子くんもおいで』と３回唱えると現れる......\nという説が主流です。"
 
 # game/content/file_000008C8.rpy:5184
 translate japanese block_00002517_c45cbe04:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#3A00C4}“花子小姐”是很有名的学校怪谈，\n但是，御咲学园却出现了“花子君”的传说。\n这似乎已经发生过多次，请一定探明真相！{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#3A00C4}花子さんだが、\n御咲学園のトイレには花子くんが棲み憑いているという噂が\n出回っている。この噂は作り話か真実か、検証せよ！{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#3A00C4}学校のトイレに出るおばけで有名な『花子さん』だが、\n御咲学園のトイレには『花子くん』が\n棲み憑いているという噂が出回っている。{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#3A00C4}この噂は作り話か真実か、検証せよ！{/color}"
 
 # game/content/file_000008C8.rpy:5216
 translate japanese block_00002516_545bff5f:
@@ -3106,7 +3107,7 @@ translate japanese block_00002544_7594b16c:
 translate japanese block_00002523_862a8877:
 
     # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "马上就是期中考试了，{w}\n友君觉得能考多少？"
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "……な、なんでもない！{w}\n友くん、お勉強の方は\nいかがですか？"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "もうすぐ中間テストが控えてますね。{w}\n友くん、お勉強の方は\nいかがですか？"
 
 # game/content/file_000008C8.rpy:9917
 translate japanese block_00002523_c1ffdd0e:
@@ -3142,7 +3143,7 @@ translate japanese block_00002523_0fa22427:
 translate japanese block_00002523_c0a26853:
 
     # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "就是{color=#008080}在我家学习，但结果考试范围完全不对，\n最后分数很低{/color}的那件事。{nw}"
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "ほら、{color=#008080}僕の家で一緒にテスト勉強したとき\nテスト範囲を誤った認識をしていて\n当日に大目玉を食らった{/color}じゃないですか。{nw}"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "ほら、{color=#008080}僕の家で一緒にテスト勉強したとき\nテスト範囲を誤った認識でしていて\n当日に大目玉を食らった{/color}じゃないですか。{nw}"
 
 # game/content/file_000008C8.rpy:9952
 translate japanese block_00002523_e1f385a7:
@@ -3382,13 +3383,13 @@ translate japanese block_0000091A_0e2ac742:
 translate japanese block_000008E9_051f69dc:
 
     # rs_character_8D9249CA1389416BAF6A122851E276D0 "我以前从没去过卡拉OK，\n上次被松田君和加藤君拉去了。"
-    rs_character_8D9249CA1389416BAF6A122851E276D0 "今度、部員の奴に曲名聞いてCD買ってみようか。\nでも、吹奏楽のCDなんて\nTSURUYAに置いてあんのか……？"
+    rs_character_8D9249CA1389416BAF6A122851E276D0 "僕、今までカラオケ行ったことなくて、\nこの前松田くんと加藤くんに\n初めて連れて行ってもらったんだけど。"
 
 # game/content/file_000008C8.rpy:10530
 translate japanese block_000008E9_ce437162:
 
     # rs_character_8D9249CA1389416BAF6A122851E276D0 "感觉还不错。能发散压力，心情也很好♪\n"
-    rs_character_8D9249CA1389416BAF6A122851E276D0 "すごく良かった。ストレス発散にもなったし、\n楽しかったな♪\n"
+    rs_character_8D9249CA1389416BAF6A122851E276D0 "すごく良かった。ストレス発散にもなったし、\n楽しかったな♪"
 
 # game/content/file_000008C8.rpy:10534
 translate japanese block_000008E9_bc697f23:
@@ -3448,7 +3449,7 @@ translate japanese block_00000905_6c75581b:
 translate japanese block_00000905_c8c0320c:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "啊——！{color=#008080}我也有过{/color}！超难堪呐。\n那个车站在山里，下车后就有种\n“这是什么地方，我是谁！？”的感觉。{nw}"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "あー！オレも{color=#008080}あるある{/color}『此処は何処、私は誰！？』感がヤバイ。{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "あー！オレも{color=#008080}あるある{/color}！超焦るよね。\nしかもあの駅って山の中だから、\n『此処は何処、私は誰！？』感がヤバイ。{nw}"
 
 # game/content/file_000008C8.rpy:10638
 translate japanese block_00000905_e1f385a7:
@@ -3466,7 +3467,7 @@ translate japanese block_00000905_951542a0:
 translate japanese block_00000905_8d65c18e:
 
     # extend "确实，错的是我。\n可被走路十分钟就能到的家伙说教……"
-    extend "確かにさ、俺が悪いんだけど\nそれを地元徒歩10分のやつ説教されるわけ。"
+    extend "確かにさ、俺が悪いんだけど\nそれを地元徒歩10分のやつに説教されるわけ。"
 
 # game/content/file_000008C8.rpy:10660
 translate japanese block_00000905_ddd23d19:

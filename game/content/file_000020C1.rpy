@@ -223,11 +223,11 @@ label karuta_start:
     pause 0.7
 
     show screen karuta_minami_word(_("准备开始读牌了。"))
-    pause
+    pause 2.0
     hide screen karuta_minami_word
     pause 0.2
     show screen karuta_minami_word(_("根据我的话的第一个字选牌，多者即赢。"))
-    pause
+    pause 2.0
     hide screen karuta_minami_word
     pause 0.2
     show screen karuta_minami_word(_("那么，准备……"))
@@ -274,11 +274,11 @@ label karuta_start:
         play music2 "sound/BGM/Drum.ogg" loop
         $ sys_music2_current_file = "sound/BGM/Drum.ogg"
 
-    pause
+    pause 2.0
     hide screen karuta_minami_word
     pause 0.2
     show screen karuta_minami_word(_("开始！"))
-    pause
+    pause 1.0
     hide screen karuta_minami_word
 
     $ karuta_current_index = -1
@@ -322,42 +322,45 @@ label karuta_start:
             $ LoseCount += 1
             play effect2 "sound/Effect Sound/Eye shine 1.ogg" noloop
             $ sys_effect2_current_file = "sound/Effect Sound/Eye shine 1.ogg"
+            hide screen karuta_minami_word
+            show screen karuta_minami_word(_("漂亮！"))
+
             $ zorder_tag_AC2A781923074987B89EFF82C1C606E7 = 500
             show rs_image_A91E74B6874A4367AFACA7A60A9659EC as tag_AC2A781923074987B89EFF82C1C606E7 zorder zorder_tag_AC2A781923074987B89EFF82C1C606E7 onlayer master
             show rs_image_CB9A3B7C3FB14F81B2F472B12826B614 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
             show rs_image_0013370D932E48D7BA71F9ABB90D97FE as tag_063DF7E916A1424E84C7F9FED562D399 zorder zorder_tag_063DF7E916A1424E84C7F9FED562D399 onlayer master
-            show rs_image_3F0E353CFDB748D89954EDA3CA501941 as tag_3C7A06FF4945452D859E685A41EEAAD5 zorder zorder_tag_3C7A06FF4945452D859E685A41EEAAD5 onlayer master
+            show rs_image_345982F54C7E4D819B8EFD9BB1463E34 as tag_3C7A06FF4945452D859E685A41EEAAD5 zorder zorder_tag_3C7A06FF4945452D859E685A41EEAAD5 onlayer master
             with rs_effect_6AF713EEDC664B669DFA76C7954DF0B7
-            hide screen karuta_minami_word
-            show screen karuta_minami_word(_("漂亮！"))
-            pause
         elif _return == karuta_current_index: # 选择正确
             $ GKarutaStage[karuta_card_list[karuta_current_index]] = True
             $ WinCount += 1
             play effect2 "sound/Effect Sound/Eye shine 1.ogg" noloop
             $ sys_effect2_current_file = "sound/Effect Sound/Eye shine 1.ogg"
+            hide screen karuta_minami_word
+            show screen karuta_minami_word(_("哦！"))
+
             $ zorder_tag_AC2A781923074987B89EFF82C1C606E7 = 500
             show rs_image_3C7EEE2FD7C44450926F5BF4222D3790 as tag_AC2A781923074987B89EFF82C1C606E7 zorder zorder_tag_AC2A781923074987B89EFF82C1C606E7 onlayer master
             show rs_image_2D66580B8E7D43CD9D46BD73F15B291B as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
             show rs_image_0013370D932E48D7BA71F9ABB90D97FE as tag_063DF7E916A1424E84C7F9FED562D399 zorder zorder_tag_063DF7E916A1424E84C7F9FED562D399 onlayer master
             show rs_image_27A9CE608540480586E95E611EE27408 as tag_3C7A06FF4945452D859E685A41EEAAD5 zorder zorder_tag_3C7A06FF4945452D859E685A41EEAAD5 onlayer master
             with rs_effect_6AF713EEDC664B669DFA76C7954DF0B7
-            hide screen karuta_minami_word
-            show screen karuta_minami_word(_("哦！"))
-            pause
         else: # 选择错误
             $ FailCount += 1
             play effect2 "sound/Effect Sound/Dorky 1.ogg" noloop
             $ sys_effect2_current_file = "sound/Effect Sound/Dorky 1.ogg"
+            hide screen karuta_minami_word
+            show screen karuta_minami_word(_("只有三次选错机会哦。"))
+
             $ zorder_tag_AC2A781923074987B89EFF82C1C606E7 = 500
             show rs_image_601DB506811341439D5AD034B152D4B1 as tag_AC2A781923074987B89EFF82C1C606E7 zorder zorder_tag_AC2A781923074987B89EFF82C1C606E7 onlayer master
             show rs_image_CB9A3B7C3FB14F81B2F472B12826B614 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
             show rs_image_01044D5E34704EB59BE69F0E074703D2 as tag_063DF7E916A1424E84C7F9FED562D399 zorder zorder_tag_063DF7E916A1424E84C7F9FED562D399 onlayer master
             show rs_image_345982F54C7E4D819B8EFD9BB1463E34 as tag_3C7A06FF4945452D859E685A41EEAAD5 zorder zorder_tag_3C7A06FF4945452D859E685A41EEAAD5 onlayer master
             with rs_effect_6AF713EEDC664B669DFA76C7954DF0B7
-            hide screen karuta_minami_word
-            show screen karuta_minami_word(_("只有三次选错机会哦。"))
-            pause
+        
+        pause 2.0
+
         hide tag_AC2A781923074987B89EFF82C1C606E7
         with rs_effect_F1D853AA1431437BBF572B63AF1E4944
         $ karuta_card_available[karuta_current_index] = False

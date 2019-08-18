@@ -489,6 +489,11 @@ label block_00002F24:
 
 label block_00002511:
     # Node: 00002511 (Newsclub)
+    if C2QNewsclubPhase > 0:
+        $ zorder_tag_55870F560BF848A6AC31FE62DEDBC424 = 300
+        show rs_image_55870F560BF848A6AC31FE62DEDBC424 as tag_55870F560BF848A6AC31FE62DEDBC424 zorder zorder_tag_55870F560BF848A6AC31FE62DEDBC424 onlayer master
+        with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
+
     $ sys_lm_menu_item = [{"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}, {"pos": (112, 160),"image": "images/Chapter 2/Menu/Okajima.png","hover": "images/Chapter 2/Menu/Okajima hover.png","name": "岡島"}, {"pos": (392, 160),"image": "images/Chapter 2/Menu/Kojima.png","hover": "images/Chapter 2/Menu/Kojima hover.png","name": "小島"}]
     $ sys_lm_menu_sound = {"hover": "sound/Effect Sound/System - choose.ogg", "click": "sound/Effect Sound/System - click.ogg"}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0.2, 0.2) from _call_lm_menu_455
@@ -496,14 +501,19 @@ label block_00002511:
     $ del sys_lm_menu_sound
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"移動\"" }]):
+        hide tag_55870F560BF848A6AC31FE62DEDBC424
         jump block_00003A97
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"小島\"" },{ "scope": 1, "content": "C2QNewsclubPhase == 1" }]):
+        hide tag_55870F560BF848A6AC31FE62DEDBC424
         jump block_0000250A
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"小島\"" }]):
+        hide tag_55870F560BF848A6AC31FE62DEDBC424
         jump block_0000250B
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"岡島\"" },{ "scope": 1, "content": "TalkOkajima == 0" }]):
+        hide tag_55870F560BF848A6AC31FE62DEDBC424
         jump block_0000250D
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"岡島\"" }]):
+        hide tag_55870F560BF848A6AC31FE62DEDBC424
         jump block_0000250C
 
     return
@@ -5161,7 +5171,7 @@ label block_00002517:
     show rs_image_4DE7491D04004FC5BE18A0FEB043C1BF as tag_DCBDF256A1E242E78A25910AE27C0954 at center_bottom zorder zorder_tag_DCBDF256A1E242E78A25910AE27C0954 onlayer master
     with rs_effect_1B5FF639D1044BDDAEE2A66FB32F2CF7
 
-    rs_character_53FF68C192E3494AB005C1909579AFFB "森海同学，请处理一下这个。{w}\n内容是验证“厕所的花子君”的真伪。"
+    rs_character_53FF68C192E3494AB005C1909579AFFB "森海同学，请处理一下这个。{w}\n内容是验证{color=#3A00C4}“厕所的花子君”{/color}的真伪。"
 
     show rs_image_DC3BE1DD2EA84C89ABC5052469A25C0E as tag_DCBDF256A1E242E78A25910AE27C0954 zorder zorder_tag_DCBDF256A1E242E78A25910AE27C0954 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
@@ -7598,7 +7608,7 @@ label block_000008E4:
     $ del sys_lm_menu_item
     $ del sys_lm_menu_sound
 
-    if judge_lm_condition([{ "scope": 1, "content": "_lm_selected_value == \"加藤\"" },{ "scope": 0, "content": "C2S2Phase >= 97" },{ "scope": 2, "content": "TalkKatouF2 == 1" }]):
+    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"加藤\"" },{ "scope": 1, "content": "C2S2Phase >= 97" },{ "scope": 2, "content": "TalkKatouF2 == 1" }]):
         jump block_00001F48
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"加藤\"" },{ "scope": 1, "content": "TalkKatouStudy == False" },{ "scope": 2, "content": "C2SG1 == True" }]):
         jump block_00002525

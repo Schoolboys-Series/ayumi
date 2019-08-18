@@ -83,7 +83,7 @@ translate japanese strings:
 
     # screens.rpy:567
     old "场景回想"
-    new "シーンレビュー"
+    new "回想モード"
 
     # screens.rpy:572
     old "关于本作"

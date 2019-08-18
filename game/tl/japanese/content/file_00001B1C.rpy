@@ -466,7 +466,7 @@ translate japanese block_000034BF_5d30035e:
 translate japanese block_000034BF_2f12b9a7:
 
     # rs_character_57471360F48A413AB843A4E46D8C5541 "要是比现在出席率再降低就麻烦了。\n下次必须和他好好谈谈。"
-    rs_character_57471360F48A413AB843A4E46D8C5541 "今まで以上に、学校休んじゃうように\nなったら大変だから、\nそれを踏まえて相談し直さないとな。"
+    rs_character_57471360F48A413AB843A4E46D8C5541 "今まで以上に学校休んじゃうように\nなったら大変だから、\nそれを踏まえて相談し直さないとな。"
 
 # game/content/file_00001B1C.rpy:2155
 translate japanese block_000034BF_4d5a838c:

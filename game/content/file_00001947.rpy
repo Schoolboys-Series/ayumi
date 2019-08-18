@@ -1746,6 +1746,11 @@ label block_00003132:
 
 label block_00003026:
     # Node: 00003026 (Newsclub)
+    if C3QNewsclubPhase > 0:
+        $ zorder_tag_E5426617E2314E3CA0030CBF08C7F388 = 300
+        show rs_image_E5426617E2314E3CA0030CBF08C7F388 as tag_E5426617E2314E3CA0030CBF08C7F388 zorder zorder_tag_E5426617E2314E3CA0030CBF08C7F388 onlayer master
+        with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
+
     $ sys_lm_menu_item = [{"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}, {"pos": (112, 160),"image": "images/Chapter 2/Menu/Okajima.png","hover": "images/Chapter 2/Menu/Okajima hover.png","name": "岡島"}, {"pos": (392, 160),"image": "images/Chapter 2/Menu/Kojima.png","hover": "images/Chapter 2/Menu/Kojima hover.png","name": "小島"}]
     $ sys_lm_menu_sound = {"hover": "sound/Effect Sound/System - choose.ogg", "click": "sound/Effect Sound/System - click.ogg"}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0.2, 0.2) from _call_lm_menu_385
@@ -1753,14 +1758,19 @@ label block_00003026:
     $ del sys_lm_menu_sound
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"岡島\"" },{ "scope": 1, "content": "TalkOkajima == 0" }]):
+        hide tag_E5426617E2314E3CA0030CBF08C7F388
         jump block_00003023
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"岡島\"" }]):
+        hide tag_E5426617E2314E3CA0030CBF08C7F388
         jump block_00003020
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"小島\"" },{ "scope": 1, "content": "C3QNewsclubPhase == 1" }]):
+        hide tag_E5426617E2314E3CA0030CBF08C7F388
         jump block_0000301C
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"小島\"" }]):
+        hide tag_E5426617E2314E3CA0030CBF08C7F388
         jump block_0000301D
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"移動\"" }]):
+        hide tag_E5426617E2314E3CA0030CBF08C7F388
         jump block_0000194D
 
     return

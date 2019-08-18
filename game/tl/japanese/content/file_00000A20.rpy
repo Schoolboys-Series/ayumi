@@ -226,7 +226,7 @@ translate japanese block_000025BC_b6772825:
 translate japanese block_000025BC_c9864865:
 
     # rs_character_EFC67D522B5F4615BFAE716D87F58204 "（呵呵，原来我这么帅。下次找守炫耀炫耀♪）"
-    rs_character_EFC67D522B5F4615BFAE716D87F58204 "（ふふん、オレってそんなにイケてんのかな。今度マモルに自慢しよっと♪）"
+    rs_character_EFC67D522B5F4615BFAE716D87F58204 "（ふふん、オレってそんなにイケてんのかな。\n今度マモルに自慢しよっと♪）"
 
 # game/content/file_00000A20.rpy:933
 translate japanese block_000025BC_59d660e8:
@@ -496,7 +496,7 @@ translate japanese block_000025BE_4fc8a5c8:
 translate japanese block_000025BE_3936fb2a:
 
     # rs_character_EFC67D522B5F4615BFAE716D87F58204 "前面太危险了，\n你这样的普通人最好别去，\n我们该离开了。"
-    rs_character_EFC67D522B5F4615BFAE716D87F58204 "ここから先は、危険な場所だ。一般人のキミが来て良い場所じゃない。\n別のところへ行くぞ。"
+    rs_character_EFC67D522B5F4615BFAE716D87F58204 "ここから先は、危険な場所だ。\n一般人のキミが来て良い場所じゃない。\n別のところへ行くぞ。"
 
 # game/content/file_00000A20.rpy:1788
 translate japanese block_000025BE_b17e5546:
@@ -616,7 +616,7 @@ translate japanese block_000025B3_06fa0d2e:
 translate japanese block_000025B3_056a781c:
 
     # extend "那个，为什么要回家？"
-    extend "の、どうしてお家に？"
+    extend "あの、どうしてお家に？"
 
 # game/content/file_00000A20.rpy:2424
 translate japanese block_000025B3_10b83e8f:
@@ -1534,7 +1534,7 @@ translate japanese block_0000257B_10fb4ae0:
 translate japanese block_00002578_7d686e90:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "啊！是{color=#FF8040}陆田＆杉本{/color}！\n哇——！又来御咲了呐！"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "あ！{color=#FF8040}陸田＆杉本{/color}だー！わー！まだ御咲にいてくれたんですね！"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "あ！{color=#FF8040}陸田＆杉本{/color}だー！\nわー！まだ御咲にいてくれたんですね！"
 
 # game/content/file_00000A20.rpy:5258
 translate japanese block_00002578_2d9cb2f7:
@@ -1846,7 +1846,7 @@ translate japanese strings:
 
     # content\file_00000A20.rpy:2350
     old "回家？"
-    new "家に帰る？"
+    new "家に帰りますか？"
 
     # content\file_00000A20.rpy:2386
     old "友的房间"
@@ -1854,27 +1854,27 @@ translate japanese strings:
 
     # content\file_00000A20.rpy:2546
     old "今天没有其他安排了？"
-    new "今他の予定はない？"
+    new "今日はもう寝ますか？"
 
     # content\file_00000A20.rpy:2546
     old "休息"
-    new "休み"
+    new "寝る"
 
     # content\file_00000A20.rpy:2546
     old "时间还早"
-    new "時間はまだ早い"
+    new "寝ない"
 
     # content\file_00000A20.rpy:2679
     old "试着学习一下？"
-    new "ちょっと勉強してくる？"
+    new "お勉強しますか？"
 
     # content\file_00000A20.rpy:2679
     old "学习"
-    new "いいよ"
+    new "する"
 
     # content\file_00000A20.rpy:2679
     old "学个毛习"
-    new "なぜ？"
+    new "しない"
 
     # content\file_00000A20.rpy:3272
     old "梅咲"
@@ -1894,8 +1894,8 @@ translate japanese strings:
 
     # content\file_00000A20.rpy:5843
     old "好呀"
-    new "いいよ"
+    new "はい"
 
     # content\file_00000A20.rpy:5843
     old "以后再说"
-    new "後で考える"
+    new "また今度"

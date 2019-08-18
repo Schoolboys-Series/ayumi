@@ -1920,11 +1920,11 @@ translate japanese block_000024BF_4dfb7045:
     # rs_character_53FF68C192E3494AB005C1909579AFFB "不要激动，森海同学。\n这次非常感谢，{w}来，这是报酬。"
     rs_character_53FF68C192E3494AB005C1909579AFFB "まあまあ。森海さん、\n今回はありがとうございました。{w}\nこちらは報酬です。"
 
-# game/content/file_000001B0.rpy:4981
-translate japanese block_000024BF_d869cf11:
+# game/content/file_000001B0.rpy:4986
+translate japanese block_000024BF_8dc078a6:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『获得了“{/color}{u}{color=#00FFFF}大家一起踢足球{/color}{/u}{color=#00FFFF}”时的照片』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『{u}“みんなでサッカー！”{/u}のときの写真を手に入れた。』{/color}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『获得了“大家一起踢足球”时的照片』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『“みんなでサッカー！”のときの写真を手に入れた。』{/color}"
 
 # game/content/file_000001B0.rpy:4999
 translate japanese block_000024BF_1e0620c7:
@@ -3568,7 +3568,7 @@ translate japanese block_000024B7_c6c975f4:
 translate japanese block_000024B7_89ae36c6:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "没关系！我发誓要是真的不小心，\n这辈子都娶……{w=0.6}{nw}"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "大丈夫！オレ、新聞を踏まずに部室を出たら、結婚……{w=0.6}{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "大丈夫！オレ、新聞を踏まずに部室を出たら、結婚……{w=0.6}{nw}\n"
 
 # game/content/file_000001B0.rpy:9924
 translate japanese block_000024B7_e3d9a0bf:
@@ -3658,7 +3658,7 @@ translate japanese block_000024B7_8b91f1df:
 translate japanese block_000024B7_02700427:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "为了弥补毁掉原稿的错误，{w}\n接下来你必须帮助我们，帮助新闻部收集情报。"
-    rs_character_53FF68C192E3494AB005C1909579AFFB "あなたには、原稿を台無しにした責任を取っていただきます。{w}具体的には、新聞部の情報収集に協力し、挽回してください。"
+    rs_character_53FF68C192E3494AB005C1909579AFFB "あなたには、原稿を台無しにした責任を取っていただきます。{w}\n具体的には、新聞部の情報収集に協力し、挽回してください。"
 
 # game/content/file_000001B0.rpy:10076
 translate japanese block_000024B7_553e08ee:

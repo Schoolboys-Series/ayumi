@@ -4983,7 +4983,7 @@ label block_000024BF:
     $ set_window("イベントモード")
     window show
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『获得了“{/color}{u}{color=#00FFFF}大家一起踢足球{/color}{/u}{color=#00FFFF}”时的照片』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『获得了“大家一起踢足球”时的照片』{/color}"
 
     window hide
 
@@ -5052,7 +5052,7 @@ label block_000001DC:
     if C1QNewsclubPhase > 0:
         $ zorder_tag_F398938348DE4C30BB9D510ED421A1C3 = 300
         show rs_image_F398938348DE4C30BB9D510ED421A1C3 as tag_F398938348DE4C30BB9D510ED421A1C3 zorder zorder_tag_F398938348DE4C30BB9D510ED421A1C3 onlayer master
-        with rs_effect_1445BCCB339E41F196B5E8B4A0176595
+        with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
     
     $ sys_lm_menu_item = [{"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}, {"pos": (112, 160),"image": "images/Chapter 1/Menu/Okajima.png","hover": "images/Chapter 1/Menu/Okajima hover.png","name": "岡島"}, {"pos": (392, 160),"image": "images/Chapter 1/Menu/Kojima.png","hover": "images/Chapter 1/Menu/Kojima hover.png","name": "小島"}]
     $ sys_lm_menu_sound = {"hover": "sound/Effect Sound/System - choose.ogg", "click": "sound/Effect Sound/System - click.ogg"}

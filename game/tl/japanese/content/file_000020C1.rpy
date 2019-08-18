@@ -185,7 +185,7 @@ translate japanese strings:
 
     # content\file_000020C1.rpy:102
     old "可以看拿到的歌牌哦"
-    new "今までに取っ\nカルタの札が見られるよ。"
+    new "今までに取った\nカルタの札が見られるよ。"
 
     # content\file_000020C1.rpy:228
     old "准备开始读牌了。"

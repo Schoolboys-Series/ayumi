@@ -378,15 +378,15 @@ translate japanese strings:
 
     # content\file_00000852.rpy:554
     old "接下来怎么做？"
-    new "これからどうする？"
+    new "ここで時間を潰しますか？"
 
     # content\file_00000852.rpy:554
     old "在这里打发时间"
-    new "ここで時間を潰す"
+    new "時間を潰す"
 
     # content\file_00000852.rpy:554
     old "去别处看看"
-    new "やめておく"
+    new "店を出る"
 
     # content\file_00000852.rpy:837
     old "广场"

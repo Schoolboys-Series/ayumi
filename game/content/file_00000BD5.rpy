@@ -541,7 +541,8 @@ label block_000025EE:
     with rs_effect_D6BC962AE17948D893E50BE9B4670973
 
     pause 0.4
-
+    
+    $ set_window("(標準)")
     window show
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "记得{color=#008080}慎酱是这么说的{/color}！{nw}"
@@ -553,7 +554,7 @@ label block_000025EE:
     show rs_image_D900F7A3BEB54A4A8613B365B73D83F9 as tag_26CE4420E4BF43ADBA4E35F2A9784E98 at center_bottom zorder zorder_tag_26CE4420E4BF43ADBA4E35F2A9784E98 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    pause
+    extend ""
 
     hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -926,8 +927,6 @@ label block_000025EF:
     window hide
 
     pause 0.8
-
-    $ reverse_volume("music", 1)
 
     if judge_lm_condition([]):
         jump block_00002F23

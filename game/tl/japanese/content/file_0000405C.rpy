@@ -700,7 +700,7 @@ translate japanese block_000040EF_c6c975f4:
 translate japanese block_000040EF_ce22ec87:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "没关系！我发誓要是真的不小心，\n这辈子都娶……\n{w=0.6}{nw}"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "大丈夫！オレ、新聞を踏まずに部室を出たら、結婚……{w=0.6}{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "大丈夫！オレ、新聞を踏まずに部室を出たら、結婚……{w=0.6}{nw}\n"
 
 # game/content/file_0000405C.rpy:2901
 translate japanese block_000040EF_e3d9a0bf:
@@ -790,7 +790,7 @@ translate japanese block_000040EF_8b91f1df:
 translate japanese block_000040EF_02700427:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "为了弥补毁掉原稿的错误，{w}\n接下来你必须帮助我们，帮助新闻部收集情报。"
-    rs_character_53FF68C192E3494AB005C1909579AFFB "あなたには、原稿を台無しにした責任を取っていただきます。{w}具体的には、新聞部の情報収集に協力し、挽回してください。"
+    rs_character_53FF68C192E3494AB005C1909579AFFB "あなたには、原稿を台無しにした責任を取っていただきます。{w}\n具体的には、新聞部の情報収集に協力し、挽回してください。"
 
 # game/content/file_0000405C.rpy:3053
 translate japanese block_000040EF_553e08ee:
