@@ -10,7 +10,7 @@ screen shintarou_notebook:
         $ character_list = filter(lambda x: x["id"] in [
             "Tomo", "Shinobu", "Shintarou", "Tsuki", "Sora", "Tsubasa", "Sakuya", "Saburou", "Shirou", "Yukio",
             "Tsubasa-chan", "Nameko", "Itou", "Kimura", "Katou", "Matsuda", "Izumi",
-            "Okajima", "Kojima"], character_full_info)
+            "Satou", "Okajima", "Kojima"], character_full_info)
         if C3S1 == True:
             $ character_list.extend(filter(lambda x: x["id"] in ["Kiyo", "Nakayama", "Okajima-senior", "Nakayama-senior"], character_full_info))
         if Chapter > 1:
