@@ -371,7 +371,7 @@ translate japanese strings:
 
     # screens.rpy:1073
     old "隐藏所有能隐藏的东西，除了CG和立绘"
-    new "インターフェースを隠します。"
+    new "ウィンドウを隠します。"
 
     # screens.rpy:1076
     old "快速截图"
