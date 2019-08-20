@@ -106,6 +106,9 @@ define config.window = "hide"
 define config.window_show_transition = Dissolve(0.2)
 define config.window_hide_transition = Dissolve(0.2)
 
+## disabled rollback because user occur unexpected operation
+define config.rollback_enabled = False
+
 
 ## Preference defaults #########################################################
 
