@@ -426,7 +426,7 @@ init 1000 python:
             ]],
             "description": _("温柔善良的性格。\n之前一直单恋排球部的前辈，\n在和慎太郎商讨过后成功交往。\n现在正因为恋人之间事情越来越多\n越来越复杂而困扰。")
         }, {
-            "id": "Satou",
+            "id": "Sato",
             "name": _("{size=12}SATOU HIKARU{/size}\n佐藤光"),
             "age": _("中学二年级"),
             "height": _("157cm"),
