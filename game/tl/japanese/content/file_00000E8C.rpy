@@ -106,7 +106,7 @@ translate japanese block_00000EB4_5dac386b:
 translate japanese block_00000EB4_2864f515:
 
     # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "哈……我为什么总是……\n"
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "ハァ……、僕ってどうしてこうも……。"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "ハァ……、僕ってどうしてこうも……。\n"
 
 # game/content/file_00000E8C.rpy:670
 translate japanese block_00000EB4_469c64f4:
@@ -328,7 +328,7 @@ translate japanese block_00002F46_8f3e9b7b:
 translate japanese block_00002F46_cf354e0f:
 
     # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "唔……{w}\n（说了多余的话，看来我也没有指责哥哥的立场……）"
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "うぐ……。{w}\n（余計なことを口滑らしちゃった。僕も兄さんのことを言えないな……。）"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "うぐ……。{w}\n（余計なことを口滑らしちゃった。\n僕も兄さんのことを言えないな……。）"
 
 # game/content/file_00000E8C.rpy:1249
 translate japanese block_00000EC2_47cabec4:
@@ -436,7 +436,7 @@ translate japanese block_0000242E_83f66b88:
 translate japanese block_0000242E_60852511:
 
     # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "当天拜托了！好期待呐～♪"
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "当日はよろしくね！楽しみだな～♪。"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "当日はよろしくね！楽しみだな～♪"
 
 # game/content/file_00000E8C.rpy:1791
 translate japanese block_0000242E_ba7859ec:
@@ -522,8 +522,8 @@ translate japanese block_0000242C_09c4632d:
     # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "那，加油了。"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "ほな、頑張りなはれやー。"
 
-# game/content/file_00000E8C.rpy:2099
-translate japanese block_00000EBC_02383d08:
+    # game/content/file_00000E8C.rpy:2099
+translate japanese block_00000EBB_ebedab25:
 
     # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "穗海喜欢的东西？"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "穂海が欲しそうなモノ？"
@@ -652,7 +652,7 @@ translate japanese block_00001FEB_20736ca7:
 translate japanese block_00001FEB_89fd93ba:
 
     # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "（……{w=0.45}……还是算了。\n{color=#008080}之前那件事{/color}真的令他很失落，{nw}"
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "（…………{w=0.45}でもダメだ。\n{color=#008080}この前のこと{/color}も本当は落ち込んでいたし、{nw}"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "（…………{w=0.45}でもダメだ。\n{color=#008080}この前のこと{/color}も本当は落ち込んでいたし、\n{nw}"
 
 # game/content/file_00000E8C.rpy:2597
 translate japanese block_00001FEB_e1f385a7:
@@ -814,19 +814,22 @@ translate japanese strings:
 
     # content\file_00000E8C.rpy:2144
     old "要采纳这个意见吗？"
-    new "この意見はどう思う？"
+    new "この意見を参考にしますか？"
 
     # content\file_00000E8C.rpy:2144
     old "可以"
-    new "ちょっと試してみて"
+    new "参考にする"
 
     # content\file_00000E8C.rpy:2144
     old "明显不行"
-    new "明らかにそうではない"# TODO: Translation updated at 2019-06-05 00:02
+    new "参考にしない"
 
-# game/content/file_00000E8C.rpy:2099
-translate japanese block_00000EBB_ebedab25:
 
-    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "穗海喜欢的东西？"
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 ""
+# TODO: Translation updated at 2019-08-23 02:59
+
+# game/content/file_00000E8C.rpy:505
+translate japanese block_00000EBC_02383d08:
+
+    # rs_character_EA9AA88E88D84B559B925363E2931756 "诶？穗海喜欢的东西？\n"
+    rs_character_EA9AA88E88D84B559B925363E2931756 ""
 

@@ -268,7 +268,7 @@ translate japanese block_00001F57_ff306989:
 translate japanese block_00001F57_95b1efc6:
 
     # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "是呢。"
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 ""
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "ですね。"
 
 # game/content/file_00000ACF.rpy:1198
 translate japanese block_00001F57_ddbecd46:
@@ -466,7 +466,7 @@ translate japanese block_00001F52_c3352274:
 translate japanese block_00001F51_2e77b68c:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『要进行社团活动，为此请前往武道场。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『部活をしに、武道場へ向かいましょう。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『部活をしに、\n武道場へ向かいましょう。』{/color}"
 
 # game/content/file_00000ACF.rpy:1850
 translate japanese block_00001103_93b22600:
@@ -490,4 +490,4 @@ translate japanese block_00000B8A_c3352274:
 translate japanese block_00000B8B_2e77b68c:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『要进行社团活动，为此请前往武道场。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『部活をしに、武道場へ向かいましょう。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『部活をしに、\n武道場へ向かいましょう。』{/color}"

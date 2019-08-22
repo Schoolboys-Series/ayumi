@@ -680,6 +680,9 @@ label block_00000AE8:
 
 label block_00000AF7:
     # Node: 00000AF7 (Outside toilet)
+    stop music fadeout 0.5
+    $ sys_music_current_file = ""
+
     stop effect2 fadeout 0.5
     $ sys_effect2_current_file = ""
 
@@ -730,6 +733,9 @@ label block_00000AF7:
     $ set_place_title(_("室外厕所"))
     pause 0.7
 
+    if sys_music_current_file != "sound/BGM/Twilight.ogg":
+        play music "sound/BGM/Twilight.ogg" loop
+        $ sys_music_current_file = "sound/BGM/Twilight.ogg"
 
     if judge_lm_condition([]):
         jump block_00000ADE

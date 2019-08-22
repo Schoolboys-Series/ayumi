@@ -202,7 +202,7 @@ translate japanese block_00003A4B_f330e3c2:
 translate japanese block_00003A4B_446f5b8b:
 
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "……那样的话，没关系，{color=#008080}和之前一样{/color}就好了。{nw}"
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "……だったら、いいよ、{color=#008080}この前みたいな事{/color}しても。{nw}"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "……だったら、いいよ、{color=#008080}この前みたいな事{/color}しても。\n{nw}"
 
 # game/content/file_00003A45.rpy:332
 translate japanese block_00003A4B_e1f385a7:
@@ -1810,7 +1810,7 @@ translate japanese block_00003B2C_1d61119a:
 translate japanese block_00003B2C_5bc1b88e:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "一之濑翼吧、应该没错。\n我是一班的赤峰月，请多指教。"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "一ノ瀬つばさ、だな。俺は１組の赤峰月だ、よろしく。"
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "一ノ瀬つばさ、だな。\n俺は１組の赤峰月だ、よろしく。"
 
 # game/content/file_00003A45.rpy:3087
 translate japanese block_00003B2C_3a725ef7:
@@ -2212,7 +2212,7 @@ translate japanese block_00003B2C_114e24f7:
 translate japanese block_00003B2C_0ec0812c:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "空，告诉你一件好事，\n有时候跳起来会感觉到背后有什么，那其实是洗发水。"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "空、いいことを教えてやろう。シャンプーをしているとき、\n背後に気配を感じるだろう。あの正体はリンスだったんだ。"
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "空、いいことを教えてやろう。\nシャンプーをしているとき、背後に気配を感じるだろう。\nあの正体はリンスだったんだ。"
 
 # game/content/file_00003A45.rpy:3562
 translate japanese block_00003B2C_7adc9c03:
@@ -2386,13 +2386,13 @@ translate japanese block_00003B2C_c9f271ec:
 translate japanese block_00003B2D_01e931c0:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "原来如此，阿月那天并不能一起去玩啊。"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "そっかー。ツッキーはその日、\n遊べなくなっちゃったのかぁ。"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "そっかー。\nツッキーはその日、遊べなくなっちゃったのかぁ。"
 
 # game/content/file_00003A45.rpy:3971
 translate japanese block_00003B2D_07d97b8e:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "抱歉，道场那边有些不得不做的事，完全脱不开身……"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "すまない。道場の方で、どうしても抜けられない用事が\n出来てしまって……。"
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "すまない。\n道場の方で、どうしても抜けられない用事が出来てしまって……。"
 
 # game/content/file_00003A45.rpy:3976
 translate japanese block_00003B2D_b4c7cbfe:
@@ -2404,7 +2404,7 @@ translate japanese block_00003B2D_b4c7cbfe:
 translate japanese block_00003B2D_a4df34f0:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "嗯……所以，不要管我了，到那天你们四个一起去就行了。"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "うむ……。というわけで、俺のことは気にせず、\nその日は４人で楽しんでくれ。"
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "うむ……。\nというわけで、俺のことは気にせず、\nその日は４人で楽しんでくれ。"
 
 # game/content/file_00003A45.rpy:3995
 translate japanese block_00003B2D_990424ae:
@@ -2428,7 +2428,7 @@ translate japanese block_00003B2D_803ebbd8:
 translate japanese block_00003B2D_fdf72a46:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "啊、嗯嗯，就是这样，就是这个意思。我就等、下次……。"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "あ、ああ、その通りだ。そうしてくれ。俺は、また今度でいい……。"
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "あ、ああ、その通りだ。そうしてくれ。\n俺は、また今度でいい……。"
 
 # game/content/file_00003A45.rpy:4046
 translate japanese block_00003B2D_3d35c6a8:
@@ -2446,7 +2446,7 @@ translate japanese block_00003B2D_233a20a6:
 translate japanese block_00003B2D_e9a3cd6a:
 
     # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "当然剑道肯定是要加油的，不过我也有我想走的其他的路嘛。"
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "もちろん剣道もがんばるけど、僕は僕で、\n別の志ってものがあるんだ。"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "もちろん剣道もがんばるけど、\n僕は僕で、別の志ってものがあるんだ。"
 
 # game/content/file_00003A45.rpy:4070
 translate japanese block_00003B2D_82a63bcb:
@@ -2458,7 +2458,7 @@ translate japanese block_00003B2D_82a63bcb:
 translate japanese block_00003B2D_3c187325:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "……所以，就像之前说的，\n从明天开始有几天不能参加社团活动了，所以……"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "……というわけで、以前話たように\n明日からしばらく部活に出られない。だから……"
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "……というわけで、以前話したように\n明日からしばらく部活に出られない。だから……"
 
 # game/content/file_00003A45.rpy:4106
 translate japanese block_00003B2D_e6d0e434:
@@ -2506,7 +2506,7 @@ translate japanese block_00003B2D_32c838c5:
 translate japanese block_00003B2D_47448c1c:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "唔……万不得已之时再找一之濑借DVD就好了。\n"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "うむ……。いざとなったら、また一ノ瀬からＤＶＤを借りればいいしな。\n"
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "うむ……。\nいざとなったら、また一ノ瀬からＤＶＤを借りればいいしな。\n"
 
 # game/content/file_00003A45.rpy:4149
 translate japanese block_00003B2D_467d5bc5:
@@ -2560,7 +2560,7 @@ translate japanese block_00003B2D_ca12728c:
 translate japanese block_00003B2D_9d1813e4:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "哦哦！期待{color=#FF8000}慎{/color}x{color=#FF0000}空{/color}这对CP的大家，有好戏看了哦！！"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "おぉ！？まさかの{color=#FF8000}慎{/color}x{color=#FF0000}空{/color}！マイナーカプ推しの皆様、お待たせしました！！"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "おぉ！？まさかの{color=#FF8000}慎{/color}x{color=#FF0000}空{/color}！\nマイナーカプ推しの皆様、お待たせしました！！"
 
 # game/content/file_00003A45.rpy:4246
 translate japanese block_00003B2D_f8017f9a:
@@ -2584,7 +2584,7 @@ translate japanese block_00003B2D_9bfa8c91:
 translate japanese block_00003B2D_1fcf82ec:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "正因为是这样的时期，爱妻不在旁边没问题吗？"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "そういう時期だからこそ、恋女房が\n傍にいてあげなくていいのかい？"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "そういう時期だからこそ、\n恋女房が傍にいてあげなくていいのかい？"
 
 # game/content/file_00003A45.rpy:4279
 translate japanese block_00003B2D_8abe3dbf:
@@ -2596,13 +2596,13 @@ translate japanese block_00003B2D_8abe3dbf:
 translate japanese block_00003B2D_5ff00709:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "都这时候了还害什么羞！你们自己才是最明白的～\n你们对于对方来说都是不可或缺的。"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "なぁに今更恥ずかしがってんの！自分たちが一番\nよくわかってるっしょ～お互いが必要だって。"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "なぁに今更恥ずかしがってんの！\n自分たちが一番よくわかってるっしょ～お互いが必要だって。"
 
 # game/content/file_00003A45.rpy:4289
 translate japanese block_00003B2D_9cb60214:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不时常保持新鲜刺激的话，对方可是会出轨的哦～\n"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "あんまり素っ気ないと、旦那が浮気しちゃいますよ～"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "あんまり素っ気ないと、旦那が浮気しちゃいますよ～\n"
 
 # game/content/file_00003A45.rpy:4297
 translate japanese block_00003B2D_ae7f3c4c:
@@ -2620,7 +2620,7 @@ translate japanese block_00003B2D_fbf20664:
 translate japanese block_00003B2D_8e5f61f4:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "（大家都在社团里努力的时候只有我踏上了回家之路，\n总觉得不可思议。）"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "（皆が部活に勤しんでいるのに帰宅するというのは、なんだか不思議な気分だ。）"
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "（皆が部活に勤しんでいるのに帰宅するというのは、\nなんだか不思議な気分だ。）"
 
 # game/content/file_00003A45.rpy:4341
 translate japanese block_00003B2D_ce7a0770:
@@ -3166,13 +3166,13 @@ translate japanese block_00003B2E_f14b73e0:
 translate japanese block_00003B2E_9bbd65dd:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "现在，今后，一起度过的时光，才会弥足珍贵，才更需要珍惜！"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "これからは、一緒にいる時間を、今まで以上に\nもっともっと大切に過ごそう！"
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "これからは、一緒にいる時間を、\n今まで以上にもっともっと大切に過ごそう！"
 
 # game/content/file_00003A45.rpy:5348
 translate japanese block_00003B2E_c068ba7a:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "两人独处之时，除空之外，绝不会再做他想！"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "２人きりのときは、目一杯に空を\n感じさせてくれ！！"
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "２人きりのときは、\n目一杯に空を感じさせてくれ！！"
 
 # game/content/file_00003A45.rpy:5350
 translate japanese block_00003B2E_72d97827:
