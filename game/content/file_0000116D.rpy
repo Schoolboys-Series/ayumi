@@ -574,7 +574,7 @@ label tsuki_test_retry_question:
     window show
 
     if TimeState == 1:
-        s_character_4CFD8855F77C4A9085B6B9BFABDD845A "[TotalCount]问中[CorrectCount]问正确！{w}很不错哦。\n不过，这样还不足以挑战{nw}"
+        rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "[TotalCount]问中[CorrectCount]问正确！{w}很不错哦。\n不过，这样还不足以挑战{nw}"
         play effect "sound/Effect Sound/Notice 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Notice 1.ogg"
         extend "{color=#FF00FF}下个问题{/color}呐。"
@@ -650,7 +650,7 @@ label tsuki_test_number_1:
     $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
     $ set_window("イベントモード")
 
-    if judge_lm_condition([{ "scope": 0, "content": "TimeState == 2" }]):
+    if TimeState == 2:
         $ zorder_tag_31FEF114566B4AB483D935C987B9E096 = 300
         show rs_image_0CBEE3104B544997B9F152690F79B463 as tag_31FEF114566B4AB483D935C987B9E096 at center_bottom zorder zorder_tag_31FEF114566B4AB483D935C987B9E096 onlayer master
         with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -659,7 +659,7 @@ label tsuki_test_number_1:
         rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "这次的任务是选择恰当的{color=#0080FF}数字{/color}。\n接下来会不断出现各种数字，尝试记住他们。"
         rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "那么，开始。"
         window hide
-    if judge_lm_condition([{ "scope": 0, "content": "TimeState == 1" }]):
+    elif TimeState == 1:
         $ zorder_tag_31FEF114566B4AB483D935C987B9E096 = 300
         show rs_image_4913C76A3FD641CBAFC2DC49CA8837AF as tag_31FEF114566B4AB483D935C987B9E096 at center_bottom zorder zorder_tag_31FEF114566B4AB483D935C987B9E096 onlayer master
         with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -668,7 +668,7 @@ label tsuki_test_number_1:
         rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "这次的任务是选择恰当的{color=#0080FF}数字{/color}。\n接下来会不断出现各种数字，请试着记住他们。"
         rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "那么，准备——{w}开始！"
         window hide
-    if judge_lm_condition([]):
+    else:
         $ zorder_tag_31FEF114566B4AB483D935C987B9E096 = 300
         show rs_image_0305038F51BC401396154F294FEAA2E7 as tag_31FEF114566B4AB483D935C987B9E096 at center_bottom zorder zorder_tag_31FEF114566B4AB483D935C987B9E096 onlayer master
         with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -1009,7 +1009,7 @@ label tsuki_test_find_3:
     play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
     $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
-    if judge_lm_condition([{ "scope": 0, "content": "TimeState== 2" }]):
+    if TimeState== 2:
         $ zorder_tag_31FEF114566B4AB483D935C987B9E096 = 300
         show rs_image_0CBEE3104B544997B9F152690F79B463 as tag_31FEF114566B4AB483D935C987B9E096 at center_bottom zorder zorder_tag_31FEF114566B4AB483D935C987B9E096 onlayer master
         with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -1017,7 +1017,7 @@ label tsuki_test_find_3:
         rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "那么，接下来开始头脑训练。"
         rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "这次的训练仍然是“{color=#0080FF}寻找正确选项{/color}”。\n然而，存在{color=#FF0000}时间限制{/color}。"
         rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "这次的非常困难，一定要好好努力。{w}\n那么，开始。"
-    if judge_lm_condition([{ "scope": 0, "content": "TimeState== 1" }]):
+    elif TimeState== 1:
         $ zorder_tag_31FEF114566B4AB483D935C987B9E096 = 300
         show rs_image_4913C76A3FD641CBAFC2DC49CA8837AF as tag_31FEF114566B4AB483D935C987B9E096 at center_bottom zorder zorder_tag_31FEF114566B4AB483D935C987B9E096 onlayer master
         with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -1025,7 +1025,7 @@ label tsuki_test_find_3:
         rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "那么，头脑训练要开始了哦。"
         rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "这次的训练是“{color=#0080FF}寻找正确选项{/color}”。\n不过，也要小心{color=#FF0000}时间限制{/color}哦。"
         rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "这次的非常困难，请一定要注意。{w}\n加油，准备——{w}开始！"
-    if judge_lm_condition([]):
+    else:
         show rs_image_0305038F51BC401396154F294FEAA2E7 as tag_31FEF114566B4AB483D935C987B9E096 at center_bottom zorder zorder_tag_31FEF114566B4AB483D935C987B9E096 onlayer master
         with rs_effect_351A8A667ECF419EB1A052B06E597A01
         window show

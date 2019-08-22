@@ -121,25 +121,25 @@ translate japanese tsuki_test_final_question_e9135490:
 translate japanese tsuki_test_next_question_9de65d7d:
 
     # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "[TotalCount]问中[CorrectCount]问正确！{w}真的很努力了。\n看样子可以挑战{nw}"
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "[TotalCount]問中[CorrectCount]問正解！{w}よくがんばったな。\nこの調子だと、{nw}"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "[TotalCount]問中[CorrectCount]問正解！{w}よくがんばったね。\nこの調子だと、{nw}"
 
 # game/content/file_0000116D.rpy:493
 translate japanese tsuki_test_next_question_0353a700:
 
     # extend "{color=#FF00FF}下个问题{/color}了呐。"
-    extend "{color=#FF00FF}次のステップ{/color}にも挑戦できるだろう。"
+    extend "{color=#FF00FF}次のステップ{/color}にもいけそうだよ。"
 
 # game/content/file_0000116D.rpy:494
 translate japanese tsuki_test_next_question_31eb9a38:
 
     # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "下次会换更难的问题。\n准备好了请随时来找我哦。{w=0.7}{nw}"
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "次回は、この続きからだ。\n準備ができたら、また話し掛けてくれ。{w=0.7}{nw}"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "次回はこの続きから、頑張ってみよう。\n準備ができたら、また声をかけてね。{w=0.7}{nw}"
 
 # game/content/file_0000116D.rpy:497
 translate japanese tsuki_test_next_question_db46b802:
 
     # extend "{i}以上、解散♪{/i}"
-    extend "{i}以上、解散！{/i}"
+    extend "{i}以上、解散♪{/i}"
 
 # game/content/file_0000116D.rpy:499
 translate japanese tsuki_test_next_question_51221fa6:
@@ -171,11 +171,11 @@ translate japanese tsuki_test_quest_finished_5f7b095c:
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『委托成功结束』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『クエストを達成しました。』{/color}"
 
-# game/content/file_0000116D.rpy:570
-translate japanese tsuki_test_retry_question_a354c35b:
+# game/content/file_0000116D.rpy:577
+translate japanese tsuki_test_retry_question_10e963f2:
 
-    # s_character_4CFD8855F77C4A9085B6B9BFABDD845A "[TotalCount]问中[CorrectCount]问正确！{w}很不错哦。\n不过，这样还不足以挑战{nw}"
-    s_character_4CFD8855F77C4A9085B6B9BFABDD845A "[TotalCount]問中[CorrectCount]問正解！{w}よくがんばったね。\nでも、これだと{nw}"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "[TotalCount]问中[CorrectCount]问正确！{w}很不错哦。\n不过，这样还不足以挑战{nw}"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "[TotalCount]問中[CorrectCount]問正解！{w}よくがんばったね。\nでも、これだと{nw}"
 
 # game/content/file_0000116D.rpy:573
 translate japanese tsuki_test_retry_question_3331c8d1:
@@ -1175,4 +1175,5 @@ translate japanese strings:
     # content\file_0000116D.rpy:1102
     old "赤峰突"
     new "赤峰突"
-    
+
+
