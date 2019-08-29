@@ -436,7 +436,7 @@ translate japanese block_000025D0_5f7b095c:
 translate japanese block_00003A7B_20f37ca3:
 
     # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "STAY，小翼。{w}前面人太多，太危险了。"
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "ＳＴＡＹ、ツバサ。\nこれ以上進んじゃダメだぞ。{w}ここは人通りが多いから、危ないんだ。"
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "ＳＴＡＹ、ツバサ。\n{w}ここは人通りが多いから、危ないんだ。"
 
 # game/content/file_00000A74.rpy:1424
 translate japanese block_00003A7B_354c925e:
