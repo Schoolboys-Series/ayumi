@@ -32,7 +32,7 @@ translate japanese strings:
 
     # content\file_000027FC.rpy:96
     old "主要出场记录"
-    new "主要出場記録"
+    new "登場ストーリー"
 
 translate japanese style shintarou_notebook_close_button:
     font "font/source-hans-sans-medium.ttc"

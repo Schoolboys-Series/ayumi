@@ -172,7 +172,7 @@ translate japanese block_00003A15_af251dc0:
 translate japanese block_00003A1F_e8663ef1:
 
     # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "你做的不错嘛！！能明显感觉到和之前气氛变了！{w}\n确实在向着好的方向发展啊！！"
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "お前やるやん！！前とは明らかに雰囲気が違う！\n確実に良い方向に進んでると思うで！！{w}まずまずって感じやな！"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "お前やるやん！！前とは明らかに雰囲気が違う！{w}\n確実に良い方向に進んでると思うで！！"
 
 # game/content/file_00003A0D.rpy:819
 translate japanese block_00003A16_4faa3eb6:
@@ -1822,7 +1822,7 @@ translate japanese block_00003A17_ecf8e60d:
 translate japanese block_00003A17_f9ad68d1:
 
     # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "样子很奇怪，呼吸节奏也很诡异！{w}\n怎么了？不舒服！？小翼！小翼！！"
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "様子がおかしい。こんな呼吸、いつもしない！{w}どうした？苦しいのか！？ツバサ！ツバサぁ！！"
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "様子がおかしい。こんな呼吸、いつもしない！{w}\nどうした？苦しいのか！？ツバサ！ツバサぁ！！"
 
 # game/content/file_00003A0D.rpy:3257
 translate japanese block_00003A17_5b5ec7f1:
@@ -1924,7 +1924,7 @@ translate japanese block_00003A17_6287a07c:
 translate japanese block_00003A17_5869cd6e:
 
     # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "为了让那些孩子能幸福快乐地生活，饲养员的经验和知识，\n以及到位的管理都是不可或缺的。"
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "あの子たちがああやって幸せに暮らせているのは、飼育員の\n経験と知識に裏付けられた管理が行き届いてるからだ。"
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "あの子たちがああやって幸せに暮らせているのは、\n飼育員の経験と知識に裏付けられた管理が行き届いてるからだ。"
 
 # game/content/file_00003A0D.rpy:3379
 translate japanese block_00003A17_e8aaeeb9:
@@ -2272,7 +2272,7 @@ translate japanese block_00003AEC_8160bb4b:
 translate japanese block_00003AEC_b397d8dc:
 
     # rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "你们还是孩子，经验不充足，\n以后再出现这样的事故，会更加感觉到自己的无力。"
-    rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "お前たちは子供。まだまだ経験が足りない。また今日の\nように失敗して、己の非力をもどかしく感じるだろう。"
+    rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "お前たちは子供。まだまだ経験が足りない。\nまた今日のように失敗して、己の非力をもどかしく感じるだろう。"
 
 # game/content/file_00003A0D.rpy:3931
 translate japanese block_00003AEC_53508bfb:
@@ -2338,7 +2338,7 @@ translate japanese block_00003AEC_94325fba:
 translate japanese block_00003AEC_32259c91:
 
     # rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "不，学园长每天都在不吝口舌地到处说，\n接触生命，养育生命。"
-    rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "いや。生命に触れ、それを育むことは、\n学園長が口を酸くして唱えている"
+    rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "いや。生命に触れ、それを育むことは、\n学園長が口を酸くして唱えている。"
 
 # game/content/file_00003A0D.rpy:4034
 translate japanese block_00003AEC_80879963:
@@ -2596,7 +2596,7 @@ translate japanese block_00003AEC_c1211aab:
 translate japanese block_00003AF0_c42a2cc8:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『事件{/color}{color=#3A00C4}“傲娇男孩子的治疗法”{/color}{color=#0080FF}成功结束。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ストーリーモード{/color}{color=#3A00C4}“ツンデレボーイの処方箋”{/color}{color=#0080FF}をクリアしました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ストーリーモード{/color}\n{color=#3A00C4}“ツンデレボーイの処方箋”{/color}{color=#0080FF}をクリアしました。』{/color}"
 
 # game/content/file_00003A0D.rpy:4541
 translate japanese block_00003A20_2fcdedbf:
@@ -2700,11 +2700,11 @@ translate japanese block_00003A0F_aa27ae80:
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔……嗯……"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "うーーーーーーーーん……"
 
-# game/content/file_00003A0D.rpy:4982
-translate japanese block_00003A0F_3e06ed65:
+    # game/content/file_00003A0D.rpy:4982
+translate japanese block_00003A0F_f357878c:
 
-    # extend "对了！反动形成！！{size=12}{color=#C0C0C0}*心理学术语，俗称傲娇{/color}{/size}"
-    extend "そう！！{size=12}{color=#C0C0C0}『反動形成（はんどうけいせい）』{/color}{/size}！"
+    # extend "对了！\n反动形成！！{color=#C0C0C0}*心理学术语，俗称傲娇{/color}"
+    extend "そう！！\n{color=#C0C0C0}『反動形成（はんどうけいせい）』{/color}！"
 
 # game/content/file_00003A0D.rpy:4987
 translate japanese block_00003A0F_8c5bf7cc:
@@ -2985,3 +2985,4 @@ translate japanese strings:
     # content\file_00003A0D.rpy:4624
     old "要重试吗？"
     new "もう一度やり直しますか？"
+

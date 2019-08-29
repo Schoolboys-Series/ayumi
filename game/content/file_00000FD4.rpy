@@ -463,6 +463,8 @@ label block_00000FD6:
 
 label block_00001011:
     # Node: 00001011 (School inside XCTX)
+    if judge_lm_condition([]) and judge_lm_condition([]):
+        call scb_global_map(sys_ayumi_global_map_time, sys_ayumi_global_map_character , "school_inside", False, False, talk_label="block_0000101F", target_label="block_00001020") from _call_scb_global_map_179
     $ del sys_ayumi_global_map_time
     $ del sys_ayumi_global_map_character
 
@@ -521,7 +523,7 @@ label block_00000FD8:
 
 label block_00000FE2:
     # Node: 00000FE2 (Aisle 2)
-    $ sys_lm_menu_item = [{"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}, {"pos": (152, 208),"image": "images/MOVING/ACTIONS/Moving.png","hover": "images/MOVING/ACTIONS/Moving hover.png","name": "踊り場へ"}, {"pos": (376, 208),"image": "images/MOVING/ACTIONS/Moving.png","hover": "images/MOVING/ACTIONS/Moving hover.png","name": "新聞部へ"}]
+    $ sys_lm_menu_item = [{"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}, {"pos": (152, 208),"image": "images/MOVING/ACTIONS/Moving.png","hover": "images/MOVING/ACTIONS/Moving hover.png","name": "踊り場へ"}]
     $ sys_lm_menu_sound = {"hover": "sound/Effect Sound/System - choose.ogg", "click": "sound/Effect Sound/System - click.ogg"}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0.2, 0.2) from _call_lm_menu_698
     $ del sys_lm_menu_item
@@ -744,7 +746,7 @@ label block_00000FDA:
     $ zorder_tag_88D3209FDD1D4A2E8369A5A61DF50852 = 400
 
     if judge_lm_condition([]):
-        jump block_00001011
+        jump block_00000FD6
 
     return
 
@@ -770,7 +772,7 @@ label block_00000FDB:
     $ zorder_tag_88D3209FDD1D4A2E8369A5A61DF50852 = 400
 
     if judge_lm_condition([]):
-        jump block_00001011
+        jump block_00000FD6
 
     return
 

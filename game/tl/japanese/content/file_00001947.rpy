@@ -4102,12 +4102,12 @@ translate japanese strings:
 
     # content\file_00001947.rpy:1629
     old "再试一次"
-    new ""
+    new "はい"
 
     # content\file_00001947.rpy:1629
     old "等以后有办法再说吧"
-    new ""
+    new "いいえ"
 
     # content\file_00001947.rpy:8952
     old "柔道场"
-    new ""
+    new "柔道場"

@@ -31,7 +31,7 @@ label block_000008CC:
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
 
-    if judge_lm_condition([{ "scope": 0, "content": "C2S2Phase > 0" }]):
+    if judge_lm_condition([{ "scope": 0, "content": "C2S2Phase > 1" }]):
         jump block_000018C7
     if judge_lm_condition([]):
         jump block_000018C6
@@ -8216,7 +8216,7 @@ label block_000008D6:
         jump block_00001F41
     if judge_lm_condition([{ "scope": 0, "content": "C2S2Phase >= 97" },{ "scope": 1, "content": "TalkMatsutaF2 == 0" }]):
         jump block_00000922
-    if judge_lm_condition([{ "scope": 0, "content": "F2Check1 == True" },{ "scope": 1, "content": "C2S1Phase + C2S2Phase + C2S3Phase + C2S4Phase + C2S5Phase + C2S6Phase == 0" },{ "scope": 0, "content": "C2S2Phase == 1" }]):
+    if judge_lm_condition([{ "scope": 0, "content": "F2Check1 == True" },{ "scope": 1, "content": "C2S2Phase == 1" }]):
         jump block_0000252F
     if judge_lm_condition([]):
         jump block_000008E0

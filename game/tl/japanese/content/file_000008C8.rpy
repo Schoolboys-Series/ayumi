@@ -40,7 +40,7 @@ translate japanese block_00001F49_a67fd2f4:
 translate japanese block_00001F49_f804fab3:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『用并不怎么有趣的{/color}{nw}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『あまり興味がないのか{/color}{nw}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『あまり興味がないのか{/color}\n{nw}"
 
 # game/content/file_000008C8.rpy:358
 translate japanese block_00001F49_40e70af5:
@@ -478,7 +478,7 @@ translate japanese block_000018DE_fcc17271:
 translate japanese block_000018DE_65222019:
 
     # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "好痛！？好痛啊！{w}\n作、作哉君，不要拉我——！\n"
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "イタッ！？イタタタ！\n{w}\nさ、作哉くん引っ張らないでぇー！\n"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "イタッ！？イタタタ！{w}\nさ、作哉くん引っ張らないでぇー！\n"
 
 # game/content/file_000008C8.rpy:2255
 translate japanese block_000018DE_e23d06a3:
@@ -574,7 +574,7 @@ translate japanese block_00001F38_952b8149:
 translate japanese block_00001F38_6aa44e2d:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『用中二病的语言，{/color}{nw}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『中二病らしい、{/color}{nw}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『中二病らしい、{/color}\n{nw}"
 
 # game/content/file_000008C8.rpy:3006
 translate japanese block_00001F38_bc15e30b:
@@ -1559,7 +1559,7 @@ translate japanese block_000024FA_750690c9:
 translate japanese block_000024FA_7941515f:
 
     # extend "嗯嗯，我也很厉害♪"
-    extend "うんうん。オレもすごい♪」\n"
+    extend "うんうん。オレもすごい♪\n"
 
 # game/content/file_000008C8.rpy:6037
 translate japanese block_000024FA_5830f2a6:
@@ -3737,7 +3737,7 @@ translate japanese block_000024FD_7104efa2:
 translate japanese block_000024FD_9dce20ac:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "不可能。我时常在空身边，\n绝不可能注意到空之外的人。"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "そんなわけないだろう。\n俺は常に空の隣りにいる。\n空を差し置いて、俺などに目がゆくわけがない。"
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "そんなわけないだろう。\n俺は常に空の隣にいる。\n空を差し置いて、俺などに目がゆくわけがない。"
 
 # game/content/file_000008C8.rpy:11448
 translate japanese block_000024FD_b28db9b8:

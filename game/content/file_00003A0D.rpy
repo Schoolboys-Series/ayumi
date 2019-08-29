@@ -4979,7 +4979,7 @@ label block_00003A0F:
     show rs_image_F94E205F8A284E458577A43CDCB23962 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_1B5FF639D1044BDDAEE2A66FB32F2CF7
 
-    extend "对了！反动形成！！{size=12}{color=#C0C0C0}*心理学术语，俗称傲娇{/color}{/size}"
+    extend "对了！\n反动形成！！{color=#C0C0C0}*心理学术语，俗称傲娇{/color}"
 
     show rs_image_D544765C4BA64EC6B46D01C4A92BD5D1 as tag_25C83DBF35814073B3DF9FF7BCEF75AC zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
