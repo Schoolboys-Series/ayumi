@@ -114,7 +114,7 @@ screen shintarou_notebook_content2(character):
                         if eval(story + " == True"):
                             text "√ " + __(scene_var_description[story]) style "shintarou_notebook_content2_achieved"
                         else:
-                            text "… " + __(scene_var_description[story]) style "shintarou_notebook_content2_unfinished"
+                            text "… " + "？？？" style "shintarou_notebook_content2_unfinished"
             if has_record == False:
                 text _("没有记录") style "shintarou_notebook_content2_unfinished"
             null height 20
