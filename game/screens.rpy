@@ -382,22 +382,16 @@ screen gallery_content(target_chapter):
                 for picture in chapter[1]:
                     if gallery.IsUnlocked("rs_image_" + picture):
                         button:
-                            style "gallery_content_hbox_button"
                             add "rs_image_" + picture size (130, 97)
                             action gallery.Action("rs_image_" + picture)
                     else:
-                        imagebutton:
-                            idle Solid(gui.idle_small_color)
-                            style "gallery_content_hbox_button"
+                        button:
+                            add Solid(gui.idle_small_color) size (130, 97)
 
 style gallery_content_hbox_vpgrid:
     xminimum 800
     xpos 0
 style gallery_content_hbox_button:
-    maximum (150, 117)
-    minimum (150, 117)
-    margin (30, 10, 30, 10)
-style gallery_content_hbox_image_button:
     maximum (150, 117)
     minimum (150, 117)
     margin (30, 10, 30, 10)
