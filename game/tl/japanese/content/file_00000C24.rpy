@@ -184,7 +184,7 @@ translate japanese block_00000D2A_62ff8aef:
 translate japanese block_00003B1C_3384bb04:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『事件{/color}{color=#AA0055}“RUN☆RUN☆LOVERS”{/color}{color=#0080FF}成功结束。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ストーリーモード{/color}{color=#AA0055}“ラン☆ラン☆ラバーズ”{/color}{color=#0080FF}をクリアしました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ストーリーモード{/color}\n{color=#AA0055}“ラン☆ラン☆ラバーズ”{/color}{color=#0080FF}をクリアしました。』{/color}"
 
 # game/content/file_00000C24.rpy:1020
 translate japanese block_00000C5E_3c465767:
@@ -298,7 +298,7 @@ translate japanese block_0000241D_c5459377:
 translate japanese block_0000241D_096ec5c9:
 
     # extend "我说啊，\n我和翼君到现在可一直都是{color=#008080}友好交流{/color}的。\n{nw}"
-    extend "あのね、僕とつばさくんは\n{color=#008080}友好深めて{/color}今じゃすっかり仲良しなんだから\nそっとしていてよね。\n{nw}"
+    extend "あのね、僕とつばさくんは\n{color=#008080}友好深めて{/color}今じゃすっかり仲良しなんだから\nそっとしていてよね。{nw}"
 
 # game/content/file_00000C24.rpy:1278
 translate japanese block_0000241D_e1f385a7:
@@ -382,7 +382,7 @@ translate japanese block_00000C47_db6efdca:
 translate japanese block_00000C47_c37ce7b2:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "基本上，大人和孩子是不同的，\n他们很明确地明白自己的喜好。{w}\n作为对象{nw}"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "基本、大人は子供と違って\n好みがガッチリ確立されているからねぇ。{w}"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "基本、大人は子供と違って\n好みがガッチリ確立されているからねぇ。\n{w}"
 
 # game/content/file_00000C24.rpy:1665
 translate japanese block_00000C47_796b8d43:
@@ -418,7 +418,7 @@ translate japanese block_00000C47_0f85fa9e:
 translate japanese block_00000C47_8cfb22ad:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "边边角角都要关注到，\n确定是不是真的满足自己的喜好，\n否则大人是很难做出决定的～"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "隅々まで調べ、自分が好みに\n当てはまってるかどうかを確証してから\nじゃないと、大人は中々難しいよ～。"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "隅々まで調べ、自分が好みに\n当てはまってるかどうかを確証してからじゃないと、\n大人は中々難しいよ～。"
 
 # game/content/file_00000C24.rpy:1698
 translate japanese block_00000C47_676e9ad2:
@@ -640,7 +640,7 @@ translate japanese block_00000D27_bc57fa2a:
 translate japanese block_00000D27_172b0bf9:
 
     # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "也许？\n现在还没有这种感觉不过\n"
-    rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "それはどうかな？\n今のところ、その兆しは感じないが、"
+    rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "それはどうかな？\n今のところ、その兆しは感じないが、\n"
 
 # game/content/file_00000C24.rpy:2256
 translate japanese block_00000D27_79e84978:
@@ -718,7 +718,7 @@ translate japanese block_00001F4B_f1c5ec8a:
 translate japanese block_00001F4B_0eb481a9:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "嗯……{w}小空会发火的话……\n{w=0.7}{nw}"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "ふむ……。{w}\n空っちが怒るとしたら……、n{w=0.7}{nw}"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "ふむ……。{w}\n空っちが怒るとしたら……、\n{w=0.7}{nw}"
 
 # game/content/file_00000C24.rpy:2435
 translate japanese block_00001F4B_1d5bddb3:

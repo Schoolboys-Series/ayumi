@@ -748,7 +748,7 @@ translate japanese block_00003B27_55d8eb37:
 translate japanese block_00003B27_c687ee78:
 
     # rs_character_710A38AC94C841779DB701B5AC1010FD "（一时控制不住说了奇怪的话……"
-    rs_character_710A38AC94C841779DB701B5AC1010FD "（勢い任せに、変なこと言っちゃったな……。"
+    rs_character_710A38AC94C841779DB701B5AC1010FD "（勢い任せに、変なこと言っちゃったな……。\n"
 
 # game/content/file_00003B10.rpy:1464
 translate japanese block_00003B27_fddafee4:
@@ -1414,7 +1414,7 @@ translate japanese block_00003B1E_ed778917:
 translate japanese block_00003B1E_bf1c05fc:
 
     # rs_character_E3F6ADD43DE44A428E1224756613C694 "You are welcome！\n啊，这不就是漫画里常见的那种被关在屋里的剧情嘛～♪"
-    rs_character_E3F6ADD43DE44A428E1224756613C694 "ユァウェルカーム！これさ、漫画やアニメだと\n閉じ込められる展開だよな～♪"
+    rs_character_E3F6ADD43DE44A428E1224756613C694 "ユァウェルカーム！\nこれさ、漫画やアニメだと閉じ込められる展開だよな～♪"
 
 # game/content/file_00003B10.rpy:2581
 translate japanese block_00003B1E_da5e8bc6:
@@ -1444,13 +1444,13 @@ translate japanese block_00003B1E_e751e627:
 translate japanese block_00003B1E_7b759895:
 
     # rs_character_710A38AC94C841779DB701B5AC1010FD "说什么不着边际的话！！这么下去我们可就会被关到明早了啊！？"
-    rs_character_710A38AC94C841779DB701B5AC1010FD "なに呑気なこと言ってんだよ！！このままじゃ\n俺たち明日まで出られないんだぞ！？"
+    rs_character_710A38AC94C841779DB701B5AC1010FD "なに呑気なこと言ってんだよ！！\nこのままじゃ俺たち明日まで出られないんだぞ！？"
 
 # game/content/file_00003B10.rpy:2648
 translate japanese block_00003B1E_238439ab:
 
     # rs_character_E3F6ADD43DE44A428E1224756613C694 "别那么不开窍嘛，作为现代人，\n手机可是强力的……"
-    rs_character_E3F6ADD43DE44A428E1224756613C694 "そんな原始的な♪我々現代人には携帯電話という\n強い味方が……"
+    rs_character_E3F6ADD43DE44A428E1224756613C694 "そんな原始的な♪\n我々現代人には携帯電話という強い味方が……"
 
 # game/content/file_00003B10.rpy:2656
 translate japanese block_00003B1E_36b5bd67:
@@ -1486,7 +1486,7 @@ translate japanese block_00003B1E_1604ddc6:
 translate japanese block_00003B1E_2abb8954:
 
     # rs_character_E3F6ADD43DE44A428E1224756613C694 "没事没事，这也是校园生活中宝贵的体验嘛，\n肯定会变成一个有趣的饭后笑料的♪"
-    rs_character_E3F6ADD43DE44A428E1224756613C694 "いいじゃんいいじゃん。これも学生生活の\n貴重な思い出の一つ！良い笑い話になるって♪"
+    rs_character_E3F6ADD43DE44A428E1224756613C694 "いいじゃんいいじゃん。\nこれも学生生活の貴重な思い出の一つ！\n良い笑い話になるって♪"
 
 # game/content/file_00003B10.rpy:2686
 translate japanese block_00003B1E_e75a2905:
@@ -1510,13 +1510,13 @@ translate japanese block_00003B1F_49196f7f:
 translate japanese block_00003B1F_36e33f5a:
 
     # rs_character_E3F6ADD43DE44A428E1224756613C694 "都到这一步了，干脆不被发现才好玩嘛♪"
-    rs_character_E3F6ADD43DE44A428E1224756613C694 "ここまで来たら、いっそバレずに\nいきたいよな♪"
+    rs_character_E3F6ADD43DE44A428E1224756613C694 "ここまで来たら、\nいっそバレずにいきたいよな♪"
 
 # game/content/file_00003B10.rpy:2807
 translate japanese block_00003B1F_a3c910b2:
 
     # rs_character_710A38AC94C841779DB701B5AC1010FD "只要灯开着，夜里巡视的人肯定会发觉……\n"
-    rs_character_710A38AC94C841779DB701B5AC1010FD "電気点いてんだから、夜の見回りで\n絶対気づくだろ……。\n"
+    rs_character_710A38AC94C841779DB701B5AC1010FD "電気点いてんだから、\n夜の見回りで絶対気づくだろ……。\n"
 
 # game/content/file_00003B10.rpy:2815
 translate japanese block_00003B1F_fabe0435:
@@ -1564,7 +1564,7 @@ translate japanese block_00003B1F_a30ab658:
 translate japanese block_00003B1F_b1969a17:
 
     # rs_character_710A38AC94C841779DB701B5AC1010FD "是吗。不过还是算了，作为经理要是让选手感冒了会很过意不去的。"
-    rs_character_710A38AC94C841779DB701B5AC1010FD "あっそ。でも、やっぱ着てて。\n選手が風邪ひいたら困る。マネージャーとして。"
+    rs_character_710A38AC94C841779DB701B5AC1010FD "あっそ。でも、やっぱ着てて。\n選手が風邪ひいたら困る。\nマネージャーとして。"
 
 # game/content/file_00003B10.rpy:2858
 translate japanese block_00003B1F_4e1e6e8d:
@@ -1618,7 +1618,7 @@ translate japanese block_00003B1F_4c45d9cd:
 translate japanese block_00003B1F_8cfee1c6:
 
     # rs_character_E3F6ADD43DE44A428E1224756613C694 "啊——像这样抱着，感觉又想起和那孩子交往时的事来了。"
-    rs_character_E3F6ADD43DE44A428E1224756613C694 "あーこうやって抱きしめるの、アイツと\n付き合ってた頃を思い出すなあ。"
+    rs_character_E3F6ADD43DE44A428E1224756613C694 "あーこうやって抱きしめるの、\nアイツと付き合ってた頃を思い出すなあ。"
 
 # game/content/file_00003B10.rpy:2903
 translate japanese block_00003B1F_8ccd695b:
@@ -1654,7 +1654,7 @@ translate japanese block_00003B1F_2cdb72ee:
 translate japanese block_00003B1F_201444e3:
 
     # rs_character_E3F6ADD43DE44A428E1224756613C694 "饿了就吃，困了就睡，道理都是一样的……"
-    rs_character_E3F6ADD43DE44A428E1224756613C694 "腹が減ったら一緒に飯食う、眠くなったら一緒に\n寝るのと同じノリで……。"
+    rs_character_E3F6ADD43DE44A428E1224756613C694 "腹が減ったら一緒に飯食う、\n眠くなったら一緒に寝るのと同じノリで……。"
 
 # game/content/file_00003B10.rpy:2965
 translate japanese block_00003B1F_7ef19aac:
@@ -1678,7 +1678,7 @@ translate japanese block_00003B1F_0c54fcce:
 translate japanese block_00003B1F_7cb89e42:
 
     # rs_character_E3F6ADD43DE44A428E1224756613C694 "全、全身都在发抖啊…………你……很冷？"
-    rs_character_E3F6ADD43DE44A428E1224756613C694 "め、めっちゃ震えてるけど……お前、寒いから\n……だよな？"
+    rs_character_E3F6ADD43DE44A428E1224756613C694 "め、めっちゃ震えてるけど……\nお前、寒いから……だよな？"
 
 # game/content/file_00003B10.rpy:3031
 translate japanese block_00003B1F_31eb8820:
@@ -1696,7 +1696,7 @@ translate japanese block_00003B1F_eaad73fc:
 translate japanese block_00003B1F_aeba1f42:
 
     # rs_character_710A38AC94C841779DB701B5AC1010FD "你觉得我是那种轻浮的货色？\n你觉得我会那么容易就对被别人投怀送抱！？啊！？"
-    rs_character_710A38AC94C841779DB701B5AC1010FD "お前は俺をそんな尻軽だと思って、咥えさせて\n腰を振ってきたのか！？えぇ！？"
+    rs_character_710A38AC94C841779DB701B5AC1010FD "お前は俺をそんな尻軽だと思って、\n咥えさせて腰を振ってきたのか！？えぇ！？"
 
 # game/content/file_00003B10.rpy:3037
 translate japanese block_00003B1F_2f959baa:
@@ -1738,7 +1738,7 @@ translate japanese block_00003B1F_14e097f3:
 translate japanese block_00003B1F_157542ca:
 
     # rs_character_710A38AC94C841779DB701B5AC1010FD "怎么可能只是因为欲求不满这种粗俗的原因啊！！！！！"
-    rs_character_710A38AC94C841779DB701B5AC1010FD "ただ欲を満たしたいとか、そんな\n下品な目的じゃねーんだよ！！！！！"
+    rs_character_710A38AC94C841779DB701B5AC1010FD "ただ欲を満たしたいとか、\nそんな下品な目的じゃねーんだよ！！！！！"
 
 # game/content/file_00003B10.rpy:3089
 translate japanese block_00003B1F_11be85d6:
@@ -1834,7 +1834,7 @@ translate japanese block_00003B1F_3d06ec48:
 translate japanese block_00003B1F_dbfdd9bb:
 
     # rs_character_710A38AC94C841779DB701B5AC1010FD "已经到极限了！！你这种脑袋里空空如也的家伙\n怎么可能考虑得了这么复杂的问题！！"
-    rs_character_710A38AC94C841779DB701B5AC1010FD "もういいじゃん！！お前みたいな能天気野郎が\n今更そんな堅苦しく考えなくてさ！！"
+    rs_character_710A38AC94C841779DB701B5AC1010FD "もういいじゃん！！\nお前みたいな能天気野郎が今更そんな堅苦しく考えなくてさ！！"
 
 # game/content/file_00003B10.rpy:3133
 translate japanese block_00003B1F_8c967d6f:
@@ -1888,7 +1888,7 @@ translate japanese block_00003B1F_5c8af528:
 translate japanese block_00003B1F_7b4eebb5:
 
     # rs_character_E3F6ADD43DE44A428E1224756613C694 "你啊……是这么强硬的性格来着……"
-    rs_character_E3F6ADD43DE44A428E1224756613C694 "お前……そんなに強く出られる\nキャラだったっけ……。"
+    rs_character_E3F6ADD43DE44A428E1224756613C694 "お前……そんなに強く出られるキャラだったっけ……。"
 
 # game/content/file_00003B10.rpy:3217
 translate japanese block_00003B1F_91a5a6a1:
@@ -1936,7 +1936,7 @@ translate japanese block_00003B1F_50b58429:
 translate japanese block_00003B1F_0063fe4c:
 
     # rs_character_E3F6ADD43DE44A428E1224756613C694 "哈哈，伊藤本来肤色就白，脸红瞬间就写在脸上了，好可爱♪"
-    rs_character_E3F6ADD43DE44A428E1224756613C694 "あははは。伊藤は白いから、赤くなったのが\nよくわかってかわいいな♪"
+    rs_character_E3F6ADD43DE44A428E1224756613C694 "あははは。伊藤は白いから、\n赤くなったのがよくわかってかわいいな♪"
 
 # game/content/file_00003B10.rpy:3295
 translate japanese block_00003B1F_475b0887:
@@ -1960,7 +1960,7 @@ translate japanese block_00003B1F_a4c9e919:
 translate japanese block_00003B1F_0c8ad06a:
 
     # rs_character_710A38AC94C841779DB701B5AC1010FD "……嗯，真的，从旁人眼光看来或许乱七八糟的，无所谓了。"
-    rs_character_710A38AC94C841779DB701B5AC1010FD "……うん。ホント、傍からみたら\nハチャメチャだけど、いいんだ。"
+    rs_character_710A38AC94C841779DB701B5AC1010FD "……うん。\nホント、傍からみたらハチャメチャだけど、いいんだ。"
 
 # game/content/file_00003B10.rpy:3391
 translate japanese block_00003B1F_d05b4676:
@@ -1972,13 +1972,13 @@ translate japanese block_00003B1F_d05b4676:
 translate japanese block_00003B1F_2fd61516:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "吼～吼♪本就没什么基础不稳固就无法成为恋人的制约。"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "ヒューヒュー♪土台が完璧じゃないと\n恋人になっちゃいけないなんてルールないんだし"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "ヒューヒュー♪\n土台が完璧じゃないと恋人になっちゃいけないなんて\nルールないんだし"
 
 # game/content/file_00003B10.rpy:3405
 translate japanese block_00003B1F_f1402e08:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "等开始交往后再一点点稳固根基，也是一个不错的方法哦。"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "付き合ったあとで、それをコツコツ固めていくって\nやり方も、ありだと思うよ。"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "付き合ったあとで、\nそれをコツコツ固めていくってやり方も、ありだと思うよ。"
 
 # game/content/file_00003B10.rpy:3410
 translate japanese block_00003B1F_89ac1c6f:
@@ -2038,7 +2038,7 @@ translate japanese block_00003B1F_2ceb8179:
 translate japanese block_00003B1F_3d9b4c09:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "原来如此……话说回来，伊藤酱真的是很优秀的经理呐♪"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "なるほどー。それにしても、伊藤ちゃんは\n本当に立派なマネージャーさんだねぇ♪"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "なるほどー。それにしても、\n伊藤ちゃんは本当に立派なマネージャーさんだねぇ♪"
 
 # game/content/file_00003B10.rpy:3471
 translate japanese block_00003B1F_57da7f0d:
