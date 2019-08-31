@@ -74,7 +74,7 @@ init 1000 python:
                     "addons": [
                         {
                             "content": _("追记：终于和作哉重归于好，现在两人一起照顾\n小翼，也开始学习饲育知识了。"),
-                            "transform": Transform(xpos=284, ypos=550)
+                            "transform": Transform(xpos=233, ypos=550)
                         }
                     ]
                 }
@@ -190,7 +190,7 @@ init 1000 python:
                     "addons": [
                         {
                             "content": _("已经不存在这种事了"),
-                            "transform": Transform(xpos=460,ypos=501)
+                            "transform": Transform(xpos=470,ypos=520)
                         }
                     ]
                 }
@@ -337,7 +337,7 @@ init 1000 python:
                     "addons": [
                         {
                             "content": _("追加：终于结束单恋和木村顺利交往了"),
-                            "transform": Transform(xpos=285,ypos=547)
+                            "transform": Transform(xpos=240,ypos=547)
                         }
                     ]
                 }
@@ -365,11 +365,8 @@ init 1000 python:
                     "content": _("典型的脑袋是肌肉长的。\n{color=#FF0000}{s}有恋人，但交往不怎么顺利。{/s}{/color}\n体型很好，所以传、穿运动服的样子很\n吸引人，有不少粉丝。本人则非常迟钝，\n{color=#FF0000}{s}所以伊藤长久的单恋完全没有效果，{/s}{/color}\n罪恶深重的男人。性欲超强。"),
                     "addons": [
                         {
-                            "content": _("已经分手了"),
-                            "transform": Transform(xpos=500,ypos=350)
-                        }, {
                             "content": _("已经两情相悦了"),
-                            "transform": Transform(xpos=550,ypos=450)
+                            "transform": Transform(xpos=540,ypos=525)
                         }
                     ]
                 }
