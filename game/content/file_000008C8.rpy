@@ -7610,7 +7610,7 @@ label block_000008E4:
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"加藤\"" },{ "scope": 1, "content": "C2S2Phase >= 97" },{ "scope": 2, "content": "TalkKatouF2 == 1" }]):
         jump block_00001F48
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"加藤\"" },{ "scope": 1, "content": "TalkKatouStudy == False" },{ "scope": 2, "content": "C2SG1 == True" }]):
+    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"加藤\"" },{ "scope": 1, "content": "TalkKatouExamResult == False" },{ "scope": 2, "content": "C2SG1 == True" }]):
         jump block_00002525
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"加藤\"" },{ "scope": 1, "content": "C2SG1 == True" }]):
         jump block_00002528
@@ -7758,14 +7758,14 @@ label block_00002526:
 
 
     if judge_lm_condition([]):
-        jump block_00002C80
+        jump block_00004271
 
     return
 
-label block_00002C80:
-    # Node: 00002C80 (T ++)
+label block_00004271:
+    # Node: 00004271 (T ++)
     $ TalkKatou = TalkKatou + 1
-    $ TalkKatouStudy = True
+    $ TalkKatouExamResult = True
 
     if judge_lm_condition([]):
         jump block_000008E4
@@ -7809,7 +7809,7 @@ label block_00002527:
 
 
     if judge_lm_condition([]):
-        jump block_00002C80
+        jump block_00004271
 
     return
 
@@ -7932,6 +7932,16 @@ label block_000008ED:
 
     if judge_lm_condition([]):
         jump block_00002C80
+
+    return
+
+label block_00002C80:
+    # Node: 00002C80 (T ++)
+    $ TalkKatou = TalkKatou + 1
+    $ TalkKatouStudy = True
+
+    if judge_lm_condition([]):
+        jump block_000008E4
 
     return
 

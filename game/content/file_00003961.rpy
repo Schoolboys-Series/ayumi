@@ -57,6 +57,7 @@ label block_00003962:
     $ FEnterForest = True
     $ StudyCount = 0
     $ TalkKatouStudy = False
+    $ TalkKatouExamResult = False
 
     if judge_lm_condition([]):
         jump block_00003C80
@@ -591,6 +592,7 @@ label block_00003CB8:
     $ del FEnterForest
     $ del StudyCount
     $ del TalkKatouStudy
+    $ del TalkKatouExamResult
 
     return
 
@@ -1291,6 +1293,7 @@ label block_00003C7E:
     $ del FEnterForest
     $ del StudyCount
     $ del TalkKatouStudy
+    $ del TalkKatouExamResult
     jump block_00003C76
 
     return

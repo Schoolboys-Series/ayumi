@@ -1918,7 +1918,7 @@ translate japanese block_00003252_40603690:
 translate japanese block_00003252_ede1b93f:
 
     # extend "算了。\n考虑起来也很费劲，自己一个人慢慢反省去。"
-    extend "やっぱいいや。\n考えるの面倒くさいし。\n一人で勝手に反省してな。"
+    extend "やっぱいいや。\n考えるの面倒くさいし。一人で勝手に反省してな。"
 
 # game/content/file_00001947.rpy:5950
 translate japanese block_00003252_2da4b81c:
