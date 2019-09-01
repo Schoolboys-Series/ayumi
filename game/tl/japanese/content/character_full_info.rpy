@@ -772,7 +772,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "逆濑荒哉"
-    new ""
+    new "逆瀬荒哉"
 
     # content\character_full_info.rpy:18
     old "4月30日"
