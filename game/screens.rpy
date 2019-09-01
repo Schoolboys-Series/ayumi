@@ -316,11 +316,19 @@ screen gallery():
     hbox:
         style_prefix "gallery_chapter"
         $ persistent.gallery_available_count = 0
+        $ isUnlockedYakyuken = False
         for i, chapter in enumerate(gallery_list):
-            textbutton chapter[0] action CurrentGalleryPage(chapter[0])
             for picture in chapter[1]:
                 if gallery.IsUnlocked("rs_image_" + picture):
                     $ persistent.gallery_available_count += 1
+                    if chapter[0] == _("野球拳"):
+                        $ isUnlockedYakyuken = True
+
+            if chapter[0] == _("野球拳") and isUnlockedYakyuken == False:
+                textbutton "???" action CurrentGalleryPage(chapter[0])
+            else:
+                textbutton chapter[0] action CurrentGalleryPage(chapter[0])
+    
     textbutton _("返回"):
         style "gallery_button_return"
         action Return()
