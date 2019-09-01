@@ -775,29 +775,37 @@ translate japanese strings:
 
     # content\resources.rpy:322
     old " 导游"
-    new ""
+    new " 案内人"
 
     # content\resources.rpy:367
     old " 章鱼章鱼星人"
-    new ""
+    new " タコタコ星人"
 
     # content\resources.rpy:401
     old " 妖怪A"
-    new ""
+    new " お化けA"
 
     # content\resources.rpy:403
     old " 妖怪B"
-    new ""
+    new " お化けB"
 
     # content\resources.rpy:405
     old " 妖怪C"
-    new ""
+    new " お化けC"
 
     # content\resources.rpy:423
     old " A"
-    new ""
+    new " A"
 
     # content\resources.rpy:424
     old " B"
-    new ""
+    new " B"
+
+# TODO: Translation updated at 2019-09-02 00:17
+
+translate japanese strings:
+
+    # game/content/resources.rpy:424
+    old " 同学B♀"
+    new " クラスメイトB♀"
 

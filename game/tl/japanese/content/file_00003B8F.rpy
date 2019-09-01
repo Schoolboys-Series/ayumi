@@ -570,11 +570,11 @@ translate japanese block_00003B93_1ff64182:
     # rs_character_C2D77A11D4154926AC40E015A13CABE5 "男生在做什么？"
     rs_character_C2D77A11D4154926AC40E015A13CABE5 "男子なにやってるのー？"
 
-# game/content/file_00003B8F.rpy:1269
-translate japanese block_00003B93_caa73ed1:
+    # game/content/file_00003B8F.rpy:1269
+translate japanese block_00003B93_a20ac3fc:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "挫爆了，好傻。"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "サイテー。馬鹿みたーい。"
+    # rs_character_C2D77A11D4154926AC40E015A13CABE6 "挫爆了，好傻。"
+    rs_character_C2D77A11D4154926AC40E015A13CABE6 "サイテー。馬鹿みたーい。"
 
 # game/content/file_00003B8F.rpy:1275
 translate japanese block_00003B93_877131fa:
@@ -2470,8 +2470,8 @@ translate japanese strings:
 
     # content\file_00003B8F.rpy:93
     old "吾乃千岁未朽之“九尾狐”"
-    new "余は千年をもいきながらえる\"九尾の狐\""
+    new "余は千年をもいきながらえる\n　　　　　　　　　　\"九尾の狐\""
 
     # content\file_00003B8F.rpy:111
     old "自那之时，我的日常，渐渐脱节……"
-    new "そして、その日から僕の日常はかわってしまった。"
+    new "そして、その日から\n　　　　　僕の日常はかわってしまった。"
