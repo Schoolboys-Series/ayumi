@@ -421,6 +421,7 @@ init -1:
     define rs_character_31C08DBE8A3D4346A8E9496A228BE693 = Character(_(" 同学A♂"), who_color="#0099FF")
     define rs_character_1DE4030831134D25A45EAB6862904F5B = Character(_(" 同学B♂"), who_color="#0099FF")
     define rs_character_C2D77A11D4154926AC40E015A13CABE5 = Character(_(" 同学A♀"), who_color="#0099FF")
+    define rs_character_C2D77A11D4154926AC40E015A13CABE6 = Character(_(" 同学B♀"), who_color="#0099FF")
     define rs_character_F798676F0E9448499D48B0E2448BB32D = Character(_(" 布偶A·B"), who_color="#0099FF")
     define rs_character_84257BB6CDB54441907380E2DC7ABF7A = Character(_(" 布偶A"), who_color="#0099FF")
     define rs_character_50A3B84756FC458695CF53C0DC1DC85C = Character(_(" 布偶B"), who_color="#0099FF")

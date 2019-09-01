@@ -625,10 +625,10 @@ translate japanese block_00003B93_3f6d0803:
     rs_character_C2D77A11D4154926AC40E015A13CABE5 "ねぇ、お祓いとかしてもらわなくて\n大丈夫なのかな？"
 
 # game/content/file_00003B8F.rpy:1352
-translate japanese block_00003B93_b3365953:
+translate japanese block_00003B93_1d97fd0d:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "嗯，榊君，很令人担心呐……"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "うん。榊くん、心配だよね……。"
+    # rs_character_C2D77A11D4154926AC40E015A13CABE6 "嗯，榊君，很令人担心呐……"
+    rs_character_C2D77A11D4154926AC40E015A13CABE6 "うん。榊くん、心配だよね……。"
 
 # game/content/file_00003B8F.rpy:1376
 translate japanese block_00003B93_3f6ac72f:
@@ -736,7 +736,7 @@ translate japanese block_00003B9F_d79d4c51:
 translate japanese block_00003B9F_4dd95f14:
 
     # rs_character_6C344A6C39F6479282A6BD884E3F8F11 "『此乃等价交换，所做之事当于今后补偿于吾。』"
-    rs_character_6C344A6C39F6479282A6BD884E3F8F11 "『まあ、その分、等価交換という形で、\n余も楽しませてもらっているのだがな。"
+    rs_character_6C344A6C39F6479282A6BD884E3F8F11 "『まあ、その分、等価交換という形で、\n余も楽しませてもらっているのだがな。』"
 
 # game/content/file_00003B8F.rpy:1717
 translate japanese block_00003B9F_b8d65dec:
@@ -814,7 +814,7 @@ translate japanese block_00003B9F_cff585e6:
 translate japanese block_00003B9F_c16a045a:
 
     # rs_character_7009C1117C004F51829614A203C67DE7 "等、等等！我成为大人之后……你打算一直凭依在我身上！？"
-    rs_character_7009C1117C004F51829614A203C67DE7 "ちょ、ちょっとぉ！僕が大人になっても、ずっと\n憑き続けるつもりなのぉ！？"
+    rs_character_7009C1117C004F51829614A203C67DE7 "ちょ、ちょっとぉ！僕が大人になっても、\nずっと憑き続けるつもりなのぉ！？"
 
 # game/content/file_00003B8F.rpy:1803
 translate japanese block_00003B9F_296b52b3:
@@ -826,7 +826,7 @@ translate japanese block_00003B9F_296b52b3:
 translate japanese block_00003B9F_1402e0d4:
 
     # extend "实乃略壮硕之人更喜……』"
-    extend "贅沢をいえば、もっと\n筋肉質で味の濃そうなオノコが好みじゃが……。』"
+    extend "贅沢をいえば、\nもっと筋肉質で味の濃そうなオノコが好みじゃが……。』"
 
 # game/content/file_00003B8F.rpy:1813
 translate japanese block_00003B9F_d129ecd6:
@@ -844,7 +844,7 @@ translate japanese block_00003B9F_81294fc8:
 translate japanese block_00003B9F_c2870936:
 
     # extend "……虽说不是我完全同意这么做，\n但似乎也说了一些妥协的话呐。"
-    extend "……嬉々として憑かれたくも\nないけど、妥協したような言い方も癪だなあ。"
+    extend "……嬉々として憑かれたくもないけど、\n妥協したような言い方も癪だなあ。"
 
 # game/content/file_00003B8F.rpy:1852
 translate japanese block_00003B9F_de09abad:
@@ -856,7 +856,7 @@ translate japanese block_00003B9F_de09abad:
 translate japanese block_00003B9F_dd666430:
 
     # rs_character_6C344A6C39F6479282A6BD884E3F8F11 "『尝他人无处谈起之贵重体验。有何不好。』"
-    rs_character_6C344A6C39F6479282A6BD884E3F8F11 "『他の者には体験できぬ、刺激的な日々を送ることが\nできるのだぞ。よいではないか。』"
+    rs_character_6C344A6C39F6479282A6BD884E3F8F11 "『他の者には体験できぬ、\n刺激的な日々を送ることができるのだぞ。\nよいではないか。』"
 
 # game/content/file_00003B8F.rpy:1871
 translate japanese block_00003B9F_ff719bb2:
@@ -952,13 +952,13 @@ translate japanese block_00003B9F_1541e03e:
 translate japanese block_00003B9F_916a94c6:
 
     # rs_character_6C344A6C39F6479282A6BD884E3F8F11 "气血上脑……苏醒后时日尚浅，仍有不适。"
-    rs_character_6C344A6C39F6479282A6BD884E3F8F11 "気分は良かったのだがの……。まだ目覚めてから\n日が浅く、体を動かし慣れていないのじゃ。"
+    rs_character_6C344A6C39F6479282A6BD884E3F8F11 "気分は良かったのだがの……。\nまだ目覚めてから日が浅く、体を動かし慣れていないのじゃ。"
 
 # game/content/file_00003B8F.rpy:2068
 translate japanese block_00003B9F_3d2874cb:
 
     # rs_character_7009C1117C004F51829614A203C67DE7 "『真是的，比传说中最强的九尾狐呆多了～』"
-    rs_character_7009C1117C004F51829614A203C67DE7 "『まったくぅ。最強の地位である九尾の狐が\n聞いて呆れるよ～。』"
+    rs_character_7009C1117C004F51829614A203C67DE7 "『まったくぅ。\n最強の地位である九尾の狐が\n聞いて呆れるよ～。』"
 
 # game/content/file_00003B8F.rpy:2070
 translate japanese block_00003B9F_d559a747:
@@ -1348,7 +1348,7 @@ translate japanese block_00003B9F_4cb6b7e3:
 translate japanese block_00003B9F_7de6a5fb:
 
     # rs_character_7009C1117C004F51829614A203C67DE7 "（这个叫做篮球，向筐里投中次数越多就能胜利。）"
-    rs_character_7009C1117C004F51829614A203C67DE7 "（これはバスケットボールといって、カゴに\nいっぱいボールを入れたら勝ちなんだあ。）"
+    rs_character_7009C1117C004F51829614A203C67DE7 "（これはバスケットボールといって、\nカゴにいっぱいボールを入れたら勝ちなんだあ。）"
 
 # game/content/file_00003B8F.rpy:2858
 translate japanese block_00003B9F_86c1b8e3:
@@ -1540,7 +1540,7 @@ translate japanese block_00003B9F_c9f5c059:
 translate japanese block_00003B9F_c3db3bcc:
 
     # rs_character_31C08DBE8A3D4346A8E9496A228BE693 "好、好厉害……落地后马上起跳，马上就能投篮。"
-    rs_character_31C08DBE8A3D4346A8E9496A228BE693 "す、すげえ……。着地したらすぐジャンプを\n繰り返して、シュートコースを完全に塞いでる。"
+    rs_character_31C08DBE8A3D4346A8E9496A228BE693 "す、すげえ……。着地したらすぐジャンプを繰り返して、\nシュートコースを完全に塞いでる。"
 
 # game/content/file_00003B8F.rpy:3244
 translate japanese block_00003B9F_b41a5044:
@@ -1642,7 +1642,7 @@ translate japanese block_00003B9F_e8f1f5f0:
 translate japanese block_00003B9F_63db0db1:
 
     # rs_character_7009C1117C004F51829614A203C67DE7 "哈哈～那肯定是不断度过刺激的日常的原因。"
-    rs_character_7009C1117C004F51829614A203C67DE7 "へへ～ん。それはきっと、刺激的な日々を\n送ってるからだろうねぇ。"
+    rs_character_7009C1117C004F51829614A203C67DE7 "へへ～ん。それはきっと、\n刺激的な日々を送ってるからだろうねぇ。"
 
 # game/content/file_00003B8F.rpy:3471
 translate japanese block_00003B9F_be634338:
@@ -1708,7 +1708,7 @@ translate japanese block_00003B9F_57d6bcf3:
 translate japanese block_00003B9F_0bbfe8d5:
 
     # rs_character_7009C1117C004F51829614A203C67DE7 "等、请稍等一下！我确实是被什么凭依了但没那么严重的。"
-    rs_character_7009C1117C004F51829614A203C67DE7 "ちょ、ちょっと待ってくださいよぉ！たしかに\n僕には憑いてますけど、別に大丈夫なのでぇ。"
+    rs_character_7009C1117C004F51829614A203C67DE7 "ちょ、ちょっと待ってくださいよぉ！\nたしかに僕には憑いてますけど、別に大丈夫なのでぇ。"
 
 # game/content/file_00003B8F.rpy:3592
 translate japanese block_00003B9F_e37d7eb7:
@@ -1750,7 +1750,7 @@ translate japanese block_00003B9F_684e46d0:
 translate japanese block_00003B9F_24578c0d:
 
     # rs_character_C2D77A11D4154926AC40E015A13CABE5 "然后那边的住持就说要赶快带过去。"
-    rs_character_C2D77A11D4154926AC40E015A13CABE5 "そしたら、そこの住職さんに、至急連れて来る\nように言われてね。"
+    rs_character_C2D77A11D4154926AC40E015A13CABE5 "そしたら、そこの住職さんに、\n至急連れて来るように言われてね。"
 
 # game/content/file_00003B8F.rpy:3648
 translate japanese block_00003B9F_8822c6bc:
@@ -1768,7 +1768,7 @@ translate japanese block_00003B9F_87ba8537:
 translate japanese block_00003B9F_256944d0:
 
     # rs_character_C2D77A11D4154926AC40E015A13CABE5 "住持是很厉害的超能力者，在半空中正坐的照片也有！是可以相信的！！"
-    rs_character_C2D77A11D4154926AC40E015A13CABE5 "住職さんがすごい能力者で、正座で空中浮遊\nしている写真だってあるの！信用できるわ！！"
+    rs_character_C2D77A11D4154926AC40E015A13CABE5 "住職さんがすごい能力者で、\n正座で空中浮遊している写真だってあるの！\n信用できるわ！！"
 
 # game/content/file_00003B8F.rpy:3674
 translate japanese block_00003B9F_90b2a1d1:
@@ -1840,7 +1840,7 @@ translate japanese block_00003B9D_d964c06f:
 translate japanese block_00003B9D_4caf63bc:
 
     # rs_character_7009C1117C004F51829614A203C67DE7 "那个……我其实无所谓。不驱灵也没关系，现状已经很满意了。"
-    rs_character_7009C1117C004F51829614A203C67DE7 "あのぉ……僕ぅ、別に結構です。取り立てて\n現状に困っていませんし、満足しているので。"
+    rs_character_7009C1117C004F51829614A203C67DE7 "あのぉ……僕ぅ、別に結構です。\n取り立てて現状に困っていませんし、満足しているので。"
 
 # game/content/file_00003B8F.rpy:3808
 translate japanese block_00003B9D_2f1f0792:
@@ -1888,7 +1888,7 @@ translate japanese block_00003B9D_c9e87ada:
 translate japanese block_00003B9D_48ffcfdb:
 
     # rs_character_104C616BEBAF48D8B6DC31A70290659F "这么快就有效果了呐，这种辗转不安无所适从的样子\n正是你心中潜伏着恶灵的证据。"
-    rs_character_104C616BEBAF48D8B6DC31A70290659F "さっそく効果が現れたな。その苦しみは則ち\nキミに潜む悪霊が苦しんでいる証拠なのだ。"
+    rs_character_104C616BEBAF48D8B6DC31A70290659F "さっそく効果が現れたな。\nその苦しみは則ちキミに潜む悪霊が苦しんでいる証拠なのだ。"
 
 # game/content/file_00003B8F.rpy:3874
 translate japanese block_00003B9D_8fa31f0f:
@@ -2044,13 +2044,13 @@ translate japanese block_00003B9D_9007f29f:
 translate japanese block_00003B9D_c757ce1d:
 
     # rs_character_6C344A6C39F6479282A6BD884E3F8F11 "你们，拿出毅力。此等少年正处眼前，然何无人上前。"
-    rs_character_6C344A6C39F6479282A6BD884E3F8F11 "貴様ら、もっと根性を見せぬか。此様な少年が\n目の前にいるのに、誰も手を出せぬとは。"
+    rs_character_6C344A6C39F6479282A6BD884E3F8F11 "貴様ら、もっと根性を見せぬか。\n此様な少年が目の前にいるのに、誰も手を出せぬとは。"
 
 # game/content/file_00003B8F.rpy:4088
 translate japanese block_00003B9D_05514ee3:
 
     # rs_character_6C344A6C39F6479282A6BD884E3F8F11 "非为无趣？小试如何？尝博吾欢心。"
-    rs_character_6C344A6C39F6479282A6BD884E3F8F11 "ほら、興味があるのじゃろう？少しぐらい\n触ってみたらどうじゃ？余を満足させてみよ。"
+    rs_character_6C344A6C39F6479282A6BD884E3F8F11 "ほら、興味があるのじゃろう？\n少しぐらい触ってみたらどうじゃ？\n余を満足させてみよ。"
 
 # game/content/file_00003B8F.rpy:4105
 translate japanese block_00003B9D_e77fcb58:
@@ -2086,7 +2086,7 @@ translate japanese block_00003B9D_d9d0d543:
 translate japanese block_00003B9D_fc05129b:
 
     # rs_character_104C616BEBAF48D8B6DC31A70290659F "这是为了驱灵不得已而为之！绝对和我的个人兴趣无关……"
-    rs_character_104C616BEBAF48D8B6DC31A70290659F "霊を鎮めるために、仕方なく行うのだ！決して\n私の個人的な好みだとかそういうわけでは……。"
+    rs_character_104C616BEBAF48D8B6DC31A70290659F "霊を鎮めるために、仕方なく行うのだ！\n決して私の個人的な好みだとかそういうわけでは……。"
 
 # game/content/file_00003B8F.rpy:4227
 translate japanese block_00003B9D_9ab1815e:
@@ -2170,7 +2170,7 @@ translate japanese block_00003B9D_0fe5c292:
 translate japanese block_00003B9D_46e5ca1f:
 
     # rs_character_7009C1117C004F51829614A203C67DE7 "『那……那种肯定没效果所以才这么说的！\n被那些人摸起来很难受，只是这样而已。』"
-    rs_character_7009C1117C004F51829614A203C67DE7 "『あ……あんなの、どうせ効果無いし！あんな人に\n触られても、気持ち悪いだけだったもん。』"
+    rs_character_7009C1117C004F51829614A203C67DE7 "『あ……あんなの、どうせ効果無いし！\nあんな人に触られても、気持ち悪いだけだったもん。』"
 
 # game/content/file_00003B8F.rpy:4379
 translate japanese block_00003B9D_81818df8:
@@ -2224,7 +2224,7 @@ translate japanese block_00003B9D_0b31abca:
 translate japanese block_00003B9D_fcc36038:
 
     # rs_character_6C344A6C39F6479282A6BD884E3F8F11 "确实。若非如此汝无由与吾相见。"
-    rs_character_6C344A6C39F6479282A6BD884E3F8F11 "じゃろうな。そうでなけば、あんな場所で\n余と出会うこともないはずだからのう。"
+    rs_character_6C344A6C39F6479282A6BD884E3F8F11 "じゃろうな。そうでなけば、\nあんな場所で余と出会うこともないはずだからのう。"
 
 # game/content/file_00003B8F.rpy:4447
 translate japanese block_00003B9D_11a00a49:
@@ -2242,25 +2242,25 @@ translate japanese block_00003B9D_9ba6191f:
 translate japanese block_00003B9D_760dcbad:
 
     # rs_character_7009C1117C004F51829614A203C67DE7 "『不过，和九尾一起的话，也许就能去到了。就像之前的湖一样。』"
-    rs_character_7009C1117C004F51829614A203C67DE7 "『でも、九尾と一緒だったら、そんな所にも行ける\nかもしれない。この前の湖を見られたみたいに。』"
+    rs_character_7009C1117C004F51829614A203C67DE7 "『でも、九尾と一緒だったら、\nそんな所にも行けるかもしれない。\nこの前の湖を見られたみたいに。』"
 
 # game/content/file_00003B8F.rpy:4453
 translate japanese block_00003B9D_5df1f3ab:
 
     # rs_character_6C344A6C39F6479282A6BD884E3F8F11 "有理。驱吾之力如此愿景稍事即可。"
-    rs_character_6C344A6C39F6479282A6BD884E3F8F11 "そうじゃのう。余の力を以てすれば、そなたの\n望みを叶えることは容易いじゃろう。"
+    rs_character_6C344A6C39F6479282A6BD884E3F8F11 "そうじゃのう。余の力を以てすれば、\nそなたの望みを叶えることは容易いじゃろう。"
 
 # game/content/file_00003B8F.rpy:4455
 translate japanese block_00003B9D_2c9883b3:
 
     # rs_character_7009C1117C004F51829614A203C67DE7 "『这是我的梦想，能看到谁也不知道的、\n谁也为之赞叹的美妙景色。所以，九尾是必需的。』"
-    rs_character_7009C1117C004F51829614A203C67DE7 "『夢なんだ。誰も見たことのない、息を呑むような\n絶景を見たい。だから、九尾が必要ってだけ。』"
+    rs_character_7009C1117C004F51829614A203C67DE7 "『夢なんだ。\n誰も見たことのない、息を呑むような絶景を見たい。\nだから、九尾が必要ってだけ。』"
 
 # game/content/file_00003B8F.rpy:4457
 translate japanese block_00003B9D_ba7fe21d:
 
     # rs_character_6C344A6C39F6479282A6BD884E3F8F11 "如此所言，吾之用处仅剩于此，实乃悲伤之事。"
-    rs_character_6C344A6C39F6479282A6BD884E3F8F11 "では、やはり余は利用する以外に価値のない存在\nというわけか。悲しいのぉ。"
+    rs_character_6C344A6C39F6479282A6BD884E3F8F11 "では、やはり余は利用する以外に\n価値のない存在というわけか。悲しいのぉ。"
 
 # game/content/file_00003B8F.rpy:4463
 translate japanese block_00003B9D_17ac07ff:
@@ -2272,7 +2272,7 @@ translate japanese block_00003B9D_17ac07ff:
 translate japanese block_00003B9D_b090b81d:
 
     # rs_character_7009C1117C004F51829614A203C67DE7 "『比起一个人旅行，肯定和九尾一起更有趣。景色当然是要和别人一起看的。』"
-    rs_character_7009C1117C004F51829614A203C67DE7 "『きっと、一人で旅するよりも、九尾と一緒の方が\n楽しい。景色は、誰かと分かち合ってこそだ。』"
+    rs_character_7009C1117C004F51829614A203C67DE7 "『きっと、一人で旅するよりも、九尾と一緒の方が楽しい。\n景色は、誰かと分かち合ってこそだ。』"
 
 # game/content/file_00003B8F.rpy:4467
 translate japanese block_00003B9D_5364c0cf:
@@ -2314,25 +2314,25 @@ translate japanese block_00003B9D_4632e8ea:
 translate japanese block_00003B9D_24adc702:
 
     # rs_character_104C616BEBAF48D8B6DC31A70290659F "这股冲动现在该怎么处理！！这种……就像个笨蛋！！（哭）。"
-    rs_character_104C616BEBAF48D8B6DC31A70290659F "どうしてくれるのよ、この気持ち！！\nこんなの……馬鹿みたい！！シクシク。ズビー！"
+    rs_character_104C616BEBAF48D8B6DC31A70290659F "どうしてくれるのよ、この気持ち！！\nこんなの……馬鹿みたい！！シクシク。\nズビー！"
 
 # game/content/file_00003B8F.rpy:4556
 translate japanese block_00003B9D_8b61d59c:
 
     # rs_character_4DCC3C577A8D48B2BBAD4A0EEFF2D0AB "啊……师父，完全被打击到了呐。"
-    rs_character_4DCC3C577A8D48B2BBAD4A0EEFF2D0AB "ああ……お上人様が、完全に素に\n戻ってらっしゃる……。"
+    rs_character_4DCC3C577A8D48B2BBAD4A0EEFF2D0AB "ああ……お上人様が、\n完全に素に戻ってらっしゃる……。"
 
 # game/content/file_00003B8F.rpy:4558
 translate japanese block_00003B9D_bce581e5:
 
     # rs_character_EB1A89F4BFB24C708DBFFE2AD9447ED9 "之前还是人妖CLUB的妈妈桑。\n就是那里破产后迷茫街头之时才走上这条道路的。"
-    rs_character_EB1A89F4BFB24C708DBFFE2AD9447ED9 "前は、オカマバーのママだったんだってさ。そこが\n潰れて、路頭に迷った際この道に目覚めたとか。"
+    rs_character_EB1A89F4BFB24C708DBFFE2AD9447ED9 "前は、オカマバーのママだったんだってさ。\nそこが潰れて、路頭に迷った際この道に目覚めたとか。"
 
 # game/content/file_00003B8F.rpy:4567
 translate japanese block_00003B9D_94e30e19:
 
     # rs_character_104C616BEBAF48D8B6DC31A70290659F "噫——！！那个令人生厌的小子，都怪他在同一幢楼里\n开了家一模一样的店，要不然现在肯定业务还很好的！"
-    rs_character_104C616BEBAF48D8B6DC31A70290659F "キィー！！あの忌々しい小童が、同じビルに新店を\n構えさえしなければ、繁盛してたのよ！"
+    rs_character_104C616BEBAF48D8B6DC31A70290659F "キィー！！あの忌々しい小童が、\n同じビルに新店を構えさえしなければ、\n繁盛してたのよ！"
 
 # game/content/file_00003B8F.rpy:4569
 translate japanese block_00003B9D_2cbec42c:

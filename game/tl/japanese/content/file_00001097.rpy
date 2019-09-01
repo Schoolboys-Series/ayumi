@@ -274,7 +274,7 @@ translate japanese block_000025F2_bd6a0d88:
 translate japanese block_00001099_61ad8def:
 
     # rs_character_7009C1117C004F51829614A203C67DE7 "我的身体开始发生变化\n是在暑假和四朗去{color=#0080FF}银刚山{/color}之后……"
-    rs_character_7009C1117C004F51829614A203C67DE7 "僕の体に異変が現れたのは、\n夏休みに四朗と『{color=#0080FF}銀剛山（ぎんごうざん）{/color}』\nへ登山したその後あたり……。"
+    rs_character_7009C1117C004F51829614A203C67DE7 "僕の体に異変が現れたのは、\n夏休みに四朗と\n『{color=#0080FF}銀剛山（ぎんごうざん）{/color}』\nへ登山したその後あたり……。"
 
 # game/content/file_00001097.rpy:2115
 translate japanese block_00001099_3d7bb009:
@@ -292,24 +292,24 @@ translate japanese strings:
 
     # content\file_00001097.rpy:1350
     old "公园内山"
-    new ""
+    new "裏山"
 
     # content\file_00001097.rpy:1396
     old "公园湖边"
-    new ""
+    new "裏山(湖)"
 
     # content\file_00001097.rpy:1859
     old "要乘坐巴士吗？"
-    new ""
+    new "バスで銀剛山まで移動しますか？"
 
     # content\file_00001097.rpy:1859
     old "坐"
-    new ""
+    new "乗る"
 
     # content\file_00001097.rpy:1859
     old "不坐"
-    new ""
+    new "乗らない"
 
     # content\file_00001097.rpy:1923
     old "道路"
-    new ""
+    new "道路"

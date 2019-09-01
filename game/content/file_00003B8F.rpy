@@ -57,7 +57,7 @@ label block_00003B92:
     show gratitude_payment_of_fox_extend_image_1 (_("那本缘起……某个夏日")) as cg_text at Transform(xpos=38, ypos=239)
     with rs_effect_995A246CCA8349168AE1D97DE29F1026
 
-    pause
+    pause 3
 
     hide cg_text
     show rs_image_C5F762A9CB2F4A829F005CAF45FBECFE as tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 zorder zorder_tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 onlayer master
@@ -75,7 +75,7 @@ label block_00003B92:
     show gratitude_payment_of_fox_extend_image_2 (_("与友人登山，归途之时\n处羊肠小径，机缘巧合\n恐忽现神像，渐起狐音")) as cg_text at Transform(xalign=0.5, yalign=0.4)
     with rs_effect_995A246CCA8349168AE1D97DE29F1026
 
-    pause
+    pause 6
 
     hide cg_text
     show rs_image_CBF16F392FD743CB96B6F614D63DD9C1 as tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 zorder zorder_tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 onlayer master
@@ -93,7 +93,7 @@ label block_00003B92:
     show gratitude_payment_of_fox_extend_image_3 (_("吾乃千岁未朽之“九尾狐”")) as cg_text at Transform(xpos=245, ypos=262)
     with rs_effect_995A246CCA8349168AE1D97DE29F1026
 
-    pause
+    pause 3
 
     hide cg_text
     show rs_image_1D94063D11F0441BA6ADC05DF58A1143 as tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 zorder zorder_tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 onlayer master
@@ -111,7 +111,7 @@ label block_00003B92:
     show gratitude_payment_of_fox_extend_image_4 (_("自那之时，我的日常，渐渐脱节……")) as cg_text at Transform(xpos=222, ypos=154)
     with rs_effect_995A246CCA8349168AE1D97DE29F1026
 
-    pause
+    pause 3
 
     stop music fadeout 3
     $ sys_music_current_file = ""
@@ -1266,7 +1266,7 @@ label block_00003B93:
         play effect "sound/Effect Sound/Cute 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 1.ogg"
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "挫爆了，好傻。"
+    rs_character_C2D77A11D4154926AC40E015A13CABE6 "挫爆了，好傻。"
 
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 2.ogg" noloop
@@ -1349,7 +1349,7 @@ label block_00003B93:
 
     rs_character_C2D77A11D4154926AC40E015A13CABE5 "呐，不做一下驱灵仪式不要紧吗？"
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "嗯，榊君，很令人担心呐……"
+    rs_character_C2D77A11D4154926AC40E015A13CABE6 "嗯，榊君，很令人担心呐……"
 
     stop music fadeout 2
     $ sys_music_current_file = ""

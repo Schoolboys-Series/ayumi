@@ -142,7 +142,7 @@ translate japanese block_00000A73_efbf9d33:
 translate japanese block_00003BA2_48fb0217:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『事件{/color}{color=#3A00C4}“狐的报恩”{/color}{color=#0080FF}成功结束。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ストーリーモード{/color}{color=#3A00C4}“狐の恩返し”{/color}{color=#0080FF}をクリアしました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ストーリーモード{/color}\n{color=#3A00C4}“狐の恩返し”{/color}{color=#0080FF}をクリアしました。』{/color}"
 
 # game/content/file_00000A20.rpy:619
 translate japanese block_000025D2_a2ff2598:
