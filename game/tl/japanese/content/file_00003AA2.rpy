@@ -337,10 +337,10 @@ translate japanese block_00003AA9_ae019e0a:
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "やっぱ女子やな。一度でいいから、\nベッドでイチャラブ♪してみたいわぁ～。"
 
 # game/content/file_00003AA2.rpy:508
-translate japanese block_00003AA9_d740eed1:
+translate japanese block_00003AA9_d649926f:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "肯定会是可爱的脸蛋和平稳的呼吸……脸也软软的。\n{nw}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "きっと、かわいい寝顔で、静かな寝息を\n奏でるんやろうな……。ほっぺもぷにぷにで。\n{nw}\n"
+    # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "肯定会是可爱的脸蛋和平稳的呼吸……脸也软软的。"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "きっと、かわいい寝顔で、\n静かな寝息を奏でるんやろうな……。\nほっぺもぷにぷにで。"
 
 # game/content/file_00003AA2.rpy:518
 translate japanese block_00003AA9_5706879f:
@@ -622,7 +622,7 @@ translate japanese block_00003AA9_94ff8a3a:
 translate japanese block_00003AA9_9ddc4aaa:
 
     # rs_character_7C178421D3DA4E2CB70D4336919888FB "原来如此，我被那里的学生冷嘲热讽了！\n"
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "なるほど。僕、そこの生徒さんに滅茶苦茶\nされたんですね！\n"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "なるほど。\n僕、そこの生徒さんに滅茶苦茶されたんですね！\n"
 
 # game/content/file_00003AA2.rpy:965
 translate japanese block_00003AA9_9d9316df:
@@ -726,11 +726,11 @@ translate japanese block_00003AA9_25596314:
     # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "不对！不是那么回事！！\n我们学校是男校，根本就不会有那种事好不。"
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "いや！ちゃいますちゃいます！！\nウチ、男子校ですよ。そもそも縁がないんです。"
 
-# game/content/file_00003AA2.rpy:1099
-translate japanese block_00003AA9_bbdcf76a:
+    # game/content/file_00003AA2.rpy:1099
+translate japanese block_00003AA9_2a2b2d6a:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "诶？为什么？男生之间的恋爱也是很普通的哦？"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "え？どうして？\n男同士の恋愛だって、普通にあるでしょう？"
+    # rs_character_7C178421D3DA4E2CB70D4336919888FB "诶？为什么？男生之间的恋爱也是很普通的哦？"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "え？どうして？\n男同士の恋愛だって、普通にあるでしょう？"
 
 # game/content/file_00003AA2.rpy:1105
 translate japanese block_00003AA9_a7d6f4c3:
@@ -1324,7 +1324,7 @@ translate japanese block_00003AAE_d870eaa0:
 translate japanese block_00003AAE_92ec7db0:
 
     # rs_character_7C178421D3DA4E2CB70D4336919888FB "拒绝和我一起入浴可是不会被粉丝们原谅的！\n"
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "僕と一緒のお風呂を断ったら、それこそファンが\n赦しませんよ！\n"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "僕と一緒のお風呂を断ったら、\nそれこそファンが赦しませんよ！\n"
 
 # game/content/file_00003AA2.rpy:2429
 translate japanese block_00003AAE_29e930bd:
@@ -1882,7 +1882,7 @@ translate japanese block_00003AAE_77a8f29e:
 translate japanese block_00003AAE_1d75f5fa:
 
     # rs_character_7C178421D3DA4E2CB70D4336919888FB "而抽奖中了的三朗前辈会有特别观赏排练的机会哦。"
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "抽選で見事当選した三朗さんには、特別に\nリハーサルを聴いてもらいました。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "抽選で見事当選した三朗さんには、\n特別にリハーサルを聴いてもらいました。"
 
 # game/content/file_00003AA2.rpy:3271
 translate japanese block_00003AAE_fcc439b7:
@@ -1894,7 +1894,7 @@ translate japanese block_00003AAE_fcc439b7:
 translate japanese block_00003AAE_903d3bc8:
 
     # rs_character_7C178421D3DA4E2CB70D4336919888FB "请务必！到时候也能像今天一样好好把学到的东西说出来就好了呐。"
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "よろしくお願いします！当日も今日みたいに、\n勉強した成果を喋れるといいな。"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "よろしくお願いします！当日も今日みたいに、\n勉強した成果を喋れるといいな。\n"
 
 # game/content/file_00003AA2.rpy:3289
 translate japanese block_00003AAE_75299e78:
@@ -2074,7 +2074,7 @@ translate japanese block_00003AAE_c3c9f615:
 translate japanese block_00003AAE_6552cf52:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "慎酱今天休息呢。\n最近一直觉得状态不好，果然还是感冒了呐——"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "慎ちゃん、今日お休みなんだ。最近しんどそうだったけど、\nやっぱ風邪ひいてたんだねー。"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "慎ちゃん、今日お休みなんだ。\n最近しんどそうだったけど、やっぱ風邪ひいてたんだねー。"
 
 # game/content/file_00003AA2.rpy:3593
 translate japanese block_00003AAE_2ea87502:
@@ -2488,7 +2488,7 @@ translate japanese block_00003AAE_680c8c53:
 translate japanese block_00003AAE_3b202b82:
 
     # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "奥村，我喜欢你。{w}\n和我……{w=0.55}{nw}"
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "奥村。俺、お前のことが好きや。{w}\n\n俺と……{w=0.55}{nw}"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "奥村。俺、お前のことが好きや。{w}\n俺と……{w=0.55}{nw}"
 
 # game/content/file_00003AA2.rpy:4246
 translate japanese block_00003AAE_3255c1ce:
@@ -2758,7 +2758,7 @@ translate japanese block_00003AAE_82f05339:
 translate japanese block_00003AAE_7c7d9c3d:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "我也觉得不坏，感觉不错，不过重要的是尝到甜头的回头客越来越多了。"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "オイラはオイラで気持ち良かったし、味を占めた\nリピータが増えて繁盛したから、気分良かった。"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "オイラはオイラで気持ち良かったし、\n味を占めたリピーターが増えて繁盛したから、\n気分良かった。"
 
 # game/content/file_00003AA2.rpy:4575
 translate japanese block_00003AAE_1ac91570:
@@ -2797,10 +2797,10 @@ translate japanese block_00003AAE_2a372762:
     rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "それ、やめることはできんのか？\n少なくとも、お前はもう参加しないとか……。"
 
 # game/content/file_00003AA2.rpy:4601
-translate japanese block_00003AAE_b7337c79:
+translate japanese block_00003AAE_87494a9e:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "唔～嗯。说实话，\n现在我家的营业呃很大程度上靠的是圈子里的知名度。"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "う～ん。正直、今のウチの経営は、かなり\nハッテン場としての知名度に助けられててねー。"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "唔～嗯。说实话，\n现在我家的营业呃很大程度上靠的是圈子里的知名度。"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "う～ん。正直、今のウチの経営は、\nかなりハッテン場としての知名度に助けられててねー。"
 
 # game/content/file_00003AA2.rpy:4606
 translate japanese block_00003AAE_34b06c25:
@@ -2848,7 +2848,7 @@ translate japanese block_00003AAE_28bb54da:
 translate japanese block_00003AAE_4e803f4b:
 
     # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "啊～说是那么说，好方法也不是那么容易想出来的。{w}\n肯定不能维持现状，但不这么做客人肯定会减少。"
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "ああ～といっても、良い案が浮かばへんなあ。{w}現状を\nどうにしなきゃやけど、それはそれで客が減ってまう。"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "ああ～といっても、良い案が浮かばへんなあ。{w}\n現状をどうにしなきゃやけど、それはそれで客が減ってまう。"
 
 # game/content/file_00003AA2.rpy:4669
 translate japanese block_00003AAE_95fb31f1:
@@ -2920,7 +2920,7 @@ translate japanese block_00003AAE_2ba06b27:
 translate japanese block_00003AAE_078cafce:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "唔～嗯。那种程度的接客，GAY们和正太控们真的会满足吗。"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "う～ん。そんな接客で、ゲイや\nショタコンの皆さんは我慢してくださるかねえ。"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "う～ん。そんな接客で、\nゲイやショタコンの皆さんは我慢してくださるかねえ。"
 
 # game/content/file_00003AA2.rpy:4728
 translate japanese block_00003AAE_04c15667:
@@ -2986,7 +2986,7 @@ translate japanese block_00003AAE_610d7053:
 translate japanese block_00003AAE_75dc8f3a:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "嗯，是呐。然后就是，我家在圈子里的那些传闻了。"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "うん、そだね。あとは、ウチがハッテン場だって\n噂を何とかしないと。"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "うん、そだね。あとは、\nウチがハッテン場だって噂を何とかしないと。"
 
 # game/content/file_00003AA2.rpy:4782
 translate japanese block_00003AAE_ac4e1885:
@@ -3016,7 +3016,7 @@ translate japanese block_00003AAE_ebf20aad:
 translate japanese block_00003AAE_f16f5437:
 
     # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "目的一致，只要互相尽全力就好了！对不。"
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "ゴールは一緒なんやから、お互いベストを尽くして\nがんばるだけや！なっ。"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "ゴールは一緒なんやから、\nお互いベストを尽くしてがんばるだけや！なっ。"
 
 # game/content/file_00003AA2.rpy:4821
 translate japanese block_00003AAE_787de6a6:
@@ -3172,4 +3172,4 @@ translate japanese strings:
 
     # content\file_00003AA2.rpy:26
     old "「我是直的，现无对象」"
-    new "{font=font/honyaji-re.ttf}「吾輩はノンケである\n伴侶はまだない」{/font}"
+    new "{font=font/honyaji-re.ttf}「吾輩はノンケである。\n　伴侶はまだない。」{/font}"

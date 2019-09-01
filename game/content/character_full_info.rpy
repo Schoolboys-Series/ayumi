@@ -231,7 +231,7 @@ init 1000 python:
                     "addons": [
                         {
                             "content": _("追加：终于意识到自己的感情\n开始和慎太郎交往了"),
-                            "transform": Transform(xpos=330,ypos=535)
+                            "transform": Transform(xpos=240,ypos=549)
                         }
                     ]
                 }

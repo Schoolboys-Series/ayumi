@@ -1718,7 +1718,7 @@ label block_00002EF7:
 
 label block_00002405:
     # Node: 00002405 (Judo 月)
-    $ sys_lm_menu_item = [{"pos": (320, 232),"image": "images/Chapter 2/Menu/Tsuki.png","hover": "images/Chapter 2/Menu/Tsuki hover.png","name": "月"}, {"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}]
+    $ sys_lm_menu_item = [{"pos": (320, 232),"image": "images/Chapter 2/Menu/Tsuki.png","hover": "images/Chapter 2/Menu/Tsuki hover.png","name": "月"}, {"pos": (497, 230),"image": "images/Chapter 2/Menu/Sora.png","hover": "images/Chapter 2/Menu/Sora hover.png","name": "空"}, {"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}]
     $ sys_lm_menu_sound = {"hover": "sound/Effect Sound/System - choose.ogg", "click": "sound/Effect Sound/System - click.ogg"}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0.2, 0.2) from _call_lm_menu_551
     $ del sys_lm_menu_item
@@ -4544,6 +4544,9 @@ label block_00001130:
     $ set_place_title("")
     with rs_effect_1C428704E5E24078848D388A31B861CE
 
+    stop music fadeout 1
+    $ sys_music_current_file = ""
+
     if sys_music2_current_file != "sound/Effect Sound/Wind 1.ogg":
         play music2 "sound/Effect Sound/Wind 1.ogg" loop
         $ sys_music2_current_file = "sound/Effect Sound/Wind 1.ogg"
@@ -4625,13 +4628,13 @@ label block_00001130:
     show rs_image_D544765C4BA64EC6B46D01C4A92BD5D1 as tag_25C83DBF35814073B3DF9FF7BCEF75AC zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
-    pause 0.6
+    pause 1
 
     extend "……{nw}"
     show rs_image_388ABE71A7C0480E9A406F1C2CA9B003 as tag_25C83DBF35814073B3DF9FF7BCEF75AC zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
-    pause 0.6
+    pause 1
 
     extend "……{nw}"
     show rs_image_A4E2B01D0ECA431CB76DADC3863D74BF as tag_25C83DBF35814073B3DF9FF7BCEF75AC zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
@@ -4710,6 +4713,10 @@ label block_00001130:
     show rs_image_1AC471B83CA745FC99DFBE878C4B76B2 as tag_25C83DBF35814073B3DF9FF7BCEF75AC zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     show rs_image_AA7BE8B3E89D43F6AC40550A8222044B as tag_F533D76D6EDF4AB39ECAAB90D8F4723D zorder zorder_tag_F533D76D6EDF4AB39ECAAB90D8F4723D onlayer master
     with rs_effect_1B5FF639D1044BDDAEE2A66FB32F2CF7
+
+    if sys_music_current_file != "sound/BGM/Theme/Schoolboys Theme - Saburo.ogg":
+        play music "sound/BGM/Theme/Schoolboys Theme - Saburo.ogg" loop
+        $ sys_music_current_file = "sound/BGM/Theme/Schoolboys Theme - Saburo.ogg"
 
     extend "那下次社团里的大家就一起去妨碍营业好了。{w}\n真觉得抱歉就来好好孝顺我们。"
 

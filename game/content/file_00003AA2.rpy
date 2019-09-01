@@ -505,7 +505,7 @@ label block_00003AA9:
     show rs_image_9BD814B82EB04FBCA4D4A9D9FE4C070D as tag_25C83DBF35814073B3DF9FF7BCEF75AC zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "肯定会是可爱的脸蛋和平稳的呼吸……脸也软软的。\n{nw}"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "肯定会是可爱的脸蛋和平稳的呼吸……脸也软软的。"
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
@@ -1096,7 +1096,7 @@ label block_00003AA9:
     show rs_image_55BA6F9211CF475F8927D40CFEC977B2 as tag_DFA3500588174872BA20EBF28D506BD4 zorder zorder_tag_DFA3500588174872BA20EBF28D506BD4 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "诶？为什么？男生之间的恋爱也是很普通的哦？"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "诶？为什么？男生之间的恋爱也是很普通的哦？"
     # I had deleted all comments but except this: Is this game a game that in purpose to lead people to gay's road?
 
     show rs_image_7303A840CCBB4DFCA4E6D8A50257852D as tag_25C83DBF35814073B3DF9FF7BCEF75AC zorder zorder_tag_25C83DBF35814073B3DF9FF7BCEF75AC onlayer master
@@ -4598,7 +4598,7 @@ label block_00003AAE:
     show rs_image_D88BEA8DA4D145D5B87F3A179B88BE87 as tag_A77E36FB70FF4F60B12060B2747E46D1 zorder zorder_tag_A77E36FB70FF4F60B12060B2747E46D1 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "唔～嗯。说实话，\n现在我家的营业呃很大程度上靠的是圈子里的知名度。"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "唔～嗯。说实话，\n现在我家的营业呃很大程度上靠的是圈子里的知名度。"
 
     show rs_image_FF491F5A6126442898B268B47C1758E6 as tag_A77E36FB70FF4F60B12060B2747E46D1 zorder zorder_tag_A77E36FB70FF4F60B12060B2747E46D1 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01

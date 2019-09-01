@@ -178,7 +178,7 @@ translate japanese block_000009E0_0fe5d69e:
 translate japanese block_000009E0_175027c5:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔，没、没问题的。我又不像慎酱那么重口。"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "うっ。だ、大丈夫だよ。オレは慎ちゃんほど激しいことはやってないもん。"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "うっ。だ、大丈夫だよ。\nオレは慎ちゃんほど激しいことはやってないもん。"
 
 # game/content/file_000008C8.rpy:1290
 translate japanese block_000009E0_c49c4933:
@@ -352,7 +352,7 @@ translate japanese block_00000A13_48ff90a8:
 translate japanese block_00003AB9_fadd512e:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『事件{/color}{color=#008A45}“我是直的，现无对象”{/color}{color=#0080FF}成功结束。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ストーリーモード{/color}{color=#008A45}“吾輩はノンケである。伴侶はまだない。”{/color}{color=#0080FF}をクリアしました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ストーリーモード{/color}\n{color=#008A45}“吾輩はノンケである。伴侶はまだない。”{/color}\n{color=#0080FF}をクリアしました。』{/color}"
 
 # game/content/file_000008C8.rpy:1908
 translate japanese block_00002520_85724bea:
@@ -2123,7 +2123,7 @@ translate japanese block_000018BD_ddef05d5:
 translate japanese block_000018BD_92180d21:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "好呀——慎酱。\n之前你也说过我们的{color=#008080}校长有那方面的兴趣{/color}呢。{nw}"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "やっほーしんちゃん。\n{color=#008080}うちの校長はそういうホットな趣味がある{/color}\nってこの前言ってたもんね。{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "やっほーしんちゃん。\n{color=#008080}うちの校長はそういうホットな趣味がある{/color}って\nこの前言ってたもんね。{nw}"
 
 # game/content/file_000008C8.rpy:7127
 translate japanese block_000018BD_e1f385a7:

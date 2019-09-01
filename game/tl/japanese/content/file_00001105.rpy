@@ -40,13 +40,13 @@ translate japanese block_000023F8_ac60fd0b:
 translate japanese block_000023F8_84efd86b:
 
     # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "原来如此。不过，可以的话那边就别动了，\n我还得用它睡午觉。"
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "なるほど。あーでも、できれば、そこのマットは\nそのままにしてくれや。俺、たまに昼寝に使うから。"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "なるほど。あーでも、できれば、\nそこのマットはそのままにしてくれや。\n俺、たまに昼寝に使うから。"
 
 # game/content/file_00001105.rpy:328
 translate japanese block_000023F8_28d58377:
 
     # rs_character_E3F6ADD43DE44A428E1224756613C694 "好好，明白了，我会告诉他们的。\n"
-    rs_character_E3F6ADD43DE44A428E1224756613C694 "はいはい、わかったよ。ってことで、他のやつらにも伝言ヨロ。\n"
+    rs_character_E3F6ADD43DE44A428E1224756613C694 "はいはい、わかったよ。\nってことで、他のやつらにも伝言ヨロ。\n"
 
 # game/content/file_00001105.rpy:332
 translate japanese block_000023F8_fae882cf:
@@ -142,7 +142,7 @@ translate japanese block_00002406_7af814c9:
 translate japanese block_00002406_a516ff5f:
 
     # rs_character_710A38AC94C841779DB701B5AC1010FD "木村，今天放学后和我去那家店的话刚才的事就原谅你。"
-    rs_character_710A38AC94C841779DB701B5AC1010FD "木村。今日帰りにその風呂屋、奢ってくれたら\nさっきの件は許してやる。"
+    rs_character_710A38AC94C841779DB701B5AC1010FD "木村。今日帰りにその風呂屋、\n奢ってくれたらさっきの件は許してやる。"
 
 # game/content/file_00001105.rpy:584
 translate japanese block_00002406_6f8d19bf:
@@ -166,13 +166,13 @@ translate japanese block_00002406_3b423698:
 translate japanese block_00002406_ae6b1416:
 
     # rs_character_710A38AC94C841779DB701B5AC1010FD "什！！{nw}"
-    rs_character_710A38AC94C841779DB701B5AC1010FD "んな！！{nw}"
+    rs_character_710A38AC94C841779DB701B5AC1010FD "んな！！{nw}\n"
 
 # game/content/file_00001105.rpy:618
 translate japanese block_00002406_b6b66c78:
 
     # extend "{size=16}{/size}{color=#808080}笨蛋笨蛋笨蛋{/color}{size=16}{color=#808080}！！\n{/color}{/size}{color=#808080}被这么说还真有点高兴的{/color}{size=16}{color=#808080}！！！{/color}{/size}"
-    extend "{color=#808080}{size=16}バカバカバカ！！そんなこと言われても\nちっとも嬉しくねーし！！！{/size}{/color}"
+    extend "{color=#808080}{size=16}バカバカバカ！！\nそんなこと言われてもちっとも嬉しくねーし！！！{/size}{/color}"
 
 # game/content/file_00001105.rpy:627
 translate japanese block_00002406_2e5f07b5:
@@ -256,7 +256,7 @@ translate japanese block_000023F9_706c9c52:
 translate japanese block_000023F9_35536920:
 
     # extend "“{color=#FF00FF}那个♂{/color}”……么？"
-    extend "“{color=#FF00FF}コレ♂/color}”……け？"
+    extend "“{color=#FF00FF}コレ♂{/color}”……け？"
 
 # game/content/file_00001105.rpy:1010
 translate japanese block_000023F9_7e20fd0e:
@@ -286,7 +286,7 @@ translate japanese block_000023F9_7878a7e5:
 translate japanese block_000023F9_652d9a4a:
 
     # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "反正奥村又管不住嘴。那家伙真的很喜欢这种话题。\n"
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "どうせ奥村の口車に乗せられたんやろ。アイツ、ホンマに\nそういうの好きやな。\n"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "どうせ奥村の口車に乗せられたんやろ。\nアイツ、ホンマにそういうの好きやな。\n"
 
 # game/content/file_00001105.rpy:1037
 translate japanese block_000023F9_e65736d8:
@@ -424,7 +424,7 @@ translate japanese block_00001150_414588fa:
 translate japanese block_00001150_d0ccac30:
 
     # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "不是的哦，哥哥。{w}能自然地处理那些事，珍重地处理那些事，\n有这样的自觉也是很重要的。"
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "違うよ、兄さん。{w}そうやって自然のことと考えず、いかに大事で\n大切なことなのかを自覚できることが重要なんだよ。"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "違うよ、兄さん。{w}\nそうやって自然のことと考えず、\nいかに大事で大切なことなのかを自覚できることが重要なんだよ。"
 
 # game/content/file_00001105.rpy:1244
 translate japanese block_00001150_477f2900:
@@ -466,7 +466,7 @@ translate japanese block_0000241A_8804ca4a:
 translate japanese block_0000112D_84482e43:
 
     # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "YO，佐藤君。\n如何，今天放学后要不要去“花乃汤”？？"
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "よっ、佐藤くん。 　どうでっか？今度、学校帰りに\n『花乃湯』寄って行きませんか？"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "よっ、佐藤くん。どうでっか？\n今度、学校帰りに\n『花乃湯』寄って行きませんか？"
 
 # game/content/file_00001105.rpy:1400
 translate japanese block_0000112D_3d424eae:
@@ -514,7 +514,7 @@ translate japanese block_0000112D_1bc7ab40:
 translate japanese block_0000112D_21281ac9:
 
     # rs_character_EA9AA88E88D84B559B925363E2931756 "也是呢。一群人一起去洗个澡有时也不错。\n"
-    rs_character_EA9AA88E88D84B559B925363E2931756 "まぁそうだね。\n銭湯なんて滅多に行かないから\nたまにはいいかな。\n"
+    rs_character_EA9AA88E88D84B559B925363E2931756 "まぁそうだね。\n銭湯なんて滅多に行かないから\nたまにはいいかな。"
 
 # game/content/file_00001105.rpy:1441
 translate japanese block_0000112D_57dc59ac:
@@ -550,7 +550,7 @@ translate japanese block_00002404_8006dd11:
 translate japanese block_00002404_73efb473:
 
     # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "想想也是呐——！！{w}\n倒不如说已经去过……？"
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "ですよねー！！{w}\nてことは\nもう既に何度も利用してい……？"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "ですよねー！！{w}\nてことはもう既に何度も利用してい……？"
 
 # game/content/file_00001105.rpy:1625
 translate japanese block_00002404_1db0bfa8:
@@ -1036,7 +1036,7 @@ translate japanese block_000023F7_772aef36:
 translate japanese block_000023F7_c3191e30:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "佐藤君，就是这样的。这位非常纯洁，\n连我也无法出手。而且，这是礼仪。"
-    rs_character_53FF68C192E3494AB005C1909579AFFB "佐藤くん、こういうことです。これほど純情な方ですから、\n僕も手を出すに出せません。したがって、それはデマですよ。"
+    rs_character_53FF68C192E3494AB005C1909579AFFB "佐藤くん、こういうことです。\nこれほど純情な方ですから、僕も手を出すに出せません。\nしたがって、それはデマですよ。"
 
 # game/content/file_00001105.rpy:3556
 translate japanese block_000023F7_eacb81c5:
@@ -1282,7 +1282,7 @@ translate japanese block_000023F4_63944be3:
 translate japanese block_000023F4_f375f952:
 
     # rs_character_174D79C3A78E4614A51BFD2F8EDAB6F5 "那个人突然就把我带到厕所的单间里强吻了！{w}\n没想到是那么野蛮的人！"
-    rs_character_174D79C3A78E4614A51BFD2F8EDAB6F5 "あの人さ、いきなりトイレの個室連れ込まれて、強引にキス\nしようとしてきたんだよ！{w}あんな野蛮人だと思わなかった！"
+    rs_character_174D79C3A78E4614A51BFD2F8EDAB6F5 "あの人さ、いきなりトイレの個室連れ込まれて、\n強引にキスしようとしてきたんだよ！{w}\nあんな野蛮人だと思わなかった！"
 
 # game/content/file_00001105.rpy:4295
 translate japanese block_000023F4_ea433a46:
@@ -1294,7 +1294,7 @@ translate japanese block_000023F4_ea433a46:
 translate japanese block_000023F4_0c17cfdb:
 
     # rs_character_455603C2553D4277B6ECD554559077B5 "不过，都交往了亲吻也会做的。虽说太快也不好……"
-    rs_character_455603C2553D4277B6ECD554559077B5 "でも、付き合ってるなら、キスぐらいはしたくなる\nものじゃないの？迫り方はまずいけど……。"
+    rs_character_455603C2553D4277B6ECD554559077B5 "でも、付き合ってるなら、\nキスぐらいはしたくなるものじゃないの？\n迫り方はまずいけど……。"
 
 # game/content/file_00001105.rpy:4299
 translate japanese block_000023F4_486ebb34:
@@ -1462,7 +1462,7 @@ translate japanese block_00001130_3b478a0f:
 translate japanese block_00001130_bdaf9ea6:
 
     # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "问题就是问题，\n我不会说像你在那边也要加油之类的话。"
-    rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "事情も事情だし、そっちでがんばれとしか\n言えねえ。"
+    rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "事情も事情だし、\nそっちでがんばれとしか言えねえ。"
 
 # game/content/file_00001105.rpy:4700
 translate japanese block_00001130_1b3dad55:
@@ -1528,13 +1528,13 @@ translate japanese block_00001130_24711721:
 translate japanese block_00002422_5eb04d90:
 
     # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "作哉还是那么不坦率呢。{w}\n嘛，那也算是那家伙的一个优点了。"
-    rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "作哉って相変わらず素直じゃないよな。{w}\nまあ、そこが\nアイツの良いところなんだけどさ。"
+    rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "作哉って相変わらず素直じゃないよな。{w}\nまあ、そこがアイツの良いところなんだけどさ。"
 
 # game/content/file_00001105.rpy:4899
 translate japanese block_00002421_c37050d0:
 
     # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "……先说好，艺人什么的只是开玩笑。{w}\n其实是想走美容路线的……"
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "……一応言っとくけど、お笑い芸人目指す\nてのはネタやからな。{w}\nホンマは美容系に興味があって……。"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "……一応言っとくけど、\nお笑い芸人目指すてのはネタやからな。{w}\nホンマは美容系に興味があって……。"
 
 # game/content/file_00001105.rpy:4909
 translate japanese block_00002421_372b414d:
