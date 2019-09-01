@@ -4888,6 +4888,9 @@ label block_0000419A:
 
     $ set_place_title(_("图书馆"))
 
+    show rs_image_7131112E86B24D6A9BE667868088D590 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
+    with rs_effect_351A8A667ECF419EB1A052B06E597A01
+
     if judge_lm_condition([]):
         jump block_000040C5
 
