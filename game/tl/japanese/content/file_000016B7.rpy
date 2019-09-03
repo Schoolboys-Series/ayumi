@@ -22,7 +22,7 @@ translate japanese block_000016BA_8a407b62:
 translate japanese block_000016E2_29d966fc:
 
     # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "啊——差劲，这里不在服务区。{w}\n高级酒店至少准备个WIFI什么的啊——"
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "あー最悪。ここ圏外じゃん。{w}\n高級ホテルなら、\ni-fiぐらい整備しておけよなー。"
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "あー最悪。ここ圏外じゃん。{w}\n高級ホテルなら、i-fiぐらい整備しておけよなー。"
 
 # game/content/file_000016B7.rpy:327
 translate japanese block_000016E4_5a05b2ef:

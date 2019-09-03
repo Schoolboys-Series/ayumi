@@ -272,7 +272,7 @@ label block_00003BAE:
     show rs_image_69ED399C69E74B6BACE72BFAE0862603 as tag_7450C580738B49679036CAD4B9A13B61 zorder zorder_tag_7450C580738B49679036CAD4B9A13B61 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "请仔细听好了。"
+    rs_character_84257BB6CDB54441907380E2DC7ABF7A "请仔细听好了。"
 
     show rs_image_7354908CD2ED469180084AE15C3932F1 as tag_359C09A6BFDC41098D3302BF3F292D65 zorder zorder_tag_359C09A6BFDC41098D3302BF3F292D65 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -304,15 +304,15 @@ label block_00003BAE:
     hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "走过路过都来看看！"
+    rs_character_84257BB6CDB54441907380E2DC7ABF7A "走过路过都来看看！"
 
     rs_character_50A3B84756FC458695CF53C0DC1DC85C "大家都喜闻乐见的抽奖哦！"
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "好了——少年们，不来试试吗？不来看看吗？"
+    rs_character_84257BB6CDB54441907380E2DC7ABF7A "好了——少年们，不来试试吗？不来看看吗？"
 
     rs_character_50A3B84756FC458695CF53C0DC1DC85C "过了这个村就没这个店了哦。"
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "就是这样。要说为什么的话，只有现在，免费抽奖！"
+    rs_character_84257BB6CDB54441907380E2DC7ABF7A "就是这样。要说为什么的话，只有现在，免费抽奖！"
 
     rs_character_50A3B84756FC458695CF53C0DC1DC85C "一等奖是{color=#FFFF00}三天两夜{/color}的豪华旅行券哦。"
 
@@ -405,7 +405,7 @@ label block_00003BAE:
 
     window show
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "从你们身上感觉到了无比愉悦的能量。"
+    rs_character_84257BB6CDB54441907380E2DC7ABF7A "从你们身上感觉到了无比愉悦的能量。"
 
     rs_character_50A3B84756FC458695CF53C0DC1DC85C "肯定，能摇出好结果的。"
 
@@ -442,7 +442,7 @@ label block_00003BAE:
     show rs_image_69ED399C69E74B6BACE72BFAE0862603 as tag_7450C580738B49679036CAD4B9A13B61 at Transform(xpos=350, yalign=0.0) zorder zorder_tag_7450C580738B49679036CAD4B9A13B61 onlayer master
     with rs_effect_9EB6D16F01EC4823B16A7F9817B2E3F1
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "这样就好。"
+    rs_character_84257BB6CDB54441907380E2DC7ABF7A "这样就好。"
 
     rs_character_50A3B84756FC458695CF53C0DC1DC85C "那就……"
 
@@ -471,7 +471,7 @@ label block_00003BAE:
     show rs_image_7354908CD2ED469180084AE15C3932F1 as tag_7450C580738B49679036CAD4B9A13B61 at Transform(xpos=370, yalign=0.0) zorder zorder_tag_7450C580738B49679036CAD4B9A13B61 onlayer master
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "……"
+    rs_character_84257BB6CDB54441907380E2DC7ABF7A "……"
 
     rs_character_50A3B84756FC458695CF53C0DC1DC85C "……"
 
@@ -488,7 +488,7 @@ label block_00003BAE:
     show rs_image_69ED399C69E74B6BACE72BFAE0862603 as tag_7450C580738B49679036CAD4B9A13B61 zorder zorder_tag_7450C580738B49679036CAD4B9A13B61 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "你这样的大叔我们没兴趣。"
+    rs_character_84257BB6CDB54441907380E2DC7ABF7A "你这样的大叔我们没兴趣。"
 
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Frustrated 1.ogg" noloop
@@ -511,7 +511,7 @@ label block_00003BAE:
     show rs_image_7354908CD2ED469180084AE15C3932F1 as tag_359C09A6BFDC41098D3302BF3F292D65 zorder zorder_tag_359C09A6BFDC41098D3302BF3F292D65 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_50A3B84756FC458695CF53C0DC1DC85C "给我消失。"
+    rs_character_84257BB6CDB54441907380E2DC7ABF7A "给我消失。"
 
     hide tag_7450C580738B49679036CAD4B9A13B61
     hide tag_359C09A6BFDC41098D3302BF3F292D65
@@ -1140,9 +1140,24 @@ label block_00003BAE:
     stop music fadeout 3
     $ sys_music_current_file = ""
 
+    ## C2S6's true title open
+
+    $ _scb_flag_title_chapter_C2S6 = "CHAPTER 2 STORY"
+    $ _scb_flag_title_chapter_local_C2S6 = _("第二章 事件")
+
     $ zorder_tag_99488938252D4BC2B7FA91D436D9159B = 0
-    show rs_image_FC29A6E108FC420AA588728CD98B7C3B as tag_99488938252D4BC2B7FA91D436D9159B at center_bottom zorder zorder_tag_99488938252D4BC2B7FA91D436D9159B onlayer master
+    $ zorder_tag_99488938252D4BC2B7FA91D436D9159C = 0
+    
+    show rs_image_85F7088A138E4CFBB807EF1708A34C58 as tag_99488938252D4BC2B7FA91D436D9159B at center_bottom zorder zorder_tag_99488938252D4BC2B7FA91D436D9159B onlayer master
+    show rs_image_F9053C42DFA4452792C00A32912CF739 as tag_99488938252D4BC2B7FA91D436D9159B zorder zorder_tag_99488938252D4BC2B7FA91D436D9159B onlayer master
+    show rs_image_FA4776FF366F4940A99A1C7D6FBB5C6B as tag_99488938252D4BC2B7FA91D436D9159B zorder zorder_tag_99488938252D4BC2B7FA91D436D9159B onlayer master
+    show scb_flag_title_chapter (_scb_flag_title_chapter_C2S6) as scb_flag_title_chapter_C2S6 at Transform(ypos=295) zorder zorder_tag_99488938252D4BC2B7FA91D436D9159B onlayer master
+    show scb_flag_title_chapter_local (_scb_flag_title_chapter_local_C2S6) as scb_flag_title_chapter_local_C2S6 at Transform(ypos=325) zorder zorder_tag_99488938252D4BC2B7FA91D436D9159B onlayer master
+    show expression "rs_image_FC29A6E108FC420AA588728CD98B7C3B" as tag_99488938252D4BC2B7FA91D436D9159C at Transform(xpos=0, ypos=0) zorder zorder_tag_99488938252D4BC2B7FA91D436D9159C onlayer master
     with rs_effect_F4E162020AD741B2A2A1C91F35FC43D9
+
+    #show rs_image_FC29A6E108FC420AA588728CD98B7C3B as tag_99488938252D4BC2B7FA91D436D9159B at center_bottom zorder zorder_tag_99488938252D4BC2B7FA91D436D9159B onlayer master
+    #with rs_effect_F4E162020AD741B2A2A1C91F35FC43D9
 
     pause 2
 
@@ -1150,13 +1165,19 @@ label block_00003BAE:
         play effect "sound/Effect Sound/Break 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Break 1.ogg"
 
-    show rs_image_A2063DA9B93D48538E9C5EF0D4403826 as tag_99488938252D4BC2B7FA91D436D9159B zorder zorder_tag_99488938252D4BC2B7FA91D436D9159B onlayer master
+    show rs_image_A2063DA9B93D48538E9C5EF0D4403826 as tag_99488938252D4BC2B7FA91D436D9159C zorder zorder_tag_99488938252D4BC2B7FA91D436D9159C onlayer master
     with rs_effect_7E92C9134E124E86A660C199B445F321
 
     pause 3
 
     hide tag_99488938252D4BC2B7FA91D436D9159B
+    hide tag_99488938252D4BC2B7FA91D436D9159C
+    hide scb_flag_title_chapter_C2S6
+    hide scb_flag_title_chapter_local_C2S6
     with rs_effect_D950F63EF18B4E0ABAE213B4ED33B9B4
+
+    $ del _scb_flag_title_chapter_C2S6
+    $ del _scb_flag_title_chapter_local_C2S6
 
     pause 2
 
@@ -4624,7 +4645,7 @@ label block_00003C18:
     show rs_image_69E4B1516C13405D8DC9ADE4070255DB as tag_ECFB5B509A334A868686B3435242BF90 at center_top zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_59AAF132B57B402BB1B9171904F5D5B2
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "友 呃！\n{nw}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "呃！\n{nw}"
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Attack 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Attack 1.ogg"
@@ -4633,7 +4654,7 @@ label block_00003C18:
     show rs_image_EA4ACE3D61BB4E55AC643AD05DFE8DD0 as tag_A77E36FB70FF4F60B12060B2747E46D1 at Transform(xpos=430, yalign=0.0) zorder zorder_tag_A77E36FB70FF4F60B12060B2747E46D1 onlayer master
     with rs_effect_59AAF132B57B402BB1B9171904F5D5B2
 
-    extend "慎太郎 哦！\n{nw}"
+    extend "哦！\n{nw}"
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Attack 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Attack 1.ogg"
@@ -4642,7 +4663,7 @@ label block_00003C18:
     show rs_image_1BF70E7C1E054ED9AA4E4E9D14725C2F as tag_C389451CCE5A4CEAB24DEF9A7C02635D at Transform(xpos=-80, yalign=0.0) zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_59AAF132B57B402BB1B9171904F5D5B2
 
-    extend "翼 唔！"
+    extend "唔！"
 
     hide tag_ECFB5B509A334A868686B3435242BF90
     hide tag_A77E36FB70FF4F60B12060B2747E46D1
@@ -6991,8 +7012,8 @@ label block_00003C24:
 
     pause 0.4
 
-    show illation_count (_("问题一")) as illation_count at Transform(xpos=75, ypos=55) zorder 200
-    show illation_title (_("叛徒是否存在？")) as illation_title at Transform(xalign=0.5, ypos=150) zorder 200
+    show illation_count (_("问题一")) as illation_count at Transform(xpos=75, ypos=30) zorder 200
+    show illation_title (_("叛徒是否存在？")) as illation_title at Transform(xalign=0.5, ypos=100) zorder 200
     show illation_choice1 (_("应该存在")) as illation_choice1 at Transform(xalign=0.5, ypos=290) zorder 200
     show illation_choice2 (_("不存在")) as illation_choice2 at Transform(xalign=0.5, ypos=408) zorder 200
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
@@ -7054,8 +7075,8 @@ label block_00003C28:
         play effect "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 2.ogg"
 
-    show illation_count (_("问题二")) as illation_count at Transform(xpos=75, ypos=55) zorder 200
-    show illation_title_small (_("世依木守是在哪里被袭击的？")) as illation_title at Transform(xalign=0.5, ypos=150) zorder 200
+    show illation_count (_("问题二")) as illation_count at Transform(xpos=75, ypos=30) zorder 200
+    show illation_title_small (_("世依木守是在哪里被袭击的？")) as illation_title at Transform(xalign=0.5, ypos=100) zorder 200
     show illation_choice1 (_("房间内")) as illation_choice1 at Transform(xalign=0.5, ypos=290) zorder 200
     show illation_choice2 (_("房间外")) as illation_choice2 at Transform(xalign=0.5, ypos=408) zorder 200
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
@@ -7118,8 +7139,8 @@ label block_00003C2C:
         play effect "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 2.ogg"
 
-    show illation_count (_("问题三")) as illation_count at Transform(xpos=75, ypos=55) zorder 200
-    show illation_title_small (_("世依木守是被谁如何袭击的？")) as illation_title at Transform(xalign=0.5, ypos=150) zorder 200
+    show illation_count (_("问题三")) as illation_count at Transform(xpos=75, ypos=30) zorder 200
+    show illation_title_small (_("世依木守是被谁如何袭击的？")) as illation_title at Transform(xalign=0.5, ypos=100) zorder 200
     show illation_choice1 (_("被面熟的叛徒趁机袭击")) as illation_choice1 at Transform(xalign=0.5, ypos=290) zorder 200
     show illation_choice2 (_("被变态那啥了")) as illation_choice2 at Transform(xalign=0.5, ypos=408) zorder 200
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
@@ -7183,8 +7204,8 @@ label block_00003C30:
         play effect "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 2.ogg"
 
-    show illation_count (_("问题四")) as illation_count at Transform(xpos=75, ypos=55) zorder 200
-    show illation_title_small (_("赤峰兄弟是被谁如何袭击的？")) as illation_title at Transform(xalign=0.5, ypos=150) zorder 200
+    show illation_count (_("问题四")) as illation_count at Transform(xpos=75, ypos=30) zorder 200
+    show illation_title_small (_("赤峰兄弟是被谁如何袭击的？")) as illation_title at Transform(xalign=0.5, ypos=100) zorder 200
     show illation_choice1 (_("被导游奇袭")) as illation_choice1 at Transform(xalign=0.5, ypos=290) zorder 200
     show illation_choice2 (_("被叛徒趁乱袭击")) as illation_choice2 at Transform(xalign=0.5, ypos=408) zorder 200
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
@@ -7252,8 +7273,8 @@ label block_00003C32:
         play effect "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 2.ogg"
 
-    show illation_count (_("问题五")) as illation_count at Transform(xpos=75, ypos=55) zorder 200
-    show illation_title (_("导游是如何逃脱的？")) as illation_title at Transform(xalign=0.5, ypos=150) zorder 200
+    show illation_count (_("问题五")) as illation_count at Transform(xpos=75, ypos=30) zorder 200
+    show illation_title_small (_("导游是如何逃脱的？")) as illation_title at Transform(xalign=0.5, ypos=100) zorder 200
     show illation_choice1 (_("自力逃脱")) as illation_choice1 at Transform(xalign=0.5, ypos=290) zorder 200
     show illation_choice2 (_("被叛徒解救")) as illation_choice2 at Transform(xalign=0.5, ypos=408) zorder 200
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
@@ -7321,8 +7342,8 @@ label block_00003C34:
         play effect "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 2.ogg"
 
-    show illation_count (_("问题六")) as illation_count at Transform(xpos=75, ypos=55) zorder 200
-    show illation_title_small (_("世依木守失踪前最后见到的是？")) as illation_title at Transform(xalign=0.5, ypos=150) zorder 200
+    show illation_count (_("问题六")) as illation_count at Transform(xpos=75, ypos=30) zorder 200
+    show illation_title_small (_("世依木守失踪前最后见到的是？")) as illation_title at Transform(xalign=0.5, ypos=100) zorder 200
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
     pause 0.4
@@ -7358,8 +7379,8 @@ label block_00003C36:
         play effect "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 2.ogg"
 
-    show illation_count (_("问题七")) as illation_count at Transform(xpos=75, ypos=55) zorder 200
-    show illation_title_small (_("导游逃脱时没有不在场证明的是？")) as illation_title at Transform(xalign=0.5, ypos=150) zorder 200
+    show illation_count (_("问题七")) as illation_count at Transform(xpos=75, ypos=30) zorder 200
+    show illation_title_small (_("导游逃脱时没有不在场证明的是？")) as illation_title at Transform(xalign=0.5, ypos=100) zorder 200
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
     pause 0.4
@@ -7395,8 +7416,8 @@ label block_00003C38:
         play effect "sound/Effect Sound/Impact 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Impact 2.ogg"
 
-    show illation_count (_("问题八")) as illation_count at Transform(xpos=75, ypos=55) zorder 200
-    show illation_title (_("叛徒是？")) as illation_title at Transform(xalign=0.5, ypos=150) zorder 200
+    show illation_count (_("问题八")) as illation_count at Transform(xpos=75, ypos=30) zorder 200
+    show illation_title (_("叛徒是？")) as illation_title at Transform(xalign=0.5, ypos=100) zorder 200
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
     pause 0.6

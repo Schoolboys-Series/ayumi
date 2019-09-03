@@ -604,6 +604,9 @@ init 1000 python:
         }, {
             "id": "Tentacle-starfish",
             "name": _("{size=12}TENTACLE STARFISH{/size}\n触手B"),
+            "height": _("没量过"),
+            "weight": _("似乎很轻？"),
+            "birthdate": _("不知"),
             "club": _("Wolf's"),
             "appearances": [[
                 [],

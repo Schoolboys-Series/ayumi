@@ -560,15 +560,15 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "没量过"
-    new "測定されていない"
+    new "？？？"
 
     # content\character_full_info.rpy:18
     old "似乎很轻？"
-    new "軽いかも"
+    new "？？？"
 
     # content\character_full_info.rpy:18
     old "不知"
-    new "わからない"
+    new "？？？"
 
     # content\character_full_info.rpy:18
     old "Wolf's"
@@ -576,7 +576,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "Wolf's的一员。最早开始侍奉朔\n的触手，同时也是管家。说话\n像老妈子，很绅士。\n被其他触手信赖。"
-    new "ウルフズの一員。\n朔に仕える触手の最古参で、\n執事の役割を果たす。\n丁寧な口調で話し、紳士的。\他の触手からの信頼も厚い。"
+    new "ウルフズの一員。\n朔に仕える触手の最古参で、\n執事の役割を果たす。\n丁寧な口調で話し、紳士的。\n他の触手からの信頼も厚い。"
 
     # content\character_full_info.rpy:18
     old "Wolf's的一员。才刚开始加入朔\n的队伍。背后有无数触手，\n是备受期待的新人。看起来似乎\n不很努力，但也在奋力学习\n如何侍奉。"
@@ -588,11 +588,11 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "不详"
-    new "謎"
+    new "？？？"
 
     # content\character_full_info.rpy:18
     old "离岛的度假酒店的导游……\n才不是，其实里面是触手A和触手B。\n整个旅行都是朔的计划。"
-    new "離島に設立された\nリゾートホテルのガイドさん\n……ではなく、\n本当の正体は、触手Aと触手Bが\n合体し、変装した姿。\nあの旅先での出来事は、全て朔の企てた陰謀なのであった。"
+    new "離島に設立された\nリゾートホテルのガイドさん\n……ではなく、\n本当の正体は、触手Aと触手Bが\n合体し、変装した姿。\nあの旅先での出来事は、\n全て朔の企てた陰謀なのであった。"
 
     # content\character_full_info.rpy:18
     old "十三岁左右？"
@@ -604,7 +604,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "没有资料"
-    new "データなし"
+    new "？？？"
 
     # content\character_full_info.rpy:18
     old "企图征服世界的组织Wolf's的一员。\n操纵着触手怪物，喜欢玩弄敌人。\n某些意义上和忍关系很好，\n偶尔一起出门。\n正在进行从欲望中提取能量的研究，\n为此不断寻找实验体。"
@@ -620,7 +620,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "这……"
-    new "えど……"
+    new "？？？"
 
     # content\character_full_info.rpy:18
     old "朔的哥哥，豪迈奔放。\n和Wolf's一贯的方针不同，\n现在正在地球上离岛的宾馆悠闲度日。\n在梅咲开的酒吧一下子就成了热门。\n好像有个高中生恋人。"
@@ -732,7 +732,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "问不出来"
-    new "返事はない"
+    new "？？？"
 
     # content\character_full_info.rpy:18
     old "不知为何一直静静地站在学园外的厕所旁。\n总能事先察觉到周围的异常和未来的事情，\n并据此给各种人各种有益的建议。\n表情一直很寂寞，似乎并不开心。"

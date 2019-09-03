@@ -3754,7 +3754,7 @@ label block_000016D4:
         play effect3 "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect3_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
 
-    $ zorder_tag_DD3F6E8E956D4F1BB1131F81FF9AA4F6 = 300
+    $ zorder_tag_DD3F6E8E956D4F1BB1131F81FF9AA4F6 = 200
     show rs_image_412090826A6C42E2B3347E4BAD9CB105 as tag_DD3F6E8E956D4F1BB1131F81FF9AA4F6 at center_bottom zorder zorder_tag_DD3F6E8E956D4F1BB1131F81FF9AA4F6 onlayer master
     with rs_effect_1B5FF639D1044BDDAEE2A66FB32F2CF7
 
@@ -3829,7 +3829,7 @@ label block_000016D4:
         play effect "sound/Effect Sound/Shock 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Shock 1.ogg"
 
-    $ zorder_tag_DD3F6E8E956D4F1BB1131F81FF9AA4F6 = 300
+    $ zorder_tag_DD3F6E8E956D4F1BB1131F81FF9AA4F6 = 200
     show rs_image_7131112E86B24D6A9BE667868088D590 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     show rs_image_12BEDD8AB7E749DCA40215016D03CA83 as tag_DD3F6E8E956D4F1BB1131F81FF9AA4F6 at center_bottom zorder zorder_tag_DD3F6E8E956D4F1BB1131F81FF9AA4F6 onlayer master
     with rs_effect_70C20BBBD5964F65A50568CD34CCD88B

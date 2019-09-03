@@ -1987,7 +1987,7 @@ label block_0000251E:
 
     window hide
 
-    $ set_place_title(_("图书馆"))
+    $ set_place_title(_("音乐室"))
 
     if judge_lm_condition([]):
         jump block_0000251F
@@ -2529,7 +2529,7 @@ label block_00002521:
 
     window hide
 
-    $ set_place_title(_("图书馆"))
+    $ set_place_title(_("音乐室"))
 
     if judge_lm_condition([]):
         jump block_00002C66
@@ -2925,7 +2925,7 @@ label block_000008D2:
     pause 0.3
 
 
-    if judge_lm_condition([{ "scope": 0, "content": "F6Check1 == True" },{ "scope": 1, "content": "C2S1Phase + C2S2Phase + C2S3Phase + C2S4Phase + C2S5Phase + C2S6Phase == 0" },{ "scope": 0, "content": "C2S6Phase == 1" }]):
+    if judge_lm_condition([{ "scope": 0, "content": "F6Check1 == True" },{ "scope": 1, "content": "C2S1Phase + C2S2Phase + C2S3Phase + C2S4Phase + C2S5Phase + C2S6Phase == 0" },{ "scope": 1, "content": "C2S6Phase == 1" }]):
         jump block_0000252E
     if judge_lm_condition([{ "scope": 0, "content": "C2S2Phase >= 97" },{ "scope": 1, "content": "TalkShinobuF2 == 0" }]):
         jump block_00001F36

@@ -97,10 +97,10 @@ translate japanese block_00003BAE_ca62b5f9:
     rs_character_EFC67D522B5F4615BFAE716D87F58204 "ん？たしかに、よく見りゃただの着ぐるみ……？？\nじゃあ、アンタ等の目的は一体……。"
 
 # game/content/file_00003BAC.rpy:275
-translate japanese block_00003BAE_9af3ccd3:
+translate japanese block_00003BAE_0326da82:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "请仔细听好了。"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "ヨクゾ聞イテクレマシタ。"
+    # rs_character_84257BB6CDB54441907380E2DC7ABF7A "请仔细听好了。"
+    rs_character_84257BB6CDB54441907380E2DC7ABF7A "ヨクゾ聞イテクレマシタ。"
 
 # game/content/file_00003BAC.rpy:280
 translate japanese block_00003BAE_b413b8ee:
@@ -109,10 +109,10 @@ translate japanese block_00003BAE_b413b8ee:
     rs_character_50A3B84756FC458695CF53C0DC1DC85C "デハ、気ヲ取リ直シテ……"
 
 # game/content/file_00003BAC.rpy:307
-translate japanese block_00003BAE_8f400e34:
+translate japanese block_00003BAE_a90b80fb:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "走过路过都来看看！"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "ヨッテラッシャイ、ミテラッシャイ！"
+    # rs_character_84257BB6CDB54441907380E2DC7ABF7A "走过路过都来看看！"
+    rs_character_84257BB6CDB54441907380E2DC7ABF7A "ヨッテラッシャイ、ミテラッシャイ！"
 
 # game/content/file_00003BAC.rpy:309
 translate japanese block_00003BAE_4c56d7cb:
@@ -121,10 +121,10 @@ translate japanese block_00003BAE_4c56d7cb:
     rs_character_50A3B84756FC458695CF53C0DC1DC85C "ミンナ大スキ、福引コーナーヤッテマース！"
 
 # game/content/file_00003BAC.rpy:311
-translate japanese block_00003BAE_09481428:
+translate japanese block_00003BAE_62009d0e:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "好了——少年们，不来试试吗？不来看看吗？"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "サー少年タチ、ヨッテイカナイ？ミテイカナイ？"
+    # rs_character_84257BB6CDB54441907380E2DC7ABF7A "好了——少年们，不来试试吗？不来看看吗？"
+    rs_character_84257BB6CDB54441907380E2DC7ABF7A "サー少年タチ、ヨッテイカナイ？ミテイカナイ？"
 
 # game/content/file_00003BAC.rpy:313
 translate japanese block_00003BAE_95199364:
@@ -133,10 +133,10 @@ translate japanese block_00003BAE_95199364:
     rs_character_50A3B84756FC458695CF53C0DC1DC85C "コンナチャンス、滅多ニナイヨ。"
 
 # game/content/file_00003BAC.rpy:315
-translate japanese block_00003BAE_abca82fe:
+translate japanese block_00003BAE_2bd5c9f3:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "就是这样。要说为什么的话，只有现在，免费抽奖！"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "ソーナノデス。何故ナラ、今ナラ、オ金ハタダ！"
+    # rs_character_84257BB6CDB54441907380E2DC7ABF7A "就是这样。要说为什么的话，只有现在，免费抽奖！"
+    rs_character_84257BB6CDB54441907380E2DC7ABF7A "ソーナノデス。何故ナラ、今ナラ、オ金ハタダ！"
 
 # game/content/file_00003BAC.rpy:317
 translate japanese block_00003BAE_54143f30:
@@ -199,10 +199,10 @@ translate japanese block_00003BAE_2a837109:
     extend "{size=28}ガラガラ{/size}{w=0.8}"
 
 # game/content/file_00003BAC.rpy:408
-translate japanese block_00003BAE_d08def84:
+translate japanese block_00003BAE_c5cdadc2:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "从你们身上感觉到了无比愉悦的能量。"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "キミタチカラハ、スバラシイエネルギーヲ感ジル。"
+    # rs_character_84257BB6CDB54441907380E2DC7ABF7A "从你们身上感觉到了无比愉悦的能量。"
+    rs_character_84257BB6CDB54441907380E2DC7ABF7A "キミタチカラハ、スバラシイエネルギーヲ感ジル。"
 
 # game/content/file_00003BAC.rpy:410
 translate japanese block_00003BAE_35db9af5:
@@ -211,10 +211,10 @@ translate japanese block_00003BAE_35db9af5:
     rs_character_50A3B84756FC458695CF53C0DC1DC85C "キット、ヨイ結果ガ出ルデショウ。"
 
 # game/content/file_00003BAC.rpy:445
-translate japanese block_00003BAE_c3cf5bac:
+translate japanese block_00003BAE_7a758274:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "这样就好。"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "コレデヨシ。"
+    # rs_character_84257BB6CDB54441907380E2DC7ABF7A "这样就好。"
+    rs_character_84257BB6CDB54441907380E2DC7ABF7A "コレデヨシ。"
 
 # game/content/file_00003BAC.rpy:447
 translate japanese block_00003BAE_f12d9ca3:
@@ -228,11 +228,11 @@ translate japanese block_00003BAE_29da667e:
     # rs_character_9EDF48057FB84D428D56198A69E2880E "哦，有抽奖啊！一等奖是什么？让我也来一次。"
     rs_character_9EDF48057FB84D428D56198A69E2880E "おっ、福引きやってるのか！一等は何だ？\nなぁなぁ、ひとつ俺にもやらせてくれよ。"
 
-# game/content/file_00003BAC.rpy:474
-translate japanese block_00003BAE_53d4126c:
+    # game/content/file_00003BAC.rpy:474
+translate japanese block_00003BAE_0d81f06c:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "……"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "……。"
+    # rs_character_84257BB6CDB54441907380E2DC7ABF7A "……"
+    rs_character_84257BB6CDB54441907380E2DC7ABF7A "……。"
 
 # game/content/file_00003BAC.rpy:476
 translate japanese block_00003BAE_dd75765e:
@@ -247,10 +247,10 @@ translate japanese block_00003BAE_392399d0:
     rs_character_BC9CC5BA3ABB4C879D557212A41DCBAC "ちょ、ちょっとー着ぐるみさーん！\n俺にも福引きやらせてくれって。"
 
 # game/content/file_00003BAC.rpy:491
-translate japanese block_00003BAE_92ab448b:
+translate japanese block_00003BAE_a073870a:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "你这样的大叔我们没兴趣。"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "オマエノヨウナオヤジニ興味ハナイ。"
+    # rs_character_84257BB6CDB54441907380E2DC7ABF7A "你这样的大叔我们没兴趣。"
+    rs_character_84257BB6CDB54441907380E2DC7ABF7A "オマエノヨウナオヤジニ興味ハナイ。"
 
 # game/content/file_00003BAC.rpy:505
 translate japanese block_00003BAE_fcaa8770:
@@ -259,10 +259,10 @@ translate japanese block_00003BAE_fcaa8770:
     rs_character_9EDF48057FB84D428D56198A69E2880E "お、オヤジ！？なんて失礼な！！\nこれでもまだ２５なんですけど！肌のツヤだって……。"
 
 # game/content/file_00003BAC.rpy:514
-translate japanese block_00003BAE_2ba5ff00:
+translate japanese block_00003BAE_c9f64a28:
 
-    # rs_character_50A3B84756FC458695CF53C0DC1DC85C "给我消失。"
-    rs_character_50A3B84756FC458695CF53C0DC1DC85C "キエロ。"
+    # rs_character_84257BB6CDB54441907380E2DC7ABF7A "给我消失。"
+    rs_character_84257BB6CDB54441907380E2DC7ABF7A "キエロ。"
 
 # game/content/file_00003BAC.rpy:551
 translate japanese block_00003BAE_aab05d87:
@@ -802,7 +802,7 @@ translate japanese block_00003BAE_24229eb0:
 translate japanese block_00003BAE_fb565e8d:
 
     # rs_character_62324AD297554FE987C680452CEE232E "这句话原封不动还给你。你们这群人来这家酒店……\n"
-    rs_character_62324AD297554FE987C680452CEE232E "その言葉、そっくりお返しします。あなたごときが\nこんなホテルに……。\n"
+    rs_character_62324AD297554FE987C680452CEE232E "その言葉、そっくりお返しします。\nあなたごときがこんなホテルに……。\n"
 
 # game/content/file_00003BAC.rpy:1552
 translate japanese block_00003BAE_6b16ab8c:
@@ -916,7 +916,7 @@ translate japanese block_00003C0D_04db74df:
 translate japanese block_00003C0D_0cde4efd:
 
     # rs_character_62324AD297554FE987C680452CEE232E "呵呵，好不容易的休息日，居然要和你们这样的人住在一起……"
-    rs_character_62324AD297554FE987C680452CEE232E "はぁ。せっかくの休日を、キミみたいな人と\n同じ屋根の下、過ごすことになるなんて……。"
+    rs_character_62324AD297554FE987C680452CEE232E "はぁ。せっかくの休日を、\nキミみたいな人と同じ屋根の下、\n過ごすことになるなんて……。"
 
 # game/content/file_00003BAC.rpy:1805
 translate japanese block_00003C0D_98bd9de5:
@@ -934,7 +934,7 @@ translate japanese block_00003C0D_592e6273:
 translate japanese block_00003C0D_901703fe:
 
     # rs_character_62324AD297554FE987C680452CEE232E "为了以后能更加努力，休息是必要的。"
-    rs_character_62324AD297554FE987C680452CEE232E "またこれからがんばるために\n必要な休暇というやつです。"
+    rs_character_62324AD297554FE987C680452CEE232E "またこれからがんばるために必要な休暇というやつです。"
 
 # game/content/file_00003BAC.rpy:1823
 translate japanese block_00003C0D_5c997c65:
@@ -952,7 +952,7 @@ translate japanese block_00003C0D_e5312ee6:
 translate japanese block_00003C0D_9b4d928f:
 
     # rs_character_62324AD297554FE987C680452CEE232E "他们和我相同正在休假。"
-    rs_character_62324AD297554FE987C680452CEE232E "彼らも僕と同じです。\n今頃は気ままに休日を\n満喫していることでしょう。"
+    rs_character_62324AD297554FE987C680452CEE232E "彼らも僕と同じです。\n今頃は気ままに休日を満喫していることでしょう。"
 
 # game/content/file_00003BAC.rpy:1839
 translate japanese block_00003C0D_d93bbe3d:
@@ -982,7 +982,7 @@ translate japanese block_00003C0D_ccc16041:
 translate japanese block_00003C0D_5b4598c3:
 
     # rs_character_62324AD297554FE987C680452CEE232E "被把我的笑话当真的疑神疑鬼的英雄（笑）尾行了。"
-    rs_character_62324AD297554FE987C680452CEE232E "僕の冗談を真に受けた\n疑心暗鬼なヒーロー（笑）に\nストーキングされるのです。"
+    rs_character_62324AD297554FE987C680452CEE232E "僕の冗談を真に受けた\n疑心暗鬼なヒーロー（笑）にストーキングされるのです。"
 
 # game/content/file_00003BAC.rpy:1863
 translate japanese block_00003C0D_30914344:
@@ -1036,7 +1036,7 @@ translate japanese block_00003C0D_75fcf5f6:
 translate japanese block_00003C0D_d8a15d12:
 
     # rs_character_62324AD297554FE987C680452CEE232E "哦？这可真是有意思。可以好好帮我打发休息时的无聊时间了。"
-    rs_character_62324AD297554FE987C680452CEE232E "ほう？それは楽しみです。\nせいぜい僕の休暇の暇つぶし\n相手ぐらいにはなってくださいよ。"
+    rs_character_62324AD297554FE987C680452CEE232E "ほう？それは楽しみです。\nせいぜい僕の休暇の暇つぶし相手ぐらいには\nなってくださいよ。"
 
 # game/content/file_00003BAC.rpy:1921
 translate japanese block_00003C0D_8de14502:
@@ -1078,7 +1078,7 @@ translate japanese block_00003C0E_1462cf7d:
 translate japanese block_00003C0E_ec59f19f:
 
     # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "说起来，其他人呢？{w}赤峰兄弟之前好像拿着扫帚，是想扫除么？"
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "あれ、ところで、他のやつらどこ行ったん？{w}赤峰ツインズが\nホウキ持ってるの見たけど、掃除でもすんのけ？"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "あれ、ところで、他のやつらどこ行ったん？{w}\n赤峰ツインズがホウキ持ってるの見たけど、掃除でもすんのけ？"
 
 # game/content/file_00003BAC.rpy:2032
 translate japanese block_00003C0E_e58e0103:
@@ -1432,7 +1432,7 @@ translate japanese block_00003C0E_bbb053b4:
 translate japanese block_00003C0E_0dfe15b6:
 
     # rs_character_62324AD297554FE987C680452CEE232E "本来还想在最后允许你接触你最喜欢的、最想触摸的地方的。"
-    rs_character_62324AD297554FE987C680452CEE232E "最後に、あなたが最も得意そうで、喜びそうなところを\nほぐしてもらおうと思っていたのに。"
+    rs_character_62324AD297554FE987C680452CEE232E "最後に、あなたが最も得意そうで、\n喜びそうなところをほぐしてもらおうと思っていたのに。"
 
 # game/content/file_00003BAC.rpy:2560
 translate japanese block_00003C0E_935251bd:
@@ -1480,7 +1480,7 @@ translate japanese block_00003C0E_ed177b8f:
 translate japanese block_00003C0E_7fc6282f:
 
     # rs_character_62324AD297554FE987C680452CEE232E "呀，这可真是杰作，听到了比预想中脑袋还有问题的事情呐，\n满足了，想做还是能做到的嘛。"
-    rs_character_62324AD297554FE987C680452CEE232E "いやぁ、これは傑作です。予想以上に間抜けな話を\n聞くことができて満足ですよ。やればできるじゃないですか。"
+    rs_character_62324AD297554FE987C680452CEE232E "いやぁ、これは傑作です。\n予想以上に間抜けな話を聞くことができて満足ですよ。\nやればできるじゃないですか。"
 
 # game/content/file_00003BAC.rpy:2648
 translate japanese block_00003C0E_a827ed3f:
@@ -1522,7 +1522,7 @@ translate japanese block_00003C0E_54d40c55:
 translate japanese block_00003C0E_c1b1ac1b:
 
     # rs_character_62324AD297554FE987C680452CEE232E "就算这么说，但很遗憾，我并没有像夕阳那样愉快的体验。"
-    rs_character_62324AD297554FE987C680452CEE232E "そう言われても、残念ながら、ユウヒのように\n愉快な体験には恵まれなかったのでね。"
+    rs_character_62324AD297554FE987C680452CEE232E "そう言われても、残念ながら、\nユウヒのように愉快な体験には恵まれなかったのでね。"
 
 # game/content/file_00003BAC.rpy:2701
 translate japanese block_00003C0E_7c7612e5:
@@ -1558,7 +1558,7 @@ translate japanese block_00003C0E_8cea00f7:
 translate japanese block_00003C0E_d4800f21:
 
     # extend "那——个，Wolf's是……“狼”？"
-    extend "　えーっと、ウルフズ……ウルフ。『狼』？"
+    extend "えーっと、ウルフズ……ウルフ。『狼』？"
 
 # game/content/file_00003BAC.rpy:2737
 translate japanese block_00003C0E_808af96a:
@@ -1606,13 +1606,13 @@ translate japanese block_00003C0E_1d51922c:
 translate japanese block_00003C0E_e46d38ee:
 
     # rs_character_62324AD297554FE987C680452CEE232E "……那只是打比方。{w}话里的“狼”指的就是坏事，要做的不就是维持治安吗？"
-    rs_character_62324AD297554FE987C680452CEE232E "……それは、喩え話でしょう。{w}そこでいう『狼』というのは\n悪事のことで、それを暴いて治安を維持するということでは？"
+    rs_character_62324AD297554FE987C680452CEE232E "……それは、喩え話でしょう。{w}\nそこでいう『狼』というのは悪事のことで、\nそれを暴いて治安を維持するということでは？"
 
 # game/content/file_00003BAC.rpy:2798
 translate japanese block_00003C0E_6f235249:
 
     # rs_character_EFC67D522B5F4615BFAE716D87F58204 "唔～是吗。是不是太过理想了呢。{w}\n和魔法师敌对的组织正好就叫Wolf's什么的……"
-    rs_character_EFC67D522B5F4615BFAE716D87F58204 "う～ん、そうなのかな。できすぎかと思ったんだけど。{w}魔術師と敵対する組織が『ウルフズ』なんて……。"
+    rs_character_EFC67D522B5F4615BFAE716D87F58204 "う～ん、そうなのかな。できすぎかと思ったんだけど。{w}\n魔術師と敵対する組織が『ウルフズ』なんて……。"
 
 # game/content/file_00003BAC.rpy:2800
 translate japanese block_00003C0E_77169134:
@@ -1624,7 +1624,7 @@ translate japanese block_00003C0E_77169134:
 translate japanese block_00003C0E_0a88a138:
 
     # rs_character_EFC67D522B5F4615BFAE716D87F58204 "啊！我明白了！！“吃”指的肯定是朔被触手袭击的那种“吃”！"
-    rs_character_EFC67D522B5F4615BFAE716D87F58204 "『喰う』といっても、それは\n朔が触手に襲わせてするような意味での『喰う』なんだ！"
+    rs_character_EFC67D522B5F4615BFAE716D87F58204 "『喰う』といっても、\nそれは朔が触手に襲わせてするような意味での『喰う』なんだ！"
 
 # game/content/file_00003BAC.rpy:2814
 translate japanese block_00003C0E_bd170b9c:
@@ -1684,7 +1684,7 @@ translate japanese block_00003C0E_d9d99717:
 translate japanese block_00003C0E_96e2a791:
 
     # rs_character_62324AD297554FE987C680452CEE232E "其实，Wolf's确实会像现实中的狼那样，基本都是集团行动的。"
-    rs_character_62324AD297554FE987C680452CEE232E "実は、ウルフズも実際の狼と同じく、\n基本的にはグループごとにミッションを遂行します。\n"
+    rs_character_62324AD297554FE987C680452CEE232E "実は、ウルフズも実際の狼と同じく、\n基本的にはグループごとにミッションを遂行します。"
 
 # game/content/file_00003BAC.rpy:2897
 translate japanese block_00003C0E_26025530:
@@ -1930,7 +1930,7 @@ translate japanese block_00003C0F_15bdf3b3:
 translate japanese block_00003C0F_db194bfb:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "青春期少年度过一晚的房间里必定有纸巾，这可是金科玉律。"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "思春期の少年が一泊した部屋のゴミ箱には、\n必ずティッシュが\n捨てられているという法則があります。"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "思春期の少年が一泊した部屋のゴミ箱には、\n必ずティッシュが捨てられているという法則があります。"
 
 # game/content/file_00003BAC.rpy:3615
 translate japanese block_00003C0F_e11b32f4:
@@ -2008,13 +2008,13 @@ translate japanese block_00003C10_5cf2d131:
 translate japanese block_00003C10_0f7fa126:
 
     # rs_character_62324AD297554FE987C680452CEE232E "可是，那种东西现在并不在这里。{w}\n世依木君是趁夜或者一大早还回去了吗？"
-    rs_character_62324AD297554FE987C680452CEE232E "しかし、それはこの部屋には見当たりません。{w}\n世依木くんは、\n深夜か早朝にでも返したのでしょうか。"
+    rs_character_62324AD297554FE987C680452CEE232E "しかし、それはこの部屋には見当たりません。{w}\n世依木くんは、深夜か早朝にでも返したのでしょうか。"
 
 # game/content/file_00003BAC.rpy:3735
 translate japanese block_00003C10_0f216bdf:
 
     # rs_character_EFC67D522B5F4615BFAE716D87F58204 "那最后见到守的人最可能就是森海前辈了。{w}等下问问看。"
-    rs_character_EFC67D522B5F4615BFAE716D87F58204 "じゃあ、一番最後にマモルに会った\n可能性が高いのは森海先輩か。{w}\nあとで事情を聞いてみよう。"
+    rs_character_EFC67D522B5F4615BFAE716D87F58204 "じゃあ、一番最後にマモルに\n会った可能性が高いのは森海先輩か。{w}\nあとで事情を聞いてみよう。"
 
 # game/content/file_00003BAC.rpy:3766
 translate japanese block_00003C11_436ebb6f:
@@ -2032,7 +2032,7 @@ translate japanese block_00003C11_3214dd89:
 translate japanese block_00003C11_6b159e5f:
 
     # rs_character_EFC67D522B5F4615BFAE716D87F58204 "欸？眼镜还在。{w}那家伙视力很差，可没戴眼镜就出去了？"
-    rs_character_EFC67D522B5F4615BFAE716D87F58204 "あれ？眼鏡入ったまま。{w}\nアイツ、目ぇ悪いのに、\n裸眼のまま外に行ったのか？"
+    rs_character_EFC67D522B5F4615BFAE716D87F58204 "あれ？眼鏡入ったまま。{w}\nアイツ、目ぇ悪いのに、裸眼のまま外に行ったのか？"
 
 # game/content/file_00003BAC.rpy:3800
 translate japanese block_00003C16_fda6fa9a:
@@ -2056,7 +2056,7 @@ translate japanese block_00003C17_5e643bb3:
 translate japanese block_00003C18_ea44036c:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "诶！守君不在房间里？而且我的电摩君也不在！？"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "外は暴風雨です。\n館内にいることは間違いないでしょうから、\nそのうち見つかるでしょう。"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "えっ！マモルくん、部屋にいなかったの？\nしかも、オレの電マくんまで！？"
 
 # game/content/file_00003BAC.rpy:3924
 translate japanese block_00003C18_3486a29e:
@@ -2068,7 +2068,7 @@ translate japanese block_00003C18_3486a29e:
 translate japanese block_00003C18_21934407:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "没有——！守君到底把我的电摩带去什么地方了——！"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "もらってないよぉー！マモルくん、\nオレの電マをどこへ連れ去ったんだー！"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "もらってないよぉー！\nマモルくん、オレの電マをどこへ連れ去ったんだー！"
 
 # game/content/file_00003BAC.rpy:3940
 translate japanese block_00003C18_a1da350c:
@@ -2098,7 +2098,7 @@ translate japanese block_00003C18_ca987d9c:
 translate japanese block_00003C18_4619d549:
 
     # rs_character_62324AD297554FE987C680452CEE232E "同感。还是想想其他的……{w}比如，有没有被卷入什么事件的可能性？"
-    rs_character_62324AD297554FE987C680452CEE232E "僕も同感です。もっと他に……{w}たとえば、\n何かの事件に巻き込まれた可能性もあるのでは？"
+    rs_character_62324AD297554FE987C680452CEE232E "僕も同感です。もっと他に……{w}\nたとえば、何かの事件に巻き込まれた可能性もあるのでは？"
 
 # game/content/file_00003BAC.rpy:3987
 translate japanese block_00003C18_17f43bf0:
@@ -2170,7 +2170,7 @@ translate japanese block_00003C18_e6b10e8f:
 translate japanese block_00003C18_b7db3473:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "总之就算是以防万一，把所有带插座的房间都找一遍如何？"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "一応、念には念を押して、\nコンセントがありそうな部屋を探してみようか？\n"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "一応、念には念を押して、\nコンセントがありそうな部屋を探してみようか？"
 
 # game/content/file_00003BAC.rpy:4092
 translate japanese block_00003C18_06a257ed:
@@ -2290,7 +2290,7 @@ translate japanese block_00003C18_0c63df05:
 translate japanese block_00003C18_003bea95:
 
     # rs_character_62324AD297554FE987C680452CEE232E "非常感谢。{w}说起来，一之濑同学和森海同学关系很好呐。"
-    rs_character_62324AD297554FE987C680452CEE232E "ありがとうございます。{w}ところで、一ノ瀬さんは\n森海さんと仲がよろしいのですね。"
+    rs_character_62324AD297554FE987C680452CEE232E "ありがとうございます。{w}\nところで、一ノ瀬さんは森海さんと仲がよろしいのですね。"
 
 # game/content/file_00003BAC.rpy:4319
 translate japanese block_00003C18_2cc47bf2:
@@ -2398,7 +2398,7 @@ translate japanese block_00003C18_cb93a239:
 translate japanese block_00003C18_a1adf5ba:
 
     # rs_character_62324AD297554FE987C680452CEE232E "同感。赤峰同学他们的事或许和我们正在调查的事也有关。"
-    rs_character_62324AD297554FE987C680452CEE232E "そうですね。赤峰さんたちの件も、僕たちの話と\n関係があるかもしれません。"
+    rs_character_62324AD297554FE987C680452CEE232E "そうですね。赤峰さんたちの件も、\n僕たちの話と関係があるかもしれません。"
 
 # game/content/file_00003BAC.rpy:4461
 translate japanese block_00003C18_c73b3fbb:
@@ -2502,23 +2502,23 @@ translate japanese block_00003C18_0ca77987:
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "……归宅部，举手！"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B "……帰宅部、挙手！"
 
-# game/content/file_00003BAC.rpy:4627
-translate japanese block_00003C18_d9134dd5:
+# game/content/file_00003BAC.rpy:4648
+translate japanese block_00003C18_2efdf21b:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "友 呃！\n{nw}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "友 はい！\n{nw}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "呃！\n{nw}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "はい！\n{nw}"
 
-# game/content/file_00003BAC.rpy:4636
-translate japanese block_00003C18_33271396:
+# game/content/file_00003BAC.rpy:4657
+translate japanese block_00003C18_a58c2507:
 
-    # extend "慎太郎 哦！\n{nw}"
-    extend "慎太郎 ほい！\n{nw}"
+    # extend "哦！\n{nw}"
+    extend "ほい！\n{nw}"
 
-# game/content/file_00003BAC.rpy:4645
-translate japanese block_00003C18_dba8509f:
+# game/content/file_00003BAC.rpy:4666
+translate japanese block_00003C18_34010af8:
 
-    # extend "翼 唔！"
-    extend "つばさ ひい！"
+    # extend "唔！"
+    extend "ひい！"
 
 # game/content/file_00003BAC.rpy:4656
 translate japanese block_00003C18_bd48bc47:
@@ -2578,7 +2578,7 @@ translate japanese block_00003C18_b3e48366:
 translate japanese block_00003C18_7858c8db:
 
     # rs_character_62324AD297554FE987C680452CEE232E "这种情况下也这么镇定，真是佩服大家的胆力呢。"
-    rs_character_62324AD297554FE987C680452CEE232E "こんな状況にもかかわらず、皆さん、\n頼もしい胆力ですね。"
+    rs_character_62324AD297554FE987C680452CEE232E "こんな状況にもかかわらず、\n皆さん、頼もしい胆力ですね。"
 
 # game/content/file_00003BAC.rpy:4778
 translate japanese block_00003C18_9e6d40d7:
@@ -2962,7 +2962,7 @@ translate japanese block_00003C22_4586251f:
 translate japanese block_00003C22_4618c629:
 
     # rs_character_EFC67D522B5F4615BFAE716D87F58204 "不只是绫濑前辈，能抓走那个守说明肯定不是等闲之辈……这家伙。"
-    rs_character_EFC67D522B5F4615BFAE716D87F58204 "綾瀬先輩だけじゃねぇ。あのマモルがやられたってことは\n只者じゃねぇ……こいつ。"
+    rs_character_EFC67D522B5F4615BFAE716D87F58204 "綾瀬先輩だけじゃねぇ。\nあのマモルがやられたってことは\n只者じゃねぇ……こいつ。"
 
 # game/content/file_00003BAC.rpy:5725
 translate japanese block_00003C22_6e355bd3:
@@ -3304,7 +3304,7 @@ translate japanese block_00003C23_c39ebcd8:
 translate japanese block_00003C23_8f6c6f13:
 
     # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "怎、怎么会！？\n那岂不是我们中有人故意让别人陷入危险境地吗！？"
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "そ、そんな！？それじゃあ、僕たちの誰かが\nみんなを危険な目に遭わせているということですか！？"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "そ、そんな！？それじゃあ、\n僕たちの誰かがみんなを危険な目に遭わせている\nということですか！？"
 
 # game/content/file_00003BAC.rpy:6436
 translate japanese block_00003C23_a34ea569:
@@ -3448,7 +3448,7 @@ translate japanese block_00003C23_baf0ede7:
 translate japanese block_00003C23_9da4c884:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "而且，现在也没有被罪恶感压倒仍然保持匿名的话，\n就是说这可能只是玩乐的程度。"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "しかも、今も罪悪感に負けずに知らんぷりしていられる\nってことは、きっとお遊びのようなことだからだよ。"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "しかも、今も罪悪感に負けずに\n知らんぷりしていられるってことは、\nきっとお遊びのようなことだからだよ。"
 
 # game/content/file_00003BAC.rpy:6696
 translate japanese block_00003C23_ac1caf94:
@@ -3466,7 +3466,7 @@ translate japanese block_00003C23_e66a20c4:
 translate japanese block_00003C23_b2f4449d:
 
     # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "不愧是奥村！说不定这只是旅行中的一个特别事件，这么想就好了！"
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "さっすが、奥村やで！もしかしたら、ツアーの\nイベントの一つかもしれんぐらいに思えてきたわ！"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "さっすが、奥村やで！\nもしかしたら、ツアーのイベントの一つかもしれんぐらいに\n思えてきたわ！"
 
 # game/content/file_00003BAC.rpy:6719
 translate japanese block_00003C23_33e3f5fa:
@@ -3478,7 +3478,7 @@ translate japanese block_00003C23_33e3f5fa:
 translate japanese block_00003C23_dad66761:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "更加轻松一点用游玩的感觉对待就好！{w}\n这样会很没意思哦，对这种现实版解谜游戏。"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "もっと気楽にお遊び感覚でやっていこう！{w}なかなか\n味わえないよ、こんなリアルなミステリーごっこ。"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "もっと気楽にお遊び感覚でやっていこう！{w}\nなかなか味わえないよ、こんなリアルなミステリーごっこ。"
 
 # game/content/file_00003BAC.rpy:6746
 translate japanese block_00003C23_63a776ea:
@@ -3610,7 +3610,7 @@ translate japanese block_00003C2A_7bc026dc:
 translate japanese block_00003C2D_1c5330bc:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "如果是被那个导游强行袭击的，隔壁的夕阳君肯定是能听到的。"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "あの案内人さんに無理矢理襲われたなら、声や音が\n隣の部屋のユウヒくんに聞こえるはずだもんね。"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "あの案内人さんに無理矢理襲われたなら、\n声や音が隣の部屋のユウヒくんに聞こえるはずだもんね。"
 
 # game/content/file_00003BAC.rpy:7231
 translate japanese block_00003C2E_7249165f:
@@ -3712,13 +3712,13 @@ translate japanese block_00003C3A_ce02ef3f:
 translate japanese block_00003C3A_f8edf390:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "打西瓜也很有意思，能在那种地方感觉到平日练习的成果……不错。"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "スイカ割りも楽しかったな。あんなところで\n普段の稽古の成果を実感できるとは……感激だ。"
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "スイカ割りも楽しかったな。\nあんなところで普段の稽古の成果を実感できるとは……\n感激だ。"
 
 # game/content/file_00003BAC.rpy:7668
 translate japanese block_00003C3A_c932b29b:
 
     # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "果然月君很厉害呐！我只是在原地转圈，一步也走不动……"
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "やっぱり月くんはすごいです！僕はぐるぐる回った\nだけで、一歩も歩けませんでしたよぉ……。"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "やっぱり月くんはすごいです！\n僕はぐるぐる回っただけで、一歩も歩けませんでしたよぉ……。"
 
 # game/content/file_00003BAC.rpy:7678
 translate japanese block_00003C3A_9fcf852c:
@@ -3808,7 +3808,7 @@ translate japanese block_00003C3A_4e942ec3:
 translate japanese block_00003BBB_ca854ecd:
 
     # rs_character_62324AD297554FE987C680452CEE232E "这次的活动满意吗？{w}{color=#FF00FF}晦哥{/color}。"
-    rs_character_62324AD297554FE987C680452CEE232E "今回の催しには満足していただけましたか？{w}{color=#FF00FF}晦（カイ）{/color}お兄さん。"
+    rs_character_62324AD297554FE987C680452CEE232E "今回の催しには満足していただけましたか？{w}\n{color=#FF00FF}晦（カイ）{/color}お兄さん。"
 
 # game/content/file_00003BAC.rpy:7937
 translate japanese block_00003BBB_268a3d4e:
@@ -3868,7 +3868,7 @@ translate japanese block_00003BBB_a8e37bed:
 translate japanese block_00003BBB_7a8311c6:
 
     # rs_character_62324AD297554FE987C680452CEE232E "都那么发散压力了，耐性才这么点。"
-    rs_character_62324AD297554FE987C680452CEE232E ""
+    rs_character_62324AD297554FE987C680452CEE232E "あれだけ発散しておいて、我慢とはこれ如何に。"
 
 # game/content/file_00003BAC.rpy:8004
 translate japanese block_00003BBB_5f0f385d:
@@ -3880,13 +3880,13 @@ translate japanese block_00003BBB_5f0f385d:
 translate japanese block_00003BBB_1e09e277:
 
     # rs_character_EE1903694D624E399209772C95A20AAA "他们平时店里随便向老头子们抛几个眉眼就能大把捞钱，\n这次真是委屈了。"
-    rs_character_EE1903694D624E399209772C95A20AAA "普段おじさまに色目を使い、店でしのぎを削っている\n彼らには、さぞ退屈だったろう。"
+    rs_character_EE1903694D624E399209772C95A20AAA "普段おじさまに色目を使い、\n店でしのぎを削っている彼らには、\nさぞ退屈だったろう。"
 
 # game/content/file_00003BAC.rpy:8014
 translate japanese block_00003BBB_f8f2f168:
 
     # rs_character_62324AD297554FE987C680452CEE232E "好像很忙的样子，大家第一天就都回店里去了。"
-    rs_character_62324AD297554FE987C680452CEE232E "かなりお忙しいようで、皆さん初日で\nお店に帰られましたが、"
+    rs_character_62324AD297554FE987C680452CEE232E "かなりお忙しいようで、\n皆さん初日でお店に帰られましたが、"
 
 # game/content/file_00003BAC.rpy:8019
 translate japanese block_00003BBB_3f5389b1:
@@ -4084,7 +4084,7 @@ translate japanese block_00003BBB_ccef1bcf:
 translate japanese block_00003BBB_44a7ce75:
 
     # rs_character_62324AD297554FE987C680452CEE232E "真是的……喝酒喝到语气都变了真是没出息。\n醉酒的哥哥太傲慢了，我讨厌这样。"
-    rs_character_62324AD297554FE987C680452CEE232E "まったく……口調が変わるほどお酒に飲まれてしまって\nみっともない。酔ったお兄さんは高飛車で嫌いです。"
+    rs_character_62324AD297554FE987C680452CEE232E "まったく……口調が変わるほど\nお酒に飲まれてしまってみっともない。\n酔ったお兄さんは高飛車で嫌いです。"
 
 # game/content/file_00003BAC.rpy:8292
 translate japanese block_00003BBB_16ff8626:
@@ -4176,11 +4176,11 @@ translate japanese strings:
 
     # content\file_00003BAC.rpy:3824
     old "调查完毕"
-    new "調査完了"
+    new "終了する"
 
     # content\file_00003BAC.rpy:3824
     old "稍等，还有……"
-    new "まだ疑問がある"
+    new "まだ調査する"
 
     # content\file_00003BAC.rpy:5100
     old "211房"
@@ -4256,7 +4256,7 @@ translate japanese strings:
 
     # content\file_00003BAC.rpy:7256
     old "导游是如何逃脱的？"
-    new "案内人はどうやって\n縄から脱出だした？"
+    new "案内人はどうやって\n縄から脱出した？"
 
     # content\file_00003BAC.rpy:7257
     old "自力逃脱"

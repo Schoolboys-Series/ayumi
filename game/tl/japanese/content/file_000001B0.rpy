@@ -5085,11 +5085,11 @@ translate japanese strings:
 
     # content\file_000001B0.rpy:3552
     old "一起去吧，翼君"
-    new "一緒に行こうよ、つばさくん"
+    new "一緒に観に行く"
 
     # content\file_000001B0.rpy:3552
     old "稍等现在有点事"
-    new "今ちょっと……"
+    new "また今度ね"
 
     # content\file_000001B0.rpy:3834
     old "体育馆"

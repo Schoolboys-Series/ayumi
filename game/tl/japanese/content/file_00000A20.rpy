@@ -574,7 +574,7 @@ translate japanese block_00002F29_e647987f:
 translate japanese block_00002604_046a3e2a:
 
     # rs_character_57471360F48A413AB843A4E46D8C5541 "旅行期间落下的现在可要多巡逻补回来。"
-    rs_character_57471360F48A413AB843A4E46D8C5541 "旅行して、ヒーローお休みした分、パトロール頑張らないとね。"
+    rs_character_57471360F48A413AB843A4E46D8C5541 "旅行して、ヒーローお休みした分、\nパトロール頑張らないとね。"
 
 # game/content/file_00000A20.rpy:2216
 translate japanese block_00002604_24ecf4c9:
@@ -916,7 +916,7 @@ translate japanese block_000016D4_1b112cab:
 translate japanese block_00003BBF_7e1b8093:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『事件{/color}{color=#AA0055}“欢迎来到食人狼之馆”{/color}{color=#0080FF}成功结束。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ストーリーモード{/color}{color=#AA0055}“ようこそ、人喰い狼の館へ”{/color}{color=#0080FF}をクリアしました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ストーリーモード{/color}\n{color=#AA0055}“ようこそ、人喰い狼の館へ”{/color}{color=#0080FF}をクリアしました。』{/color}"
 
 # game/content/file_00000A20.rpy:4006
 translate japanese block_00002586_fe0fb89c:

@@ -540,15 +540,15 @@ translate japanese strings:
 
     # content\resources.rpy:411
     old " 布偶A·B"
-    new " ぬいぐるみA·B"
+    new " 着ぐるみA·B"
 
     # content\resources.rpy:412
     old " 布偶A"
-    new " ぬいぐるみA"
+    new " 着ぐるみA"
 
     # content\resources.rpy:413
     old " 布偶B"
-    new " ぬいぐるみB"
+    new " 着ぐるみB"
 
     # content\resources.rpy:414
     old " 可疑的和尚A"
