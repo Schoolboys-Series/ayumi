@@ -4566,10 +4566,10 @@ label block_00003AF7:
 
     pause 0.4
 
-    # Gallery unlock: images/CG/Inconceivable-story-of-wong-mew/Inconceivable-story-of-wong-mew 7.png
-    $ zorder_rs_image_BB4914B9F99F4B449F1BD45034C67186 = -100
-    show rs_image_BB4914B9F99F4B449F1BD45034C67186 as rs_image_BB4914B9F99F4B449F1BD45034C67186 zorder zorder_rs_image_BB4914B9F99F4B449F1BD45034C67186 onlayer master
-    hide rs_image_BB4914B9F99F4B449F1BD45034C67186
+    # Gallery unlock: images/CG/Inconceivable-story-of-wong-mew/Inconceivable-story-of-wong-mew 7-1.png
+    $ zorder_rs_image_32BAA0EDDD3E4985B818E253A624C758 = -100
+    show rs_image_32BAA0EDDD3E4985B818E253A624C758 as rs_image_32BAA0EDDD3E4985B818E253A624C758 zorder zorder_rs_image_32BAA0EDDD3E4985B818E253A624C758 onlayer master
+    hide rs_image_32BAA0EDDD3E4985B818E253A624C758
 
     show rs_image_C7CD9B9BF390409D921A574173433704 as tag_3C0D2D9BB95B42AAA768FE8D105219CB zorder zorder_tag_3C0D2D9BB95B42AAA768FE8D105219CB onlayer master
     with rs_effect_1445BCCB339E41F196B5E8B4A0176595
