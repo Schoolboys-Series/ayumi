@@ -231,9 +231,9 @@ label block_00003C0C:
 
     pause 0.3
 
-    if sys_music2_current_file != "sound/BGM/Celemony.ogg":
-        play music2 "sound/BGM/Celemony.ogg" loop
-        $ sys_music2_current_file = "sound/BGM/Celemony.ogg"
+    if sys_music2_current_file != "sound/BGM/Slowly time.ogg":
+        play music2 "sound/BGM/Slowly time.ogg" loop
+        $ sys_music2_current_file = "sound/BGM/Slowly time.ogg"
 
     $ set_window("体育祭、音楽祭")
     window show
@@ -246,19 +246,22 @@ label block_00003C0C:
         {"x": 52, "y": 10, "id": 0, "image": "images/Celemony/Event/Soprano.png"},
         {"x": 237, "y": 10, "id": 1, "image": "images/Celemony/Event/Alto.png"},
         {"x": 422, "y": 10, "id": 2, "image": "images/Celemony/Event/Tenor.png"},
-        {"x": 607, "y": 10, "id": 0, "image": "images/Celemony/Event/Soprano.png"},
-        {"x": 52, "y": 97, "id": 2, "image": "images/Celemony/Event/Tenor.png"},
-        {"x": 237, "y": 97, "id": 3, "image": "images/Celemony/Event/Bass.png"},
-        {"x": 422, "y": 97, "id": 3, "image": "images/Celemony/Event/Bass.png"},
-        {"x": 607, "y": 97, "id": 2, "image": "images/Celemony/Event/Tenor.png"},
+        {"x": 607, "y": 10, "id": 3, "image": "images/Celemony/Event/Bass.png"},
+
+        {"x": 52, "y": 97, "id": 0, "image": "images/Celemony/Event/Soprano.png"},
+        {"x": 237, "y": 97, "id": 1, "image": "images/Celemony/Event/Alto.png"},
+        {"x": 422, "y": 97, "id": 2, "image": "images/Celemony/Event/Tenor.png"},
+        {"x": 607, "y": 97, "id": 3, "image": "images/Celemony/Event/Bass.png"},
+
         {"x": 52, "y": 184, "id": 1, "image": "images/Celemony/Event/Alto.png"},
         {"x": 237, "y": 184, "id": 1, "image": "images/Celemony/Event/Alto.png"},
         {"x": 422, "y": 184, "id": 2, "image": "images/Celemony/Event/Tenor.png"},
         {"x": 607, "y": 184, "id": 3, "image": "images/Celemony/Event/Bass.png"},
+
         {"x": 52, "y": 271, "id": 1, "image": "images/Celemony/Event/Alto.png"},
         {"x": 237, "y": 271, "id": 2, "image": "images/Celemony/Event/Tenor.png"},
-        {"x": 422, "y": 271, "id": 3, "image": "images/Celemony/Event/Bass.png"},
-        {"x": 607, "y": 271, "id": 1, "image": "images/Celemony/Event/Alto.png"},
+        {"x": 422, "y": 271, "id": 2, "image": "images/Celemony/Event/Tenor.png"},
+        {"x": 607, "y": 271, "id": 3, "image": "images/Celemony/Event/Bass.png"},
     ], {
         "base": {
             "Itou":      [3,   4,   1,  2],
@@ -365,13 +368,7 @@ label block_00003C0C:
                 "condition": [[0, 1], ["Saburou", "Shintarou"]], # 猫咪狂躁曲
                 "range": [
                     {"rate": [0, 0.4], "value": 2, "description": _("三酱好棒！")},
-                    {"rate": [0.4, 1], "value": 0}
-                ]
-            }, {
-                "condition": [[], ["Sakuya", "Shintarou"]], # 傲娇君的歌声
-                "range": [
-                    {"rate": [0, 0.2], "value": 2, "description": _("傲娇君为什么要看着我唱歌……")},
-                    {"rate": [0.2, 1], "value": 0}
+                    {"rat": [0.4, 1], "value": 0}
                 ]
             }
         ]
