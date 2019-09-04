@@ -532,13 +532,13 @@ translate japanese block_00003021_eab6455b:
 translate japanese block_00003021_52ca8301:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "最近有很多目击到自称是\n与此世之恶交战的{color=#FF0000}两位少年{/color}的人。"
-    rs_character_53FF68C192E3494AB005C1909579AFFB "最近、この世の悪と戦っている（自称）{color=#FF0000}２人の少年{/color}が目撃されています。"
+    rs_character_53FF68C192E3494AB005C1909579AFFB "最近、この世の悪と戦っている（自称）\n{color=#FF0000}２人の少年{/color}が目撃されています。"
 
 # game/content/file_00001947.rpy:2112
 translate japanese block_00003021_db62092f:
 
     # rs_character_41A906D279CA4677A6A2ED8CBE544459 "希望你查明他们和他们的对手和真相。\n"
-    rs_character_41A906D279CA4677A6A2ED8CBE544459 "キミには、彼らの素性や、\n戦っているという悪（？）\nを暴いてほしい。"
+    rs_character_41A906D279CA4677A6A2ED8CBE544459 "キミには、彼らの素性や、\n戦っているという悪（？）を暴いてほしい。\n"
 
 # game/content/file_00001947.rpy:2120
 translate japanese block_00003021_30d2862f:
@@ -546,11 +546,11 @@ translate japanese block_00003021_30d2862f:
     # extend "拜托你了，新闻部的新人！"
     extend "頼んだぞ、新聞部のニューフェイス！"
 
-# game/content/file_00001947.rpy:2133
-translate japanese block_00003021_7a66f537:
+# game/content/file_00001947.rpy:2143
+translate japanese block_00003021_01df9d9f:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#AA0055}御咲市郊外有人目击到了穿着\n英雄COSPLAY装和魔法师装扮的少年。\n请前往调查并找出他们{/color}{size=18}{color=#AA0055}！{/color}{/size}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#AA0055}御咲の郊外で、魔法使いとヒーローの\nコスプレをしている少年が目撃された。\n実態を調査するため、彼らを見つけ出せ！{/color}{/size}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#AA0055}御咲市郊外有人目击到了穿着\n英雄COSPLAY装和魔法师装扮的少年。\n请前往调查并找出他们！{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#AA0055}御咲の郊外で、魔法使いとヒーローの\nƒコスプレをしている少年が目撃された。\n実態を調査するため、彼らを見つけ出せ！{/color}"
 
 # game/content/file_00001947.rpy:2165
 translate japanese block_00003022_545bff5f:
@@ -2302,7 +2302,7 @@ translate japanese block_000026EF_833b5fee:
 translate japanese block_000026F0_e5bf79d6:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{size=28}{color=#FFFF00}～木村的热血讨论室～{/color}{/size}\n{size=15}{color=#00FFFF}〈{/color}{/size}{color=#00FFFF}主持{/color}{size=15}{color=#00FFFF}〉{/color}{/size}{color=#00FFFF}木村树·伊藤圭 {/color}{size=15}{color=#00FFFF}〈{/color}{/size}{color=#00FFFF}嘉宾{/color}{size=15}{color=#00FFFF}〉{/color}{/size}{color=#00FFFF}森海友・奥村慎太郎・赤峰月{/color}\n"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{size=28}{color=#FFFF00}～木村の熱血議論教室～{/color}{/size}\nn{size=15}{color=#00FFFF}〈レギュラー〉樹・圭〈ゲスト〉友・慎太郎・月{/color}{/size}\n"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{size=28}{color=#FFFF00}～木村の熱血議論教室～{/color}{/size}\n{size=15}{color=#00FFFF}〈レギュラー〉樹・圭〈ゲスト〉友・慎太郎・月{/color}{/size}\n"
 
 # game/content/file_00001947.rpy:7237
 translate japanese block_000026F0_34d502ef:
@@ -2518,13 +2518,13 @@ translate japanese block_000026F0_0521384b:
 translate japanese block_000026F0_319c2978:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "记得老师说我们的文化是以“走过去”为印象所以是“去了”而外国人则是“到来”。"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "日本人は自分の視点で相手の近くへ『行く』場合でも、相手の\n視点に立って\"come\""
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "日本人は自分の視点で相手の近くへ『行く』場合でも、\n相手の視点に立って\"come\"を使うと先生がおっしゃっただろう。"
 
 # game/content/file_00001947.rpy:7623
 translate japanese block_000026F0_b3aa1ae6:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "友亲，这是今天上午刚讲的……"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "を使うと先生がおっしゃっただろう。"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "それ習ったの、今日の午前中ですぜ、友っち......"
 
 # game/content/file_00001947.rpy:7633
 translate japanese block_000026F0_3a9a92e5:
@@ -2632,7 +2632,7 @@ translate japanese block_00002538_9b2c355d:
 translate japanese block_00002538_f3a574f4:
 
     # extend "算了，我老老实实坐电车去。不麻烦你了。"
-    extend "そんなこと\n言うならもういいよ。また電車通学に\n戻します。今までお世話になりました。"
+    extend "そんなこと言うならもういいよ。\nまた電車通学に戻します。今までお世話になりました。"
 
 # game/content/file_00001947.rpy:7913
 translate japanese block_00002538_1f5d751b:
@@ -2994,23 +2994,23 @@ translate japanese block_000027DD_605b1809:
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "而且选曲也太有趣了。\n肯定很憧憬{color=#FF00FF}英雄(H-ERO){/color}吧？"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "しかも選曲がまたちょっと面白いよね。\nよっぽど、{color=#FF00FF}英雄{/color}に憧れてたのかな？"
 
-# game/content/file_00001947.rpy:8860
-translate japanese block_000026DD_4af83f51:
+# game/content/file_00001947.rpy:8864
+translate japanese block_000026DD_d50a1cc2:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "加藤：……那个要这么做……\n"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "準太　……アレをこうしてだな……。\n"
+    # rs_character_81D16F74A3C44B8982DB528D7D934850 "……那个要这么做……"
+    rs_character_81D16F74A3C44B8982DB528D7D934850 "……アレをこうしてだな……。"
 
-# game/content/file_00001947.rpy:8868
-translate japanese block_000026DD_3d27acf2:
+# game/content/file_00001947.rpy:8872
+translate japanese block_000026DD_b2757c76:
 
-    # extend "泉：嗯，然后要这样……\n"
-    extend "翔　うんうん、それでああやって……。\n"
+    # rs_character_8D9249CA1389416BAF6A122851E276D0 "嗯，然后要这样……"
+    rs_character_8D9249CA1389416BAF6A122851E276D0 "うんうん、それでああやって……。"
 
-# game/content/file_00001947.rpy:8876
-translate japanese block_000026DD_6154a033:
+# game/content/file_00001947.rpy:8880
+translate japanese block_000026DD_3c4ca585:
 
-    # extend "松田：……也有这样的，怎么做？"
-    extend "健治　……という手もあるが、どうする？。"
+    # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "……也有这样的，怎么做？"
+    rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "……という手もあるが、どうする？"
 
 # game/content/file_00001947.rpy:8894
 translate japanese block_000026DD_6bbf1ed5:
@@ -3844,7 +3844,7 @@ translate japanese block_00003034_4b6aefe7:
 translate japanese block_00003039_d38126ac:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "就这样放学{color=#0000FF}回家{/color}，然后……\n"
-    rs_character_C223850065F6443080205D1F61C04C98 "放課後に、{color=#0000FF}自分の家{/color}に帰り、それから……。"
+    rs_character_C223850065F6443080205D1F61C04C98 "放課後に、{color=#0000FF}自分の家{/color}に帰り、それから……。\n"
 
 # game/content/file_00001947.rpy:11116
 translate japanese block_00003039_49d942a2:
@@ -3976,7 +3976,7 @@ translate japanese block_0000303A_4b6aefe7:
 translate japanese block_0000302E_d7483871:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "去和图书馆里的{color=#FF8000}绫濑忍{/color}谈一下。他好像给你准备了有趣的游戏。"
-    rs_character_C223850065F6443080205D1F61C04C98 "図書室にいる{color=#FF8000}綾瀬しのぶ{/color}くんに\n話けると、ちょっとしたゲームを\n提示してくれるかも。"
+    rs_character_C223850065F6443080205D1F61C04C98 "図書室にいる{color=#FF8000}綾瀬しのぶ{/color}くんに話けると、\nちょっとしたゲームを提示してくれるかも。"
 
 # game/content/file_00001947.rpy:11383
 translate japanese block_0000302E_4b6aefe7:
@@ -4000,7 +4000,7 @@ translate japanese block_0000302F_4b6aefe7:
 translate japanese block_00003035_b9f4e3d9:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "现在已经没有什么其他有趣的事情了。"
-    rs_character_C223850065F6443080205D1F61C04C98 "今は特に\n教えてあげられることはないかな。"
+    rs_character_C223850065F6443080205D1F61C04C98 "今は特に教えてあげられることはないかな。"
 
 # game/content/file_00001947.rpy:11435
 translate japanese block_00003035_4b6aefe7:

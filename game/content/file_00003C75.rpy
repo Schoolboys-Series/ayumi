@@ -244,9 +244,10 @@ label block_00003C84:
 
     pause 2.5
 
-    $ zorder_tag_ECFB5B509A334A868686B3435242BF90 = 300
     $ zorder_tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 = 0
-    show rs_image_7131112E86B24D6A9BE667868088D590 as tag_ECFB5B509A334A868686B3435242BF90 at center_bottom zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
+    $ zorder_tag_ECFB5B509A334A868686B3435242BF90 = 300
+    $ zorder_tag_507130D7BD574651B179D6DEF2CE814D = 400
+    
     show rs_image_B444FDE4EF1A43E5A2345A44A71061D5 as tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 at center_bottom zorder zorder_tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 onlayer master
     with rs_effect_995A246CCA8349168AE1D97DE29F1026
 
@@ -255,23 +256,26 @@ label block_00003C84:
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Inspiration 1.ogg"
+    
+    show rs_image_7131112E86B24D6A9BE667868088D590 as tag_ECFB5B509A334A868686B3435242BF90 at center_bottom zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
+    show rs_image_8F6493A7AD5749CFA41012A9D048C1F5 as tag_507130D7BD574651B179D6DEF2CE814D zorder zorder_tag_507130D7BD574651B179D6DEF2CE814D onlayer master
+    show rs_image_107F1D49D8E64904B63165A87DBFC26D as tag_26CE4420E4BF43ADBA4E35F2A9784E98 at center_bottom zorder zorder_tag_26CE4420E4BF43ADBA4E35F2A9784E98 onlayer master
+    with rs_effect_3CD1D1BAAA614EC5B716922FC26E97B9
 
-    $ set_place_title(_("友的房间"))
-    pause 1
+    pause 1.5
 
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Look! 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Look! 1.ogg"
 
-    $ zorder_tag_507130D7BD574651B179D6DEF2CE814D = 400
+
     show rs_image_3E86770DDFC949EA90C3480E2A3AC643 as tag_507130D7BD574651B179D6DEF2CE814D zorder zorder_tag_507130D7BD574651B179D6DEF2CE814D onlayer master
-    with rs_effect_E105874A5CD740D285F7ACB5031E97EB
+    with rs_effect_9B79BC7F460B4E06BA4FDB458B5423C1
 
     pause 2
 
-    $ set_window("(標準)")
-    $ zorder_tag_507130D7BD574651B179D6DEF2CE814D = 400
     hide tag_507130D7BD574651B179D6DEF2CE814D
+    hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     with rs_effect_E105874A5CD740D285F7ACB5031E97EB
 
     pause 0.6
@@ -286,6 +290,8 @@ label block_00003C84:
     show rs_image_B6AB8ED7C4FF45F685270512420E0C03 as tag_F12981B3CF794DEA86CFB94275B48CFB at center_bottom zorder zorder_tag_F12981B3CF794DEA86CFB94275B48CFB onlayer master
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
+    $ set_place_title(_("友的房间"))
+    $ set_window("(標準)")
     window show
 
     rs_character_D93E396B7ADB48CBAE13F206958FC08B "准备好了？没落下东西吧？{w}好，那就去学校。"

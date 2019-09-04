@@ -2140,7 +2140,7 @@ label block_00003021:
 
     window hide
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#AA0055}御咲市郊外有人目击到了穿着\n英雄COSPLAY装和魔法师装扮的少年。\n请前往调查并找出他们{/color}{size=18}{color=#AA0055}！{/color}{/size}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#AA0055}御咲市郊外有人目击到了穿着\n英雄COSPLAY装和魔法师装扮的少年。\n请前往调查并找出他们！{/color}"
 
     hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -6499,6 +6499,7 @@ label block_00004023:
 label block_00004257:
     # Node: 00004257 (Normal)
     $ zorder_tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 = 0
+    show rs_image_7131112E86B24D6A9BE667868088D590 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     show rs_image_297E564A7C1544469FB88A41AB85B6C9 as tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 at center_bottom zorder zorder_tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 onlayer master
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
@@ -8861,7 +8862,7 @@ label block_000026DD:
         play effect "sound/Effect Sound/Tick tock 1.ogg" loop
         $ sys_effect_current_file = "sound/Effect Sound/Tick tock 1.ogg"
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "加藤：……那个要这么做……\n"
+    rs_character_81D16F74A3C44B8982DB528D7D934850 "……那个要这么做……"
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
@@ -8869,7 +8870,7 @@ label block_000026DD:
     show rs_image_DB7EB752E3A446FE9E0FC7B5FB53A5AC as tag_724406A84D7141298EFF0D864FAE1534 zorder zorder_tag_724406A84D7141298EFF0D864FAE1534 onlayer master
     with rs_effect_5347402CC2724A2BAD6DFA4C3193FA8E
 
-    extend "泉：嗯，然后要这样……\n"
+    rs_character_8D9249CA1389416BAF6A122851E276D0 "嗯，然后要这样……"
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
@@ -8877,7 +8878,7 @@ label block_000026DD:
     show rs_image_36FA043A9D13453B8E531655A8BDDE10 as tag_724406A84D7141298EFF0D864FAE1534 zorder zorder_tag_724406A84D7141298EFF0D864FAE1534 onlayer master
     with rs_effect_446CB9E7B6074C7F87730DF5D4AF793D
 
-    extend "松田：……也有这样的，怎么做？"
+    rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "……也有这样的，怎么做？"
 
     hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     hide tag_724406A84D7141298EFF0D864FAE1534

@@ -1294,7 +1294,7 @@ translate japanese block_000027C4_ebb7d9e2:
 translate japanese block_000027C7_e6893971:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "今天好耶——♪你们二位！{w}\n哦？带着{color=#0080FF}行李箱{/color}呐，\n接下来要出门吗？"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "ふにゅにゅちはー♪お二人さん！{w}\nやや？{color=#0080FF}行キャリーバッグ{/color}なんて持って\nこれからどこかお出かけですか？"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "ふにゅにゅちはー♪お二人さん！{w}\nやや？{color=#0080FF}キャリーバッグ{/color}なんて持って\nこれからどこかお出かけですか？"
 
 # game/content/file_00001A69.rpy:4655
 translate japanese block_000027C7_b436164e:
@@ -1312,7 +1312,7 @@ translate japanese block_000027C7_8e121577:
 translate japanese block_000027C7_2bbde5c6:
 
     # rs_character_7C178421D3DA4E2CB70D4336919888FB "憧憬许久的全国范围！至今为止\n不断磨练出的技巧终于能让大家都看到了"
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "憧れの全国放送！今まで磨き上げてきた\n芸を、ついに日本中の皆様に\nお届けする日がやって来ました！"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "憧れの全国放送！今まで磨き上げてきた芸を、\nついに日本中の皆様に\nお届けする日がやって来ました！"
 
 # game/content/file_00001A69.rpy:4684
 translate japanese block_000027C7_6bab9179:
@@ -1330,7 +1330,7 @@ translate japanese block_000027C7_5867495f:
 translate japanese block_000027C7_380f1970:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "说不定年底还会出现在\n{color=#FF0000}《绝对不准笑》{/color}和\n{color=#808000}《艺人等级鉴定》{/color}上呐！"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "もしかしたら、年末の\n{color=#FF0000}『大笑いしてはいけない』》{/color}とか\n{color=#808000}『芸能人ランク付け』{/color}とかにも出たりして！"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "もしかしたら、年末の\n{color=#FF0000}『大笑いしてはいけない』{/color}とか\n{color=#808000}『芸能人ランク付け』{/color}とかにも出たりして！"
 
 # game/content/file_00001A69.rpy:4705
 translate japanese block_000027C7_7f11bf8e:
@@ -1342,7 +1342,7 @@ translate japanese block_000027C7_7f11bf8e:
 translate japanese block_000027C7_330a1e23:
 
     # rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "接下来就要坐新干线去东京。而且是一等车厢！\n{size=12}{color=#808080}*从大阪到东京约合人民币322元{/color}{/size}\n"
-    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "今から新幹線で東京へ向かうんです。\nしかも憧れのグリーン席！"
+    rs_character_40D73C5DA312475C905F6D1BC2C39FB7 "今から新幹線で東京へ向かうんです。\nしかも憧れのグリーン席！\n"
 
 # game/content/file_00001A69.rpy:4718
 translate japanese block_000027C7_4c08f89d:
@@ -1354,7 +1354,7 @@ translate japanese block_000027C7_4c08f89d:
 translate japanese block_000027C7_b0fd3b52:
 
     # rs_character_7C178421D3DA4E2CB70D4336919888FB "请记得看广播的节目表哦♪{w}我们走了——！"
-    rs_character_7C178421D3DA4E2CB70D4336919888FB "ラテ欄、きちんとチェック\nしておいてくださいね♪{w}\nそれでは行ってきまーす！"
+    rs_character_7C178421D3DA4E2CB70D4336919888FB "ラテ欄、きちんとチェックしておいてくださいね♪{w}\nそれでは行ってきまーす！"
 
 # game/content/file_00001A69.rpy:4832
 translate japanese block_000027C2_54a5ddda:
@@ -1402,8 +1402,8 @@ translate japanese strings:
 
     # content\file_00001A69.rpy:818
     old "要玩要玩"
-    new "やるやる"
+    new "やる"
 
     # content\file_00001A69.rpy:818
     old "药丸药丸"
-    new "バカバカしい"
+    new "やらない"

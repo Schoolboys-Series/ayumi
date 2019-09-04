@@ -4079,7 +4079,7 @@ translate japanese block_00002C99_4b6aefe7:
 translate japanese block_00002F38_fc25a885:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "放学后进家门前，\n记得{color=#FF8000}夕阳君{/color}在宝咲站口等你。"
-    rs_character_C223850065F6443080205D1F61C04C98 "放課後に宝咲にいる\n{color=#FF8000}ユウヒ{/color}くんがなんだか\n困っているみたいだよ。"
+    rs_character_C223850065F6443080205D1F61C04C98 "放課後に宝咲にいる{color=#FF8000}ユウヒ{/color}くんが\nなんだか困っているみたいだよ。"
 
 # game/content/file_000008C8.rpy:12520
 translate japanese block_00002F38_4b6aefe7:
@@ -4145,7 +4145,7 @@ translate japanese block_00002C9D_4b6aefe7:
 translate japanese block_00002C9E_f284daaf:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "楼梯间的{color=#FF8000}赤峰空君{/color}想要和你“共同作业”，\n请去找找他。"
-    rs_character_C223850065F6443080205D1F61C04C98 "踊り場にいる{color=#FF8000}赤峰空{/color}くんが、\n君とやりたいことが\nあるみたいだよ。"
+    rs_character_C223850065F6443080205D1F61C04C98 "踊り場にいる{color=#FF8000}赤峰空{/color}くんが、\n君とやりたいことがあるみたいだよ。"
 
 # game/content/file_000008C8.rpy:12652
 translate japanese block_00002C9E_4b6aefe7:

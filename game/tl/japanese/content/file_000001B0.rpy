@@ -4751,7 +4751,7 @@ translate japanese block_0000021C_565f42bd:
 translate japanese block_00000220_fe8f15de:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "图书馆里的{color=#008A45}绫濑忍君{/color}\n好像有什么事情必须告诉你。"
-    rs_character_C223850065F6443080205D1F61C04C98 "図書室にいる\n{color=#008A45}綾瀬しのぶ{/color}くんに話しかけると\n何か起こるかもね。"
+    rs_character_C223850065F6443080205D1F61C04C98 "図書室にいる{color=#008A45}綾瀬しのぶ{/color}くんに話しかけると\n何か起こるかもね。"
 
 # game/content/file_000001B0.rpy:12722
 translate japanese block_00000220_4b6aefe7:
@@ -4763,7 +4763,7 @@ translate japanese block_00000220_4b6aefe7:
 translate japanese block_000029B1_6c02e9f2:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "去找中庭里的{color=#3A00C4}一之濑翼君{/color}说说话吧。\n那样肯定会发生有趣的事情的。"
-    rs_character_C223850065F6443080205D1F61C04C98 "中庭にいる、\n{color=#3A00C4}一ノ瀬つばさ{/color}くんに話しかけると\n何かが起こると思うよ。"
+    rs_character_C223850065F6443080205D1F61C04C98 "中庭にいる、{color=#3A00C4}一ノ瀬つばさ{/color}くんに話しかけると\n何かが起こると思うよ。"
 
 # game/content/file_000001B0.rpy:12748
 translate japanese block_000029B1_4b6aefe7:
@@ -4889,7 +4889,7 @@ translate japanese block_000029B8_4b6aefe7:
 translate japanese block_0000021E_07a1ab09:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "去和图书馆里的{color=#FF8000}绫濑忍{/color}谈一下。\n他好像给你准备了有趣的游戏。"
-    rs_character_C223850065F6443080205D1F61C04C98 "図書室にいる{color=#FF8000}綾瀬しのぶ{/color}くんに\n話けると、ちょっとしたゲームを\n提示してくれるかも。"
+    rs_character_C223850065F6443080205D1F61C04C98 "図書室にいる{color=#FF8000}綾瀬しのぶ{/color}くんに話けると、\nちょっとしたゲームを提示してくれるかも。"
 
 # game/content/file_000001B0.rpy:13010
 translate japanese block_0000021E_4b6aefe7:
@@ -4913,7 +4913,7 @@ translate japanese block_000029BE_4b6aefe7:
 translate japanese block_000029B9_b9f4e3d9:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "现在已经没有什么其他有趣的事情了。"
-    rs_character_C223850065F6443080205D1F61C04C98 "今は特に\n教えてあげられることはないかな。"
+    rs_character_C223850065F6443080205D1F61C04C98 "今は特に教えてあげられることはないかな。"
 
 # game/content/file_000001B0.rpy:13058
 translate japanese block_000029B9_4b6aefe7:

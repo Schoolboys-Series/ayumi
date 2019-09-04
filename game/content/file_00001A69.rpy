@@ -1985,6 +1985,8 @@ label block_0000312F:
 
     pause 0.5
 
+    $ reverse_volume("music", 1)
+
     if sys_music_current_file != "sound/BGM/Something comical 1.ogg":
         play music "sound/BGM/Something comical 1.ogg" loop
         $ sys_music_current_file = "sound/BGM/Something comical 1.ogg"
