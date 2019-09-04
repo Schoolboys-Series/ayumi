@@ -76,7 +76,7 @@ translate japanese block_000027F7_c0280244:
 translate japanese block_000027F7_d45cf33e:
 
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "啊——可能是上次的{color=#00FFFF}吸烟问题{/color}。"
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "あー、たぶんcolor=#00FFFF}タバコ騒動{/color}のことだね。"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "あー、たぶん{color=#00FFFF}タバコ騒動{/color}のことだね。"
 
 # game/content/file_00001CFA.rpy:481
 translate japanese block_000027F7_236425a8:

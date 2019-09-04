@@ -970,6 +970,7 @@ label block_000041C8:
     show rs_image_37DD260DB3B64875AFF0FBF4F01BD3E9 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
+    $ set_window("(標準)")
     window show
 
     if True: # Hotfix: Ignore multiplay defenser for effect sound

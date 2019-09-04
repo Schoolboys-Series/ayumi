@@ -553,6 +553,9 @@ label block_000027F7:
 
     pause 0.7
 
+    show rs_image_CD2EEFA824144E4EA57A4C040DABF455 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
+    with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
+
     $ set_place_title(_("河边"))
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Swallow 1.ogg" loop
@@ -782,7 +785,7 @@ label block_00001D1F:
 
 label block_00001D20:
     # Node: 00001D20 (Spring water park)
-    $ sys_lm_menu_item = [{"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}, {"pos": (216, 192),"image": "images/Menu/Yuuhi spring water park.png","hover": "images/Menu/Yuuhi spring water park hover.png","name": "朔"}]
+    $ sys_lm_menu_item = [{"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}, {"pos": (216, 192),"image": "images/Menu/Yuuhi spring water park.png","hover": "images/Menu/Yuuhi spring water park hover.png","name": "夕阳"}]
     $ sys_lm_menu_sound = {"hover": "sound/Effect Sound/System - choose.ogg", "click": "sound/Effect Sound/System - click.ogg"}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0.2, 0.2) from _call_lm_menu_42
     $ del sys_lm_menu_item
@@ -790,7 +793,7 @@ label block_00001D20:
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"移動\"" }]):
         jump block_00001D11
-    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"朔\"" }]):
+    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"夕阳\"" }]):
         jump block_00001D24
 
     return
@@ -807,6 +810,7 @@ label block_00001D24:
     show rs_image_CD2EEFA824144E4EA57A4C040DABF455 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
+    $ set_window("(標準)")
     window show
 
     show rs_image_C0F9D8B5A9384E3AA89C0CB8EB04DBC9 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master

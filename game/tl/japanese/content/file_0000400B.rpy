@@ -4,7 +4,7 @@
 translate japanese block_0000400F_b1ab3d18:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯……"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "{color=#0080FF}そうとも！お互いがんばろーね、しのぶ！{/color}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "うーん……。"
 
 # game/content/file_0000400B.rpy:62
 translate japanese block_0000400F_c2443280:
@@ -304,7 +304,7 @@ translate japanese block_0000400F_9eddb64e:
 translate japanese block_0000400F_a9260d07:
 
     # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "真的好啊～这种日子能一起散步还不错吧？"
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "ホンマやな～。こんな日に一緒に\n散歩できるなんて、素敵やん？"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "ホンマやな～。\nこんな日に一緒に散歩できるなんて、素敵やん？"
 
 # game/content/file_0000400B.rpy:577
 translate japanese block_0000400F_70bb87ed:
@@ -1576,7 +1576,7 @@ translate japanese block_000041C4_754603f0:
 translate japanese block_000041C4_c9996762:
 
     # rs_character_B7D632B215DC48F886E24A21F27A219A "为什么要这样打招呼呢，\n当然是今天要演的剧码是{color=#FF0000}英雄故事{/color}！"
-    rs_character_B7D632B215DC48F886E24A21F27A219A "なぜこんな挨拶をしたのかと言いますと、今日\nご覧いただくのが、{color=#FF0000}ヒーローものの演劇{/color}だからです！"
+    rs_character_B7D632B215DC48F886E24A21F27A219A "なぜこんな挨拶をしたのかと言いますと、\n今日ご覧いただくのが、\n{color=#FF0000}ヒーローものの演劇{/color}だからです！"
 
 # game/content/file_0000400B.rpy:2775
 translate japanese block_000041C4_03749a8b:
@@ -1678,7 +1678,7 @@ translate japanese block_000041C4_8326e973:
 translate japanese block_000041C4_d739c261:
 
     # rs_character_B7D632B215DC48F886E24A21F27A219A "大家一起来欢呼！"
-    rs_character_B7D632B215DC48F886E24A21F27A219A "さあ、一緒に呼んでみよう！"
+    rs_character_B7D632B215DC48F886E24A21F27A219A "さあ、一緒に呼んでみよう！\n"
 
 # game/content/file_0000400B.rpy:2943
 translate japanese block_000041C4_1d5fd80a:
@@ -1810,7 +1810,7 @@ translate japanese block_000041C4_51c3f59e:
 translate japanese block_000041C4_f7f55262:
 
     # rs_character_B1BD18743BEC4D0F8D7522E76D84FA51 "不好了！外面有谁在呼救！"
-    rs_character_B1BD18743BEC4D0F8D7522E76D84FA51 "大変だ！お外で誰かが助けを呼んでいる！"
+    rs_character_B1BD18743BEC4D0F8D7522E76D84FA51 "大変だ！お外で誰かが助けを呼んでいる！\n"
 
 # game/content/file_0000400B.rpy:3174
 translate japanese block_000041C4_238bbb23:
@@ -2074,13 +2074,13 @@ translate japanese block_000041C4_25b66fba:
 translate japanese block_000041C4_3d4e1058:
 
     # rs_character_104194B4514C43EDACB2FBE0139785AC "我也知道！据说有人看到了乌贼乌贼星人和人类一起关系很好的样子！"
-    rs_character_104194B4514C43EDACB2FBE0139785AC "俺も知ってんで！ある人間が、\nイカイカ星人と仲良くしてる姿を見たって！"
+    rs_character_104194B4514C43EDACB2FBE0139785AC "俺も知ってんで！\nある人間が、イカイカ星人と仲良くしてる姿を見たって！"
 
 # game/content/file_0000400B.rpy:3546
 translate japanese block_000041C4_57143e94:
 
     # rs_character_CCEB3276FE42480B9F0D6D4E0AEDB6D9 "难道说，指的就是这家伙不成？？"
-    rs_character_CCEB3276FE42480B9F0D6D4E0AEDB6D9 "もしかして、それって\nコイツのことなんじゃない？？"
+    rs_character_CCEB3276FE42480B9F0D6D4E0AEDB6D9 "もしかして、\nそれってコイツのことなんじゃない？？"
 
 # game/content/file_0000400B.rpy:3569
 translate japanese block_000041C4_6e0e5131:
@@ -2158,7 +2158,7 @@ translate japanese block_000041C4_427c57e6:
 translate japanese block_000041C4_aa42ac9c:
 
     # extend "既然这样，来我们、我们乌贼乌贼星人的住处好不好。"
-    extend "それなら、\nオラ達、イカイカ星人の住処へ来るイカ。"
+    extend "それなら、オラ達、イカイカ星人の住処へ来るイカ。"
 
 # game/content/file_0000400B.rpy:3657
 translate japanese block_000041C4_e08c7cee:
@@ -2278,7 +2278,7 @@ translate japanese block_000041C4_1488afcf:
 translate japanese block_000041C4_a70ad99f:
 
     # rs_character_B1BD18743BEC4D0F8D7522E76D84FA51 "拜乌贼乌贼星人所赐，我现在非常幸福，每天都那么快乐。"
-    rs_character_B1BD18743BEC4D0F8D7522E76D84FA51 "イカイカ星人さんのおかげで、僕、\n今一番幸せだよ。毎日が本当に楽しい。"
+    rs_character_B1BD18743BEC4D0F8D7522E76D84FA51 "イカイカ星人さんのおかげで、\n僕、今一番幸せだよ。毎日が本当に楽しい。"
 
 # game/content/file_0000400B.rpy:3879
 translate japanese block_000041C4_dfcc54ac:
@@ -2842,7 +2842,7 @@ translate japanese block_000041C3_e5397c3c:
 translate japanese block_000041C3_e53b9745:
 
     # rs_character_57471360F48A413AB843A4E46D8C5541 "之前不是说过了嘛，\n你身边就有{color=#008080}比你谈着更特殊的恋爱{/color}的人哦。{nw}"
-    rs_character_57471360F48A413AB843A4E46D8C5541 "前に言ったでしょ。君よりも、\n{color=#008080}もっと特殊な恋をしている人が身近にいる{/color}って。{nw}"
+    rs_character_57471360F48A413AB843A4E46D8C5541 "前に言ったでしょ。\n君よりも、{color=#008080}もっと特殊な恋をしている人が身近にいる{/color}って。{nw}"
 
 # game/content/file_0000400B.rpy:4869
 translate japanese block_000041C3_e1f385a7:
@@ -2884,7 +2884,7 @@ translate japanese block_000041C3_a86ee873:
 translate japanese block_000041C3_bdc31e9d:
 
     # rs_character_57471360F48A413AB843A4E46D8C5541 "哈哈，加油，官能的魔法师君♪"
-    rs_character_57471360F48A413AB843A4E46D8C5541 "あははは。\nがんばれ官能の魔術師くん♪"
+    rs_character_57471360F48A413AB843A4E46D8C5541 "あははは。がんばれ官能の魔術師くん♪"
 
 # game/content/file_0000400B.rpy:4937
 translate japanese block_000041C3_193a6b7c:
@@ -2908,7 +2908,7 @@ translate japanese block_000041C3_46628955:
 translate japanese block_000041C5_4b50eda5:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『事件{/color}{color=#0000FF}“正义的教训”{/color}{color=#0080FF}成功结束。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ストーリーモード{/color}{color=#0000FF}“正義の教訓”{/color}{color=#0080FF}をクリアしました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ストーリーモード{/color}\n{color=#0000FF}“正義の教訓”{/color}{color=#0080FF}をクリアしました。』{/color}"
 
 translate japanese strings:
 
