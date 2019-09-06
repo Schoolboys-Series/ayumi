@@ -100,7 +100,7 @@ translate japanese block_00001DCA_edbc2d3a:
 translate japanese block_00001DCF_a95adbbe:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『友很喜欢这个礼物，{/color}{w}{color=#00FFFF}将会试穿服装。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『友がプレゼントを気に入ってくれたようです。{w}衣装を着てくれました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『友がプレゼントを気に入ってくれたようです。\n{w}衣装を着てくれました。』{/color}"
 
 # game/content/file_00001D35.rpy:596
 translate japanese block_00001DCF_ccafb2a1:
@@ -148,7 +148,7 @@ translate japanese block_00001DCF_f3be845b:
 translate japanese block_00001DE2_4cfdd0b7:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『四朗很喜欢这个礼物，{/color}{w}{color=#00FFFF}将会试穿服装。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『四朗がプレゼントを気に入ってくれたようです。{w}衣装を着てくれました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『四朗がプレゼントを気に入ってくれたようです。\n{w}衣装を着てくれました。』{/color}"
 
 # game/content/file_00001D35.rpy:730
 translate japanese block_00001DE2_0de6e4b3:
@@ -226,7 +226,7 @@ translate japanese block_00001DE4_80228888:
 translate japanese block_00001DE3_ed60f5e4:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『雪绪很喜欢这个礼物，{/color}{w}{color=#00FFFF}将会试穿服装。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『雪緒がプレゼントを気に入ってくれたようです。{w}衣装を着てくれました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『雪緒がプレゼントを気に入ってくれたようです。\n{w}衣装を着てくれました。』{/color}"
 
 # game/content/file_00001D35.rpy:923
 translate japanese block_00001DE3_87155322:
@@ -292,7 +292,7 @@ translate japanese block_00001DE5_4937f9a0:
 translate japanese block_00001DEA_bfdd90d6:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『准太很喜欢这个礼物，{/color}{w}{color=#00FFFF}将会试穿服装。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『準太がプレゼントを気に入ってくれたようです。{w}衣装を着てくれました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『準太がプレゼントを気に入ってくれたようです。\n{w}衣装を着てくれました。』{/color}"
 
 # game/content/file_00001D35.rpy:1105
 translate japanese block_00001DEA_cf54df91:
@@ -334,7 +334,7 @@ translate japanese block_00001DEB_cc462adf:
 translate japanese block_00001DF6_13c37d22:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『圭很喜欢这个礼物，{/color}{w}{color=#00FFFF}将会试穿服装。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『圭がプレゼントを気に入ってくれたようです。{w}衣装を着てくれました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『圭がプレゼントを気に入ってくれたようです。\n{w}衣装を着てくれました。』{/color}"
 
 # game/content/file_00001D35.rpy:1267
 translate japanese block_00001DF6_ed3c9368:
@@ -382,7 +382,7 @@ translate japanese block_00001DF7_c762358f:
 translate japanese block_00001DF5_14a4597f:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『树很喜欢这个礼物，{/color}{w}{color=#00FFFF}将会试穿服装。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『樹がプレゼントを気に入ってくれたようです。{w}衣装を着てくれました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『樹がプレゼントを気に入ってくれたようです。\n{w}衣装を着てくれました。』{/color}"
 
 # game/content/file_00001D35.rpy:1435
 translate japanese block_00001DF5_ff0405d4:
@@ -418,7 +418,7 @@ translate japanese block_00001DF4_f2af6839:
 translate japanese block_00001DED_53f7a44d:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『翔很喜欢这个礼物，{/color}{w}{color=#00FFFF}将会试穿服装。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『翔がプレゼントを気に入ってくれたようです。{w}衣装を着てくれました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『翔がプレゼントを気に入ってくれたようです。\n{w}衣装を着てくれました。』{/color}"
 
 # game/content/file_00001D35.rpy:1589
 translate japanese block_00001DED_06601f60:
@@ -472,7 +472,7 @@ translate japanese block_00001DEE_9b333118:
 translate japanese block_00001DFF_8cb005e3:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『小翼很喜欢这个礼物，{/color}{w}{color=#00FFFF}将会试穿服装。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『ツバサがプレゼントを気に入ってくれたようです。{w}衣装を着てくれました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『ツバサがプレゼントを気に入ってくれたようです。\n{w}衣装を着てくれました。』{/color}"
 
 # game/content/file_00001D35.rpy:1758
 translate japanese block_00001DFF_74e4dcf6:
@@ -508,7 +508,7 @@ translate japanese block_00001E00_aaf43f2b:
 translate japanese block_00001DD7_75e1b165:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『小林和南很喜欢这个礼物，{/color}{w}{color=#00FFFF}将会试穿服装。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『小林と南がプレゼントを気に入ってくれたようです。{w}衣装を着てくれました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『小林と南がプレゼントを気に入ってくれたようです。\n{w}衣装を着てくれました。』{/color}"
 
 # game/content/file_00001D35.rpy:1918
 translate japanese block_00001DD7_b88b2c69:
@@ -556,7 +556,7 @@ translate japanese block_00001DD8_bc5d1eff:
 translate japanese block_00001DFD_111247c2:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『夕阳很喜欢这个礼物，{/color}{w}{color=#00FFFF}将会试穿服装。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『ユウヒがプレゼントを気に入ってくれたようです。{w}衣装を着てくれました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『ユウヒがプレゼントを気に入ってくれたようです。\n{w}衣装を着てくれました。』{/color}"
 
 # game/content/file_00001D35.rpy:2082
 translate japanese block_00001DFD_ccfda14b:
@@ -592,7 +592,7 @@ translate japanese block_00001DFC_a2556938:
 translate japanese block_00003639_87861214:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『朔很喜欢这个礼物，{/color}{w}{color=#00FFFF}将会试穿服装。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『朔がプレゼントを気に入ってくれたようです。{w}衣装を着てくれました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『朔がプレゼントを気に入ってくれたようです。\n{w}衣装を着てくれました。』{/color}"
 
 # game/content/file_00001D35.rpy:2242
 translate japanese block_00003639_749510c9:
@@ -628,7 +628,7 @@ translate japanese block_0000363A_b0a1ceda:
 translate japanese block_00001DFA_c539e72f:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『作哉很喜欢这个礼物，{/color}{w}{color=#00FFFF}将会试穿服装。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『作哉がプレゼントを気に入ってくれたようです。{w}衣装を着てくれました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『作哉がプレゼントを気に入ってくれたようです。\n{w}衣装を着てくれました。』{/color}"
 
 # game/content/file_00001D35.rpy:2402
 translate japanese block_00001DFA_e6f244a1:
@@ -664,7 +664,7 @@ translate japanese block_00001DF9_f974e3f9:
 translate japanese block_00001DD5_7bb926cc:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『正很喜欢这个礼物，{/color}{w}{color=#00FFFF}将会试穿服装。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『正がプレゼントを気に入ってくれたようです。{w}衣装を着てくれました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『正がプレゼントを気に入ってくれたようです。\n{w}衣装を着てくれました。』{/color}"
 
 # game/content/file_00001D35.rpy:2562
 translate japanese block_00001DD5_9b625089:
@@ -688,7 +688,7 @@ translate japanese block_00001DD5_f2f95e5c:
 translate japanese block_00001DD5_34076123:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『礼物表中添加了“可爱动物照片集”“优美风景照片集”各一份。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『アイテム一覧に\n“写真集穂海作哉編”“写真集動物編”“写真集風景編”\nが追加されました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『アイテム一覧に\n“写真集穂海作哉編” “写真集動物編” “写真集風景編”\nが追加されました。』{/color}"
 
 # game/content/file_00001D35.rpy:2580
 translate japanese block_00001DD5_ab6c0e72:
@@ -700,7 +700,7 @@ translate japanese block_00001DD5_ab6c0e72:
 translate japanese block_00001DDC_4228b1a2:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『直弥很喜欢这个礼物，{/color}{w}{color=#00FFFF}将会试穿服装。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『直弥がプレゼントを気に入ってくれたようです。{w}衣装を着てくれました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『直弥がプレゼントを気に入ってくれたようです。\n{w}衣装を着てくれました。』{/color}"
 
 # game/content/file_00001D35.rpy:2651
 translate japanese block_00001DDC_577ada89:
@@ -718,7 +718,7 @@ translate japanese block_00001DDC_862cae74:
 translate japanese block_00001DE6_4f481170:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『健治很喜欢这个礼物，{/color}{w}{color=#00FFFF}将会试穿服装。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『健治がプレゼントを気に入ってくれたようです。{w}衣装を着てくれました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『健治がプレゼントを気に入ってくれたようです。\n{w}衣装を着てくれました。』{/color}"
 
 # game/content/file_00001D35.rpy:2731
 translate japanese block_00001DE6_9b2f0bae:
@@ -772,7 +772,7 @@ translate japanese block_00001DE8_091bd570:
 translate japanese block_00001DDA_6f99b896:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『忍很喜欢这个礼物，{/color}{w}{color=#00FFFF}将会试穿服装。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『しのぶがプレゼントを気に入ってくれたようです。{w}衣装を着てくれました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『しのぶがプレゼントを気に入ってくれたようです。\n{w}衣装を着てくれました。』{/color}"
 
 # game/content/file_00001D35.rpy:2901
 translate japanese block_00001DDA_09d6e385:
@@ -832,7 +832,7 @@ translate japanese block_00001DDD_091aa16d:
 translate japanese block_00001DDB_f304df05:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『翼很喜欢这个礼物，{/color}{w}{color=#00FFFF}将会试穿服装。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『つばさがプレゼントを気に入ってくれたようです。{w}衣装を着てくれました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『つばさがプレゼントを気に入ってくれたようです。\n{w}衣装を着てくれました。』{/color}"
 
 # game/content/file_00001D35.rpy:3076
 translate japanese block_00001DDB_a3f84fcc:
@@ -874,7 +874,7 @@ translate japanese block_00001DDE_4b57c890:
 translate japanese block_00001DF0_1f3fb6be:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『光很喜欢这个礼物，{/color}{w}{color=#00FFFF}将会试穿服装。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『光がプレゼントを気に入ってくれたようです。{w}衣装を着てくれました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#00FFFF}『光がプレゼントを気に入ってくれたようです。\n{w}衣装を着てくれました。』{/color}"
 
 # game/content/file_00001D35.rpy:3234
 translate japanese block_00001DF0_c21eecc3:
@@ -910,7 +910,7 @@ translate japanese block_00001DEF_7c7da0ce:
 translate japanese block_00001DE9_dbb6f6c4:
 
     # rs_character_81D16F74A3C44B8982DB528D7D934850 "不错嘛！哈哈，真怀念呐。\n最后一次参加应该是小5的时候了。"
-    rs_character_81D16F74A3C44B8982DB528D7D934850 "よーいさーじゃ！あはは、懐かしいなぁ。\n最後に参加したのは、\n小５くらいだったかなぁ。"
+    rs_character_81D16F74A3C44B8982DB528D7D934850 "よーいさーじゃ！あはは、懐かしいなぁ。\n最後に参加したのは、小５くらいだったかなぁ。"
 
 # game/content/file_00001D35.rpy:3422
 translate japanese block_00001DE9_a2f32218:
@@ -1078,7 +1078,7 @@ translate japanese block_00001DEC_dc5e19ea:
 translate japanese block_00001DEC_ad475441:
 
     # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "非常感谢。那请等我们准备一下泉君的衣服。"
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "どうもありがとう。それじゃあ、\n泉くんの衣装を用意するから、\nちょっと待っててね。"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "どうもありがとう。\nそれじゃあ、泉くんの衣装を用意するから、\nちょっと待っててね。"
 
 # game/content/file_00001D35.rpy:3804
 translate japanese block_00001DEC_49ffd1f7:
@@ -1288,7 +1288,7 @@ translate japanese block_00003638_fc727171:
 translate japanese block_00003638_b21e6022:
 
     # extend "看来某人存在那方面的经验呐，对这种装束。"
-    extend "そのような格好での、\n艶やかな経験をお持ちのようですね。"
+    extend "そのような格好での、艶やかな経験を\nお持ちのようですね。"
 
 # game/content/file_00001D35.rpy:4514
 translate japanese block_00003638_53e948b6:
@@ -1324,13 +1324,13 @@ translate japanese block_00003638_cc73247e:
 translate japanese block_00003638_c19219d0:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "给我等等！\n在那之前不是应该先问能不能参加祭典吗！"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "ちょーっと待ったァ！\nそこから先の話は、この祭に\n参加してからにしてもらおうか！"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "ちょーっと待ったァ！\nそこから先の話は、\nこの祭に参加してからにしてもらおうか！"
 
 # game/content/file_00001D35.rpy:4561
 translate japanese block_00003638_4d7c7bea:
 
     # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "真、真是的！不要擅自改变我的话题！"
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "も、もう！僕らの話を、\n勝手にダシに使わないでよ！"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "も、もう！\n僕らの話を、勝手にダシに使わないでよ！"
 
 # game/content/file_00001D35.rpy:4569
 translate japanese block_00003638_0955990e:
@@ -1612,7 +1612,7 @@ translate japanese block_00001DD9_313ca858:
 translate japanese block_00001DD9_f0ee1b58:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "难道说，两位终于从\n喜欢那个黄发人形自走炮渐渐地……"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "まさか、\n二人ともあの黄色い子から\nとうとう乗り換えて……。"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "まさか、\n二人ともあの黄色い子からとうとう乗り換えて……。"
 
 # game/content/file_00001D35.rpy:5551
 translate japanese block_00001DD9_d9ce8042:
@@ -1702,7 +1702,7 @@ translate japanese block_00001DF1_bcf2770e:
 translate japanese block_00001DF1_26c08de2:
 
     # extend "{size=16}……{/size}也对，不可能在呐{size=16}……{/size}\n"
-    extend "{size=16}……まぁ、いるわけないよな……{/size}。"
+    extend "{size=16}……まぁ、いるわけないよな……{/size}。\n"
 
 # game/content/file_00001D35.rpy:5687
 translate japanese block_00001DF1_c17f4ecb:
@@ -1726,7 +1726,7 @@ translate japanese block_00001D37_c9a10ec5:
 translate japanese block_00001D37_a138704e:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "据说来自“不错的祭典”这句话。"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "『良い大祭りじゃ』とういう言葉が\n語源らしい。"
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "『良い大祭りじゃ』という言葉が\n語源らしい。"
 
 # game/content/file_00001D35.rpy:5769
 translate japanese block_00001D38_01dc8511:
@@ -1742,11 +1742,11 @@ translate japanese strings:
 
     # content\file_00001D35.rpy:141
     old "已经可以了"
-    new "いいです"
+    new "はい"
 
     # content\file_00001D35.rpy:141
     old "还不够还不够还不够！"
-    new "まだ足りない"
+    new "いいえ"
 
     # content\file_00001D35.rpy:372
     old "所有物品"
@@ -1802,7 +1802,7 @@ translate japanese strings:
 
     # content\file_00001D35.rpy:35
     old "某奇幻漫画的最新一卷。\n主人公还是被各种PLAY中。"
-    new "某ファンタジー漫画の最新刊。\n主人公がまだエロい目に遭う。"
+    new "某ファンタジー漫画の最新刊。\n主人公がエロい目に遭う。"
 
     # content\file_00001D35.rpy:35
     old "眼镜布"

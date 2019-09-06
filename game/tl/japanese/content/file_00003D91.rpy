@@ -70,7 +70,7 @@ translate japanese block_00003D94_d878340f:
 translate japanese block_00003D94_3982506e:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "啊，难道说，看到空的这个样子，月前面忍不住了？"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "あ、もしかして、月は空っちを見て、前かがみに\nならざるをえなくなっちゃう？"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "あ、もしかして、月は空っちを見て、\n前かがみにならざるをえなくなっちゃう？"
 
 # game/content/file_00003D91.rpy:161
 translate japanese block_00003D94_6e97cb00:
@@ -124,7 +124,7 @@ translate japanese block_00003D94_839ef47e:
 translate japanese block_00003D94_358df55c:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不要那么自卑嘛，冲着大叔们的衣装来的人不是也有很多嘛♪"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "そんな卑下しないでくださいな。おじさまたちの\n褌姿がストライクな人達もいるんですからぁ♪"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "そんな卑下しないでくださいな。\nおじさまたちの褌姿がストライクな人達も\nいるんですからぁ♪"
 
 # game/content/file_00003D91.rpy:217
 translate japanese block_00003D94_48ec44d1:
@@ -184,7 +184,7 @@ translate japanese block_00003D94_8914e886:
 translate japanese block_00003D94_39b623a9:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "诶诶！！为什么为什么！？\n还觉得好不容易能亲眼目睹正太们圆滚滚的屁股来着！！"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "えぇ！！なんでなんで！？せっかくショタっ子の\nプリプリお尻を堪能できると思ったのに！！"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "えぇ！！なんでなんで！？\nせっかくショタっ子のプリプリお尻を\n堪能できると思ったのに！！"
 
 # game/content/file_00003D91.rpy:265
 translate japanese block_00003D94_422b77aa:
@@ -196,7 +196,7 @@ translate japanese block_00003D94_422b77aa:
 translate japanese block_00003D94_72910cc4:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "说是祭典的衣服太裸露，对孩子们影响不好……"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "この祭の衣装の露出が過ぎるから、子供達に\n良くないと……。"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "この祭の衣装の露出が過ぎるから、\n子供達に良くないと……。"
 
 # game/content/file_00003D91.rpy:276
 translate japanese block_00003D94_992ac808:
@@ -214,13 +214,13 @@ translate japanese block_00003D94_faa86b55:
 translate japanese block_00003D94_e4f4e322:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "就是就是！居然对如此古典而又阳光的装束横加指责，太不讲道理了！"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "そーだそーだ！古き良きこの晴れ姿に\n難癖をつけるなんて、その方が如何わしい！"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "そーだそーだ！\n古き良きこの晴れ姿に難癖をつけるなんて、\nその方が如何わしい！"
 
 # game/content/file_00003D91.rpy:309
 translate japanese block_00003D94_c493c648:
 
     # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "你们两个请摸着自己的胸口重新审视一下自己的发言……"
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "二人は、自分の胸に手を当てて、自分の発言を\nよーく考え直してごらん……。"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "二人は、自分の胸に手を当てて、\n自分の発言をよーく考え直してごらん……。"
 
 # game/content/file_00003D91.rpy:311
 translate japanese block_00003D94_db2ba17a:
@@ -286,25 +286,25 @@ translate japanese block_00003D94_7462579a:
 translate japanese block_00003D94_93adadc2:
 
     # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "或许可行！本来花车祭就是要大家在一起才热闹的活动嘛。"
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "それいいかも！元々だんじり祭って、自然と\n人が集まってついて行く祭だったもんね。"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "それいいかも！元々だんじり祭って、\n自然と人が集まってついて行く祭だったもんね。"
 
 # game/content/file_00003D91.rpy:364
 translate japanese block_00003D94_2a7d4139:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "去和街上的年轻孩子们搭话，让他们穿上这套衣服，\n再邀请他们参加，这样的作战♪"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "街中歩いている若い子をナンパして、衣装を\n着てもらいーの参加してもらいーの作戦すな♪"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "街中歩いている若い子をナンパして、\n衣装を着てもらいーの参加してもらいーの作戦すな♪"
 
 # game/content/file_00003D91.rpy:369
 translate japanese block_00003D94_051cd73d:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "我觉得也是个好方法！\n之前的全镇大会因为下雨被迫中止，奖品还剩下不少。"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "オイラにも良い案があるよ！前の町内大会が\n雨で中止になったから、景品が余ってるんだ。"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "オイラにも良い案があるよ！\n前の町内大会が雨で中止になったから、景品が余ってるんだ。"
 
 # game/content/file_00003D91.rpy:374
 translate japanese block_00003D94_75892a30:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "处理起来也很麻烦，就用这些当礼物请他们参加如何？"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "処分にも困るし、それをお礼として、参加者に\n配ればいいんじゃないかな？"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "処分にも困るし、それをお礼として、\n参加者に配ればいいんじゃないかな？"
 
 # game/content/file_00003D91.rpy:379
 translate japanese block_00003D94_9fa10126:
@@ -346,13 +346,13 @@ translate japanese block_00003D94_9020e701:
 translate japanese block_00003D94_b34d6c3f:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "还能有这么愿意帮忙的孩子真是太好了……"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "こんなにやる気を出してくれる若い子がいて\nよかった……。"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "こんなにやる気を出してくれる若い子がいてよかった……。"
 
 # game/content/file_00003D91.rpy:404
 translate japanese block_00003D94_40b6702a:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "这样以后的花车祭，或者说御咲市就高枕无忧了呢。"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "これなら、これからの御咲だんじり祭、ひいては\n御咲市は安泰だ。"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "これなら、これからの御咲だんじり祭、\nひいては御咲市は安泰だ。"
 
 # game/content/file_00003D91.rpy:433
 translate japanese block_00003D94_342613d5:
@@ -388,7 +388,7 @@ translate japanese block_00003D94_54fb75f8:
 translate japanese block_00003D94_f2daf6cc:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "毕竟不是周末，明年试着改成双休日或许会更好。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 "平日ゆえ、仕方あるまい。来年からは日程を改めて\n休日に催した方が良いかもしれんな。"
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "平日ゆえ、仕方あるまい。\n来年からは日程を改めて休日に催した方が良いかもしれんな。"
 
 # game/content/file_00003D91.rpy:508
 translate japanese block_00003D94_045babfe:
@@ -418,7 +418,7 @@ translate japanese block_000041F7_abb85e44:
 translate japanese block_000041F7_9969a24b:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "这样一来御咲花车祭明年也能顺利继续了，真的太好了。"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "ああ。これなら、御咲だんじり祭は来年も\n開催できるだろう。本当によかった。"
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "ああ。これなら、御咲だんじり祭は\n来年も開催できるだろう。本当によかった。"
 
 # game/content/file_00003D91.rpy:600
 translate japanese block_000041F7_c1eb4344:
@@ -436,7 +436,7 @@ translate japanese block_000041F7_cced854e:
 translate japanese block_000041F7_9ba02fee:
 
     # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "太大惊小怪了，慎酱，我们是从中学开始才慢慢变得关系好的。"
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "大袈裟だなぁ。慎ちゃんとなら、中学からでも\n仲良くなれたよ。"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "大袈裟だなぁ。\n慎ちゃんとなら、中学からでも仲良くなれたよ。"
 
 # game/content/file_00003D91.rpy:615
 translate japanese block_000041F7_4ceba52f:
@@ -676,7 +676,7 @@ translate japanese block_000041F7_e4f6264f:
 translate japanese block_000041F7_221a80ea:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "毕竟空在那不久前刚开始害怕虫子呐。"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "空が虫を苦手になって、\nすぐのことだったからな。"
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "空が虫を苦手になって、すぐのことだったからな。"
 
 # game/content/file_00003D91.rpy:948
 translate japanese block_000041F7_e2ea1fad:
@@ -772,7 +772,7 @@ translate japanese block_000041F7_c8188ad4:
 translate japanese block_000041F7_b829ec8c:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "……呐，阿月，人是，各不……各不……嗯。"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "……ねぇ、ツッキー。人は、\nじゅうにん、じゅうにんじゅう……えっと。"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "……ねぇ、ツッキー。\n人は、じゅうにん、じゅうにんじゅう……えっと。"
 
 # game/content/file_00003D91.rpy:1059
 translate japanese block_000041F7_33d4f3ef:
@@ -856,10 +856,10 @@ translate japanese block_000041F7_ac09da29:
 translate japanese block_00004226_8ec08ac1:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『事件{/color}{color=#AA0055}“集合！御咲花车祭”{/color}{color=#0080FF}成功结束。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ストーリーモード{/color}{color=#AA0055}“集え！御咲だんじり祭”{/color}{color=#0080FF}をクリアしました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ストーリーモード{/color}\n{color=#AA0055}“集え！御咲だんじり祭”{/color}{color=#0080FF}をクリアしました。』{/color}"
 
 translate japanese strings:
 
     # content\file_00003D91.rpy:26
     old "「集合！御咲花车祭」"
-    new "{font=font/honyaji-re.ttf}「集え！だんじり祭り」{/font}"
+    new "{font=font/honyaji-re.ttf}「集え！御咲だんじり祭」{/font}"

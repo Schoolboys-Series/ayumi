@@ -465,7 +465,7 @@ label block_00004200:
     if SelectedCharacter == 1:
         $ CurrentCharacterAccepted = True
     elif SelectedCharacter == 2:
-        if _lm_selected_index == 12 or _lm_selected_index == 11 or _lm_selected_index == 9:
+        if _lm_selected_index == 9 or _lm_selected_index == 11 or _lm_selected_index == 12:
             $ CurrentCharacterAccepted = True
         else:
             $ CurrentCharacterAccepted = False
@@ -495,7 +495,7 @@ label block_00004200:
         else:
             $ CurrentCharacterAccepted = False
     elif SelectedCharacter == 9:
-        if _lm_selected_index == 10 or _lm_selected_index == 12:
+        if _lm_selected_index == 10 or _lm_selected_index == 11 or _lm_selected_index == 12:
             $ CurrentCharacterAccepted = True
         else:
             $ CurrentCharacterAccepted = False
@@ -515,7 +515,7 @@ label block_00004200:
         else:
             $ CurrentCharacterAccepted = False
     elif SelectedCharacter == 13:
-        if IsCharacterAccepted[17] == True and (_lm_selected_index == 4 or _lm_selected_index == 11 or _lm_selected_index == 13):
+        if _lm_selected_index == 2 or _lm_selected_index == 11 or _lm_selected_index == 13:
             $ CurrentCharacterAccepted = True
         else:
             $ CurrentCharacterAccepted = False
@@ -537,7 +537,7 @@ label block_00004200:
         else:
             $ CurrentCharacterAccepted = False
     elif SelectedCharacter == 19:
-        if _lm_selected_index == 6 or _lm_selected_index == 1 or _lm_selected_index == 14:
+        if _lm_selected_index == 1 or _lm_selected_index == 6 or _lm_selected_index == 11 or _lm_selected_index == 14:
             $ CurrentCharacterAccepted = True
         else:
             $ CurrentCharacterAccepted = False
@@ -852,7 +852,6 @@ label block_00001DE4:
     hide tag_3C0D2D9BB95B42AAA768FE8D105219CB
     hide tag_9D0001B69AD04AE9A8D1DE7AF344E0A3
     $ zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 = 400
-    show rs_image_1DC349F94DE94D6FACCF6AD451DDAE8E as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 at center_top zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     show rs_image_B7B371E9C25B4882BF62B4D3040FFB76 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_6B3CF87FF75645B9A45FBB353620EE91
 
@@ -1366,6 +1365,7 @@ label block_00001DF7:
 
     hide tag_3C0D2D9BB95B42AAA768FE8D105219CB
     hide tag_9D0001B69AD04AE9A8D1DE7AF344E0A3
+    hide tag_ECFB5B509A334A868686B3435242BF90
     with rs_effect_6B3CF87FF75645B9A45FBB353620EE91
 
     $ set_window("(標準)")
@@ -3005,7 +3005,6 @@ label block_00001DDD:
     hide tag_3C0D2D9BB95B42AAA768FE8D105219CB
     hide tag_9D0001B69AD04AE9A8D1DE7AF344E0A3
     $ zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 = 400
-    show rs_image_CCE9211F1D544B1B9A81636F5959A677 as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 at center_top zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     show rs_image_B7B371E9C25B4882BF62B4D3040FFB76 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_6B3CF87FF75645B9A45FBB353620EE91
 
@@ -3149,6 +3148,10 @@ label block_00001DDE:
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
     pause 0.6
+
+    $ zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 = 400
+    show rs_image_A2534044EF094540BC82F97E1E03D950 as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 at center_top zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
+    with rs_effect_6B3CF87FF75645B9A45FBB353620EE91
 
     pause 0.8
 
