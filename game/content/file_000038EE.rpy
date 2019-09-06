@@ -27,7 +27,7 @@ label block_000038EF:
     $ persistent.SystemStoryCache[15] = persistent.SystemStoryCache[15] or C3S5
     $ persistent.SystemStoryCache[16] = persistent.SystemStoryCache[16] or C3S6
     if VarExists("C3ShowLastWarning"):
-        if (((C3S1 + C3S2 + C2S3) == 2) and ((C1SG2 == False) or (C2SG2 == False))) or ((C3S4 + C3S5 + C3S6) == 2):
+        if (((C3S1 + C3S2 + C3S3) == 2) and ((C1SG2 == False) or (C2SG2 == False))) or ((C3S4 + C3S5 + C3S6) == 2):
             $ C3ShowLastWarning = True
         else:
             $ C3ShowLastWarning = False
