@@ -34,7 +34,7 @@ translate japanese block_00001BFA_4ca9ad5b:
 translate japanese block_000027DF_65583c99:
 
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "嗯？这个样子……\n我记得你应该是田径部的经理呀？"
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "あれ？その格好……。キミってたしか、\n陸上部のマネージャーじゃなかったっけ？"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "あれ？その格好……。\nキミってたしか、陸上部のマネージャーじゃなかったっけ？"
 
 # game/content/file_00001B8D.rpy:627
 translate japanese block_000027DF_4300d6a2:
@@ -46,13 +46,13 @@ translate japanese block_000027DF_4300d6a2:
 translate japanese block_000027DF_81b089e4:
 
     # rs_character_E3F6ADD43DE44A428E1224756613C694 "伊藤那家伙，{w=0.6}{nw}"
-    rs_character_E3F6ADD43DE44A428E1224756613C694 "伊藤の奴がよ、{w=0.6}{nw}"
+    rs_character_E3F6ADD43DE44A428E1224756613C694 "伊藤の奴がよ、{w=0.6}{nw}\n"
 
 # game/content/file_00001B8D.rpy:646
 translate japanese block_000027DF_85038832:
 
     # extend "{color=#FF8000}“木村这个二货绝对干不了经理”{/color}{w=0.6}{nw}"
-    extend "{color=#FF8000}『ノータリンの木村にマネージャーの\n仕事は無理。』{/color}{w=0.6}{nw}"
+    extend "{color=#FF8000}『ノータリンの木村にマネージャーの仕事は無理。』{/color}{w=0.6}{nw}\n"
 
 # game/content/file_00001B8D.rpy:655
 translate japanese block_000027DF_643bcacf:
@@ -106,7 +106,7 @@ translate japanese block_000027DF_c57a816c:
 translate japanese block_000027DF_c2a83405:
 
     # rs_character_710A38AC94C841779DB701B5AC1010FD "先不说消耗多余体力的问题，毛巾和水都没准备，\n至少某人那样的工作状态这次是好好学习到了！"
-    rs_character_710A38AC94C841779DB701B5AC1010FD "余計な体力を消費させ、タオルや水も持ってこない、誰かさん\nのようにはなるものか、と学ばせていただきましたよ～！"
+    rs_character_710A38AC94C841779DB701B5AC1010FD "余計な体力を消費させ、タオルや水も持ってこない、\n誰かさんのようにはなるものか、と学ばせていただきましたよ～！"
 
 # game/content/file_00001B8D.rpy:688
 translate japanese block_000027DF_405bce42:
@@ -208,7 +208,7 @@ translate japanese block_00001BED_8e8976b9:
 translate japanese block_00001BED_3bfcf622:
 
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "（啊哈哈，果然，果然很辛苦呐。）"
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "（あはは。やっぱりね。\n絶対つらいだろうと思った。）"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "（あはは。やっぱりね。絶対つらいだろうと思った。）"
 
 # game/content/file_00001B8D.rpy:1041
 translate japanese block_00001BF3_eaa794cd:
@@ -232,7 +232,7 @@ translate japanese block_00001BF4_6dfddd85:
 translate japanese block_00001BF4_22f7a840:
 
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "说起来社团活动还没结束啊，真是刻苦。"
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "それにしても、\nまだ部活の終わる時間じゃないんだ。\nなかなかハードだなぁ。"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "それにしても、まだ部活の終わる時間じゃないんだ。\nなかなかハードだなぁ。"
 
 # game/content/file_00001B8D.rpy:1237
 translate japanese block_00001B93_8ce9ed25:
@@ -298,7 +298,7 @@ translate japanese block_00003FD3_84a73d90:
 translate japanese block_00001BD9_84a73d90:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『如果没和人约好就直接回家』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "『誰とも約束事がなければ、\n校門に向かって帰宅しましょう。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『誰とも約束事がなければ、\n校門に向かって帰宅しましょう。』{/color}"
 
 # game/content/file_00001B8D.rpy:1546
 translate japanese block_00001BD8_c6476c45:
@@ -310,12 +310,12 @@ translate japanese strings:
 
     # content\file_00001B8D.rpy:338
     old "要不要直接回家？"
-    new "直接帰宅しますか？"
+    new "帰宅しますか？"
 
     # content\file_00001B8D.rpy:338
     old "回家吧"
-    new "家に帰る"
+    new "はい"
 
     # content\file_00001B8D.rpy:338
     old "一定和谁约好过，再想想"
-    new "絶対誰かと約束していた"
+    new "いいえ"

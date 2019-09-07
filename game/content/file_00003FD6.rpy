@@ -4187,7 +4187,7 @@ label block_000041D0:
 
     rs_character_9EDF48057FB84D428D56198A69E2880E "真想看看你穿道服的样子！真好啊，道服！\n火热的身体！涨红的面容！挥洒的汗水！裸露的胸前！"
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "……"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "……"
 
     hide tag_135F5559064C4A88B1AD47AAB0AE18BB
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54

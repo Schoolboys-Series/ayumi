@@ -524,7 +524,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "中山花音的哥哥。和弟弟不同对各种事\n非常无所谓。恋人是排球部的泉。\n偶尔冷战，但一直很重视对方。"
-    new "中山花音の兄。弟と違い、のほほんとしている。\nバレー部の後輩である泉の恋人で、\nたまに喧嘩もしちゃうけど、\nとても大切に想っている。"
+    new "中山花音の兄。\n弟と違い、のほほんとしている。\nバレー部の後輩である泉の恋人で、\nたまに喧嘩もしちゃうけど、\nとても大切に想っている。"
 
     # content\character_full_info.rpy:18
     old "9月2日"

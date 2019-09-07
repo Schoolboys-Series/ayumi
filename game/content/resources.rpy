@@ -3181,7 +3181,6 @@ init -1:
             parallel:
                 easein 0.43333333333333335 xpos 800
             pause 0.43333333333333335
-            alpha 0
     image rs_image_F2217CE71C3849B9A0B1401B9AB2019C = "images/Effect/Theater/Curtain 1.png"
     image rs_image_722FEE74BAA04EE5A0A17F830188F646 = "images/Effect/Theater/Curtain 2.png"
     image rs_image_110A5DA5BB0C49A2BDDEC7420734264B = "images/Effect/Theater/Curtain 3.png"

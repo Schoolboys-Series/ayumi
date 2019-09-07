@@ -2140,7 +2140,7 @@ translate japanese block_000026B4_10029e9a:
 translate japanese block_000026B4_c37a7f40:
 
     # extend "我要告诉大家忍是个小孩子。"
-    extend "みんなに、\nしのぶが大してたってバラしたろ。"
+    extend "みんなに、しのぶが大してたってバラしたろ。"
 
 # game/content/file_00001947.rpy:6426
 translate japanese block_000026B4_4cc894bb:

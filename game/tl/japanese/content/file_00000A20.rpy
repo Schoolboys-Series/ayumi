@@ -310,7 +310,7 @@ translate japanese block_00000A53_1ad3dd41:
 translate japanese block_00000A53_19b3c417:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "当时学校里流传着{color=#3A00C4}禁忌之箱{/color}的传说。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 "当時は、学園のどこかに{color=#3A00C4}忌まわしき箱{/color}があると噂されてな。"
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "当時は、学園のどこかに{color=#3A00C4}忌まわしき箱{/color}があると\n噂されてな。"
 
 # game/content/file_00000A20.rpy:1221
 translate japanese block_00000A53_27436184:

@@ -64,7 +64,7 @@ translate japanese block_00003E35_1ad3dd41:
 translate japanese block_00003E35_19b3c417:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "当时学校里流传着{color=#3A00C4}禁忌之箱{/color}的传说。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 "当時は、学園のどこかに{color=#3A00C4}忌まわしき箱{/color}があると噂されてな。"
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "当時は、学園のどこかに{color=#3A00C4}忌まわしき箱{/color}があると\n噂されてな。"
 
 # game/content/file_00003CE2.rpy:737
 translate japanese block_00003E35_27436184:
@@ -340,7 +340,7 @@ translate japanese block_00003D76_32ca7ad7:
 translate japanese block_00003D76_a55fdc50:
 
     # rs_character_9EDF48057FB84D428D56198A69E2880E "非常感谢。{w}\n……（大口喝）……\n{w=0.5}{nw}"
-    rs_character_9EDF48057FB84D428D56198A69E2880E "どうも、ありがとうございます。{w}\n……ゴクゴクゴク……。{w=0.5}{nw}"
+    rs_character_9EDF48057FB84D428D56198A69E2880E "どうも、ありがとうございます。{w}\n……ゴクゴクゴク……。{w=0.5}{nw}\n"
 
 # game/content/file_00003CE2.rpy:2512
 translate japanese block_00003D76_f4cc89b4:
@@ -394,7 +394,7 @@ translate japanese block_00003D76_9d12e745:
 translate japanese block_00003D76_67769e9d:
 
     # extend "那为了祝福我们的“再会”……"
-    extend "さて、それでは、\nこのすばらしい“再会”を祝して……"
+    extend "さて、それでは、このすばらしい“再会”を祝して……"
 
 # game/content/file_00003CE2.rpy:2609
 translate japanese block_00003D76_d4cc0a9d:
@@ -472,7 +472,7 @@ translate japanese block_00003D76_40ccc2c6:
 translate japanese block_00003D76_829c8a6d:
 
     # rs_character_EE1903694D624E399209772C95A20AAA "13岁……差一岁。真是的，真该向你学习学习。"
-    rs_character_EE1903694D624E399209772C95A20AAA "１３才……ひとつ違いか。まったく、\nキミの爪の垢を煎じて飲ましてやりたいくらいです。"
+    rs_character_EE1903694D624E399209772C95A20AAA "１３才……ひとつ違いか。\nまったく、キミの爪の垢を煎じて飲ましてやりたいくらいです。"
 
 # game/content/file_00003CE2.rpy:2673
 translate japanese block_00003D76_c7274f88:
@@ -568,7 +568,7 @@ translate japanese block_00003D76_97847009:
 translate japanese block_00003D76_12933ead:
 
     # rs_character_62324AD297554FE987C680452CEE232E "又开始装了。算了，这个话题到此为止。{w}\n在外人面前不好……"
-    rs_character_62324AD297554FE987C680452CEE232E "また愚痴が始まりそうなので、その話は\nこの辺にしておきましょう。{w}今は、よそ者もいますし……。"
+    rs_character_62324AD297554FE987C680452CEE232E "また愚痴が始まりそうなので、\nその話はこの辺にしておきましょう。{w}今は、よそ者もいますし……。"
 
 # game/content/file_00003CE2.rpy:2834
 translate japanese block_00003D76_c3fb7d80:
