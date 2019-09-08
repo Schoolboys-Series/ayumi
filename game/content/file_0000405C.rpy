@@ -383,7 +383,7 @@ label block_0000416D:
     if judge_lm_condition([{ "scope": 0, "content": "YKKIsWinner == True" }]):
         jump block_0000416E
     if judge_lm_condition([]):
-        jump block_0000416F
+        jump block_0000417B
 
     return
 
@@ -555,7 +555,7 @@ label block_00004178:
     if judge_lm_condition([{ "scope": 0, "content": "YKKIsWinner == True" }]):
         jump block_0000417A
     if judge_lm_condition([]):
-        jump block_0000417B
+        jump block_0000416F
 
     return
 
@@ -665,7 +665,7 @@ label block_0000417B:
 
     window show
 
-    rs_character_8D9249CA1389416BAF6A122851E276D0 "就这水平连助兴都不算，\n希望下次能让我满足一点。"
+    rs_character_81D16F74A3C44B8982DB528D7D934850 "就这水平连助兴都不算，\n希望下次能让我满足一点。"
 
     window hide
 
@@ -785,7 +785,7 @@ label block_0000416F:
 
     window show
 
-    rs_character_81D16F74A3C44B8982DB528D7D934850 "就这点程度根本打不过那些家伙，\n在成为第二个牺牲者之前你先回去练练。"
+    rs_character_8D9249CA1389416BAF6A122851E276D0 "就这点程度根本打不过那些家伙，\n在成为第二个牺牲者之前你先回去练练。"
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔唔。"
 

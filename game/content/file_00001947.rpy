@@ -466,14 +466,14 @@ label block_00001961:
     pause 0.3
 
 
-    if judge_lm_condition([{ "scope": 0, "content": "C3QYakyuken == False" },{ "scope": 1, "content": "C3QYakyukenCheck1 == True" },{ "scope": 2, "content": "C3S1Phase + C3S2Phase + C3S3Phase + C3S4Phase + C3S5Phase  + C3S6Phase == 0" },{ "scope": 3, "content": "C3QNakayamaPhase == 0" },{ "scope": 4, "content": "C3SG1 == True" }]):
+    if judge_lm_condition([{ "scope": 0, "content": "C3QYakyuken == False" },{ "scope": 1, "content": "C3QYakyukenPhase == 0" },{ "scope": 2, "content": "C3QYakyukenCheck1 == True" },{ "scope": 3, "content": "C3SG1 == True" },{ "scope": 4, "content": "C3S1Phase + C3S2Phase + C3S3Phase + C3S4Phase + C3S5Phase  + C3S6Phase == 0" },{ "scope": 5, "content": "C3QNakayamaPhase == 0" }]):
         jump block_000026F2
-    if judge_lm_condition([{ "scope": 0, "content": "C3QYakyuken == False" },{ "scope": 1, "content": "C3QYakyukenCheck1 == False" }]):
-        jump block_00003108
-    if judge_lm_condition([{ "scope": 0, "content": "C3QYakyuken == False" },{ "scope": 1, "content": "C3SG1 == True" },{ "scope": 2, "content": "C3S1Phase + C3S2Phase + C3S3Phase + C3S4Phase + C3S5Phase  + C3S6Phase == 0" },{ "scope": 3, "content": "C3QNakayamaPhase == 0" }]):
-        jump block_00002774
-    if judge_lm_condition([]):
+    if judge_lm_condition([{ "scope": 0, "content": "C3QYakyuken == False" },{ "scope": 1, "content": "C3QYakyukenPhase == 1" },{ "scope": 2, "content": "C3QYakyukenCheck1 == True" },{ "scope": 3, "content": "C3SG1 == True" },{ "scope": 4, "content": "C3S1Phase + C3S2Phase + C3S3Phase + C3S4Phase + C3S5Phase  + C3S6Phase == 0" },{ "scope": 5, "content": "C3QNakayamaPhase == 0" }]):
+        jump block_00002774    
+    if judge_lm_condition([{ "scope": 0, "content": "C3QYakyuken == False" }]):
         jump block_00001962
+    if judge_lm_condition([]):
+        jump block_00003108
 
     return
 
@@ -583,28 +583,31 @@ label block_000026F4:
     show rs_image_85BFF668331146CE82DFF22E2A86273D as tag_61A891D6A6D047DC93695DA12E13CC75 zorder zorder_tag_61A891D6A6D047DC93695DA12E13CC75 onlayer master
     with rs_effect_6AF713EEDC664B669DFA76C7954DF0B7
 
-    pause 0.6
-
-    window hide
+    pause 0.5
 
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Boom 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Boom 1.ogg"
 
     extend "{size=28}{color=#FF0000}野{/color}{/size}{nw}"
+
+    pause 0.25
+
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Boom 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Boom 1.ogg"
 
     extend "{size=28}{color=#FF0000}球{/color}{/size}{nw}"
+
+    pause 0.25
+
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect2 "sound/Effect Sound/Boom 1.ogg" noloop
         $ sys_effect2_current_file = "sound/Effect Sound/Boom 1.ogg"
 
     extend "{size=28}{color=#FF0000}拳！{/color}{/size}{nw}"
-    window hide
 
-    pause 0.5
+    pause 0.25
 
     if sys_music_current_file != "sound/BGM/Theme/Schoolboys Theme - Saburo.ogg":
         play music "sound/BGM/Theme/Schoolboys Theme - Saburo.ogg" loop
@@ -745,7 +748,7 @@ label block_00003FF0:
     if judge_lm_condition([{ "scope": 0, "content": "YKKIsWinner == True" }]):
         jump block_00003FF5
     if judge_lm_condition([]):
-        jump block_00003FF2
+        jump block_00003FFE
 
     return
 
@@ -971,7 +974,7 @@ label block_00003FFB:
     if judge_lm_condition([{ "scope": 0, "content": "YKKIsWinner == True" }]):
         jump block_00003FFC
     if judge_lm_condition([]):
-        jump block_00003FFE
+        jump block_00003FF2
 
     return
 
@@ -1155,7 +1158,7 @@ label block_00003FFE:
 
     window show
 
-    rs_character_8D9249CA1389416BAF6A122851E276D0 "就这水平连助兴都不算，希望下次能让我满足一点。"
+    rs_character_81D16F74A3C44B8982DB528D7D934850 "就这水平连助兴都不算，希望下次能让我满足一点。"
 
     window hide
 
@@ -1275,7 +1278,7 @@ label block_00003FF2:
 
     window show
 
-    rs_character_81D16F74A3C44B8982DB528D7D934850 "就这点程度根本打不过那些家伙，\n在成为第二个牺牲者之前你先回去练练。"
+    rs_character_8D9249CA1389416BAF6A122851E276D0 "就这点程度根本打不过那些家伙，\n在成为第二个牺牲者之前你先回去练练。"
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔唔。"
 
@@ -1545,15 +1548,6 @@ label block_00003109:
         play effect2 "sound/Effect Sound/Swallow 1.ogg" loop
         $ sys_effect2_current_file = "sound/Effect Sound/Swallow 1.ogg"
 
-
-    if judge_lm_condition([]):
-        jump block_00003FED
-
-    return
-
-label block_00003FED:
-    # Node: 00003FED (C3Q野球拳Check1)
-    $ C3QYakyukenCheck1 = True
 
     if judge_lm_condition([]):
         jump block_00003108
@@ -8572,7 +8566,7 @@ label block_00001963:
         jump block_000027D5
     if judge_lm_condition([{ "scope": 0, "content": "C3QYakyuken == True" }]):
         jump block_000027DC
-    if judge_lm_condition([{ "scope": 0, "content": "C3SG1 == True" },{ "scope": 0, "content": "C3QYakyukenCheck1 == False" }]):
+    if judge_lm_condition([{ "scope": 0, "content": "C3SG1 == True" },{ "scope": 1, "content": "C3QYakyukenCheck1 == True" }]):
         jump block_000026F3
     if judge_lm_condition([]):
         jump block_000026DA
@@ -8905,6 +8899,15 @@ label block_000026DD:
     window hide
 
     $ set_place_title(_("体育馆"))
+
+    if judge_lm_condition([]):
+        jump block_00003FED
+
+    return
+
+label block_00003FED:
+    # Node: 00003FED (C3Q野球拳Check1)
+    $ C3QYakyukenCheck1 = True
 
     if judge_lm_condition([]):
         jump block_000026DA

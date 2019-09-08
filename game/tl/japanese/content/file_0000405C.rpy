@@ -28,7 +28,7 @@ translate japanese block_0000416E_66ee5221:
 translate japanese block_00004175_da6e3cf1:
 
     # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "我已无悔。反正这样一脱粉丝也能涨一些……"
-    rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "悔いはねえ。これで、ちょっとでも\nファンが増えるといいが……。"
+    rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "悔いはねえ。\nこれで、ちょっとでもファンが増えるといいが……。"
 
 # game/content/file_0000405C.rpy:516
 translate japanese block_00004175_95da550a:
@@ -42,11 +42,11 @@ translate japanese block_0000417A_4953f883:
     # rs_character_8D9249CA1389416BAF6A122851E276D0 "呀——真清爽！"
     rs_character_8D9249CA1389416BAF6A122851E276D0 "いやー清々しい！"
 
-# game/content/file_0000405C.rpy:672
-translate japanese block_0000417B_6b9c0642:
+# game/content/file_0000405C.rpy:668
+translate japanese block_0000417B_f073277b:
 
-    # rs_character_8D9249CA1389416BAF6A122851E276D0 "就这水平连助兴都不算，\n希望下次能让我满足一点。"
-    rs_character_8D9249CA1389416BAF6A122851E276D0 "その程度じゃ、奴らの足元にも及ばねぇよ。\n第二の犠牲者となる前に、鍛え直してきてくれ。"
+    # rs_character_81D16F74A3C44B8982DB528D7D934850 "就这水平连助兴都不算，\n希望下次能让我满足一点。"
+    rs_character_81D16F74A3C44B8982DB528D7D934850 "その程度じゃ、奴らの足元にも及ばねぇよ。\n第二の犠牲者となる前に、鍛え直してきてくれ。"
 
 # game/content/file_0000405C.rpy:732
 translate japanese block_00004176_0b9732ef:
@@ -54,11 +54,11 @@ translate japanese block_00004176_0b9732ef:
     # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "再给我用点力啊——\n难得这么贵重的机会全都白瞎了，再见。"
     rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "もっと踏ん張ってくれよー。\nせっかくの貴重な機会が台無しだ。じゃあな。"
 
-# game/content/file_0000405C.rpy:792
-translate japanese block_0000416F_7a45e4af:
+# game/content/file_0000405C.rpy:788
+translate japanese block_0000416F_48ca3c41:
 
-    # rs_character_81D16F74A3C44B8982DB528D7D934850 "就这点程度根本打不过那些家伙，\n在成为第二个牺牲者之前你先回去练练。"
-    rs_character_81D16F74A3C44B8982DB528D7D934850 "こんなんじゃ興ざめだよ。\nもっと満足させてほしいな。"
+    # rs_character_8D9249CA1389416BAF6A122851E276D0 "就这点程度根本打不过那些家伙，\n在成为第二个牺牲者之前你先回去练练。"
+    rs_character_8D9249CA1389416BAF6A122851E276D0 "こんなんじゃ興ざめだよ。\nもっと満足させてほしいな。"
 
 # game/content/file_0000405C.rpy:794
 translate japanese block_0000416F_8ac654f5:

@@ -214,7 +214,7 @@ translate japanese block_00003FF1_bc067c17:
 translate japanese block_00003FF1_e1b95348:
 
     # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "哦，加藤，怎么还没穿衣服？再下去可就感冒了。"
-    rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "おう、加藤。まだそんな格好でくたばってんのか？\nいい加減風邪ひくぜ。\n"
+    rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "おう、加藤。まだそんな格好でくたばってんのか？\nいい加減風邪ひくぜ。"
 
 # game/content/file_00001947.rpy:804
 translate japanese block_00003FF1_6d05a517:
@@ -244,7 +244,7 @@ translate japanese block_00003FF1_be400932:
 translate japanese block_00003FF8_da6e3cf1:
 
     # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "我已无悔。反正这样一脱粉丝也能涨一些……"
-    rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "悔いはねえ。これで、ちょっとでも\nファンが増えるといいが……。"
+    rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "悔いはねえ。\nこれで、ちょっとでもファンが増えるといいが……。"
 
 # game/content/file_00001947.rpy:907
 translate japanese block_00003FF8_1279ad86:
@@ -274,7 +274,7 @@ translate japanese block_00003FF8_57512fb9:
 translate japanese block_00003FF8_8a58fdbe:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "泉、泉君！？你应该是绝对不会参加这种游戏的，\n到底今天怎么了！？"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "い、泉くん！？絶対こんなゲームに参加しなさそうなのに、\nまたまたどうして！？"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "い、泉くん！？\n絶対こんなゲームに参加しなさそうなのに、\nまたまたどうして！？"
 
 # game/content/file_00001947.rpy:928
 translate japanese block_00003FF8_4ee4f044:
@@ -322,7 +322,7 @@ translate japanese block_00003FFD_9dbd241a:
 translate japanese block_00003FFD_600ce8a8:
 
     # rs_character_81D16F74A3C44B8982DB528D7D934850 "某种意义上这个结果其实不错。"
-    rs_character_81D16F74A3C44B8982DB528D7D934850 "ある意味こういうのも\nおいしいんだよ。"
+    rs_character_81D16F74A3C44B8982DB528D7D934850 "ある意味こういうのもおいしいんだよ。"
 
 # game/content/file_00001947.rpy:1045
 translate japanese block_00003FFD_ca2ea65f:
@@ -336,11 +336,11 @@ translate japanese block_00003FFF_5f7b095c:
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『委托成功结束』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『クエストを達成しました。』{/color}"
 
-# game/content/file_00001947.rpy:1158
-translate japanese block_00003FFE_513c580b:
+# game/content/file_00001947.rpy:1161
+translate japanese block_00003FFE_88d01f90:
 
-    # rs_character_8D9249CA1389416BAF6A122851E276D0 "就这水平连助兴都不算，希望下次能让我满足一点。"
-    rs_character_8D9249CA1389416BAF6A122851E276D0 "その程度じゃ、奴らの足元にも及ばねぇよ。\n第二の犠牲者となる前に、鍛え直してきてくれ。"
+    # rs_character_81D16F74A3C44B8982DB528D7D934850 "就这水平连助兴都不算，希望下次能让我满足一点。"
+    rs_character_81D16F74A3C44B8982DB528D7D934850 "その程度じゃ、奴らの足元にも及ばねぇよ。\n第二の犠牲者となる前に、鍛え直してきてくれ。"
 
 # game/content/file_00001947.rpy:1218
 translate japanese block_00003FF9_0b9732ef:
@@ -348,11 +348,12 @@ translate japanese block_00003FF9_0b9732ef:
     # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "再给我用点力啊——\n难得这么贵重的机会全都白瞎了，再见。"
     rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "もっと踏ん張ってくれよー。\nせっかくの貴重な機会が台無しだ。じゃあな。"
 
-# game/content/file_00001947.rpy:1278
-translate japanese block_00003FF2_7a45e4af:
+# game/content/file_00001947.rpy:1281
+translate japanese block_00003FF2_48ca3c41:
 
-    # rs_character_81D16F74A3C44B8982DB528D7D934850 "就这点程度根本打不过那些家伙，\n在成为第二个牺牲者之前你先回去练练。"
-    rs_character_81D16F74A3C44B8982DB528D7D934850 "こんなんじゃ興ざめだよ。\nもっと満足させてほしいな。"
+    # rs_character_8D9249CA1389416BAF6A122851E276D0 "就这点程度根本打不过那些家伙，\n在成为第二个牺牲者之前你先回去练练。"
+    rs_character_8D9249CA1389416BAF6A122851E276D0 "こんなんじゃ興ざめだよ。\nもっと満足させてほしいな。"
+
 
 # game/content/file_00001947.rpy:1280
 translate japanese block_00003FF2_8ac654f5:
@@ -2236,7 +2237,7 @@ translate japanese block_0000404E_35d52ac9:
 translate japanese block_00004052_363a2260:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『把中山君的信交给泉君。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『中山くんから授かった手紙を\n泉くんに渡し行きましょう。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『中山くんから授かった手紙を\n泉くんに渡しに行きましょう。』{/color}"
 
 # game/content/file_00001947.rpy:6755
 translate japanese block_0000404F_f39bf9e6:
@@ -2890,19 +2891,19 @@ translate japanese block_000026D8_67657f76:
 translate japanese block_000027D7_a74e8725:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "泉君，这是一年级的中山君给你的。 "
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "泉くん、お届けものだよ。 \n一年の中山くんから。"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "泉くん、お届けものだよ。\n一年の中山くんから。"
 
 # game/content/file_00001947.rpy:8615
 translate japanese block_000027D7_5297fcd8:
 
     # rs_character_8D9249CA1389416BAF6A122851E276D0 "欸，中山君？？ \n"
-    rs_character_8D9249CA1389416BAF6A122851E276D0 "えっ。な、中山くん？？ \n"
+    rs_character_8D9249CA1389416BAF6A122851E276D0 "えっ。な、中山くん？？\n"
 
 # game/content/file_00001947.rpy:8623
 translate japanese block_000027D7_f8cf55aa:
 
     # extend "……{w=0.5}……。 "
-    extend "……{w=0.5}……。」 "
+    extend "……{w=0.5}……。 "
 
 # game/content/file_00001947.rpy:8632
 translate japanese block_000027D7_d50896b2:
@@ -2914,19 +2915,19 @@ translate japanese block_000027D7_d50896b2:
 translate japanese block_000027D7_c6758805:
 
     # extend "嗯，谢谢。 "
-    extend "うん。どうも、ありがとう。」 "
+    extend "うん。どうも、ありがとう。"
 
 # game/content/file_00001947.rpy:8641
 translate japanese block_000027D7_00264ca7:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "那我走了！"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "じゃ、オレはこれで！ "
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "じゃ、オレはこれで！"
 
 # game/content/file_00001947.rpy:8650
 translate japanese block_000027D7_284e1c40:
 
     # extend "不爽！ "
-    extend "プンスコプンスコ！」 "
+    extend "プンスコプンスコ！"
 
 # game/content/file_00001947.rpy:8658
 translate japanese block_000027D7_a85d1e9c:
@@ -2956,13 +2957,13 @@ translate japanese block_000027DD_931ee11a:
 translate japanese block_000027DD_ce437162:
 
     # rs_character_8D9249CA1389416BAF6A122851E276D0 "感觉还不错。能发散压力，心情也很好♪\n"
-    rs_character_8D9249CA1389416BAF6A122851E276D0 "すごく良かった。ストレス発散にもなったし、\n楽しかったな♪\n"
+    rs_character_8D9249CA1389416BAF6A122851E276D0 "すごく良かった。\nストレス発散にもなったし、楽しかったな♪\n"
 
 # game/content/file_00001947.rpy:8756
 translate japanese block_000027DD_bc697f23:
 
     # extend "然后，隔壁的客人好像很兴奋的样子。"
-    extend "それとね、\n隣室のお客さんが盛り上がっててさ。"
+    extend "それとね、隣室のお客さんが盛り上がっててさ。"
 
 # game/content/file_00001947.rpy:8758
 translate japanese block_000027DD_602c2c7f:
@@ -4060,7 +4061,7 @@ translate japanese block_000027D2_35d52ac9:
 translate japanese block_000027D4_363a2260:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『把中山君的信交给泉君。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『中山くんから授かった手紙を\n泉くんに渡し行きましょう。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『中山くんから授かった手紙を\n泉くんに渡しに行きましょう。』{/color}"
 
 # game/content/file_00001947.rpy:11631
 translate japanese block_000030B9_f39bf9e6:
