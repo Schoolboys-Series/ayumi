@@ -226,7 +226,7 @@ translate japanese block_0000410F_f8da6eb3:
 translate japanese block_0000410E_13d27c06:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "好好享受学期末的时间就好。\n第三学期开始后就没有多少余裕了。"
-    rs_character_C223850065F6443080205D1F61C04C98 "期末の前にの時間をたっぷり楽しむ。\n第三学期はこんな暇もないかも。"
+    rs_character_C223850065F6443080205D1F61C04C98 "今この時間をたっぷり楽しもう。\n三学期も色々と忙しいからね。"
 
 # game/content/file_0000405C.rpy:1499
 translate japanese block_00004082_b6425e0e:

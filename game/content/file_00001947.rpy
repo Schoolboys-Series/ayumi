@@ -10970,6 +10970,8 @@ label block_0000303B:
         jump block_000032A4
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"クエストについて\"" },{ "scope": 1, "content": "C3QSakuyaWalk2 == False" },{ "scope": 2, "content": "C3S5 == True" }]):
         jump block_000032A5
+    if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"クエストについて\"" },{ "scope": 1, "content": "C3QNori == False" },{ "scope": 2, "content": "C3S1 == True" }]):
+        jump block_000032A6
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"クエストについて\"" },{ "scope": 1, "content": "C3QKimuraConference == False" }]):
         jump block_00003030
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"クエストについて\"" },{ "scope": 1, "content": "CXQSabuImechen == False" }]):
@@ -11279,6 +11281,32 @@ label block_000032A5:
         $ sys_effect3_current_file = "sound/Effect Sound/Notice 1.ogg"
 
     rs_character_C223850065F6443080205D1F61C04C98 "校舍内的{color=#FF8000}穗海作哉{/color}这次真的有事找你。"
+
+    show rs_image_BFA650AC179546C0BB0783630BBB10C9 as tag_3482C372784E44A89E382266A93F2B14 zorder zorder_tag_3482C372784E44A89E382266A93F2B14 onlayer master
+    with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
+
+    rs_character_C223850065F6443080205D1F61C04C98 "还有什么想要问的事情吗？"
+
+    window hide
+
+
+    if judge_lm_condition([]):
+        jump block_0000303B
+
+    return
+
+label block_000032A6:
+    # Node: 000032A6 (QUEST 朔)
+    show rs_image_1D81F7CC53CF4EF697CE06D9359105F3 as tag_3482C372784E44A89E382266A93F2B14 zorder zorder_tag_3482C372784E44A89E382266A93F2B14 onlayer master
+    with rs_effect_351A8A667ECF419EB1A052B06E597A01
+
+    window show
+
+    if "sys_effect3_current_file" in globals() and sys_effect3_current_file != "sound/Effect Sound/Notice 1.ogg" or True: # Hotfix: Ignore multiplay defenser for voice sound
+        play effect3 "sound/Effect Sound/Notice 1.ogg" noloop
+        $ sys_effect3_current_file = "sound/Effect Sound/Notice 1.ogg"
+
+    rs_character_C223850065F6443080205D1F61C04C98 "夜晚前往{color=#FF8000}泉水公园{/color}的话，说不定会有邂逅呢。"
 
     show rs_image_BFA650AC179546C0BB0783630BBB10C9 as tag_3482C372784E44A89E382266A93F2B14 zorder zorder_tag_3482C372784E44A89E382266A93F2B14 onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B

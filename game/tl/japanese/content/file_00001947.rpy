@@ -3925,6 +3925,18 @@ translate japanese block_000032A5_5ab0cbf4:
     # rs_character_C223850065F6443080205D1F61C04C98 "校舍内的{color=#FF8000}穗海作哉{/color}这次真的有事找你。"
     rs_character_C223850065F6443080205D1F61C04C98 "校舎裏にいる{color=#FF8000}穂海作哉{/color}くんに話しかけると\n何か起こるかも。"
 
+# game/content/file_00001947.rpy:11309
+translate japanese block_000032A6_dc9651d3:
+
+    # rs_character_C223850065F6443080205D1F61C04C98 "夜晚前往{color=#FF8000}泉水公园{/color}的话，说不定会有邂逅呢。"
+    rs_character_C223850065F6443080205D1F61C04C98 "夜に{color=#FF8000}泉の公園{/color}へ行くと、誰かがいるかもね。"
+
+# game/content/file_00001947.rpy:11314
+translate japanese block_000032A6_4b6aefe7:
+
+    # rs_character_C223850065F6443080205D1F61C04C98 "还有什么想要问的事情吗？"
+    rs_character_C223850065F6443080205D1F61C04C98 "他に聞きたいことはある？"
+
 # game/content/file_00001947.rpy:11277
 translate japanese block_000032A5_4b6aefe7:
 

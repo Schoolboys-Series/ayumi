@@ -250,7 +250,7 @@ translate japanese block_00001B3E_f5bf197f:
 translate japanese block_00001B3E_e2bee34a:
 
     # extend "{color=#FFFF80}得到了寄宿着不可思议力量的{/color}{color=#FF0000}“超人套装”{/color}{color=#FFFF80}！{/color}"
-    extend "{color=#FFFF80}不思議なパワーが込められ\n{/color}{color=#FF0000}『スーパーマンコスチューム』”{/color}{color=#FFFF80}を手に入れた！{/color}"
+    extend "{color=#FFFF80}不思議なパワーが込められた\n{/color}{color=#FF0000}『スーパーマンコスチューム』{/color}{color=#FFFF80}を手に入れた！{/color}"
 
 # game/content/file_00001B1C.rpy:1168
 translate japanese block_00002C1C_5f7b095c:
