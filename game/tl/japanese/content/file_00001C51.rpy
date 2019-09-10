@@ -88,7 +88,7 @@ translate japanese block_0000278E_510a6ccc:
 translate japanese block_0000278E_c21fee60:
 
     # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "我从猫山那里听说作哉君为了\n买给小翼酱的东西{color=#008080}完全顾不上身体过{/color}。{nw}"
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "猫山くんから聞きました。ツバサちゃんのために\n{color=#008080}体を張って貯金してる{/color}って。{nw}"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "猫山くんから聞きました。\nツバサちゃんのために{color=#008080}体を張って貯金してる{/color}って。{nw}"
 
 # game/content/file_00001C51.rpy:269
 translate japanese block_0000278E_e1f385a7:
@@ -706,19 +706,19 @@ translate japanese block_00001C69_354c925e:
 translate japanese block_0000278F_b134d168:
 
     # rs_character_EA79386263E543A88D4DC03B8BD44485 "呐——听说河边出现了\n野生的{color=#FF8000}小熊猫{/color}哦。\n是不是真的呐！"
-    rs_character_EA79386263E543A88D4DC03B8BD44485 ""
+    rs_character_EA79386263E543A88D4DC03B8BD44485 "ねーね聞いてよ！\n河川敷で遊んでたら野生の{color=#FF8000}レッサーパンダ{/color}がいたんだ！\n本当なんだって！"
 
 # game/content/file_00001C51.rpy:1870
 translate japanese block_0000278F_361c8ac9:
 
     # rs_character_9A978AAD07624C598B6179F23F51FB2D "小林酱又在这么说了。\n小熊猫是濒危物种，都在动物园里的。"
-    rs_character_9A978AAD07624C598B6179F23F51FB2D ""
+    rs_character_9A978AAD07624C598B6179F23F51FB2D "コバちゃんまたそれ言ってる。\nレッサーパンダは絶滅危惧種で、\n日本では動物園にしか居ないんだって。"
 
 # game/content/file_00001C51.rpy:1884
 translate japanese block_0000278F_dd44d732:
 
     # rs_character_EA79386263E543A88D4DC03B8BD44485 "可是真的有看到——！{w}\n那种样子见过一次肯定忘不掉！\n我现在也记着的！"
-    rs_character_EA79386263E543A88D4DC03B8BD44485 ""
+    rs_character_EA79386263E543A88D4DC03B8BD44485 "でも本当に見たんだよー！{w}\nあの間抜け面は、一度見たら絶対に忘れられない！\n今でもちゃんと覚えてるもん！"
 
 # game/content/file_00001C51.rpy:2090
 translate japanese block_00002794_7091d7b0:
