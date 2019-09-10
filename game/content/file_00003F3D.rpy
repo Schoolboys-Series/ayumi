@@ -124,7 +124,7 @@ label block_00003F85:
     # WARNING: Ignore condition of wait TRUE
     pause 0.5
     $ ChapterScore = Score
-    $ Score = Max(C3QShiro + C3QKimuraConference + C3QNakayama + C3QYakyuken + C3QSakuyaWalk1 +C3QSakuyaWalk2 + C3QNewsclub - 5, 0)
+    $ Score = Max(C3QShiro + C3QKimuraConference + C3QNakayama + C3QYakyuken + C3QSakuyaWalk1 +C3QSakuyaWalk2 + C3QNori + C3QNewsclub - 6, 0)
     $ TargetImageX = 473 + (2 - Score) * 42
     $ TargetImageY = 424
     $ renpy.show("images/Score/Circle.png", at_list=[Transform(xpos=TargetImageX, ypos=TargetImageY)], what=renpy.easy.displayable("images/Score/Circle.png"), tag="C3QuestScore", zorder=1000)
