@@ -52,7 +52,7 @@ translate japanese block_00001B6A_4e687e1c:
 translate japanese block_00003EC2_572be961:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『事件{/color}{color=#8000FF}“学园怪谈”{/color}{color=#0080FF}成功结束。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ストーリーモード{/color}{color=#8000FF}“学園の怪談”{/color}{color=#0080FF}をクリアしました。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『ストーリーモード{/color}\n{color=#8000FF}“学園の怪談”{/color}{color=#0080FF}をクリアしました。』{/color}"
 
 # game/content/file_00001B1C.rpy:678
 translate japanese block_00002C1F_6683a931:

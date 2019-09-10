@@ -3340,6 +3340,7 @@ init -1:
             alpha 1
             pause 0.1
             alpha 0
+            repeat
         contains:
             "rs_image_AD5BD7599D194D8B8568E1F40C4B5CC9"
             xanchor 400
@@ -3349,8 +3350,9 @@ init -1:
             alpha 0
             pause 0.1
             alpha 1
-            pause 0.1
+            pause 0.2
             alpha 0
+            repeat
         contains:
             "rs_image_B6827765CB444FCCA5EB144F201A42EE"
             xanchor 400
@@ -3360,8 +3362,9 @@ init -1:
             alpha 0
             pause 0.2
             alpha 1
-            pause 0.1
+            pause 0.2
             alpha 0
+            repeat
         contains:
             "rs_image_4B3D820FB1FE4AA9BDBE1E44B5F3199A"
             xanchor 400
@@ -3371,8 +3374,9 @@ init -1:
             alpha 0
             pause 0.3
             alpha 1
-            pause 0.1
+            pause 0.2
             alpha 0
+            repeat
         contains:
             "rs_image_A4040181FE634F72ADD1763FF6319610"
             xanchor 400
@@ -3382,8 +3386,9 @@ init -1:
             alpha 0
             pause 0.4
             alpha 1
-            pause 0.1
+            pause 0.2
             alpha 0
+            repeat
         contains:
             "rs_image_62B07534CEB54036A123AED3150E1507"
             xanchor 400
@@ -3393,8 +3398,9 @@ init -1:
             alpha 0
             pause 0.5
             alpha 1
-            pause 0.1
+            pause 0.2
             alpha 0
+            repeat
         contains:
             "rs_image_3E719329C4554034AC126276D60AF39E"
             xanchor 400
@@ -3404,8 +3410,9 @@ init -1:
             alpha 0
             pause 0.6
             alpha 1
-            pause 0.1
+            pause 0.2
             alpha 0
+            repeat
         contains:
             "rs_image_90C0AABA96734D42956299A572E91669"
             xanchor 400
@@ -3415,8 +3422,9 @@ init -1:
             alpha 0
             pause 0.7
             alpha 1
-            pause 0.1
+            pause 0.2
             alpha 0
+            repeat
         contains:
             "rs_image_B10D868C3FD643AB88F8D3BAB1CBE22D"
             xanchor 400
@@ -3426,8 +3434,9 @@ init -1:
             alpha 0
             pause 0.8
             alpha 1
-            pause 0.1
+            pause 0.2
             alpha 0
+            repeat
     define rs_effect_07581C4E297D4018B7AB1E434A9EECA0 = Dissolve(0.5)
     define rs_effect_9271C226DF3F4D9F98AA8530D3BDF25B = Dissolve(0.7)
     define rs_effect_D40B37AD6AF94EE0AFF8CB0762377A91 = Dissolve(1)

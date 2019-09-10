@@ -5065,11 +5065,11 @@ translate japanese strings:
 
     # content\file_000001B0.rpy:1061
     old "嗯，我要回去"
-    new "うん、帰る"
+    new "はい"
 
     # content\file_000001B0.rpy:1061
     old "再等一会"
-    new "もうちょっとだけ"
+    new "いいえ"
 
     # content\file_000001B0.rpy:1147
     old "没问题"

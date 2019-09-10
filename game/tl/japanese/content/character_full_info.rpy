@@ -1110,15 +1110,15 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "{size=12}MONSTER A{/size}\n妖怪A"
-    new "{size=12}ようかいA{/size}\n妖怪A"
+    new "{size=12}おばけA{/size}\nお化けA"
 
     # content\character_full_info.rpy:18
     old "{size=12}MONSTER B{/size}\n妖怪B"
-    new "{size=12}ようかいB{/size}\n妖怪B"
+    new "{size=12}お化けB{/size}\nお化けB"
 
     # content\character_full_info.rpy:18
     old "{size=12}MONSTER C{/size}\n妖怪C"
-    new "{size=12}ようかいC{/size}\n妖怪C"
+    new "{size=12}お化けC{/size}\nお化けC"
 
     # content\character_full_info.rpy:18
     old "{size=12}KOBAYASHI{/size}\n小林"

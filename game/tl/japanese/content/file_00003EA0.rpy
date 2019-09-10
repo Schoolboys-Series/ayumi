@@ -358,7 +358,7 @@ translate japanese block_00003EA6_6cb6f06d:
 translate japanese block_00003EA6_cdbf30cd:
 
     # rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "笨蛋猫山！！别吓昏过去啊——！"
-    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "アホ猫山！！呑気に気絶なんてしてんじゃねー！"
+    rs_character_22EB590C07AA48DDB7C3C251878D3BE5 "アホ猫山！！呑気に気絶なんてしてんじゃねー！\n"
 
 # game/content/file_00003EA0.rpy:1073
 translate japanese block_00003EA6_57929bdd:
@@ -406,13 +406,13 @@ translate japanese block_00003EA6_40390fb0:
 translate japanese block_00003EA6_02a31318:
 
     # rs_character_41A906D279CA4677A6A2ED8CBE544459 "算了，就靠取材排解！"
-    rs_character_41A906D279CA4677A6A2ED8CBE544459 "ええい、取材で憂さ晴らしだ！"
+    rs_character_41A906D279CA4677A6A2ED8CBE544459 "ええい、取材で憂さ晴らしだ！\n"
 
 # game/content/file_00003EA0.rpy:1168
 translate japanese block_00003EA6_c9966582:
 
     # extend "小岛君，这可是大事件，好好拍！"
-    extend "小島くん、今件は\n大スクープだから、よく撮っておくように！"
+    extend "小島くん、今件は大スクープだから、\nよく撮っておくように！"
 
 # game/content/file_00003EA0.rpy:1178
 translate japanese block_00003EA6_51381417:
@@ -670,7 +670,7 @@ translate japanese block_00003EA6_753b1f95:
 translate japanese block_00003EA6_68dc7331:
 
     # rs_character_6C344A6C39F6479282A6BD884E3F8F11 "此乃汝云“怪物”……"
-    rs_character_6C344A6C39F6479282A6BD884E3F8F11 "これは、そなたらのい『化け物』……つまり、"
+    rs_character_6C344A6C39F6479282A6BD884E3F8F11 "これは、そなたらのいう『化け物』……つまり、\n"
 
 # game/content/file_00003EA0.rpy:1629
 translate japanese block_00003EA6_7bb08614:
@@ -730,7 +730,7 @@ translate japanese block_00003EA6_6d741de6:
 translate japanese block_00003EA6_70af0c1f:
 
     # rs_character_6C344A6C39F6479282A6BD884E3F8F11 "根除且易，然为使学园重归旧处，需重施封印。"
-    rs_character_6C344A6C39F6479282A6BD884E3F8F11 "奴らを倒すことは容易い。じゃが、学園を元に戻す\nためには、その上で封印を施さねばならぬ。"
+    rs_character_6C344A6C39F6479282A6BD884E3F8F11 "奴らを倒すことは容易い。\nじゃが、学園を元に戻すためには、その上で封印を施さねばならぬ。"
 
 # game/content/file_00003EA0.rpy:1743
 translate japanese block_00003EA6_8e9aacd5:
@@ -856,7 +856,7 @@ translate japanese block_00003EA6_f60b4ef7:
 translate japanese block_00003EA6_a6b20359:
 
     # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "绝对就是！要不那些怪物就没必要特地找回去了！"
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "あぁ！！絶対あれやん！せやから、化け物が\nわざわざ回収しに来たんか！"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "あぁ！！絶対あれやん！\nせやから、化け物がわざわざ回収しに来たんか！"
 
 # game/content/file_00003EA0.rpy:1940
 translate japanese block_00003EA6_5277718e:
@@ -988,7 +988,7 @@ translate japanese block_00003EA6_5219f424:
 translate japanese block_00003EA6_cdfd918c:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "不要小看玩弄无数男性于掌中的花乃汤的看板少年・慎酱！"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "『花の湯』の\n看板息子・慎ちゃんを見くびるでないよ！"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "数多の男を手玉に取ってきた、\n『花乃湯』の看板息子・慎ちゃんを見くびるでないよ！"
 
 # game/content/file_00003EA0.rpy:2192
 translate japanese block_00003EA6_a696802e:
@@ -1006,7 +1006,7 @@ translate japanese block_00003EA6_8fd85b34:
 translate japanese block_00003EA6_ebdbec34:
 
     # rs_character_3B4C660F421B4BE392BB540B580F0339 "那个……就算找到了箱子，该怎么封印？"
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "あの……箱を見つけ出せたとして、封印するには\nどうしたらいいんでしょう？"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "あの……箱を見つけ出せたとして、\n封印するにはどうしたらいいんでしょう？"
 
 # game/content/file_00003EA0.rpy:2213
 translate japanese block_00003EA6_1de17381:
@@ -1042,7 +1042,7 @@ translate japanese block_00003EA6_29ae97cb:
 translate japanese block_00003EA6_ad33dc17:
 
     # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "{color=#00FFFF}救援组{/color}请打倒怪物，救出所有被困的人。"
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "{color=#00FFFF}救出班{/color}は、お化けさんを倒し、捕まっている\nみんなを助け出してあげてください。"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "{color=#00FFFF}救出班{/color}は、お化けさんを倒し、\n捕まっているみんなを助け出してあげてください。"
 
 # game/content/file_00003EA0.rpy:2253
 translate japanese block_00003EA6_f62abe8f:
@@ -1054,7 +1054,7 @@ translate japanese block_00003EA6_f62abe8f:
 translate japanese block_00003EA6_34e2dd27:
 
     # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "{color=#00FFFF}调查组{/color}请详细查找相关的封印方法。"
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "{color=#00FFFF}資料班{/color}は、封印方法についての資料を集めて\nください。"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "{color=#00FFFF}資料班{/color}は、封印方法についての資料を集めてください。"
 
 # game/content/file_00003EA0.rpy:2267
 translate japanese block_00003EA6_31f6b6df:
@@ -1216,7 +1216,7 @@ translate japanese block_00003EA4_b26c34ba:
 translate japanese block_00003EA4_293586f0:
 
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "翼君，期待你继续活跃了哦。"
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "つばさくん、まだまだ活躍してもらうからね。"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "つばさくん、まだまだ活躍してもらうからね。\n"
 
 # game/content/file_00003EA0.rpy:2712
 translate japanese block_00003EA4_5343df7e:
@@ -1600,7 +1600,7 @@ translate japanese block_00003EA4_80d57e17:
 translate japanese block_00003EA4_f06b211c:
 
     # rs_character_7009C1117C004F51829614A203C67DE7 "作哉前辈，一直不说话呢，怎么回事？"
-    rs_character_7009C1117C004F51829614A203C67DE7 "作哉さん、ずーっと黙ってますけど、\nどうかしたんですかぁ？"
+    rs_character_7009C1117C004F51829614A203C67DE7 "作哉さん、ずーっと黙ってますけど、どうかしたんですかぁ？"
 
 # game/content/file_00003EA0.rpy:3430
 translate japanese block_00003EA4_ce85e751:
@@ -2260,7 +2260,7 @@ translate japanese block_00003EA4_9bc610f5:
 translate japanese block_00003EA4_59586da2:
 
     # rs_character_079949A107134E47B24110C78D2FA0CF "当然！本就是杂物，一经发现即刻排除！！"
-    rs_character_079949A107134E47B24110C78D2FA0CF "そりゃあもう！紛れ込もうものなら、即座に\n排除してやるさ！！"
+    rs_character_079949A107134E47B24110C78D2FA0CF "そりゃあもう！\n紛れ込もうものなら、即座に排除してやるさ！！"
 
 # game/content/file_00003EA0.rpy:4657
 translate japanese block_00003EA4_7e0cc3ee:
@@ -2290,7 +2290,7 @@ translate japanese block_00003EA4_3e09a250:
 translate japanese block_00003EA4_c88e3781:
 
     # extend "{color=#FF80FF}酱{/color}！！"
-    extend "{color=#FF80FF}ちゃん{/color}！！"
+    extend "{color=#FF80FF}ちゃん{/color}！！\n"
 
 # game/content/file_00003EA0.rpy:4716
 translate japanese block_00003EA4_6688062b:
@@ -2350,7 +2350,7 @@ translate japanese block_00003EA4_d30e1c48:
 translate japanese block_00003EA4_cc10f9e1:
 
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "最喜欢男孩子的妖怪先生应该不会伤害一之濑君的。"
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "男の子が大好きなお化けさんは、一ノ瀬くんを\n傷付けられるはずがない。"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "男の子が大好きなお化けさんは、\n一ノ瀬くんを傷付けられるはずがない。"
 
 # game/content/file_00003EA0.rpy:4877
 translate japanese block_00003EA4_2250bce6:
@@ -2368,13 +2368,13 @@ translate japanese block_00003EA4_73425e18:
 translate japanese block_00003EA4_ee4f07d8:
 
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "既然如此我来当人质。一之濑君一直被这么抓着太可怜了。"
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "それなら、せめて僕を人質にして。このまま黙って\n捕まった一ノ瀬くんを見ているのはつらいんだ。"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "それなら、せめて僕を人質にして。\nこのまま黙って捕まった一ノ瀬くんを見ているのはつらいんだ。"
 
 # game/content/file_00003EA0.rpy:4913
 translate japanese block_00003EA4_200e88ee:
 
     # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "不不、不要在意我～！我的战斗力根本比不上绫濑君……酱！"
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "ぼぼ、僕のことはお気にならさず～！僕の戦力じゃ\n綾瀬く……さんの代わりにはなりませんからぁ！"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "ぼぼ、僕のことはお気にならさず～！\n僕の戦力じゃ綾瀬く……さんの代わりにはなりませんからぁ！"
 
 # game/content/file_00003EA0.rpy:4918
 translate japanese block_00003EA4_7842c56e:
@@ -2392,13 +2392,13 @@ translate japanese block_00003EA4_16bc0920:
 translate japanese block_00003EA4_c72935eb:
 
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "而且，对妖怪先生来说，对手能简单地屈服不是更有趣吗？"
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "それに、お化けさんだって、相手が簡単に\n屈服したら、興醒めでしょ？"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "それに、お化けさんだって、\n相手が簡単に屈服したら、興醒めでしょ？"
 
 # game/content/file_00003EA0.rpy:4938
 translate japanese block_00003EA4_73ba1752:
 
     # rs_character_079949A107134E47B24110C78D2FA0CF "……你还挺聪明。好，我也能得到好用的人质，不是坏事。"
-    rs_character_079949A107134E47B24110C78D2FA0CF "……お前、聡いな。いいだろう。俺様としては\n有効な人質を得られるし、悪い話じゃねぇな。"
+    rs_character_079949A107134E47B24110C78D2FA0CF "……お前、聡いな。いいだろう。\n俺様としては有効な人質を得られるし、悪い話じゃねぇな。"
 
 # game/content/file_00003EA0.rpy:4940
 translate japanese block_00003EA4_73472025:
@@ -2440,7 +2440,7 @@ translate japanese block_00003EA4_4bc27d83:
 translate japanese block_00003EA4_0d71b3af:
 
     # rs_character_079949A107134E47B24110C78D2FA0CF "卑鄙小人！！这也算男人？！"
-    rs_character_079949A107134E47B24110C78D2FA0CF "卑怯者！！それでも男か？！"
+    rs_character_079949A107134E47B24110C78D2FA0CF "卑怯者！！それでも男か？！\n"
 
 # game/content/file_00003EA0.rpy:5026
 translate japanese block_00003EA4_cc6a5a30:
@@ -2476,13 +2476,13 @@ translate japanese block_00003EA4_ee806806:
 translate japanese block_00003EA4_0b336ac9:
 
     # rs_character_079949A107134E47B24110C78D2FA0CF "！！你们这群家伙有什么资格骂我卑鄙……！"
-    rs_character_079949A107134E47B24110C78D2FA0CF "ぐぅう！！貴様ら、俺様を卑怯だと罵って\nおきながら……！"
+    rs_character_079949A107134E47B24110C78D2FA0CF "ぐぅう！！\n貴様ら、俺様を卑怯だと罵っておきながら……！"
 
 # game/content/file_00003EA0.rpy:5127
 translate japanese block_00003EA4_8192941e:
 
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "孩子们的三观尚未成熟，用大人的话说就是仍存在讲不通道理的残酷一面。"
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "子供は論理や倫理が未熟だから、大人のようには\n話が通じない残酷さもあるんだよね。"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "子供は論理や倫理が未熟だから、\n大人のようには話が通じない残酷さもあるんだよね。"
 
 # game/content/file_00003EA0.rpy:5182
 translate japanese block_00003EA4_41860970:
@@ -2602,7 +2602,7 @@ translate japanese block_00003EA4_2b4b5cb2:
 translate japanese block_00003EA4_8001508c:
 
     # rs_character_0B5C629539F940FA8A7FD26DD368F847 "呵呵，弱点是你自己暴露出来的，为何要怨我？要怨也怨自己的愚蠢。"
-    rs_character_0B5C629539F940FA8A7FD26DD368F847 "クスクス。あなたが自ら暴露した弱点を突いて\n何が悪いんです？自分の愚かさを悔やみなさい。"
+    rs_character_0B5C629539F940FA8A7FD26DD368F847 "クスクス。あなたが自ら暴露した弱点を突いて何が悪いんです？\n自分の愚かさを悔やみなさい。"
 
 # game/content/file_00003EA0.rpy:5427
 translate japanese block_00003EA4_95af9902:
@@ -2620,7 +2620,7 @@ translate japanese block_00003EA4_678620b4:
 translate japanese block_00003EA4_64cc3d74:
 
     # rs_character_0B5C629539F940FA8A7FD26DD368F847 "哦呀，已经结束了？我还是很喜欢强势的孩子的，再多玩一会也好呀。"
-    rs_character_0B5C629539F940FA8A7FD26DD368F847 "おやおや、もうおしまいですか？生意気な子は\n好みなので、もっと楽しませてくださいよ。"
+    rs_character_0B5C629539F940FA8A7FD26DD368F847 "おやおや、もうおしまいですか？\n生意気な子は好みなので、もっと楽しませてくださいよ。"
 
 # game/content/file_00003EA0.rpy:5460
 translate japanese block_00003EA4_62854de5:
@@ -2644,7 +2644,7 @@ translate japanese block_00003EA4_bb57f088:
 translate japanese block_00003EA4_3a2ac6d6:
 
     # rs_character_0B5C629539F940FA8A7FD26DD368F847 "多少次都是一样的。你是无法下手攻击这个样子的我的！"
-    rs_character_0B5C629539F940FA8A7FD26DD368F847 "何度やっても同じです。この姿になってしまえば、\nあなたは私に攻撃できない！"
+    rs_character_0B5C629539F940FA8A7FD26DD368F847 "何度やっても同じです。\nこの姿になってしまえば、あなたは私に攻撃できない！"
 
 # game/content/file_00003EA0.rpy:5504
 translate japanese block_00003EA4_99a350f0:
@@ -2674,7 +2674,7 @@ translate japanese block_00003EA4_995b7163:
 translate japanese block_00003EA4_0a6e0d9b:
 
     # rs_character_0B5C629539F940FA8A7FD26DD368F847 "那与我无关。"
-    rs_character_0B5C629539F940FA8A7FD26DD368F847 "そんなこと、私にとってはどうでもよいことです。"
+    rs_character_0B5C629539F940FA8A7FD26DD368F847 "そんなこと、私にとってはどうでもよいことです。\n"
 
 # game/content/file_00003EA0.rpy:5557
 translate japanese block_00003EA4_fcfe58be:
@@ -2776,7 +2776,7 @@ translate japanese block_00003EA4_3b4b6002:
 translate japanese block_00003EA4_cac4c4cc:
 
     # rs_character_3B4C660F421B4BE392BB540B580F0339 "不对不是说这个的时候！！"
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "って、そうじゃなくてぇ！！"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "って、そうじゃなくてぇ！！\n"
 
 # game/content/file_00003EA0.rpy:5767
 translate japanese block_00003EA4_abe6e7fb:
@@ -2824,7 +2824,7 @@ translate japanese block_00003EA4_4b56369d:
 translate japanese block_00003EA4_e3ce78a6:
 
     # rs_character_7009C1117C004F51829614A203C67DE7 "（如果对大家见死不救……"
-    rs_character_7009C1117C004F51829614A203C67DE7 "（もし、みんなを見捨てたりするんだったら……"
+    rs_character_7009C1117C004F51829614A203C67DE7 "（もし、みんなを見捨てたりするんだったら……\n"
 
 # game/content/file_00003EA0.rpy:5820
 translate japanese block_00003EA4_8538ebaa:
@@ -2962,7 +2962,7 @@ translate japanese block_00003EA4_371ac5e5:
 translate japanese block_00003EA4_7e9f8f5b:
 
     # rs_character_3B4C660F421B4BE392BB540B580F0339 "左边那部分是不是画得大一些会比较好呐。"
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "左の模様をもう少し大きく描いた方がいいかも\nしれません。"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "左の模様をもう少し大きく描いた方がいいかもしれません。"
 
 # game/content/file_00003EA0.rpy:6101
 translate japanese block_00003EA4_4e7c5945:
@@ -3010,7 +3010,7 @@ translate japanese block_00003EA4_35175f27:
 translate japanese block_00003EAB_8cd0097d:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "技安！！这边准备好了！"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "まったく、委員長は相変わらずだな……。"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "ジャイアーン！！こっちは準備オッケーだよー！"
 
 # game/content/file_00003EA0.rpy:6298
 translate japanese block_00003EAB_d700128f:
@@ -3076,7 +3076,7 @@ translate japanese block_00003EAB_65a3524f:
 translate japanese block_00003EAB_adf348b4:
 
     # rs_character_3B4C660F421B4BE392BB540B580F0339 "前辈怎么可能输给阿雪——！！别指着鼻子上天狐狸！"
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "こらー！先輩がユッキーなんかに負けるハズ\nないやろー！！調子乗んな狐目ぇ！"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "こらー！先輩がユッキーなんかに負けるハズないやろー！！\n調子乗んな狐目ぇ！"
 
 # game/content/file_00003EA0.rpy:6428
 translate japanese block_00003EAB_58702d3b:
@@ -3130,7 +3130,7 @@ translate japanese block_00003EAB_aa822e55:
 translate japanese block_00003EAB_ab4eb562:
 
     # rs_character_7009C1117C004F51829614A203C67DE7 "骗人的……九尾竟然也会被……"
-    rs_character_7009C1117C004F51829614A203C67DE7 "うそでしょ……。まさか、九尾まで……。"
+    rs_character_7009C1117C004F51829614A203C67DE7 "うそでしょ……。まさか、九尾まで……。\n"
 
 # game/content/file_00003EA0.rpy:6531
 translate japanese block_00003EAB_3c5a3ca3:
@@ -3148,7 +3148,7 @@ translate japanese block_00003EAB_2262150e:
 translate japanese block_00003EAB_cbcaafc4:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "分别前没能告诉他？比起“封印”这种掩饰用的词汇，\n直接告诉他这就是{color=#FFFF00}驱灵仪式{/color}会更好吧。"
-    rs_character_C223850065F6443080205D1F61C04C98 "お別れ、言わなかったのかい？封印っていうより\n{color=#FFFF00}除霊の儀式{/color}だって教えてあげればよかったのに。"
+    rs_character_C223850065F6443080205D1F61C04C98 "お別れ、言わなかったのかい？\n封印っていうより{color=#FFFF00}除霊の儀式{/color}だって教えてあげればよかったのに。"
 
 # game/content/file_00003EA0.rpy:6565
 translate japanese block_00003EAB_cc3ebaef:
@@ -3178,13 +3178,13 @@ translate japanese block_00003EAB_b2bbbc23:
 translate japanese block_00003EAB_f11140c2:
 
     # rs_character_6C344A6C39F6479282A6BD884E3F8F11 "非人者亦有。然与汝相伴仅在须臾，实乃羡慕。"
-    rs_character_6C344A6C39F6479282A6BD884E3F8F11 "人以外にも、住人はいくらでもおるわ。とはいえ、\nオノコの傍にいられるのは羨ましい限りだのぉ。"
+    rs_character_6C344A6C39F6479282A6BD884E3F8F11 "人以外にも、住人はいくらでもおるわ。\nとはいえ、オノコの傍にいられるのは羨ましい限りだのぉ。"
 
 # game/content/file_00003EA0.rpy:6575
 translate japanese block_00003EAB_c1517b09:
 
     # rs_character_C223850065F6443080205D1F61C04C98 "不要那么想嘛。{w}\n肯定很快就会重新迎来这样的时光的。保持这种想法也不坏哦？"
-    rs_character_C223850065F6443080205D1F61C04C98 "そうしょげないでよ。{w}きっと、すぐに楽しい時間が\n戻って来る。そう信じるのも悪くないじゃない？"
+    rs_character_C223850065F6443080205D1F61C04C98 "そうしょげないでよ。{w}\nきっと、すぐに楽しい時間が戻って来る。\nそう信じるのも悪くないじゃない？"
 
 # game/content/file_00003EA0.rpy:6806
 translate japanese block_00003EB8_68eb3b78:
@@ -3208,7 +3208,7 @@ translate japanese block_00003EAE_c7f70949:
 translate japanese block_00003EAE_16a4d3d3:
 
     # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "不，我只是投了一张纸过去……\n"
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "い、いや、僕なんて、\nホントちょこんと紙を投げただけで……。\n"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "い、いや、僕なんて、ホントちょこんと\n紙を投げただけで……。\n"
 
 # game/content/file_00003EA0.rpy:6916
 translate japanese block_00003EAE_2ee01168:
@@ -3226,7 +3226,7 @@ translate japanese block_00003EAE_967f6503:
 translate japanese block_00003EAE_42c8ad3d:
 
     # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "不，友君{w=0.3}{size=14}{color=#808080}（照片）{/color}{/size}一直都在我身边哦。"
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "いえ、友くん{w=0.3}{size=14}{color=#808080}（写真）{/color}{/size}は\nずっとそばにいてくれました。"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "いえ、友くん{w=0.3}{size=14}{color=#808080}（写真）{/color}{/size}はずっとそばにいてくれました。"
 
 # game/content/file_00003EA0.rpy:6932
 translate japanese block_00003EAE_869f7855:
@@ -3238,7 +3238,7 @@ translate japanese block_00003EAE_869f7855:
 translate japanese block_00003EB0_c604443b:
 
     # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "哈～还以为会咋样，\n什么都没发生真是太好了。"
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "はあ～。\n一時はどうなるかと思ったけど、\n何とかなりそうで良かったでぇ。"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "はあ～。一時はどうなるかと思ったけど、\n何とかなりそうで良かったでぇ。"
 
 # game/content/file_00003EA0.rpy:6986
 translate japanese block_00003EB0_efb4375e:
@@ -3334,7 +3334,7 @@ translate japanese block_00003EB2_81fc3361:
 translate japanese block_00003EB2_50742fed:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "毕竟也是出现了真正的幽灵呐。\n本来还以为能拍到更加有冲击力的照片的，\n"
-    rs_character_53FF68C192E3494AB005C1909579AFFB "実物の幽霊ってあんなものなんですね。\nもっとおどろおどろしいものが\n撮りたかったのに、\n"
+    rs_character_53FF68C192E3494AB005C1909579AFFB "実物の幽霊ってあんなものなんですね。\nもっとおどろおどろしいものが撮りたかったのに、\n"
 
 # game/content/file_00003EA0.rpy:7203
 translate japanese block_00003EB2_cbf6ca1e:
@@ -3352,13 +3352,13 @@ translate japanese block_00003EB1_e1eacead:
 translate japanese block_00003EB1_b0b8850b:
 
     # rs_character_A751683772E84A83B9CDA0EADC2D57CE "我们三年级本该好好处理的，\n没能派上用场对不起了。"
-    rs_character_A751683772E84A83B9CDA0EADC2D57CE "俺たち三年が\nしっかりしなきゃいけなかったのに、\n役に立てなくて悪かったな。"
+    rs_character_A751683772E84A83B9CDA0EADC2D57CE "俺たち三年がしっかりしなきゃいけなかったのに、\n役に立てなくて悪かったな。"
 
 # game/content/file_00003EA0.rpy:7266
 translate japanese block_00003EB1_65eeb764:
 
     # rs_character_8D9249CA1389416BAF6A122851E276D0 "真的呐，\n前辈“没有考试不是也挺好的嘛”这样说着，\n根本派不上用场。"
-    rs_character_8D9249CA1389416BAF6A122851E276D0 "ホントですよ。先輩ったら\n『受験もないなら、このままでいいかも。』\nなんておっしゃって、頼りなかったな。"
+    rs_character_8D9249CA1389416BAF6A122851E276D0 "ホントですよ。\n先輩ったら『受験もないなら、このままでいいかも。』\nなんておっしゃって、頼りなかったな。"
 
 # game/content/file_00003EA0.rpy:7279
 translate japanese block_00003EB1_eaff7da5:
@@ -3370,7 +3370,7 @@ translate japanese block_00003EB1_eaff7da5:
 translate japanese block_00003EAC_aca6ae4d:
 
     # rs_character_E3F6ADD43DE44A428E1224756613C694 "伊藤君居然会说\n“不许对我的木村出手”这样的话，\n很帅气呐☆"
-    rs_character_E3F6ADD43DE44A428E1224756613C694 "伊藤クンたら、\n『俺の木村に手ェ出すんじゃねぇ』\nなんて言っちゃってカッコよかったナァ☆"
+    rs_character_E3F6ADD43DE44A428E1224756613C694 "伊藤クンたら、\n『俺の木村に手ェ出すんじゃねぇ』なんて言っちゃって\nカッコよかったナァ☆"
 
 # game/content/file_00003EA0.rpy:7333
 translate japanese block_00003EAC_141fad29:
@@ -3388,13 +3388,13 @@ translate japanese block_00003EAC_b7de68c2:
 translate japanese block_00003EAC_8a588c5f:
 
     # rs_character_E3F6ADD43DE44A428E1224756613C694 "啊～好勇敢呐。\n感觉伊藤酱不在我身边就活不下去了呐～！"
-    rs_character_E3F6ADD43DE44A428E1224756613C694 "あら～勇ましい。\n伊藤ちゃんは俺がそばにいないと\nダメなんでちゅね～！"
+    rs_character_E3F6ADD43DE44A428E1224756613C694 "あら～勇ましい。\n伊藤ちゃんは俺がそばにいないとダメなんでちゅね～！"
 
 # game/content/file_00003EA0.rpy:7368
 translate japanese block_00003EAC_7f4299d9:
 
     # rs_character_710A38AC94C841779DB701B5AC1010FD "我不在你肯定不行！{w}一开始你被{nw}"
-    rs_character_710A38AC94C841779DB701B5AC1010FD "お前がダメになるんだろ、俺がそばにいないと！{w}"
+    rs_character_710A38AC94C841779DB701B5AC1010FD "お前がダメになるんだろ、俺がそばにいないと！{w}\n"
 
 # game/content/file_00003EA0.rpy:7372
 translate japanese block_00003EAC_3a2d880d:
@@ -3454,7 +3454,7 @@ translate japanese block_00003EAF_8e44978a:
 translate japanese block_00003EAF_813799f4:
 
     # rs_character_81D16F74A3C44B8982DB528D7D934850 "说起来你喜欢动物？第一次听说。"
-    rs_character_81D16F74A3C44B8982DB528D7D934850 "ていうかお前、\nそんなに動物好きだったっけ？初耳。"
+    rs_character_81D16F74A3C44B8982DB528D7D934850 "ていうかお前、そんなに動物好きだったっけ？初耳。"
 
 # game/content/file_00003EA0.rpy:7484
 translate japanese block_00003EAF_b635e0b8:
@@ -3472,7 +3472,7 @@ translate japanese block_00003EAF_b7c8d9c3:
 translate japanese block_00003FDE_4c641cf4:
 
     # rs_character_D34F60C882F0425E93252349E8C3BC8D "绫濑前辈！\n没能拜见前辈面对妖怪英勇战斗的身姿真是遗憾！！"
-    rs_character_D34F60C882F0425E93252349E8C3BC8D "綾瀬先輩！お化けに対しても怯むことなく戦った\nその勇姿、拝見できずに残念でした！！"
+    rs_character_D34F60C882F0425E93252349E8C3BC8D "綾瀬先輩！\nお化けに対しても怯むことなく戦ったその勇姿、\n拝見できずに残念でした！！"
 
 # game/content/file_00003EA0.rpy:7547
 translate japanese block_00003FDE_11c09530:
@@ -3484,7 +3484,7 @@ translate japanese block_00003FDE_11c09530:
 translate japanese block_00003FDE_9ad01835:
 
     # rs_character_08DBDA5028CF47989118DFA6DF0E1507 "欸～？？反倒更在意了～！！\n这件事以后还请详细说说哦！"
-    rs_character_08DBDA5028CF47989118DFA6DF0E1507 "え～？？何それむしろ気になるぅ～！！\nそのお話、ぜひぜひ詳しく\n聞かせてくださいよぉ！"
+    rs_character_08DBDA5028CF47989118DFA6DF0E1507 "え～？？何それむしろ気になるぅ～！！\nそのお話、ぜひぜひ詳しく聞かせてくださいよぉ！"
 
 # game/content/file_00003EA0.rpy:7565
 translate japanese block_00003FDE_75c196f3:
@@ -3496,7 +3496,7 @@ translate japanese block_00003FDE_75c196f3:
 translate japanese block_00003FDD_32ecd1af:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "空，真亏你能毫不退缩地和妖怪勇敢地战斗，\n了不起。"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "空、よく化け物に臆することなく、\n勇敢に戦ったな。\n立派だったぞ。"
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "空、よく化け物に臆することなく、勇敢に戦ったな。\n立派だったぞ。"
 
 # game/content/file_00003EA0.rpy:7623
 translate japanese block_00003FDD_f5113aca:

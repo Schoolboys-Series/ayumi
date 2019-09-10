@@ -2422,6 +2422,7 @@ label block_00003EA4:
     hide tag_81DF0CF91B224EAAA16B0366711BA01F
     hide tag_073D4E2B5E224963B025F95C92ED797A
     hide tag_9D0001B69AD04AE9A8D1DE7AF344E0A3
+    hide tag_5DC444A6262A4FCE9BF63B4338E21A74
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
 
     pause 0.4
@@ -2432,14 +2433,16 @@ label block_00003EA4:
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
+    $ zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D = 300
+    show rs_image_293AA514A24E4A44BB395EC06789F57B as tag_C389451CCE5A4CEAB24DEF9A7C02635D at center_top zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
+    with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
+
     window show
 
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "……我为什么会在这个组……？"
 
     hide tag_C389451CCE5A4CEAB24DEF9A7C02635D
-    $ zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D = 300
     $ zorder_tag_5DC444A6262A4FCE9BF63B4338E21A74 = 100
-    show rs_image_293AA514A24E4A44BB395EC06789F57B as tag_C389451CCE5A4CEAB24DEF9A7C02635D at center_top zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     show rs_image_4177AE20CFD04B4C908EB1979945B817 as tag_5DC444A6262A4FCE9BF63B4338E21A74 at center_bottom zorder zorder_tag_5DC444A6262A4FCE9BF63B4338E21A74 onlayer master
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
@@ -2735,6 +2738,10 @@ label block_00003EA4:
     hide tag_C389451CCE5A4CEAB24DEF9A7C02635D
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
+
+    stop music fadeout 2
+    $ sys_music_current_file = ""
+
     pause 0.9
 
     if True: # Hotfix: Ignore multiplay defenser for effect sound
@@ -2876,6 +2883,10 @@ label block_00003EA4:
 
     hide left_title
     with rs_effect_07581C4E297D4018B7AB1E434A9EECA0
+
+    if sys_music_current_file != "sound/BGM/Flurry 2.ogg":
+        play music "sound/BGM/Flurry 2.ogg" loop fadein 2
+        $ sys_music_current_file = "sound/BGM/Flurry 2.ogg"
 
     $ zorder_tag_5DC444A6262A4FCE9BF63B4338E21A74 = 100
     $ zorder_tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 = 0
@@ -6636,7 +6647,7 @@ label block_00003EBE:
 
 label block_00003EBF:
     # Node: 00003EBF (梅咲 square)
-    $ sys_lm_menu_item = [{"pos": (368, 256),"image": "images/MOVING/ACTIONS/Moving 2.png","hover": "images/MOVING/ACTIONS/Moving 2 hover.png","name": "バス"}, {"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}]
+    $ sys_lm_menu_item = [{"pos": (368, 256),"image": "images/MOVING/ACTIONS/Moving 2.png","hover": "images/MOVING/ACTIONS/Moving 2 hover.png","name": "バス"}]
     $ sys_lm_menu_sound = {"hover": "sound/Effect Sound/System - choose.ogg", "click": "sound/Effect Sound/System - click.ogg"}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0.2, 0.2) from _call_lm_menu_613
     $ del sys_lm_menu_item
