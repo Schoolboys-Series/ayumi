@@ -220,6 +220,8 @@ screen scb_global_map_screen(time, character, place, allow_change_time, allow_br
     frame at global_map_action_movein:
         style "global_menu_frame"
         add "images/Moving/Actions/Base.png" xpos 0 ypos 80 at global_map_fade
+        if VarExists("C3ShowLastWarning") and C3ShowLastWarning == True:
+            add "images/Chapter 3/Moving/LastAlert.png" xpos 0 ypos 0 at global_map_fade
         if allow_change_time:
             if time == "twilight" or time == "night":
                 imagebutton:
