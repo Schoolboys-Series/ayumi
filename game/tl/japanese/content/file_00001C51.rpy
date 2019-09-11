@@ -274,13 +274,13 @@ translate japanese block_00001C79_3dfb247d:
 translate japanese block_00002798_187a507a:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "从这里走向河边的途中\n有一家{color=#FF8000}很小的点心店{/color}，\n你们知道吗？"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 "ここから河川敷方面へ向かう途中、\n{color=#FF8000}小さな駄菓子屋{/color}が\nあることを知っておるか？"
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "ここから河川敷方面へ向かう途中、\n{color=#FF8000}小さな駄菓子屋{/color}があることを知っておるか？"
 
 # game/content/file_00001C51.rpy:799
 translate japanese block_00002798_8d938365:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "小时候我经常和朋友在附近玩闹，\n不过现在它也快停业了。"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 "幼い頃、よくそこを訪れては\n友人たちと戯れていた。\nしかし、もうじき閉店してしまうそうだ。"
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "幼い頃、よくそこを訪れては友人たちと戯れていた。\nしかし、もうじき閉店してしまうそうだ。"
 
 # game/content/file_00001C51.rpy:804
 translate japanese block_00002798_52e3a1f7:
@@ -292,7 +292,7 @@ translate japanese block_00002798_52e3a1f7:
 translate japanese block_00002798_1081eb86:
 
     # rs_character_6E3CA81A269B47A3B5128DB98C414527 "像你们这样年轻的孩子，\n就算是最后也好能去看看吗？"
-    rs_character_6E3CA81A269B47A3B5128DB98C414527 "キミのような若い子たちで、\n最後だけでも昔のように\n活気づけてあげてはくれないか？"
+    rs_character_6E3CA81A269B47A3B5128DB98C414527 "キミのような若い子たちで、\n最後だけでも昔のように活気づけてあげてはくれないか？"
 
 # game/content/file_00001C51.rpy:814
 translate japanese block_00002798_350f74c2:
@@ -316,13 +316,13 @@ translate japanese block_00002798_2d405a9f:
 translate japanese block_00002798_2ded4a9d:
 
     # rs_character_3B4C660F421B4BE392BB540B580F0339 "欸——这种地方居然会有粗点心店，\n我还是第一次听说。"
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "へぇー！こんなとこに\n駄菓子屋があるなんて初めて知ったわぁ。"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "へぇー！\nこんなとこに駄菓子屋があるなんて初めて知ったわぁ。"
 
 # game/content/file_00001C51.rpy:885
 translate japanese block_00002798_6660d72e:
 
     # rs_character_7009C1117C004F51829614A203C67DE7 "真厉害。\n这种店电视上是看不到的。"
-    rs_character_7009C1117C004F51829614A203C67DE7 "すごいねぇ。こういうお店は\nテレビでしか観たことないよぉ。"
+    rs_character_7009C1117C004F51829614A203C67DE7 "すごいねぇ。\nこういうお店はテレビでしか観たことないよぉ。"
 
 # game/content/file_00001C51.rpy:894
 translate japanese block_00002798_0b24b641:
@@ -364,7 +364,7 @@ translate japanese block_00002798_e8ce51ba:
 translate japanese block_00002798_9f39f8f5:
 
     # rs_character_2F154AE49ED54A70AEA327A36C670DDB "在薄薄的煎饼上加满香料和蛋黄酱……\n"
-    rs_character_2F154AE49ED54A70AEA327A36C670DDB "薄いせんべいの上に、天かすとソースとマヨネーズをかけて、"
+    rs_character_2F154AE49ED54A70AEA327A36C670DDB "薄いせんべいの上に、天かすとソースとマヨネーズをかけて、\n"
 
 # game/content/file_00001C51.rpy:959
 translate japanese block_00002798_ba7c8b9e:
@@ -388,7 +388,7 @@ translate japanese block_00002798_23416d9b:
 translate japanese block_00002798_8c4abf06:
 
     # extend "哇——好好吃。\n看起来很简单味道却非常好呐～"
-    extend "わぁーおいしい。シンプルな作りなのに\n味わい深いぃ～。"
+    extend "わぁーおいしい。\nシンプルな作りなのに味わい深いぃ～。"
 
 # game/content/file_00001C51.rpy:988
 translate japanese block_00002798_a9b9f472:
@@ -496,7 +496,7 @@ translate japanese block_00002798_5ce63f92:
 translate japanese block_00002798_c0e24179:
 
     # rs_character_2F154AE49ED54A70AEA327A36C670DDB "这样……抱歉让你想起这些。"
-    rs_character_2F154AE49ED54A70AEA327A36C670DDB "そうでしたか……。それは申し訳ないことを\n思い出させてしまいましたね。"
+    rs_character_2F154AE49ED54A70AEA327A36C670DDB "そうでしたか……。\nそれは申し訳ないことを思い出させてしまいましたね。"
 
 # game/content/file_00001C51.rpy:1100
 translate japanese block_00002798_f8227c9a:
@@ -520,7 +520,7 @@ translate japanese block_00002798_77e0b5bd:
 translate japanese block_00002798_74651b11:
 
     # rs_character_3B4C660F421B4BE392BB540B580F0339 "御咲学园好像发生过各种古怪的事情呢。"
-    rs_character_3B4C660F421B4BE392BB540B580F0339 "御咲学園も、いわゆる事故物件ってやつに\nなるんですかね。"
+    rs_character_3B4C660F421B4BE392BB540B580F0339 "御咲学園も、いわゆる事故物件ってやつになるんですかね。"
 
 # game/content/file_00001C51.rpy:1150
 translate japanese block_00002798_83e327c3:
@@ -556,13 +556,13 @@ translate japanese block_00002798_7736ecad:
 translate japanese block_00002798_35627baf:
 
     # rs_character_7009C1117C004F51829614A203C67DE7 "（可是，听上去太可怜了。"
-    rs_character_7009C1117C004F51829614A203C67DE7 "（だって、なんだか可哀想じゃん。"
+    rs_character_7009C1117C004F51829614A203C67DE7 "（だって、なんだか可哀想じゃん。\n"
 
 # game/content/file_00001C51.rpy:1196
 translate japanese block_00002798_9bc13150:
 
     # extend "再说了，\n要是你真那么伟大，就拿出点气量来。）"
-    extend "ていうか、自分でそれだけ\n偉そうに言うんだったら、それぐらいの度量を見せてよね。）"
+    extend "ていうか、自分でそれだけ偉そうに言うんだったら、\nそれぐらいの度量を見せてよね。）"
 
 # game/content/file_00001C51.rpy:1201
 translate japanese block_00002798_fdbf432c:
