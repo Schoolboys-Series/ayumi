@@ -5085,11 +5085,11 @@ translate japanese strings:
 
     # content\file_000001B0.rpy:3552
     old "一起去吧，翼君"
-    new "一緒に観に行く"
+    new "はい"
 
     # content\file_000001B0.rpy:3552
     old "稍等现在有点事"
-    new "また今度ね"
+    new "いいえ"
 
     # content\file_000001B0.rpy:3834
     old "体育馆"
@@ -5109,11 +5109,11 @@ translate japanese strings:
 
     # content\file_000001B0.rpy:6118
     old "换！换！我要换！"
-    new "やる！やる！"
+    new "はい"
 
     # content\file_000001B0.rpy:6118
     old "容我三思"
-    new "今度ね"
+    new "いいえ"
 
     # content\file_000001B0.rpy:6226
     old "音乐室"
@@ -5145,11 +5145,11 @@ translate japanese strings:
 
     # content\file_000001B0.rpy:8176
     old "……忍不住了"
-    new "致す！"
+    new "はい"
 
     # content\file_000001B0.rpy:8176
     old "这不合适这不合适"
-    new "我慢する"
+    new "いいえ"
 
     # content\file_000001B0.rpy:8879
     old "看"
@@ -5165,11 +5165,11 @@ translate japanese strings:
 
     # content\file_000001B0.rpy:11429
     old "走，去训练了"
-    new "する！"
+    new "はい"
 
     # content\file_000001B0.rpy:11429
     old "我很忙的"
-    new "今は忙しい"
+    new "いいえ"
 
     # content\file_000001B0.rpy:12508
     old "室外厕所"
