@@ -70,7 +70,7 @@ translate japanese block_00001E58_1f5fb79a:
 translate japanese block_00001E58_d0e96481:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "单人是不可能完成整个攻击流程的。很不错。"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "そこからの連携プレイは、一人ではなしえぬもの\nだからな。すばらしい。"
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "そこからの連携プレイは、一人ではなしえぬものだからな。\nすばらしい。"
 
 # game/content/file_00001E09.rpy:416
 translate japanese block_00001E57_19f6e6e8:
@@ -148,7 +148,7 @@ translate japanese block_00001E54_0baa32d9:
 translate japanese block_00001E54_eec332ce:
 
     # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "可三号射手猫山已经走了，从外侧的进攻会很难……\n不想个方案的话。"
-    rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "３Ｐシューターの猫山が抜けて、外から攻めづらく\nなったからなあ……。うまく切り込まないと。"
+    rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "３Ｐシューターの猫山が抜けて、\n外から攻めづらくなったからなあ……。\nうまく切り込まないと。"
 
 # game/content/file_00001E09.rpy:588
 translate japanese block_00001E54_f91bf120:
@@ -466,7 +466,7 @@ translate japanese block_00001E56_f3174275:
 translate japanese block_00001E56_0ab1bb04:
 
     # rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "那种场面一瞬的犹豫都会失败。\n某种意义上，非常接近正式比赛。"
-    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "あれでは一瞬たりとも油断できん。ある意味、\n試合本番の想定に近いな。"
+    rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "あれでは一瞬たりとも油断できん。\nある意味、試合本番の想定に近いな。"
 
 # game/content/file_00001E09.rpy:1232
 translate japanese block_00001E56_a0f8ba3f:
@@ -532,19 +532,19 @@ translate japanese block_00001E5A_a29868d5:
 translate japanese block_00001E5A_a7ccaaf4:
 
     # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "欸？是么……\n我觉得花乃汤应该是那种深绿的感觉啊……"
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "『花乃湯』は\n深緑みたいな渋い色のイメージやったわ……。"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "え？そうなんか……。\n俺、ずっと『花乃湯』は深緑みたいな\n渋い色のイメージやったわ……。"
 
 # game/content/file_00001E09.rpy:1524
 translate japanese block_00001E5A_2e0722fa:
 
     # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "果然是吗……"
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "やっぱ、そうかぁ……。"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "やっぱ、そうかぁ……。\n"
 
 # game/content/file_00001E09.rpy:1528
 translate japanese block_00001E5A_70b1cb8d:
 
     # extend "好，这块看板就用来抹掉那种印象！"
-    extend "よしゃ、この看板で\nそのイメージも払拭させてやんよ！"
+    extend "よしゃ、この看板でそのイメージも払拭させてやんよ！"
 
 # game/content/file_00001E09.rpy:1534
 translate japanese block_00001E5A_f0205fdd:
@@ -586,7 +586,7 @@ translate japanese block_00001E5A_af98d190:
 translate japanese block_00001E5A_d15e0a92:
 
     # rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "等等！别捏那边！越线了……{w}{color=#FF00FF}啊///{/color}{nw}"
-    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "ちょお、待てぃ！揉むな揉むな！それは\nイチャイチャのレベル超え{w}……{color=#FF00FF}あっ///{/color}{nw}"
+    rs_character_078F0CD6ADB94AD5AA5BE8FF07BBC085 "ちょお、待てぃ！揉むな揉むな！\nそれはイチャイチャのレベル超え{w}……{color=#FF00FF}あっ///{/color}{nw}"
 
 # game/content/file_00001E09.rpy:1586
 translate japanese block_00001E5A_e1f385a7:
@@ -640,7 +640,7 @@ translate japanese block_0000317D_0f65f380:
 translate japanese block_00001E55_b3d0fbf3:
 
     # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "……insulin deficiency can lead to diabetes and sometimes hypertension will……"
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "フム……インスリン不足で糖尿病になり、高血糖が\n原因の動脈硬化で四肢の壊死、また白内障……。"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "フム……インスリン不足で糖尿病になり、\n高血糖が原因の動脈硬化で四肢の壊死、また白内障……。"
 
 # game/content/file_00001E09.rpy:1811
 translate japanese block_00001E55_024a1b2f:
@@ -652,13 +652,13 @@ translate japanese block_00001E55_024a1b2f:
 translate japanese block_00001E55_15c8bb2e:
 
     # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "谢、谢谢你担心。"
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "ご、ご心配ありがとうございます。"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "ご、ご心配ありがとうございます。\n"
 
 # game/content/file_00001E09.rpy:1820
 translate japanese block_00001E55_4101eb67:
 
     # extend "像我这样的新手\n这种程度刚刚好。哈哈……"
-    extend "僕みたいなとろまは\nそれぐらいが丁度いいです。あは……。"
+    extend "僕みたいなとろまはそれぐらいが丁度いいです。あは……。"
 
 # game/content/file_00001E09.rpy:1840
 translate japanese block_00001E55_bca62469:

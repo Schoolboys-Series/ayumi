@@ -100,7 +100,7 @@ translate japanese block_00001F0E_1d7cbe5a:
 translate japanese block_00001F0E_4e9abc44:
 
     # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "哦。能在这个时间见到班长真是稀奇。"
-    rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "おう。\n委員長と、こんな時間帯に\n顔合わすなんて新鮮だわ。"
+    rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "おう。\n委員長と、こんな時間帯に顔合わすなんて新鮮だわ。"
 
 # game/content/file_00001EC3.rpy:545
 translate japanese block_00001F0E_7d0623fd:
@@ -118,7 +118,7 @@ translate japanese block_00001F0E_52ad0829:
 translate japanese block_00001F0E_9bc63f1e:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "我们吹奏乐部还回不去呐～？{w}\n嘛，就这点练习对我不算什么！"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "我々吹奏楽部はまだまだ帰れないのだよ～？{w}\nまっ、これぐらいの練習、\nこのオレ様にかかればへっちゃらだけどねぇ！"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "我々吹奏楽部はまだまだ帰れないのだよ～？{w}\nまっ、これぐらいの練習、このオレ様にかかれば\nへっちゃらだけどねぇ！"
 
 # game/content/file_00001EC3.rpy:562
 translate japanese block_00001F0E_e49d1ede:
@@ -136,7 +136,7 @@ translate japanese block_00001F0E_3dd1e56b:
 translate japanese block_00001F0E_3055c309:
 
     # extend "松酱，这里还请好好说回去。"
-    extend "松ちゃんサン、\nここはガツンと言ってやってくださいな。"
+    extend "松ちゃんサン、ここはガツンと言ってやってくださいな。"
 
 # game/content/file_00001EC3.rpy:594
 translate japanese block_00001F0E_973e45e6:
@@ -178,13 +178,13 @@ translate japanese block_00001F07_75768a8a:
 translate japanese block_00001F07_3ac6cfe2:
 
     # rs_character_53FF68C192E3494AB005C1909579AFFB "……和部长的哥哥要在试音会\n决定谁来负责钢琴部分呐。"
-    rs_character_53FF68C192E3494AB005C1909579AFFB "……部長のお兄さんとの、\nピアノパートを賭けた\nオーディションがあるんですね。"
+    rs_character_53FF68C192E3494AB005C1909579AFFB "……部長のお兄さんとの、\nピアノパートを賭けたオーディションがあるんですね。"
 
 # game/content/file_00001EC3.rpy:744
 translate japanese block_00001F07_e9de28af:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "这都知道！？{w}\n啊……小岛君和冈岛君关系很好呐。"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "それも知ってるの！？{w}\nあ……\n小島くんは、岡島くんと仲いいもんね。"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "それも知ってるの！？{w}\nあ……小島くんは、岡島くんと仲いいもんね。"
 
 # game/content/file_00001EC3.rpy:746
 translate japanese block_00001F07_f331f104:
@@ -226,7 +226,7 @@ translate japanese block_00001F0B_0447c483:
 translate japanese block_00001F0B_3cb52bf2:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哦，{w}翼君也是，\n都这个时候了还在学习呐。"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "うん。{w}つばさくんも、\nこんな時間までお勉強だなんて熱心だね。"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "うん。{w}\nつばさくんも、こんな時間までお勉強だなんて熱心だね。"
 
 # game/content/file_00001EC3.rpy:1176
 translate japanese block_00001F0B_9229a435:
@@ -268,13 +268,13 @@ translate japanese block_00001F0B_f17436f1:
 translate japanese block_00001F0B_853267f8:
 
     # extend "……友君以后会继续待在吹奏乐部吗？"
-    extend "……友くんは、このまま\n吹奏楽部を続けるんですか？"
+    extend "……友くんは、このまま吹奏楽部を続けるんですか？"
 
 # game/content/file_00001EC3.rpy:1216
 translate japanese block_00001F0B_1b820774:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "……怎么说呢，还没有决定。{w}\n……{w}翼君已经决定了？"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "……どうだろう。まだそこまで決めてない。{w}\n……。{w}\nつばさくんは、決まってるんでしょ？"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "……どうだろう。まだそこまで決めてない。{w}\n……。{w}つばさくんは、決まってるんでしょ？"
 
 # game/content/file_00001EC3.rpy:1222
 translate japanese block_00001F0B_c80a3905:
@@ -352,7 +352,7 @@ translate japanese block_00001F0B_c162c863:
 translate japanese block_00001F0B_7900c917:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "现在我们只是在为各自的梦想努力。"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "今は、お互い別々のことに\nがんばる時期ってだけだよね。"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "今は、お互い別々のことにがんばる時期ってだけだよね。"
 
 # game/content/file_00001EC3.rpy:1316
 translate japanese block_00001F0B_8b4d68b1:
@@ -466,4 +466,4 @@ translate japanese strings:
 
     # content\file_00001EC3.rpy:1505
     old "反正也是最后了……"
-    new "どうせ最後のチャンス……"
+    new "はい"

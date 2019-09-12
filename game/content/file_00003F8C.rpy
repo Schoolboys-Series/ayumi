@@ -2171,9 +2171,8 @@ label block_0000403B:
         play effect "sound/Effect Sound/Open door 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Open door 1.ogg"
 
-    $ zorder_tag_ECFB5B509A334A868686B3435242BF90 = 300
     $ zorder_tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 = 0
-    show rs_image_2E62A030F335405E9F99D592FF0CBF10 as tag_ECFB5B509A334A868686B3435242BF90 at center_bottom zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
+    
     show rs_image_D3337C6701A1424493940A3CA157D89B as tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 at center_bottom zorder zorder_tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 onlayer master
     show rs_image_85CA87C0E2714547A2E11A25B260A42F as tag_3C0D2D9BB95B42AAA768FE8D105219CB zorder zorder_tag_3C0D2D9BB95B42AAA768FE8D105219CB onlayer master
     with rs_effect_5558577FCB4F4A43A84362ED9AD414E8
@@ -2186,6 +2185,9 @@ label block_0000403B:
         play effect "sound/Effect Sound/Cute 2.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 2.ogg"
 
+    $ zorder_tag_ECFB5B509A334A868686B3435242BF90 = 300
+    
+    show rs_image_2E62A030F335405E9F99D592FF0CBF10 as tag_ECFB5B509A334A868686B3435242BF90 at center_bottom zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     show rs_image_107F1D49D8E64904B63165A87DBFC26D as tag_3C0D2D9BB95B42AAA768FE8D105219CB zorder zorder_tag_3C0D2D9BB95B42AAA768FE8D105219CB onlayer master
     with rs_effect_FDC8C79E099A4B27B54A26982B59E98A
 
@@ -4369,7 +4371,7 @@ label block_00004249:
 
     rs_character_5EF3D7B611334654B9D3BDDF7B4B68DF "这不是制冷是制热！！谁干的！！"
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "屋里这么热可没法练习啊～"
+    rs_character_95560B510C0E4A8BAAE6B25A11E586AA "屋里这么热可没法练习啊～"
 
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Open window 1.ogg" noloop
@@ -6959,7 +6961,7 @@ label block_00003FA5:
     $ renpy.pause(1.0, hard=True)
 
     $ zorder_tag_03723FC929AD4F0BA44259F7A076ADFD = 300
-    show concert_description (_("♪ 指定曲目\n三号曲\n♪ 自由演奏\nRhapsody for Concert Band and Jazz Ensemble\nComposer: Patrick Williams")) as tag_03723FC929AD4F0BA44259F7A076ADFD at Transform(xpos=674,ypos=285,xanchor=1.0) zorder zorder_tag_03723FC929AD4F0BA44259F7A076ADFD onlayer master
+    show concert_description (_("{u}♪ 指定曲目{/u}\n三号曲\n{u}♪ 自由演奏{/u}\nRhapsody for Concert Band and Jazz Ensemble\nComposer: Patrick Williams")) as tag_03723FC929AD4F0BA44259F7A076ADFD at Transform(xpos=674,ypos=285,xanchor=1.0) zorder zorder_tag_03723FC929AD4F0BA44259F7A076ADFD onlayer master
     with rs_effect_AE78B5E92416464A93F1A10BE1C93CE6
 
     $ renpy.pause(4.5, hard=True)
@@ -8370,7 +8372,7 @@ label block_00003FA6:
     $ renpy.pause(1.0, hard=True)
 
     $ zorder_tag_03723FC929AD4F0BA44259F7A076ADFD = 300
-    show concert_description (_("♪ 指定曲目\n三号曲\n♪ 自由演奏\nRhapsody for Concert Band and Jazz Ensemble\nComposer: Patrick Williams")) as tag_03723FC929AD4F0BA44259F7A076ADFD at Transform(xpos=677,ypos=285,xanchor=1.0) zorder zorder_tag_03723FC929AD4F0BA44259F7A076ADFD onlayer master
+    show concert_description (_("{u}♪ 指定曲目{/u}\n三号曲\n{u}♪ 自由演奏{/u}\nRhapsody for Concert Band and Jazz Ensemble\nComposer: Patrick Williams")) as tag_03723FC929AD4F0BA44259F7A076ADFD at Transform(xpos=677,ypos=285,xanchor=1.0) zorder zorder_tag_03723FC929AD4F0BA44259F7A076ADFD onlayer master
     with rs_effect_AE78B5E92416464A93F1A10BE1C93CE6
 
     $ renpy.pause(4.5, hard=True)

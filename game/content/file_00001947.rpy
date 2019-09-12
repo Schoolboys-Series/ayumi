@@ -4606,10 +4606,9 @@ label block_00001E03:
     stop music fadeout 2.5
     $ sys_music_current_file = ""
 
-    hide tag_ECFB5B509A334A868686B3435242BF90
     $ set_place_title("")
+    hide tag_ECFB5B509A334A868686B3435242BF90
     hide tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3
-    show rs_image_7131112E86B24D6A9BE667868088D590 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_BE47ECCC0D6944BC919AF538D960F5EA
 
     pause 0.7
@@ -6112,7 +6111,7 @@ label block_0000402A:
 
 label block_00004029:
     # Node: 00004029 (RESET)
-    if sys_music_current_file != "sound/BGM/Chapter 3.ogg":
+    if not (sys_music_current_file == "sound/BGM/Chapter 3.ogg" or sys_music_current_file == "sound/BGM/Start scene.ogg"):
         play music "sound/BGM/Chapter 3.ogg" loop
         $ sys_music_current_file = "sound/BGM/Chapter 3.ogg"
 
