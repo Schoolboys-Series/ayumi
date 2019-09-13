@@ -40,7 +40,7 @@ translate japanese strings:
 
     # lib\ayumi_global_map.rpy:41
     old "END OF SEMESTER 学期末"
-    new "END OF SEMESTER"
+    new "CHAPTER EX"
 
     # lib\ayumi_global_map.rpy:49
     old "梦之温泉"
