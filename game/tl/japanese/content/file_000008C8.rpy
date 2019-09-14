@@ -3389,13 +3389,13 @@ translate japanese block_000008E9_051f69dc:
 translate japanese block_000008E9_ce437162:
 
     # rs_character_8D9249CA1389416BAF6A122851E276D0 "感觉还不错。能发散压力，心情也很好♪\n"
-    rs_character_8D9249CA1389416BAF6A122851E276D0 "すごく良かった。ストレス発散にもなったし、\n楽しかったな♪"
+    rs_character_8D9249CA1389416BAF6A122851E276D0 "すごく良かった。\nストレス発散にもなったし、楽しかったな♪\n"
 
 # game/content/file_000008C8.rpy:10534
 translate japanese block_000008E9_bc697f23:
 
     # extend "然后，隔壁的客人好像很兴奋的样子。"
-    extend "それとね、\n隣室のお客さんが盛り上がっててさ。"
+    extend "それとね、隣室のお客さんが盛り上がっててさ。"
 
 # game/content/file_000008C8.rpy:10536
 translate japanese block_000008E9_602c2c7f:

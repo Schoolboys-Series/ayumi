@@ -160,7 +160,7 @@ translate japanese block_00003E84_ddc8ad7d:
 translate japanese block_00003E84_38fba0ae:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "（嗯？什么东西？那边刚才有……{w=0.55}野猫？）"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "（ん？なんだろ？向こうの方で、今何か……。{w=0.55}野良猫かな？）"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "（ん？なんだろ？向こうの方で、今何か……。{w=0.55}\n野良猫かな？）"
 
 # game/content/file_00003CE2.rpy:1018
 translate japanese block_00003E84_90896f09:
@@ -202,7 +202,7 @@ translate japanese block_00003E11_3c69909c:
 translate japanese block_00003E11_b46064df:
 
     # rs_character_57471360F48A413AB843A4E46D8C5541 "哦，对了！\n下次周边地区的英雄们\n会开个交流会来着。"
-    rs_character_57471360F48A413AB843A4E46D8C5541 "あ、そうだ！\n今度、隣の地域担当のヒーローたちと\nオフ会を開こうよ"
+    rs_character_57471360F48A413AB843A4E46D8C5541 "あ、そうだ！\n今度、隣の地域担当のヒーローたちと\nオフ会を開こうよ。"
 
 # game/content/file_00003CE2.rpy:2042
 translate japanese block_00003E11_76b62b5a:

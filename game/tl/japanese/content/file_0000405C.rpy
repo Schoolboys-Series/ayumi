@@ -4,7 +4,7 @@
 translate japanese block_00004154_b8b78a39:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#848224}『好好享受期末考试前所剩不多的时间。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#848224}『期末テスト前の時間をゆっくり楽しもう。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#848224}『期末テスト前の時間を\nゆっくり楽しみましょう。』{/color}"
 
 # game/content/file_0000405C.rpy:291
 translate japanese block_000040D2_18924a2c:
@@ -364,13 +364,13 @@ translate japanese block_000040EC_051f69dc:
 translate japanese block_000040EC_ce437162:
 
     # rs_character_8D9249CA1389416BAF6A122851E276D0 "感觉还不错。能发散压力，心情也很好♪\n"
-    rs_character_8D9249CA1389416BAF6A122851E276D0 "すごく良かった。ストレス発散にもなったし、\n楽しかったな♪\n"
+    rs_character_8D9249CA1389416BAF6A122851E276D0 "すごく良かった。\nストレス発散にもなったし、楽しかったな♪\n"
 
 # game/content/file_0000405C.rpy:1975
 translate japanese block_000040EC_bc697f23:
 
     # extend "然后，隔壁的客人好像很兴奋的样子。"
-    extend "それとね、\n隣室のお客さんが盛り上がっててさ。"
+    extend "それとね、隣室のお客さんが盛り上がっててさ。"
 
 # game/content/file_0000405C.rpy:1977
 translate japanese block_000040EC_602c2c7f:
@@ -586,7 +586,7 @@ translate japanese block_0000407E_fbcfdda5:
 translate japanese block_000041AF_b8b78a39:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#848224}『好好享受期末考试前所剩不多的时间。』{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#848224}『期末テスト前の時間をゆっくり楽しもう。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#848224}『期末テスト前の時間を\nゆっくり楽しみましょう。』{/color}"
 
 # game/content/file_0000405C.rpy:2734
 translate japanese block_000040EF_fe7b918f:
@@ -1138,7 +1138,7 @@ translate japanese block_0000414A_52c487ea:
 translate japanese block_0000414A_d43275de:
 
     # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "那个，以前和友君一起去电影院\n看怀旧电影时买的{color=#0080FF}电影的音轨{/color}。"
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "えっと、以前、友くんと行った\nリバイバルキャンペーンで上映していた映画の、\n{color=#0080FFサウンドトラックCD{/color}を買ってみたんです。"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "えっと、以前、友くんと行った\nリバイバルキャンペーンで上映していた映画の、\n{color=#0080FF}サウンドトラックCD{/color}を買ってみたんです。"
 
 # game/content/file_0000405C.rpy:4364
 translate japanese block_0000414A_dfbdc65e:
