@@ -894,7 +894,13 @@ label block_0000313E:
         play effect "sound/Effect Sound/Flash 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Flash 1.ogg"
 
+    # Gallery unlock: images/CG/Maid.png
+    $ zorder_rs_image_D62D4FF93E144EFAB44DD1C466B8D921 = -100
+    show rs_image_D62D4FF93E144EFAB44DD1C466B8D921 as rs_image_D62D4FF93E144EFAB44DD1C466B8D921 zorder zorder_rs_image_D62D4FF93E144EFAB44DD1C466B8D921 onlayer master
+    hide rs_image_D62D4FF93E144EFAB44DD1C466B8D921
+
     $ zorder_tag_3C0D2D9BB95B42AAA768FE8D105219CB = 100
+
     show rs_image_D62D4FF93E144EFAB44DD1C466B8D921 as tag_3C0D2D9BB95B42AAA768FE8D105219CB at center_bottom zorder zorder_tag_3C0D2D9BB95B42AAA768FE8D105219CB onlayer master
     with rs_effect_284AA099EFB44CE985BBC6A39E64434A
 
