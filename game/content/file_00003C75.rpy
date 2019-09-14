@@ -460,6 +460,22 @@ label block_00003FA9:
 
     pause 2
 
+    if judge_lm_condition([]):
+        jump block_00003FB0
+
+    return
+
+label block_00003FB0:
+    # Node: 00003FB0 (Final score)
+    call block_00003F3E from _call_block_00003F3E
+
+    if judge_lm_condition([]):
+        jump block_00003FB1
+
+    return
+
+label block_00003FB1:
+    # Node: 00003FB1 (attention)
     $ zorder_tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 = 0
     show rs_image_32D0BBC2E623421F81987D13AFF8B019 as tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 at center_bottom zorder zorder_tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3 onlayer master
     with rs_effect_B312A23449C84B4BB886D98AB7635507
@@ -487,7 +503,6 @@ label block_00003FA9:
 
     window hide
 
-
     if judge_lm_condition([]):
         jump block_00003FAA
 
@@ -495,6 +510,7 @@ label block_00003FA9:
 
 label block_00003FAA:
     # Node: 00003FAA (Set: SaveCaption)
+
     $ _lm_save_caption = "第三章結束后（通關進度）"
 
     if judge_lm_condition([]):
@@ -528,16 +544,6 @@ label block_00003FAF:
     with rs_effect_BE47ECCC0D6944BC919AF538D960F5EA
 
     pause 1
-
-
-    if judge_lm_condition([]):
-        jump block_00003FB0
-
-    return
-
-label block_00003FB0:
-    # Node: 00003FB0 (Final score)
-    call block_00003F3E from _call_block_00003F3E
 
     if judge_lm_condition([]):
         jump block_00003FBD
