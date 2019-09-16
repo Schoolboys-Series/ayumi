@@ -493,13 +493,11 @@ label block_00003FB1:
     $ set_window("体育祭、音楽祭")
     window show
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#000000}接下来会进入“学期末”（二周目）章节。{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "恭喜通关『School boys！步』！！"
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#000000}此章节内满足一定条件可重新进行一周目的故事。{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "请继续享受通关后的步的世界。"
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#000000}因此二周目也请记得随时保存。{/color}"
-
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#000000}下面请保存你的{/color}{color=#FF0000}通关进度{/color}{color=#000000}。{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "下面请保存你的通关进度。"
 
     window hide
 

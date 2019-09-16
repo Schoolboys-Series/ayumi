@@ -581,7 +581,7 @@ translate japanese block_0000398D_dd25153f:
 translate japanese block_0000398D_07b98885:
 
     # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#000000}请保存至今为止的进度。{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#000000}ここまでの進行をセーブして保存してください。\n{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#000000}ここまでの進行を\nセーブして保存してください。{/color}"
 
 # game/content/file_00003984.rpy:848
 translate japanese block_0000398D_2ff47e12:

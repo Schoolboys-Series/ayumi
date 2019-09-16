@@ -4719,7 +4719,8 @@ label block_000031A8:
     show rs_image_107F1D49D8E64904B63165A87DBFC26D as tag_26CE4420E4BF43ADBA4E35F2A9784E98 at center_bottom zorder zorder_tag_26CE4420E4BF43ADBA4E35F2A9784E98 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}从过去返回后，数据将会和现有合并。\n因此可以通过此方法收集落下的剧情。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}可以回到过去重新玩各个章节的内容。\n只要跟在学园里出现的触手A对话就能回到现在。{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}除此之外，重新玩时完成的主线剧情以及事件会\n在返回现在时更新在存档数据里。{/color}"
 
     hide tag_51E1CA5715FC4887A4E4083BB8D521B0
     hide tag_81DF0CF91B224EAAA16B0366711BA01F

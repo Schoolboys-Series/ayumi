@@ -101,30 +101,24 @@ translate japanese block_00003C84_fe32bd42:
 
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "准备好了？没落下东西吧？{w}好，那就去学校。"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B "準備できた？忘れ物ない？{w}\nそれじゃあ、学校へ行くよ。"
-
+    
 # game/content/file_00003C75.rpy:496
-translate japanese block_00003FB1_2515aeab:
+translate japanese block_00003FB1_0cdaca92:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#000000}接下来会进入“学期末”（二周目）章节。{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#000000}これから二週目を進めます。{/color}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "恭喜通关『School boys！步』！！"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "『スクールボーイズ！歩』\nクリアおめでとうございます！！"
 
 # game/content/file_00003C75.rpy:498
-translate japanese block_00003FB1_cafb2a5f:
+translate japanese block_00003FB1_a95bd755:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#000000}此章节内满足一定条件可重新进行一周目的故事。{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#000000}とある条件をクリアする時一週目のストーリーを\n一度体験することもできます。{/color}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "请继续享受通关后的步的世界。"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "クリア後の歩の世界もお楽しみ下さい。"
 
 # game/content/file_00003C75.rpy:500
-translate japanese block_00003FB1_fb8d9bd6:
+translate japanese block_00003FB1_113b2205:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#000000}因此二周目也请记得随时保存。{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#000000}だからデータを保存することを忘れないでください。{/color}"
-
-# game/content/file_00003C75.rpy:502
-translate japanese block_00003FB1_1d99ac67:
-
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#000000}下面请保存你的{/color}{color=#FF0000}通关进度{/color}{color=#000000}。{/color}"
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#000000}ここまでの進行をセーブして保存してください。{/color}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "下面请保存你的通关进度。"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "ここまでの進行を\nセーブして保存してください。"
 
 # game/content/file_00003C75.rpy:627
 translate japanese block_00003C7B_e6ba867f:
