@@ -1898,4 +1898,4 @@ translate japanese strings:
 
     # content\file_00000A20.rpy:5843
     old "以后再说"
-    new "また今度"
+    new "いいえ"
