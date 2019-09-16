@@ -431,7 +431,7 @@ label block_00003FA9:
         parallel:
             linear 151 yanchor 1.0
 
-    show rs_image_29E65B9F2B294317A6C20C0C2C26C0DE "{size=20}2eme Gymnopedie{/size}" as staff_1 zorder 1000:
+    show rs_image_29E65B9F2B294317A6C20C0C2C26C0DE "{size=20}2eme Gymnopédie{/size}" as staff_1 zorder 1000:
         xanchor 0
         yanchor 0.5
         xpos 40
