@@ -4410,8 +4410,9 @@ label block_000031B8:
     stop effect2 fadeout 2
     $ sys_effect2_current_file = ""
 
-    stop music fadeout 2
+    stop music
     $ sys_music_current_file = ""
+    $ renpy.music.set_volume(1, 0, "music")
 
     hide tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3
     $ set_place_title("")
@@ -4634,6 +4635,7 @@ label block_00003CDB:
 
     stop music fadeout 2
     $ sys_music_current_file = ""
+    $ renpy.music.set_volume(0, 2, "music")
 
     $ set_place_title("")
     hide tag_BB4B85DBBFBF44DC9B3CC3B2F43AF6E3

@@ -1346,7 +1346,7 @@ label block_00001973:
 
 label block_00004232:
     # Node: 00004232 (Shoe cupboard 觸手A)
-    $ sys_lm_menu_item = [{"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}, {"pos": (672, 248),"image": "images/MOVING/ACTIONS/Moving 2.png","hover": "images/MOVING/ACTIONS/Moving 2 hover.png","name": "校庭へ行く"}, {"pos": (216, 184),"image": "images/Menu/Tentacle-earthworm.png","hover": "images/Menu/Tentacle-earthworm hover.png","name": "触手A"}]
+    $ sys_lm_menu_item = [{"pos": (648, 496),"image": "images/MOVING/ACTIONS/Back.png","hover": "images/MOVING/ACTIONS/Back hover.png","name": "移動"}, {"pos": (216, 184),"image": "images/Menu/Tentacle-earthworm.png","hover": "images/Menu/Tentacle-earthworm hover.png","name": "触手A"}]
     $ sys_lm_menu_sound = {"hover": "sound/Effect Sound/System - choose.ogg", "click": "sound/Effect Sound/System - click.ogg"}
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0.2, 0.2) from _call_lm_menu_380
     $ del sys_lm_menu_item
