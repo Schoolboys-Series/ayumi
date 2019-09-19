@@ -24,7 +24,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "小钢琴部兼一班班长"
-    new "学級委員·プチピアノ部"
+    new "学級委員・プチピアノ部"
 
     # content\character_full_info.rpy:18
     old "比基尼"
@@ -72,7 +72,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "小钢琴部兼二班班长"
-    new "学級委員·プチピアノ部"
+    new "学級委員・プチピアノ部"
 
     # content\character_full_info.rpy:18
     old "三角裤"
@@ -136,7 +136,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "篮球部兼二班体育委员"
-    new "バスケ部·体育委員"
+    new "バスケ部・体育委員"
 
     # content\character_full_info.rpy:18
     old "非常强势、有点不良感的少年。\n超喜欢动物，所以悄悄收留了\n在学校里迷路的小狗。对一之濑翼\n非常不友好，但这有原因，并不是\n讨厌。也因为这种极佳的照料水平\n受到低年级某些学生的仰慕。"
@@ -212,11 +212,11 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "喜欢说关西腔的活泼孩子。\n人如其名，怕狗怕水怕木天蓼。\n虽然在御咲学园却喜欢女人，\n曾向附近的御咲女学院的学生搭讪收获好人卡。\n很怕慎太郎，因为对方试图把自己弄弯。\n不知为何觉得作哉喜欢友。"
-    new "関西弁が強い、よく喋る明るい子。\n名は体を表すで、犬·水（プール）·マタタビが\n大の苦手。御咲学園では珍しい女好きで、\n近くの女子校の生徒をナンバする度に\n玉碎している。『男同士の世界』へ引きずり\nこもうとする慎太郎に怯えている。\n何故か作哉が友を好きだと勘違いしている。"
+    new "関西弁が強い、よく喋る明るい子。\n名は体を表すで、犬・水（プール）・マタタビが\n大の苦手。御咲学園では珍しい女好きで、\n近くの女子校の生徒をナンバする度に\n玉碎している。『男同士の世界』へ引きずり\nこもうとする慎太郎に怯えている。\n何故か作哉が友を好きだと勘違いしている。"
 
     # content\character_full_info.rpy:18
     old "喜欢说关西腔的活泼孩子。\n人如其名，怕狗怕水怕木天蓼。\n虽然在御咲学园却喜欢女人，\n曾向附近的御咲女学院的学生搭讪收获好人卡。\n{color=#FF0000}{s}很怕慎太郎{/s}{/color}，因为对方试图把自己弄弯。\n不知为何觉得作哉喜欢友。"
-    new "関西弁が強い、よく喋る明るい子。\n名は体を表すで、犬·水（プール）·マタタビが\n大の苦手。御咲学園では珍しい女好きで、\n近くの女子校の生徒をナンバする度に\n玉碎している。『男同士の世界』へ引きずり\nこもうと{color=#FF0000}{s}する慎太郎に怯えている{/s}{/color}。\n何故か作哉が友を好きだと勘違いしている。"
+    new "関西弁が強い、よく喋る明るい子。\n名は体を表すで、犬・水（プール）・マタタビが\n大の苦手。御咲学園では珍しい女好きで、\n近くの女子校の生徒をナンバする度に\n玉碎している。『男同士の世界』へ引きずり\nこもうと{color=#FF0000}{s}する慎太郎に怯えている{/s}{/color}。\n何故か作哉が友を好きだと勘違いしている。"
 
     # content\character_full_info.rpy:18
     old "追加：终于意识到自己的感情\n开始和慎太郎交往了"
@@ -260,7 +260,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "四朗的好朋友，喜欢恶作剧。\n说话经常带嘲讽语气。\n喜欢冒险，喜欢探索，所以夏天和\n四朗一起去爬银刚山。本该是\n很高兴的事，但从那之后身体\n经常变得很奇怪。"
-    new "四朗の友達。イタズラ好き。\nおっとりとした口調で話すのが特徴。\n冒険·探索することが趣味で\n夏休みに四朗を連れて\n『銀剛山（ぎんごうざん）』に登った。\n楽しい思い出となるハズが、その日から\n自分の身体に、異常がみえ始める。"
+    new "四朗の友達。イタズラ好き。\nおっとりとした口調で話すのが特徴。\n冒険・探索することが趣味で\n夏休みに四朗を連れて\n『銀剛山（ぎんごうざん）』に登った。\n楽しい思い出となるハズが、その日から\n自分の身体に、異常がみえ始める。"
 
     # content\character_full_info.rpy:18
     old "十个月左右"
@@ -328,11 +328,11 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "作哉·三朗·木村所在的双低\n（智商、情商）集团唯一的良心。\n单恋木村许久，一直在因为对方有恋人\n而烦恼要不要放弃。按摩很拿手。"
-    new "作哉·三朗·木村の所属する\nDQNグループの唯一の良心。\n木村のことが好きだけど、\n相手に恋人がいるので諦めたいが、\n諦めてきれずに悶々とした日々を\n過ごしている。\nマッサージがすごく上手い。"
+    new "作哉・三朗・木村の所属する\nDQNグループの唯一の良心。\n木村のことが好きだけど、\n相手に恋人がいるので諦めたいが、\n諦めてきれずに悶々とした日々を\n過ごしている。\nマッサージがすごく上手い。"
 
     # content\character_full_info.rpy:18
     old "作哉·三朗·木村所在的双低\n（智商、情商）集团唯一的良心。\n单恋木村许久，{color=#FF0000}{s}一直在因为对方有恋人\n而烦恼要不要放弃{/s}{/color}。按摩很拿手。"
-    new "作哉·三朗·木村の所属する\nDQNグループの唯一の良心。\n木村のことが好きだけど、\n{color=#FF0000}{s}相手に恋人がいるので諦めたいが、\n諦めてきれずに悶々とした日々を{/s}{/color}\n過ごしている。\nマッサージがすごく上手い。"
+    new "作哉・三朗・木村の所属する\nDQNグループの唯一の良心。\n木村のことが好きだけど、\n{color=#FF0000}{s}相手に恋人がいるので諦めたいが、\n諦めてきれずに悶々とした日々を{/s}{/color}\n過ごしている。\nマッサージがすごく上手い。"
 
     # content\character_full_info.rpy:18
     old "追加：终于结束单恋和木村顺利交往了"
@@ -380,7 +380,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "棒球部兼一班体育委员"
-    new "野球部·体育委員"
+    new "野球部・体育委員"
 
     # content\character_full_info.rpy:18
     old "元气满满的体育系男生！\n也完全不介意光膀子！\n成绩差到和友一个程度。\n放学后有时会和同学一起在\n商店街比谁吃得多。\n喜欢的类型是年上肌肉男！？"
@@ -396,7 +396,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "篮球部兼一班音乐委员"
-    new "バスケ部·音楽委員"
+    new "バスケ部・音楽委員"
 
     # content\character_full_info.rpy:18
     old "很有大人的样子，看起来像不良，\n其实很认真很喜欢照顾人。\n经常带着打火机，但只是为了\n掩盖拿了哥哥的烟的事实。\n觉得作哉很可爱。"
@@ -424,7 +424,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "吹奏乐部兼二班音乐委员"
-    new "吹奏楽部·音楽委員"
+    new "吹奏楽部・音楽委員"
 
     # content\character_full_info.rpy:18
     old "看着老实，实则闹腾，喜欢古典\n音乐，经常炫耀自己精通这个。\n进入御咲学园似乎是为了加入\n很强的吹奏乐部。\n似乎在部内有在意的前辈，\n但本人极力否认。"
@@ -484,7 +484,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "轻浮性格。在和之前的恋人分手后，\n某天拾到了相性不错的大叔，\n开始了调教之旅。\n和清关系不错。"
-    new "チャラチャラとした性格。\n前に付き合っていた恋人とは\nすぐに別れてしまったが、\nついこの間、相性の合うおじさんを\n拾うとこができ、満足している。\n清と仲良し。"
+    new "チャラチャラとした性格。\n前に付き合っていた恋人とは\nすぐに別れてしまったが、\nついこの間、相性の合うおじさんを\n拾うことができ、満足している。\n清と仲良し。"
 
     # content\character_full_info.rpy:18
     old "中学三年级"
@@ -532,15 +532,15 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "足球部兼魔法师"
-    new "サッカー部·魔術師"
+    new "サッカー部・魔術師"
 
     # content\character_full_info.rpy:18
     old "四角裤或比基尼"
-    new "ビキニ·トランクス"
+    new "ビキニ・トランクス"
 
     # content\character_full_info.rpy:18
     old "被师父认可才能后作为正义的\n魔法师守护着城市的和平。\n因为不愿学习，初级魔法都\n用不好。一直在和企图征服世界\n的Wolf's的朔进行工口战斗，打着\n打着就喜欢上对方了。"
-    new "魔術師の師匠に才能を見出され、\n正義の見習い魔術師として\n街の平和を守ている。\nちょいと勉強不足で、未だに\n初級魔法しか習得できていない。\n世界征服を企むウルフズの『朔』とは\n敵対関係だが、エロエロな戦いの末に、\nいつしかガチの恋心を抱いてしまう。"
+    new "魔術師の師匠に才能を見出され、\n正義の見習い魔術師として\n街の平和を守っている。\nちょいと勉強不足で、未だに\n初級魔法しか習得できていない。\n世界征服を企むウルフズの『朔』とは\n敵対関係だが、エロエロな戦いの末に、\nいつしかガチの恋心を抱いてしまう。"
 
     # content\character_full_info.rpy:18
     old "46kg"
@@ -552,7 +552,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "足球部兼英雄"
-    new "サッカー部·ヒーロー"
+    new "サッカー部・ヒーロー"
 
     # content\character_full_info.rpy:18
     old "和魔法师夕阳一起守护城市的\n正义的英雄，特技是GYMNO BEAM。\n恋人是过去战斗过并打倒的\n章鱼章鱼星人。似乎在不为人知\n的地方会做这样那样的事？"
@@ -668,7 +668,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:18
     old "放学后总是和南在公园玩的活泼\n的男孩子，也经常和友、慎太郎、\n空、散歩中的作哉玩。最近迷上了\n老游戏。本人言：每当看到南时\n心跳就会不自觉加快……"
-    new "学校おわりに、いつも公園で\n南と遊んでいる元気いっばいな男の子。\n慎太郎·友·空、そして散歩途中の作哉に\nよく遊んでもらっている。\n最近、レトロゲームにはまっているとか。\n本人曰く、南を見てるとたまに\nドキドキってよくわからないい気持ちに\nなるらしい……❤"
+    new "学校おわりに、いつも公園で\n南と遊んでいる元気いっばいな男の子。\n慎太郎・友・空、そして散歩途中の作哉に\nよく遊んでもらっている。\n最近、レトロゲームにはまっているとか。\n本人曰く、南を見てるとたまに\nドキドキってよくわからないい気持ちに\nなるらしい……❤"
 
     # content\character_full_info.rpy:18
     old "132cm"
@@ -912,7 +912,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:864
     old "委托《抓捕三朗》"
-    new "クエスト《三朗を捕まえ》"
+    new "クエスト《三朗を捕まえろ》"
 
     # content\character_full_info.rpy:864
     old "委托《翼的守护神？》"
@@ -944,7 +944,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:864
     old "委托《与此世之恶交战的少年们》"
-    new "クエスト《この世の全ての悪と戦いる少年たち》"
+    new "クエスト《この世の全ての悪と戦う少年たち》"
 
     # content\character_full_info.rpy:864
     old "委托《木村讨论会 下》"
@@ -952,7 +952,7 @@ translate japanese strings:
 
     # content\character_full_info.rpy:864
     old "委托《饲育系未来计划》"
-    new "クエスト《飼育系の未来計画》"
+    new "クエスト《飼育係の未来計画》"
 
     # content\character_full_info.rpy:864
     old "委托《前进》"
