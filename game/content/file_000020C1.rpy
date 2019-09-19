@@ -3,50 +3,98 @@
 # From LiveMaker Scene: 000020C1 (小林翻歌牌)
 
 define karuta_sentence_list = [
-    _("『{color=#FF0000}滑{/color}子老师是 直的不能再直的 家庭顶梁柱』"),
-    _("『{color=#FF0000}半{/color}夜昏暗暗 却从未知少年处 收到了问询』"),
-    _("『{color=#FF0000}坐{/color}立难安时 就一定要这么做 拿起电摩君』"),
-    _("『{color=#FF0000}期{/color}待写头条 追寻梦幻与真实 寻找大新闻』"),
-    _("『{color=#FF0000}小{/color}心这么做 一个不好就会被 其他人撞到』"),
-    _("『{color=#FF0000}什{/color}么是道路 无视就好来散步 小翼不迷路』"),
-    _("『{color=#FF0000}想{/color}不想知晓 让我来教你就好 姿势要提高』"),
-    _("『{color=#FF0000}一{/color}之濑翼君 有时突然变病娇 恋爱的烦恼』"),
-    _("『{color=#FF0000}据{/color}传花乃汤 一周里的某一天 非常之热闹』"),
-    _("『{color=#FF0000}猫{/color}山两兄弟 如果闻了木天蓼 倒地起不了』"),
-    _("『{color=#FF0000}觉{/color}得是不良 其实只是在装样 反正也不小』"),
-    _("『{color=#FF0000}做{/color}饭小能手 锅碗瓢盆加汤勺 爆炸威力高』"),
-    _("『{color=#FF0000}总{/color}共两根毛 再看今天的表情 变换不安宁』"),
-    _("『{color=#FF0000}魔{/color}法师夕阳 一直都和触手斗 总是被吃透』"),
-    _("『{color=#FF0000}早{/color}被迷住的 社团训练的经理 今天也亲密』"),
-    _("『{color=#FF0000}就{/color}算是英雄 男人全都受不了 快乐也没跑』"),
-    _("『{color=#FF0000}动{/color}不动斗嘴 一边疑似是不良 一边优等生』"),
-    _("『{color=#FF0000}加{/color}藤酱所曰 喜欢的人的年龄 或许非常高』"),
-    _("『{color=#FF0000}居{/color}然要迟到 快快叫九尾帮忙 瞬间到学校』"),
-    _("『{color=#FF0000}于{/color}远处等待 只要他一直幸福 那便都安好』"),
-    _("『{color=#FF0000}铁{/color}拳的制裁 单纯理由当然有 仅仅为朋友』"),
-    _("『{color=#FF0000}所{/color}谓的变态 稍微给尝点甜头 马上服帖帖』"),
-    _("『{color=#FF0000}逐{/color}渐变温暖 正因为如此感觉 一把揽入怀』"),
-    _("『{color=#FF0000}学{/color}校音乐室 放学后只想和你 两个人一起』"),
-    _("『{color=#FF0000}看{/color}似是糖球 吃下去就能抵达 梦想的世界』"),
-    _("『{color=#FF0000}痛{/color}苦不安时 陪在身边的就是 最好的朋友』"),
-    _("『{color=#FF0000}憧{/color}憬着前辈 清廉正直的目光 星星般闪耀』"),
-    _("『{color=#FF0000}只{/color}有这个呐 观察少年的日常 每天都见涨』"),
-    _("『{color=#FF0000}本{/color}来是敌人 何时才能得实现 这股恋爱心』"),
-    _("『{color=#FF0000}机{/color}智如光君 煽动前辈的好手 效果还真有』"),
-    _("『{color=#FF0000}得{/color}道终成仙 超越一切的快感 终成大贤者』"),
-    _("『{color=#FF0000}又{/color}叕要拌嘴 传达一切想法的 超发球攻击』"),
-    _("『{color=#FF0000}按{/color}摩超拿手 不过特别菜单是 某个人独有』"),
-    _("『{color=#FF0000}可{/color}爱小熊猫 作者两人立字据 大家要去吸』"),
-    _("『{color=#FF0000}自{/color}从那天起 学院生活成为了 仅有的一切』"),
-    _("『{color=#FF0000}背{/color}着双肩包 还被画到漫画里 工口意义上』"),
-    _("『{color=#FF0000}九{/color}尾大人呀 为何喜欢类型是 肌肉型的呐』"),
-    _("『{color=#FF0000}变{/color}成露出狂 即便如此也要做 上啊野球拳』"),
-    _("『{color=#FF0000}黑{/color}色比基尼 魅惑人心小三角 来吧来裸聊』"),
-    _("『{color=#FF0000}不{/color}分攻和受 不用多说交出来 全交给慎酱』"),
-    _("『{color=#FF0000}传{/color}统兜裆布 身体心灵都看来 威风加帅气』"),
-    _("『{color=#FF0000}大{/color}量下流梗 如同潮水一般来 这是直播哟』"),
-    _("『{color=#FF0000}喝{/color}酒到天亮 本来醉酒这件事 仅大人才好』"),
-    _("『{color=#FF0000}那{/color}个组织的 威风凛凛美男子 原来是兄弟』"),
+    {"content":_("『{color=#FF0000}滑{/color}子老师是 直的不能再直的 家庭顶梁柱』")},
+    {"content":_("『{color=#FF0000}半{/color}夜昏暗暗 却从未知少年处 收到了问询』")},
+    {"content":_("『{color=#FF0000}坐{/color}立难安时 就一定要这么做 拿起电摩君』")},
+    {"content":_("『{color=#FF0000}期{/color}待写头条 追寻梦幻与真实 寻找大新闻』")},
+    {"content":_("『{color=#FF0000}小{/color}心这么做 一个不好就会被 其他人撞到』")},
+    {"content":_("『{color=#FF0000}什{/color}么是道路 无视就好来散步 小翼不迷路』")},
+    {"content":_("『{color=#FF0000}想{/color}不想知晓 让我来教你就好 姿势要提高』")},
+    {"content":_("『{color=#FF0000}一{/color}之濑翼君 有时突然变病娇 恋爱的烦恼』")},
+    {"content":_("『{color=#FF0000}据{/color}传花乃汤 一周里的某一天 非常之热闹』")},
+    {"content":_("『{color=#FF0000}猫{/color}山两兄弟 如果闻了木天蓼 倒地起不了』")},
+    {"content":_("『{color=#FF0000}觉{/color}得是不良 其实只是在装样 反正也不小』")},
+    {"content":_("『{color=#FF0000}做{/color}饭小能手 锅碗瓢盆加汤勺 爆炸威力高』")},
+    {"content":_("『{color=#FF0000}总{/color}共两根毛 再看今天的表情 变换不安宁』")},
+    {"content":_("『{color=#FF0000}魔{/color}法师夕阳 一直都和触手斗 总是被吃透』")},
+    {"content":_("『{color=#FF0000}早{/color}被迷住的 社团训练的经理 今天也亲密』")},
+    {"content":_("『{color=#FF0000}就{/color}算是英雄 男人全都受不了 快乐也没跑』")},
+    {"content":_("『{color=#FF0000}动{/color}不动斗嘴 一边疑似是不良 一边优等生』")},
+    {"content":_("『{color=#FF0000}加{/color}藤酱所曰 喜欢的人的年龄 或许非常高』")},
+    {"content":_("『{color=#FF0000}居{/color}然要迟到 快快叫九尾帮忙 瞬间到学校』")},
+    {"content":_("『{color=#FF0000}于{/color}远处等待 只要他一直幸福 那便都安好』")},
+    {"content":_("『{color=#FF0000}铁{/color}拳的制裁 单纯理由当然有 仅仅为朋友』")},
+    {"content":_("『{color=#FF0000}所{/color}谓的变态 稍微给尝点甜头 马上服帖帖』")},
+    {"content":_("『{color=#FF0000}逐{/color}渐变温暖 正因为如此感觉 一把揽入怀』")},
+    {"content":_("『{color=#FF0000}学{/color}校音乐室 放学后只想和你 两个人一起』")},
+    {"content":_("『{color=#FF0000}看{/color}似是糖球 吃下去就能抵达 梦想的世界』")},
+    {"content":_("『{color=#FF0000}痛{/color}苦不安时 陪在身边的就是 最好的朋友』")},
+    {"content":_("『{color=#FF0000}憧{/color}憬着前辈 清廉正直的目光 星星般闪耀』")},
+    {"content":_("『{color=#FF0000}只{/color}有这个呐 观察少年的日常 每天都见涨』")},
+    {"content":_("『{color=#FF0000}本{/color}来是敌人 何时才能得实现 这股恋爱心』")},
+    {"content":_("『{color=#FF0000}机{/color}智如光君 煽动前辈的好手 效果还真有』")},
+    {"content":_("『{color=#FF0000}得{/color}道终成仙 超越一切的快感 终成大贤者』")},
+    {"content":_("『{color=#FF0000}又{/color}叕要拌嘴 传达一切想法的 超发球攻击』")},
+    {"content":_("『{color=#FF0000}按{/color}摩超拿手 不过特别菜单是 某个人独有』")},
+    {"content":_("『{color=#FF0000}可{/color}爱小熊猫 作者两人立字据 大家要去吸』")},
+    {"content":_("『{color=#FF0000}自{/color}从那天起 学院生活成为了 仅有的一切』")},
+    {"content":_("『{color=#FF0000}背{/color}着双肩包 还被画到漫画里 工口意义上』")},
+    {"content":_("『{color=#FF0000}九{/color}尾大人呀 为何喜欢类型是 肌肉型的呐』")},
+    {"content":_("『{color=#FF0000}变{/color}成露出狂 即便如此也要做 上啊野球拳』")},
+    {"content":_("『{color=#FF0000}黑{/color}色比基尼 魅惑人心小三角 来吧来裸聊』")},
+    {"content":_("『{color=#FF0000}不{/color}分攻和受 不用多说交出来 全交给慎酱』")},
+    {"content":_("『{color=#FF0000}传{/color}统兜裆布 身体心灵都看来 威风加帅气』")},
+    {"content":_("『{color=#FF0000}大{/color}量下流梗 如同潮水一般来 这是直播哟』")},
+    {"content":_("『{color=#FF0000}喝{/color}酒到天亮 本来醉酒这件事 仅大人才好』")},
+    {"content":_("『{color=#FF0000}那{/color}个组织的 威风凛凛美男子 原来是兄弟』")}
+]
+
+# Sorted by あいうえお順
+define sorted_karuta_list = [
+    {"view_id": 24},
+    {"view_id": 7},
+    {"view_id": 43},
+    {"view_id": 34},
+    {"view_id": 23},
+    {"view_id": 17},
+    {"view_id": 36},
+    {"view_id": 38},
+    {"view_id": 31},
+    {"view_id": 28},
+    {"view_id": 29},
+    {"view_id": 41},
+    {"view_id": 3},
+    {"view_id": 26},
+    {"view_id": 4},
+    {"view_id": 39},
+    {"view_id": 18},
+    {"view_id": 25},
+    {"view_id": 20},
+    {"view_id": 19},
+    {"view_id": 0},
+    {"view_id": 12},
+    {"view_id": 22},
+    {"view_id": 9},
+    {"view_id": 42},
+    {"view_id": 8},
+    {"view_id": 15},
+    {"view_id": 40},
+    {"view_id": 21},
+    {"view_id": 14},
+    {"view_id": 32},
+    {"view_id": 6},
+    {"view_id": 2},
+    {"view_id": 16},
+    {"view_id": 30},
+    {"view_id": 27},
+    {"view_id": 13},
+    {"view_id": 1},
+    {"view_id": 35},
+    {"view_id": 11},
+    {"view_id": 5},
+    {"view_id": 33},
+    {"view_id": 37},
+    {"view_id": 10}
 ]
 
 label block_000020C2:
@@ -99,6 +147,7 @@ label karuta_viewmode:
 screen karuta_view_screen:
     default view_title = _("可以看拿到的歌牌哦")
     default karuta_showing_id = -1
+        
     vpgrid:
         style "karuta_view_screen_viewport"
         cols 4
@@ -106,14 +155,14 @@ screen karuta_view_screen:
         draggable True
         mousewheel True
         scrollbars None
-        for index, card in enumerate(karuta_sentence_list):
-            if GKarutaStage[index] == True:
+        for index, card in enumerate(sorted_karuta_list):
+            if GKarutaStage[card["view_id"]] == True:
                 imagebutton at karuta_view_screen_image(0.2):
-                    idle "images/Games/Karuta-game-from-Kobayashi/Card/" + str(index + 1) + ".png"
+                    idle "images/Games/Karuta-game-from-Kobayashi/Card/" + str(card["view_id"] + 1) + ".png"
                     action [
                         Play("effect", "sound/Effect Sound/Paper 1.ogg"),
-                        SetScreenVariable("karuta_showing_id", index),
-                        SetScreenVariable("view_title", karuta_sentence_list[index])
+                        SetScreenVariable("karuta_showing_id", card["view_id"]),
+                        SetScreenVariable("view_title", karuta_sentence_list[card["view_id"]]["content"])
                     ]
             else:
                 add "images/Games/Karuta-game-from-Kobayashi/Cover.png" at karuta_view_screen_image(0.5962)
@@ -316,7 +365,7 @@ label karuta_start:
                 if karuta_card_available[karuta_current_index] == True:
                     break
         hide screen karuta_minami_word
-        show screen karuta_minami_word(karuta_sentence_list[karuta_card_list[karuta_current_index]])
+        show screen karuta_minami_word(karuta_sentence_list[karuta_card_list[karuta_current_index]]["content"])
         call screen karuta_selector(karuta_card_available, (Random(3626) + 1375) / float(1000))
         if _return == -1: # 没有选择（超时）
             $ LoseCount += 1
