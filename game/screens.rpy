@@ -685,7 +685,7 @@ screen main_menu():
                     hover "gui/menu/music hover.png"
                     action Start("soundtrack_prepare")
             else:
-                text _("音乐鉴赏") style "main_menu_right_action_panel_text_muted"
+                text "???" style "main_menu_right_action_panel_text_muted"
                 imagebutton at main_menu_right_action_panel_image_button:
                     idle "gui/menu/music muted.png"
         hbox:
@@ -698,10 +698,10 @@ screen main_menu():
                     hover "gui/menu/theater hover.png"
                     action Start("theater_prepare")
             else:
-                text _("场景回想") style "main_menu_right_action_panel_text_muted"
+                text "???" style "main_menu_right_action_panel_text_muted"
                 imagebutton at main_menu_right_action_panel_image_button:
                     idle "gui/menu/theater muted.png"
-    text "© 2016 - 2018\n  Kiriya·Kasasagi/2eme Gymnopédie\n  Lundarl Gholoi/GILESFVK ËKITES\n  Version [config.version!t]" at main_menu_text
+    text "© 2016 - 2019\n  Kiriya·Kasasagi/2eme Gymnopédie\n  Lundarl Gholoi/GILESFVK ËKITES\n  Version [config.version!t]" at main_menu_text
 
 transform main_menu_intro_animation_background:
     xalign 0.5
