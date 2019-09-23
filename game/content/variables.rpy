@@ -11,6 +11,9 @@ init python:
         persistent.GClickWarningShown = False
     if persistent.SYSMusicAvailable == None:
         persistent.SYSMusicAvailable = False
+    if persistent.FirstChooseLanguage == None:
+        persistent.FirstChooseLanguage = False
+    FirstChooseLanguage = False
     SYSReviewMode = False
     SYSTheaterState = 0
     IsCaveMemoAvailable = False
