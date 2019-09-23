@@ -676,19 +676,6 @@ screen main_menu():
                 hover "gui/menu/gallery hover.png"
                 action ShowMenu("gallery")
         hbox:
-            if persistent.SYSMusicAvailable:
-                textbutton _("音乐鉴赏"):
-                    style "main_menu_right_action_panel_text_button"
-                    action Start("soundtrack_prepare")
-                imagebutton at main_menu_right_action_panel_image_button:
-                    idle "gui/menu/music.png"
-                    hover "gui/menu/music hover.png"
-                    action Start("soundtrack_prepare")
-            else:
-                text "???" style "main_menu_right_action_panel_text_muted"
-                imagebutton at main_menu_right_action_panel_image_button:
-                    idle "gui/menu/music muted.png"
-        hbox:
             if persistent.SystemStoryCache[17]:
                 textbutton _("场景回想"):
                     style "main_menu_right_action_panel_text_button"
@@ -701,6 +688,19 @@ screen main_menu():
                 text "???" style "main_menu_right_action_panel_text_muted"
                 imagebutton at main_menu_right_action_panel_image_button:
                     idle "gui/menu/theater muted.png"
+        hbox:
+            if persistent.SYSMusicAvailable:
+                textbutton _("音乐鉴赏"):
+                    style "main_menu_right_action_panel_text_button"
+                    action Start("soundtrack_prepare")
+                imagebutton at main_menu_right_action_panel_image_button:
+                    idle "gui/menu/music.png"
+                    hover "gui/menu/music hover.png"
+                    action Start("soundtrack_prepare")
+            else:
+                text "???" style "main_menu_right_action_panel_text_muted"
+                imagebutton at main_menu_right_action_panel_image_button:
+                    idle "gui/menu/music muted.png"
     text "© 2016 - 2019\n  Kiriya·Kasasagi/2eme Gymnopédie\n  Lundarl Gholoi/GILESFVK ËKITES\n  Version [config.version!t]" at main_menu_text
 
 transform main_menu_intro_animation_background:

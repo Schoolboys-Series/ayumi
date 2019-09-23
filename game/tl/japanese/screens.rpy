@@ -77,13 +77,13 @@ translate japanese strings:
     old "事件画廊"
     new "CGモード"
 
-    # screens.rpy:565
-    old "音乐鉴赏"
-    new "ミュージック"
-
     # screens.rpy:567
     old "场景回想"
     new "回想モード"
+
+    # screens.rpy:565
+    old "音乐鉴赏"
+    new "ミュージック"
 
     # screens.rpy:572
     old "关于本作"
