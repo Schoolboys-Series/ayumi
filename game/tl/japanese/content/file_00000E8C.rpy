@@ -85,7 +85,7 @@ translate japanese block_0000108F_8e818727:
     rs_character_BE51324BF3994D6DAC0D39E0AF888D1E "空が最近冷たい。\nお兄ちゃんは悲しい。"
 
 # game/content/file_00000E8C.rpy:505
-translate japanese block_00000EBC_5db32ac8:
+translate japanese block_00000EBC_02383d08:
 
     # rs_character_EA9AA88E88D84B559B925363E2931756 "诶？穗海喜欢的东西？\n"
     rs_character_EA9AA88E88D84B559B925363E2931756 "え？穂海の欲しそうな物？\n"
@@ -823,13 +823,3 @@ translate japanese strings:
     # content\file_00000E8C.rpy:2144
     old "明显不行"
     new "参考にしない"
-
-
-# TODO: Translation updated at 2019-08-23 02:59
-
-# game/content/file_00000E8C.rpy:505
-translate japanese block_00000EBC_02383d08:
-
-    # rs_character_EA9AA88E88D84B559B925363E2931756 "诶？穗海喜欢的东西？\n"
-    rs_character_EA9AA88E88D84B559B925363E2931756 ""
-
