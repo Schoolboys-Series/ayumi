@@ -95,34 +95,11 @@ label block_00003CA1:
             { "name": _("见鬼了 1"), "path": "sound/BGM/Monster 1.ogg" },
             { "name": _("见鬼了 2"), "path": "sound/BGM/Monster 2.ogg" },
             { "name": _("朔的洞窟"), "path": "sound/BGM/Nori cave.ogg" },
-            { "name": _("悠长的时间"), "path": "sound/BGM/Slowly time.ogg" },
             { "name": _("无语的想法"), "path": "sound/BGM/Strange idea.ogg" },
             { "name": _("友的房间"), "path": "sound/BGM/Tomo's room.ogg" }
         ]
     }, {
-        "name": _("主题曲"),
-        "item": [
-            { "name": _("Don't be afraid!!"), "path": "sound/BGM/Theme/Schoolboys Theme - Dont be afraid!!.ogg" },
-            { "name": _("Don't be afraid!! （伴奏）"), "path": "sound/BGM/Theme/Schoolboys Theme - Dont be afraid!! (Instrument).ogg" },
-            { "name": _("愛を賭けて"), "path": "sound/BGM/Theme/Schoolboys Theme - Bet of Love.ogg" },
-            { "name": _("第一章节"), "path": "sound/BGM/Chapter 1.ogg" },
-            { "name": _("第二章节"), "path": "sound/BGM/Chapter 2.ogg" },
-            { "name": _("第三章节"), "path": "sound/BGM/Chapter 3.ogg" },
-            { "name": _("学园活动"), "path": "sound/BGM/Celemony.ogg" },
-            { "name": _("赤峰兄弟的训练"), "path": "sound/BGM/Series - Akamine brothers.ogg" },
-            { "name": _("起点"), "path": "sound/BGM/Start scene.ogg" },
-            { "name": _("充满朝气的夕阳下"), "path": "sound/BGM/Lively twilight.ogg" },
-            { "name": _("英雄登场"), "path": "sound/BGM/Stage of HERO.ogg" },
-            { "name": _("英雄末路"), "path": "sound/BGM/Drama.ogg" },
-            { "name": _("御咲花车祭！"), "path": "sound/BGM/Drum.ogg" },
-            { "name": _("漫才开始"), "path": "sound/BGM/Manzai.ogg" },
-            { "name": _("天使与恶魔"), "path": "sound/BGM/Angel and Demon.ogg" },
-            { "name": _("Ailurus fulgens"), "path": "sound/BGM/Ailurus fulgens.ogg" },
-            { "name": _("寂静之夜"), "path": "sound/BGM/Night.ogg" },
-            { "name": _("宝物~卒業の春~"), "path": "sound/BGM/Treasure-Spring-of-Graduate.ogg" }
-        ]
-    }, {
-        "name": _("事件曲"),
+        "name": _("背景曲2"),
         "item": [
             { "name": _("平和的午后"), "path": "sound/BGM/Afternoon.ogg" },
             { "name": _("敌人来袭"), "path": "sound/BGM/Battle.ogg" },
@@ -142,24 +119,48 @@ label block_00003CA1:
             { "name": _("无比珍贵的现在"), "path": "sound/BGM/My precious time of now - piano.ogg" }
         ]
     }, {
-        "name": _("印象曲"),
+        "name": _("背景曲3"),
         "item": [
-            { "name": _("赤峰兄弟 1"), "path": "sound/BGM/Theme/Schoolboys Theme - Akamine brothers 1.ogg" },
-            { "name": _("赤峰兄弟 2"), "path": "sound/BGM/Theme/Schoolboys Theme - Akamine brothers 2.ogg" },
-            { "name": _("赤峰兄弟 3"), "path": "sound/BGM/Theme/Schoolboys Theme - Akamine brothers 3.ogg" },
-            { "name": _("九尾 1"), "path": "sound/BGM/Theme/Schoolboys Theme - Kyubi 1.ogg" },
-            { "name": _("九尾 2"), "path": "sound/BGM/Theme/Schoolboys Theme - Kyubi 2.ogg" },
-            { "name": _("九尾 3"), "path": "sound/BGM/Theme/Schoolboys Theme - Kyubi 3.ogg" },
-            { "name": _("木村与伊藤"), "path": "sound/BGM/Theme/Schoolboys Theme - Kimura and Itou.ogg" },
-            { "name": _("猫山三朗"), "path": "sound/BGM/Theme/Schoolboys Theme - Saburo.ogg" },
-            { "name": _("奥村慎太郎"), "path": "sound/BGM/Theme/Schoolboys Theme - Shintaro.ogg" },
-            { "name": _("朔"), "path": "sound/BGM/Theme/Schoolboys Theme - Nori.ogg" },
-            { "name": _("一之濑翼"), "path": "sound/BGM/Theme/Schoolboys Theme - Tsubasa.ogg" },
+            { "name": _("Don't be afraid!!"), "path": "sound/BGM/Theme/Schoolboys Theme - Dont be afraid!!.ogg" },
+            { "name": _("Don't be afraid!! （伴奏）"), "path": "sound/BGM/Theme/Schoolboys Theme - Dont be afraid!! (Instrument).ogg" },
+            { "name": _("愛を賭けて"), "path": "sound/BGM/Theme/Schoolboys Theme - Bet of Love.ogg" },
+            { "name": _("第一章节"), "path": "sound/BGM/Chapter 1.ogg" },
+            { "name": _("第二章节"), "path": "sound/BGM/Chapter 2.ogg" },
+            { "name": _("第三章节"), "path": "sound/BGM/Chapter 3.ogg" },
+            { "name": _("Csikos Post"), "path": "sound/BGM/Celemony.ogg" },
+            { "name": _("Vltava"), "path": "sound/BGM/Slowly time.ogg" },
+            { "name": _("赤峰兄弟的训练"), "path": "sound/BGM/Series - Akamine brothers.ogg" },
+            { "name": _("起点"), "path": "sound/BGM/Start scene.ogg" },
+            { "name": _("充满朝气的夕阳下"), "path": "sound/BGM/Lively twilight.ogg" },
+            { "name": _("英雄登场"), "path": "sound/BGM/Stage of HERO.ogg" },
+            { "name": _("英雄末路"), "path": "sound/BGM/Drama.ogg" },
+            { "name": _("御咲花车祭！"), "path": "sound/BGM/Drum.ogg" },
+            { "name": _("漫才开始"), "path": "sound/BGM/Manzai.ogg" },
+            { "name": _("天使与恶魔"), "path": "sound/BGM/Angel and Demon.ogg" },
+            { "name": _("Ailurus fulgens"), "path": "sound/BGM/Ailurus fulgens.ogg" },
+            { "name": _("寂静之夜"), "path": "sound/BGM/Night.ogg" },
+            { "name": _("宝物~卒業の春~"), "path": "sound/BGM/Treasure-Spring-of-Graduate.ogg" }
+        ]
+    }, {
+        "name": _("主题曲"),
+        "item": [
             { "name": _("森海友 1"), "path": "sound/BGM/Theme/Schoolboys Theme - Tomo 1.ogg" },
             { "name": _("森海友 2"), "path": "sound/BGM/Theme/Schoolboys Theme - Tomo 2.ogg" },
             { "name": _("森海友 3"), "path": "sound/BGM/Theme/Schoolboys Theme - Tomo 3.ogg" },
+            { "name": _("一之濑翼"), "path": "sound/BGM/Theme/Schoolboys Theme - Tsubasa.ogg" },
+            { "name": _("赤峰兄弟 1"), "path": "sound/BGM/Theme/Schoolboys Theme - Akamine brothers 1.ogg" },
+            { "name": _("赤峰兄弟 2"), "path": "sound/BGM/Theme/Schoolboys Theme - Akamine brothers 2.ogg" },
+            { "name": _("赤峰兄弟 3"), "path": "sound/BGM/Theme/Schoolboys Theme - Akamine brothers 3.ogg" },
+            { "name": _("奥村慎太郎"), "path": "sound/BGM/Theme/Schoolboys Theme - Shintaro.ogg" },
+            { "name": _("猫山三朗"), "path": "sound/BGM/Theme/Schoolboys Theme - Saburo.ogg" },
             { "name": _("友和忍"), "path": "sound/BGM/Theme/Schoolboys Theme - Tomo and Shinobu.ogg" },
-            { "name": _("作哉与翼"), "path": "sound/BGM/Theme/Schoolboys Theme - Sakuya and Tsubasa-chan.ogg" }
+            { "name": _("作哉与翼"), "path": "sound/BGM/Theme/Schoolboys Theme - Sakuya and Tsubasa-chan.ogg" },
+            { "name": _("木村与伊藤"), "path": "sound/BGM/Theme/Schoolboys Theme - Kimura and Itou.ogg" },
+            { "name": _("九尾 1"), "path": "sound/BGM/Theme/Schoolboys Theme - Kyubi 1.ogg" },
+            { "name": _("九尾 2"), "path": "sound/BGM/Theme/Schoolboys Theme - Kyubi 2.ogg" },
+            { "name": _("九尾 3"), "path": "sound/BGM/Theme/Schoolboys Theme - Kyubi 3.ogg" },
+            { "name": _("朔"), "path": "sound/BGM/Theme/Schoolboys Theme - Nori.ogg" },
+
         ]
     }, {
         "name": _("钢琴曲"),
