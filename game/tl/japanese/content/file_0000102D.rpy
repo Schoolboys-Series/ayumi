@@ -398,4 +398,4 @@ translate japanese strings:
 
     # content\file_0000102D.rpy:250
     old "太假了，不要"
-    new "ダメダメ"
+    new "いいえ"

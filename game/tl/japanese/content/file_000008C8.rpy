@@ -4305,11 +4305,11 @@ translate japanese strings:
 
     # content\file_000008C8.rpy:378
     old "就是这个"
-    new "これだ！"
+    new "はい"
 
     # content\file_000008C8.rpy:378
     old "太微妙了，算了"
-    new "微妙……"
+    new "いいえ"
 
     # content\file_000008C8.rpy:3327
     old "柔道场外"

@@ -304,11 +304,11 @@ translate japanese strings:
 
     # content\file_00001097.rpy:1859
     old "坐"
-    new "乗る"
+    new "はい"
 
     # content\file_00001097.rpy:1859
     old "不坐"
-    new "乗らない"
+    new "いいえ"
 
     # content\file_00001097.rpy:1923
     old "道路"
