@@ -7610,6 +7610,10 @@ label block_000008E4:
     call lm_menu(sys_lm_menu_item, sys_lm_menu_sound, 0, 0.2, 0.2) from _call_lm_menu_489
     $ del sys_lm_menu_item
     $ del sys_lm_menu_sound
+    
+    # Keep compatibility about TalkKatouExamResult
+    if Not(VarExists("TalkKatouExamResult")):
+        $ TalkKatouExamResult = False
 
     if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"加藤\"" },{ "scope": 1, "content": "C2S2Phase >= 97" },{ "scope": 2, "content": "TalkKatouF2 == 1" }]):
         jump block_00001F48
