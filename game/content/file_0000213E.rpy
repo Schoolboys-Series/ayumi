@@ -75,31 +75,31 @@ label theater_content:
         show rs_image_ED2F27CEEF274CE19761245BE36E9987 as tag_C92191ED858E430FAE8AD5B3F68FC7E6 at center_bottom zorder zorder_tag_C92191ED858E430FAE8AD5B3F68FC7E6 onlayer master
         with rs_effect_351A8A667ECF419EB1A052B06E597A01
         $ story_list = [
-            { "name": _("大家来相扑"), "description": _("震惊！奖金五万！\n但这并不重要\n谁也未曾想到\n竟然会..."), "available": C1S1 or (Chapter == 0 and persistent.SystemStoryCache[0]) },
-            { "name": _("翼的流转音符"), "description": _("突然被滑子老师委托的翼\n他的最大难关不是练习\n而是友..."), "available": C1S2 or (Chapter == 0 and persistent.SystemStoryCache[1]) },
-            { "name": _("寻求刺激·解"), "description": _("新♂世界的大门\n最终还是被缓缓推开..."), "available": C1S3 or (Chapter == 0 and persistent.SystemStoryCache[2]) },
-            { "name": _("不可思议！猫狗物语"), "description": _("就像童话一般\n小翼实现了它的愿望\n这究竟是梦还是现实..."), "available": C1S4 or (Chapter == 0 and persistent.SystemStoryCache[3]) },
-            { "name": _("久远回忆"), "description": _("那时很久很久以前\n从相识开始\n已经变得无可替代..."), "available": C1S5 or (Chapter == 0 and persistent.SystemStoryCache[4]) }]
+            { "name": _("大家来相扑"), "description": _("在准太的提案下决定参加\n相扑大会的一班。\n然而、其中却有一些烦恼…"), "available": C1S1 or (Chapter == 0 and persistent.SystemStoryCache[0]) },
+            { "name": _("翼的流转音符"), "description": _("小钢琴部的初次任务！\n在练习中、翼担任了\n合唱部分……"), "available": C1S2 or (Chapter == 0 and persistent.SystemStoryCache[1]) },
+            { "name": _("寻求刺激·解"), "description": _("在可疑的书店相遇的\n友和三朗。机缘巧合之下、\n友成为了三朗的师父……"), "available": C1S3 or (Chapter == 0 and persistent.SystemStoryCache[2]) },
+            { "name": _("不可思议！猫狗物语"), "description": _("一如既往待在校舍\n后方等待主人的小翼。\n某一天、一个谜之生物\n拜访了此处…？"), "available": C1S4 or (Chapter == 0 and persistent.SystemStoryCache[3]) },
+            { "name": _("久远回忆"), "description": _("这是发生在不太遥远的过去、\n友和忍的回忆……"), "available": C1S5 or (Chapter == 0 and persistent.SystemStoryCache[4]) }]
     elif theater_current_chapter == 2:
         show rs_image_3AF53F7033944613A137682A2375B9CF as tag_C92191ED858E430FAE8AD5B3F68FC7E6 at center_bottom zorder zorder_tag_C92191ED858E430FAE8AD5B3F68FC7E6 onlayer master
         with rs_effect_351A8A667ECF419EB1A052B06E597A01
         $ story_list = [
-            { "name": _("并驶之舟"), "description": _("从无比寂寞到泯然日常\n但正因如此\n一起的时光才会弥足珍贵"), "available": C2S1 or (Chapter == 0 and persistent.SystemStoryCache[5]) },
-            { "name": _("傲娇男孩子的治疗法"), "description": _("并不是第一次\n从熟悉到陌生的变化\n并非无缘无故"), "available": C2S2 or (Chapter == 0 and persistent.SystemStoryCache[6]) },
-            { "name": _("RUN☆RUN☆LOVERS"), "description": _("既然已经单恋许久\n总该有些收获吧\n不过现实就是另一回事了"), "available": C2S3 or (Chapter == 0 and persistent.SystemStoryCache[7]) },
-            { "name": _("我是直的，现无对象"), "description": _("喜欢就是喜欢...\n说是这么说\n有些问题还是得讨论一下"), "available": C2S4 or (Chapter == 0 and persistent.SystemStoryCache[8]) },
-            { "name": _("狐的报恩"), "description": _("这是一个妖怪故事\n开玩笑的\n其实是雪绪的日常"), "available": C2S5 or (Chapter == 0 and persistent.SystemStoryCache[9]) },
-            { "name": _("欢迎来到食人狼之馆"), "description": _("来到洋馆的大家\n以及夕阳和守\n居然会碰到离奇失踪案..."), "available": C2S6 or (Chapter == 0 and persistent.SystemStoryCache[10]) }]
+            { "name": _("并驶之舟"), "description": _("将来决定走上\n不同道路的月和空。\n两人逐渐产生了\n些许变化……"), "available": C2S1 or (Chapter == 0 and persistent.SystemStoryCache[5]) },
+            { "name": _("傲娇男孩子的治疗法"), "description": _("为了帮助翼和作哉\n改善关系、\n在友的计划下两人要去\n动物园约会…？"), "available": C2S2 or (Chapter == 0 and persistent.SystemStoryCache[6]) },
+            { "name": _("RUN☆RUN☆LOVERS"), "description": _("树被恋人甩了、\n这个情报传入了圭的耳中…"), "available": C2S3 or (Chapter == 0 and persistent.SystemStoryCache[7]) },
+            { "name": _("我是直的，现无对象"), "description": _("因为某个理由心情\n烦躁的三朗。\n偶然地、遇到了准备\n进行演讲的志…"), "available": C2S4 or (Chapter == 0 and persistent.SystemStoryCache[8]) },
+            { "name": _("狐的报恩"), "description": _("暑假结束后、时不时会丧失\n自我意识的雪绪、\n为了寻找原因前往了\n银纲山…？"), "available": C2S5 or (Chapter == 0 and persistent.SystemStoryCache[9]) },
+            { "name": _("欢迎来到食人狼之馆"), "description": _("友和夕阳奇迹般地抽中了\n孤岛旅行、邀请了朋友们\n一起参加、然而、\n等待他们的却是在暴风雨中\n发生的事件……"), "available": C2S6 or (Chapter == 0 and persistent.SystemStoryCache[10]) }]
     elif theater_current_chapter == 3:
         show rs_image_45ACA217F785495E913FDA91D78465B3 as tag_C92191ED858E430FAE8AD5B3F68FC7E6 at center_bottom zorder zorder_tag_C92191ED858E430FAE8AD5B3F68FC7E6 onlayer master
         with rs_effect_351A8A667ECF419EB1A052B06E597A01
         $ story_list = [
-            { "name": _("异我战纪"), "description": _("保护他人的暴力也是暴力\n既然如此如何才能\n保护重要的人..."), "available": C3S1 or (Chapter == 0 and persistent.SystemStoryCache[11]) },
-            { "name": _("正义的教训"), "description": _("正义和邪恶都是相对的\n大家一定能相互理解\n终有一天能同舟共济"), "available": C3S2 or (Chapter == 0 and persistent.SystemStoryCache[12]) },
-            { "name": _("集合！御咲花车祭"), "description": _("花车祭居然要停办！？\n该如何解决这个危机..."), "available": C3S3 or (Chapter == 0 and persistent.SystemStoryCache[13]) },
-            { "name": _("傲娇男孩子的激效疗"), "description": _("如果能送给一之濑的话\n不...我...\n还是算了吧"), "available": C3S4 or (Chapter == 0 and persistent.SystemStoryCache[14]) },
-            { "name": _("学园怪谈"), "description": _("妖怪盯上了学园！？\n这不是玄幻剧！"), "available": C3S5 or (Chapter == 0 and persistent.SystemStoryCache[15]) },
-            { "name": _("变革进行曲"), "description": _("故事必定有开始和结局\n努力的终点不一定是成功\n但努力的事实不会改变\n做好成长的准备了吗？"), "available": C3S6 or (Chapter == 0 and persistent.SystemStoryCache[16]) }]
+            { "name": _("异我战纪"), "description": _("忍被社团的后辈武一请求\n保护深受跟踪狂困扰的朋友。\n以此为契机、忍对武力的\n使用方法产生了迷茫……"), "available": C3S1 or (Chapter == 0 and persistent.SystemStoryCache[11]) },
+            { "name": _("正义的教训"), "description": _("烦恼着要出什么\n节目的友等人、为了寻找点子\n在街上散步时、谜之英雄出现\n在了他们面前…？"), "available": C3S2 or (Chapter == 0 and persistent.SystemStoryCache[12]) },
+            { "name": _("集合！御咲花车祭"), "description": _("参加者逐年减少的花车祭、\n月、空、慎太郎为了\n增加人数、\n费了一番苦功……"), "available": C3S3 or (Chapter == 0 and persistent.SystemStoryCache[13]) },
+            { "name": _("傲娇男孩子的激效疗"), "description": _("为了从背后推一把纠结着该\n如何把礼物送给翼的作哉、\n三朗制定了某个计划……"), "available": C3S4 or (Chapter == 0 and persistent.SystemStoryCache[14]) },
+            { "name": _("学园怪谈"), "description": _("被鬼怪们困在异空间的\n御咲学生们、为了回到\n原来的世界、\n跟四朗及雪绪一起\n挑战鬼怪……"), "available": C3S5 or (Chapter == 0 and persistent.SystemStoryCache[15]) },
+            { "name": _("变革进行曲"), "description": _("被光邀请、成为了吹奏乐部\n外援的友、在为高强度的\n练习苦恼的同时、\n在同伴们的鼓励下\n每日努力奋斗着……"), "available": C3S6 or (Chapter == 0 and persistent.SystemStoryCache[16]) }]
     
     call screen theater_content_screen(theater_current_chapter, story_list)
 
