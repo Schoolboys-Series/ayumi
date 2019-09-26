@@ -2,7 +2,7 @@ label splashscreen:
 
     # First select language start
     if Not(persistent.FirstChooseLanguage):
-        call scb_selector("", [{"name":"简体中文", "content":"{font=font/zcool-happy-ayumi-extended.ttf}简体中文{/font}"}, {"name":"日本語", "content":"{font=font/honyaji-re.ttf}日本語{/font}"}]) from _call_scb_selector_99
+        call scb_selector("", [{"name":"简体中文", "content":"{font=font/zcool-happy-ayumi-extended.ttf}简体中文{/font}"}, {"name":"日本語", "content":"{font=font/honyaji-re.ttf}日本語{/font}"}], False) from _call_scb_selector_99
         
         if judge_lm_condition([{ "scope": 0, "content": "_lm_selected_value == \"简体中文\"" }]):
             $ renpy.change_language(None)

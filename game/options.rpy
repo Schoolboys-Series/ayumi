@@ -19,7 +19,7 @@ define config.name = _("SCHOOLBOYS! 步")
 define config.version = "2.3.1092.0"
 
 # 2.3.XXXX.X
-# XXXX: 0010    0011    0010
+# XXXX: 0100    0100    0100
 #       场景修订 游戏修订 逻辑修订
 # X: 子修订版本，一般为0
 
