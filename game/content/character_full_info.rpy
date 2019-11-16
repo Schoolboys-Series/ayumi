@@ -555,7 +555,8 @@ init 1000 python:
             "description": _("中山花音的哥哥。和弟弟不同对各种事\n非常无所谓。恋人是排球部的泉。\n偶尔冷战，但一直很重视对方。")
         }, {
             "id": "Yuuhi",
-            "name": _("{size=12}YUUHI{/size}\n夕阳"),
+            "title_name": "{size=8}SUZAKUGAOKAHANAYASHIKI YUUHI{/size}\n{size=18}朱雀丘花屋敷夕阳{/size}",
+            "name": _("{size=12}SUZAKUGAOKAHANAYASHIKI YUUHI{/size}\n{size=50}朱雀丘花屋敷夕阳{/size}"),
             "age": _("中学一年级"),
             "height": _("157cm"),
             "weight": _("50kg"),

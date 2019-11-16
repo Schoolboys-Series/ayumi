@@ -1077,8 +1077,8 @@ translate japanese strings:
     new "{size=12}なかやま　しおん{/size}\n中山　紫音"
 
     # content\character_full_info.rpy:18
-    old "{size=12}YUUHI{/size}\n夕阳"
-    new "ユウヒ"
+    old "{size=8}SUZAKUGAOKAHANAYASHIKI YUUHI{/size}\n{size=18}朱雀丘花屋敷夕阳{/size}"
+    new "{size=8}すざくがおかはなやしき ゆうひ{/size}\n{size=16}朱雀丘花屋敷　ユウヒ{/size}"
 
     # content\character_full_info.rpy:18
     old "{size=12}SEIGI MAMORU{/size}\n世依木守"
@@ -1163,3 +1163,7 @@ translate japanese strings:
     # content\character_full_info.rpy:18
     old "{size=12}BE{/size}\n贝——"
     new "べー"
+
+    # game/content/character_full_info.rpy:18
+    old "{size=12}SUZAKUGAOKAHANAYASHIKI YUUHI{/size}\n{size=50}朱雀丘花屋敷夕阳{/size}"
+    new "{size=12}すざくがおかはなやしき ゆうひ{/size}\n{size=45}朱雀丘花屋敷　ユウヒ{/size}"

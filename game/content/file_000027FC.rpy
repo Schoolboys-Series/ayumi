@@ -7,31 +7,34 @@ screen shintarou_notebook:
         default current_page = 1
         default current_character = None
         add "images/Shintaro-notebook/Background.png"
-        $ character_list = filter(lambda x: x["id"] in [
-            "Tomo", "Shinobu", "Shintarou", "Tsuki", "Sora", "Tsubasa", "Sakuya", "Saburou", "Shirou", "Yukio",
-            "Tsubasa-chan", "Nameko", "Itou", "Kimura", "Katou", "Matsuda", "Izumi",
-            "Sato", "Okajima", "Kojima"], character_full_info)
-        if C3S1 == True:
-            $ character_list.extend(filter(lambda x: x["id"] in ["Kiyo", "Nakayama", "Okajima-senior", "Nakayama-senior"], character_full_info))
-        if Chapter > 1:
-            $ character_list.extend(filter(lambda x: x["id"] in ["Yuuhi", "Nori", "Mamoru"], character_full_info))
-        if C2S6 == True:
-            $ character_list.extend(filter(lambda x: x["id"] in ["Kai", "Tentacle-earthworm", "Tentacle-starfish", "Tour-guide"], character_full_info))
-        if C3S5 == True:
-            $ character_list.extend(filter(lambda x: x["id"] in ["MonsterA", "MonsterB", "MonsterC"], character_full_info))
-        if C2S6 == True or C3S5 == True:
-            $ character_list.extend(filter(lambda x: x["id"]  == "Dark lesser", character_full_info))
-        $ character_list.extend(filter(lambda x: x["id"]  == "Tokiwa", character_full_info))
-        if C1S4 == True:
-            $ character_list.extend(filter(lambda x: x["id"]  == "Tsubasa-chan (Human)", character_full_info))
-        if C1S4 == True or Chapter > 1:
-            $ character_list.extend(filter(lambda x: x["id"]  in ["Kobayashi", "Minami", "Sugimoto", "Rikuta", "Shougintoki"], character_full_info))
-        if C3S1 == True:
-            $ character_list.extend(filter(lambda x: x["id"]  == "Shouhei", character_full_info))
-        if C2S5 == True:
-            $ character_list.extend(filter(lambda x: x["id"]  == "Kyuubi", character_full_info))
-        if C1SG1 and C1SG2 and C2SG1 and C2SG2 and C3SG1 and C3SG2:
-            $ character_list.extend(filter(lambda x: x["id"]  in ["Sakase", "Be--", "He--"], character_full_info))
+        python:
+            character_list = filter(lambda x: x["id"] in [
+                "Tomo", "Shinobu", "Shintarou", "Tsuki", "Sora", "Tsubasa", "Sakuya", "Saburou", "Shirou", "Yukio",
+                "Tsubasa-chan", "Nameko", "Itou", "Kimura", "Katou", "Matsuda", "Izumi",
+                "Sato", "Okajima", "Kojima"], character_full_info)
+            if C3S1 == True:
+                character_list.extend(filter(lambda x: x["id"] in ["Kiyo", "Nakayama", "Okajima-senior", "Nakayama-senior"], character_full_info))
+            if Chapter > 1:
+                character_list.extend(filter(lambda x: x["id"] in ["Yuuhi", "Nori", "Mamoru"], character_full_info))
+            if C2S6 == True:
+                character_list.extend(filter(lambda x: x["id"] in ["Kai", "Tentacle-earthworm", "Tentacle-starfish", "Tour-guide"], character_full_info))
+            if C3S5 == True:
+                character_list.extend(filter(lambda x: x["id"] in ["MonsterA", "MonsterB", "MonsterC"], character_full_info))
+            if C2S6 == True or C3S5 == True:
+                character_list.extend(filter(lambda x: x["id"]  == "Dark lesser", character_full_info))
+            character_list.extend(filter(lambda x: x["id"]  == "Tokiwa", character_full_info))
+            if C1S4 == True:
+                character_list.extend(filter(lambda x: x["id"]  == "Tsubasa-chan (Human)", character_full_info))
+            if C1S4 == True or Chapter > 1:
+                character_list.extend(filter(lambda x: x["id"]  in ["Kobayashi", "Minami", "Sugimoto", "Rikuta", "Shougintoki"], character_full_info))
+            if C3S1 == True:
+                character_list.extend(filter(lambda x: x["id"]  == "Shouhei", character_full_info))
+            if C2S5 == True:
+                character_list.extend(filter(lambda x: x["id"]  == "Kyuubi", character_full_info))
+            if C1SG1 and C1SG2 and C2SG1 and C2SG2 and C3SG1 and C3SG2:
+                character_list.extend(filter(lambda x: x["id"]  in ["Sakase", "Be--", "He--"], character_full_info))
+            for character in character_list:
+                if not "title_name" in character: character["title_name"] = character["name"]
         frame:
             style "shintarou_notebook_character_list"
             has viewport:
@@ -41,7 +44,7 @@ screen shintarou_notebook:
             vbox:
                 null height 20
                 for character in character_list:
-                    textbutton character["name"]:
+                    textbutton character["title_name"]:
                         xpos 30
                         style "shintarou_notebook_character_name"
                         action [Play("menu_effect", "sound/Effect Sound/Paper 1.ogg"), SetScreenVariable("current_character", character)]
