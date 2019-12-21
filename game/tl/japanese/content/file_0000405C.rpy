@@ -228,10 +228,10 @@ translate japanese block_0000410E_13d27c06:
     # rs_character_C223850065F6443080205D1F61C04C98 "好好享受学期末的时间就好。\n第三学期开始后就没有多少余裕了。"
     rs_character_C223850065F6443080205D1F61C04C98 "今この時間をたっぷり楽しもう。\n三学期も色々と忙しいからね。"
 
-# game/content/file_0000405C.rpy:1499
-translate japanese block_00004082_b6425e0e:
+# game/content/file_0000405C.rpy:1495
+translate japanese block_00004082_1a86d9b1:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}私立御咲学园是某县（省）的宝咲市所拥有的\n一所初高中男子校。』{/color}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『御咲学园是位于某县（省）宝咲市的\n一所初高中一贯制私立男子校。』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『御咲（みさき）学園中高等学校。\n某県宝咲（たからさき）市に所在し、\n中高一貫教育を施す私立の男子校である。』{/color}"
 
 # game/content/file_0000405C.rpy:1501
@@ -666,10 +666,10 @@ translate japanese block_000040EF_71d1bfb7:
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯……好关心部长呐。"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "ふーん……立派な心掛けだねえ。"
 
-# game/content/file_0000405C.rpy:2836
-translate japanese block_000040EF_8aa04422:
+# game/content/file_0000405C.rpy:2829
+translate japanese block_000040EF_a4b884cb:
 
-    # extend "啊，这张和床一样大的纸\n是还在写的新闻？放在地上不会被弄坏吗？"
+    # extend "啊，这张放在地上的很大的纸\n是还在写的新闻？放在这里不怕被误踩到吗？"
     extend "あ、床にある大きな紙が\n作りかけの新聞？こんな所に置いて、間違って踏まないの？"
 
 # game/content/file_0000405C.rpy:2849
@@ -696,11 +696,11 @@ translate japanese block_000040EF_c6c975f4:
     # rs_character_41A906D279CA4677A6A2ED8CBE544459 "绝对不许过去啊！过去也要避开走啊！"
     rs_character_41A906D279CA4677A6A2ED8CBE544459 "踏んでくれるなよ！ぜーったいに踏んではならないぞ！"
 
-# game/content/file_0000405C.rpy:2893
-translate japanese block_000040EF_ce22ec87:
+# game/content/file_0000405C.rpy:2886
+translate japanese block_000040EF_9c1f0d93:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "没关系！我发誓要是真的不小心，\n这辈子都娶……\n{w=0.6}{nw}"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "大丈夫！オレ、新聞を踏まずに部室を出たら、結婚……{w=0.6}{nw}\n"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "没关系！不会有事的，我要是没踩\n到新闻就离开部室的话就回老家结婚……\n{w=0.6}{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "大丈夫！オレ、新聞を踏まずに部室を出たら、結婚……\n{w=0.6}{nw}"
 
 # game/content/file_0000405C.rpy:2901
 translate japanese block_000040EF_e3d9a0bf:

@@ -3400,7 +3400,7 @@ label block_000001E8:
     show rs_image_3D1658550AAD4B23B72B22E477CAE581 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "很羞耻的样子果然算了～！\n连帽衫角色就交给翼了～"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "很羞耻的样子果然还是算了～！\n连帽衫角色就交给翼了～"
 
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Ding 1.ogg" noloop
@@ -4179,7 +4179,7 @@ label block_000001D0:
     show rs_image_3D1658550AAD4B23B72B22E477CAE581 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "好厉害——！\n松田亲是篮球部的，排球也会呐！！"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "好厉害——！\n松田亲明明是篮球部的，也会打排球啊！！"
 
     show rs_image_7131112E86B24D6A9BE667868088D590 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     show rs_image_A41E22CFB21F498984105511F0EE3963 as tag_724406A84D7141298EFF0D864FAE1534 zorder zorder_tag_724406A84D7141298EFF0D864FAE1534 onlayer master
@@ -4663,7 +4663,7 @@ label block_00000200:
     show rs_image_3D1658550AAD4B23B72B22E477CAE581 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哇哦♂听起来好刺激！！\n佐藤君不会是因为这个才～！"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哇哦♂听起来好刺激！！\n佐藤君你是故意这么说的吧～！"
 
     show rs_image_7131112E86B24D6A9BE667868088D590 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -7686,7 +7686,7 @@ label block_000001CF:
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "是嘛是嘛！我觉得那样很好啊！"
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "短发的忍总觉得有一种敬畏感，\n就像{color=#008080}蛋糕事件{/color}那时一样呐～{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "短发的忍总觉得很自大啊，\n就像{color=#008080}蛋糕事件{/color}那时一样～{nw}"
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Decision 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Decision 1.ogg"
@@ -9868,7 +9868,7 @@ label block_000024B7:
     show rs_image_0F46590E67454A75B03975CF59479626 as tag_ECFB5B509A334A868686B3435242BF90 at right_top zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    extend "啊，这张和床一样大的纸\n是还在写的新闻？放在地上不会被弄坏吗？"
+    extend "啊，这张放在地上的很大的纸\n是还在写的新闻？放在这里不怕被误踩到吗？"
 
     hide tag_ECFB5B509A334A868686B3435242BF90
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -9925,7 +9925,7 @@ label block_000024B7:
     show rs_image_D3A9686A301549F6B739A77497C158B9 as tag_ECFB5B509A334A868686B3435242BF90 at center_top zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_B70215F4C83E407D8C2CA682FB6965D7
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "没关系！我发誓要是真的不小心，\n这辈子都娶……{w=0.6}{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "没关系！不会有事的，我要是没踩\n到新闻就离开部室的话就回老家结婚……\n{w=0.6}{nw}"
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
@@ -13091,7 +13091,7 @@ label block_00000219:
 
     window show
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}私立御咲学园是某县（省）的宝咲市所拥有的\n一所初高中男子校。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『御咲学园是位于某县（省）宝咲市的\n一所初高中一贯制私立男子校。』{/color}"
 
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『……。\n……。\n重点是，{/color}"
     if True: # Hotfix: Ignore multiplay defenser for effect sound

@@ -1314,10 +1314,10 @@ translate japanese block_000001E8_cae92641:
     # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "……其实我并……可……"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "……でも、僕は別に……。\nそれはそれで…………。"
 
-# game/content/file_000001B0.rpy:3398
-translate japanese block_000001E8_df37d4d7:
+# game/content/file_000001B0.rpy:3403
+translate japanese block_000001E8_61a1c302:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "很羞耻的样子果然算了～！\n连帽衫角色就交给翼了～"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "很羞耻的样子果然还是算了～！\n连帽衫角色就交给翼了～"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "なんか恥ずかしいから、やっぱいいや～！\nパーカーキャラは、つばきちに譲るよ～。"
 
 # game/content/file_000001B0.rpy:3413
@@ -1566,10 +1566,10 @@ translate japanese block_000001D0_546dda0b:
     # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "陪泉练习排球。被拜托托球给他了。"
     rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "泉のバレー練習に付き合っているのさ。\nトス役に抜擢されちまったんだよ。"
 
-# game/content/file_000001B0.rpy:4177
-translate japanese block_000001D0_0a3eb10b:
+# game/content/file_000001B0.rpy:4182
+translate japanese block_000001D0_82dea07b:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "好厉害——！\n松田亲是篮球部的，排球也会呐！！"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "好厉害——！\n松田亲明明是篮球部的，也会打排球啊！！"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "スッゲー！\nまっつんはバスケ部なのに、\nバレーもできるんだ！！"
 
 # game/content/file_000001B0.rpy:4183
@@ -1836,10 +1836,10 @@ translate japanese block_00000200_9ed46737:
     # extend "就可以发出很愉悦的声音了哦♪"
     extend "そうしたら良い声で響いてくれるんだ♪"
 
-# game/content/file_000001B0.rpy:4661
-translate japanese block_00000200_89e420ba:
+# game/content/file_000001B0.rpy:4666
+translate japanese block_00000200_92b10dff:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哇哦♂听起来好刺激！！\n佐藤君不会是因为这个才～！"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哇哦♂听起来好刺激！！\n佐藤君你是故意这么说的吧～！"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "ウホッ♂\nなんかエロイぞ！！\n佐藤くん、今のは狙ったでしょ～！"
 
 # game/content/file_000001B0.rpy:4669
@@ -2808,10 +2808,10 @@ translate japanese block_000001CF_f90bf4e2:
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "是嘛是嘛！我觉得那样很好啊！"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "そっかそっか！\nオレはそれでいいと思うよ！"
 
-# game/content/file_000001B0.rpy:7680
-translate japanese block_000001CF_173eaef8:
+# game/content/file_000001B0.rpy:7689
+translate japanese block_000001CF_3cc012e5:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "短发的忍总觉得有一种敬畏感，\n就像{color=#008080}蛋糕事件{/color}那时一样呐～{nw}"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "短发的忍总觉得很自大啊，\n就像{color=#008080}蛋糕事件{/color}那时一样～{nw}"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "髪短いしのぶは、\nなんか偉そう感が増すんだよね～。\n{color=#008080}ケーキ事件{/color}のときみたいなさ～。{nw}"
 
 # game/content/file_000001B0.rpy:7689
@@ -3534,10 +3534,10 @@ translate japanese block_000024B7_71d1bfb7:
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "嗯……好关心部长呐。"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "ふーん……立派な心掛けだねえ。"
 
-# game/content/file_000001B0.rpy:9859
-translate japanese block_000024B7_8aa04422:
+# game/content/file_000001B0.rpy:9871
+translate japanese block_000024B7_a4b884cb:
 
-    # extend "啊，这张和床一样大的纸\n是还在写的新闻？放在地上不会被弄坏吗？"
+    # extend "啊，这张放在地上的很大的纸\n是还在写的新闻？放在这里不怕被误踩到吗？"
     extend "あ、床にある大きな紙が\n作りかけの新聞？こんな所に置いて、間違って踏まないの？"
 
 # game/content/file_000001B0.rpy:9872
@@ -3564,11 +3564,11 @@ translate japanese block_000024B7_c6c975f4:
     # rs_character_41A906D279CA4677A6A2ED8CBE544459 "绝对不许过去啊！过去也要避开走啊！"
     rs_character_41A906D279CA4677A6A2ED8CBE544459 "踏んでくれるなよ！ぜーったいに踏んではならないぞ！"
 
-# game/content/file_000001B0.rpy:9916
-translate japanese block_000024B7_89ae36c6:
+# game/content/file_000001B0.rpy:9928
+translate japanese block_000024B7_9c1f0d93:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "没关系！我发誓要是真的不小心，\n这辈子都娶……{w=0.6}{nw}"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "大丈夫！オレ、新聞を踏まずに部室を出たら、結婚……{w=0.6}{nw}\n"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "没关系！不会有事的，我要是没踩\n到新闻就离开部室的话就回老家结婚……\n{w=0.6}{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "大丈夫！オレ、新聞を踏まずに部室を出たら、結婚……\n{w=0.6}{nw}"
 
 # game/content/file_000001B0.rpy:9924
 translate japanese block_000024B7_e3d9a0bf:
@@ -4921,10 +4921,10 @@ translate japanese block_000029B9_4b6aefe7:
     # rs_character_C223850065F6443080205D1F61C04C98 "还有什么想要问的事情吗？"
     rs_character_C223850065F6443080205D1F61C04C98 "他に聞きたいことはある？"
 
-# game/content/file_000001B0.rpy:13080
-translate japanese block_00000219_b6425e0e:
+# game/content/file_000001B0.rpy:13094
+translate japanese block_00000219_1a86d9b1:
 
-    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}私立御咲学园是某县（省）的宝咲市所拥有的\n一所初高中男子校。』{/color}"
+    # rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『御咲学园是位于某县（省）宝咲市的\n一所初高中一贯制私立男子校。』{/color}"
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『御咲（みさき）学園中高等学校。\n某県宝咲（たからさき）市に所在し、\n中高一貫教育を施す私立の男子校である。』{/color}"
 
 # game/content/file_000001B0.rpy:13082

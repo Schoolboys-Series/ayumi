@@ -2380,7 +2380,7 @@ label block_0000301E:
     show rs_image_40923DB023424478AE9514379D78E8B7 as tag_ECFB5B509A334A868686B3435242BF90 at right_top zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    extend "啊，这张和床一样大的纸\n是还在写的新闻？放在地上不会被弄坏吗？"
+    extend "啊，这张放在地上的很大的纸\n是还在写的新闻？放在这里不怕被误踩到吗？"
 
     hide tag_ECFB5B509A334A868686B3435242BF90
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -2437,7 +2437,7 @@ label block_0000301E:
     show rs_image_9A04F9951A5942729EEA1C44C5227BDB as tag_ECFB5B509A334A868686B3435242BF90 at center_top zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_B70215F4C83E407D8C2CA682FB6965D7
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "没关系！我发誓要是真的不小心，\n这辈子都娶……{w=0.6}{nw}"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "没关系！不会有事的，我要是没踩\n到新闻就离开部室的话就回老家结婚……\n{w=0.6}{nw}"
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Dorky 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Dorky 1.ogg"
@@ -11490,7 +11490,7 @@ label block_00001992:
 
     window show
 
-    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}私立御咲学园是某县（省）的宝咲市所拥有的\n一所初高中男子校。』{/color}"
+    rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『御咲学园是位于某县（省）宝咲市的\n一所初高中一贯制私立男子校。』{/color}"
 
     rs_character_DB399286619A4AAB9D7D1A2D286772C8 "{color=#0080FF}『……。\n……。\n重点是，{/color}"
     if True: # Hotfix: Ignore multiplay defenser for effect sound
