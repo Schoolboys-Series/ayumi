@@ -28,7 +28,7 @@ label block_00001164:
 
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "（明天就是正式表演，剩下的就只是展现练习成果。{w}\n不过，现在还有“紧张”这个最大的敌人……。）"
 
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "（不过，一定没事的！为了克服这一点……{w}\n尽可能多地在人前练习是必要的……）"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "（不过，我一定会战胜它的！为了达成这个目标……{w}\n我必须要在很多人面前练习……）"
 
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "（……"
     if True: # Hotfix: Ignore multiplay defenser for effect sound

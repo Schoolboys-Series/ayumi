@@ -1432,7 +1432,7 @@ translate japanese block_000041C8_be385e26:
 translate japanese block_000041C8_f1ba39f5:
 
     # rs_character_D93E396B7ADB48CBAE13F206958FC08B "我要去道歉！明明被帮了这么多，还做出那种无礼的事……"
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "僕、謝りに行ってくる！助けてもらったのに、\n あまりにも失礼なことをしてしまった……。"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "僕、謝りに行ってくる！助けてもらったのに、\nあまりにも失礼なことをしてしまった……。"
 
 # game/content/file_0000400B.rpy:2529
 translate japanese block_000041C8_7e2c4a2c:

@@ -1,9 +1,9 @@
 # TODO: Translation updated at 2018-01-27 16:27
 
 # game/content/file_00003714.rpy:66
-translate japanese block_00003720_b6e39bf5:
+translate japanese block_00003720_4b2b99f0:
 
-    # rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "哦，森海啊。"
+    # rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "喔，原来是森海啊。"
     rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "おお、森海だったのか。"
 
 # game/content/file_00003714.rpy:81
@@ -19,10 +19,11 @@ translate japanese block_00003720_0f7d9ba2:
     extend "はい、オレで～す！"
 
 # game/content/file_00003714.rpy:87
-translate japanese block_00003720_02824585:
+translate japanese block_00003720_3ad18f6b:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "这间教室放学后完全没什么人用的样子，\n偶尔就会像这样来弹钢琴哦～"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "这间教室放学后好像没什么人用的样子，\n我偶尔会来这里弹钢琴喔〜"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "この教室、放課後は誰も使ってないみたいなんで、\n時々こうしてピアノを弾いてるんですよ～。"
+
 
 # game/content/file_00003714.rpy:92
 translate japanese block_00003720_1ed7ca78:
@@ -37,9 +38,9 @@ translate japanese block_00003720_5540b882:
     extend "もしかして、何かまずかったですか？"
 
 # game/content/file_00003714.rpy:101
-translate japanese block_00003720_e56d0bd3:
+translate japanese block_00003720_a3f1473b:
 
-    # rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "倒不是，并没有什么问题，总之这个以后再说。"
+    # rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "唔，也不能说是没问题。嘛，现在先不提这个。"
     rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "うーむ。問題が一切ないとは言い切れないが、\nまあ、ここは多めに見てやろう。"
 
 # game/content/file_00003714.rpy:107
@@ -55,9 +56,9 @@ translate japanese block_00003720_6aef660c:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "ありがとうございまーす！"
 
 # game/content/file_00003714.rpy:121
-translate japanese block_00003720_043e11d4:
+translate japanese block_00003720_1a8234f2:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "对哦，不过基本上还只是一个人在弹……"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "对喔，虽然我经常是一个人在弹但是……"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "そうですね。\nひとりで勝手に弾くことも多いんですけど……"
 
 # game/content/file_00003714.rpy:151
@@ -79,9 +80,9 @@ translate japanese block_00003720_dc238e66:
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "えっと、どうかなさったんですか？"
 
 # game/content/file_00003714.rpy:176
-translate japanese block_00003720_898da065:
+translate japanese block_00003720_aa053dbf:
 
-    # rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "一之濑，概括一下你的意思是这里有社团活动？\n"
+    # rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "一之濑，你们聚集在这里是在进行社团活动吗？\n"
     rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "一ノ瀬。この集まりは部活か何かなのか？\n"
 
 # game/content/file_00003714.rpy:181
@@ -109,15 +110,15 @@ translate japanese block_00003720_fcf9626e:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "マズイっすかね？"
 
 # game/content/file_00003714.rpy:212
-translate japanese block_00003720_3976a071:
+translate japanese block_00003720_9a204eee:
 
-    # rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "如果真的想扩大社团规模，教练、顾问之类的都是必须的。"
+    # rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "如果规模变大的话，为了监督学生说不定会需要顾问老师啊。"
     rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "かなり規模が大きくなるなら、\n監督として顧問の先生が必要かもしれんな。"
 
 # game/content/file_00003714.rpy:226
-translate japanese block_00003720_6aa58afe:
+translate japanese block_00003720_63c607a3:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "没、没关系的！这个社团、只是友君和我、两人秘密地在做！！"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "没、没关系的！小钢琴部，只是友君和我，两个人的秘密聚会而已！！"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "だ、大丈夫です！！プチピアノ部は、\n友くんと僕、二人だけの秘密の集まりなので！！"
 
 # game/content/file_00003714.rpy:243
@@ -133,16 +134,16 @@ translate japanese block_00003720_4e6b8eb1:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "え？お、おう！\n"
 
 # game/content/file_00003714.rpy:253
-translate japanese block_00003720_723d154f:
+translate japanese block_00003720_a1b9d052:
 
-    # extend "说是秘密也不是一定要藏着掖着就是了。"
+    # extend "虽说是秘密，但也没有在刻意隐瞒啦。"
     extend "秘密っていっても、隠しきれてないけど。"
 
 # game/content/file_00003714.rpy:258
 translate japanese block_00003720_5f136d55:
 
     # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "总而言之！人数肯定不会再增加了！"
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "とにかく！\n これ以上、人数が増えることは絶対にありえませんので！"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "とにかく！\nこれ以上、人数が増えることは絶対にありえませんので！"
 
 # game/content/file_00003714.rpy:272
 translate japanese block_00003720_d1ce4612:
@@ -178,7 +179,7 @@ translate japanese block_00003720_ea9a785d:
 translate japanese block_00003720_b0898e26:
 
     # extend "怎么样，我这里有个委托要不要试试？"
-    extend "どうだお前たち、\n 一つ頼まれごとを引き受けてくれないか？"
+    extend "どうだお前たち、\n一つ頼まれごとを引き受けてくれないか？"
 
 # game/content/file_00003714.rpy:354
 translate japanese block_00003720_1e485f91:
@@ -193,9 +194,9 @@ translate japanese block_00003720_5064e213:
     rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "今度御咲市の公民館で敬老会があるのだが、\nそこで学園からも余興を出すことになっているんだ。"
 
 # game/content/file_00003714.rpy:371
-translate japanese block_00003720_04a7ea62:
+translate japanese block_00003720_637cfa5d:
 
-    # rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "公民馆的舞台很小，上很少几个人就差不多，\n不过，正因为人数少，节目才难找。"
+    # rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "公民馆的舞台很小，表演节目的话几个人就足够了，\n不过，也正因为人数少，节目很难想。"
     rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "公民館のステージは小さいから数人で充分なのだが、\n人数が少ない分、考えあぐねていてな。"
 
 # game/content/file_00003714.rpy:381
@@ -208,7 +209,7 @@ translate japanese block_00003720_eb413210:
 translate japanese block_00003720_26c72c9a:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哦哦～！！也就是说，大家都要来听我们的演奏！？"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "おぉ～！！それって、\n オレたちの演奏を聴いてもらえるってことですか！？"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "おぉ～！！それって、\nオレたちの演奏を聴いてもらえるってことですか！？"
 
 # game/content/file_00003714.rpy:400
 translate japanese block_00003720_f61aae1c:
@@ -229,27 +230,27 @@ translate japanese block_00003720_ea2bd3d9:
     extend "うぅうう……そんなの、で、できる……かなぁ。"
 
 # game/content/file_00003714.rpy:418
-translate japanese block_00003720_5f4cc302:
+translate japanese block_00003720_33c2283e:
 
-    # rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "当然，平时分也会给你们多算些的。"
+    # rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "当然，会给你们加平时分的。"
     rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "もちろん、内申点でも加算してやるぞ。"
 
 # game/content/file_00003714.rpy:420
-translate japanese block_00003720_f5447b63:
+translate japanese block_00003720_47a6e7a0:
 
-    # rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "这可以作为小钢琴部的社团成绩，\n等以后人数慢慢增多的时候去正式登记也会容易通过。"
+    # rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "而且，小钢琴部有了社团成绩，\n以后要是人数增加了想要申请正式社团也比较容易通过审核。"
     rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "それに、プチピアノ部としての活動実績があれば、\nゆくゆく人数が増えてしまっても部活として登録しやすい。"
 
 # game/content/file_00003714.rpy:422
-translate japanese block_00003720_176e93fc:
+translate japanese block_00003720_6db9b5f9:
 
-    # rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "这次的委托责任人是我，会给你们全方位支援的。"
+    # rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "这次委托的责任人是我，你们就尽情去做吧。"
     rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "今回の件は私が責任者を引き受けるから、\nお前たちでいっちょ盛り上げてやってくれ。"
 
 # game/content/file_00003714.rpy:427
-translate japanese block_00003720_660f10e7:
+translate japanese block_00003720_d3287005:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "明白！那么，表演的内容等下就和翼君一起决定好了。"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "明白！那么，我会和翼君一起好好思考节目内容的。"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "わかりました！そしたら、\n内容はまたつばさくんと一緒に打ち合わせしときますね。"
 
 # game/content/file_00003714.rpy:432
@@ -265,9 +266,9 @@ translate japanese block_00003720_4a032d4f:
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "友くん……。"
 
 # game/content/file_00003714.rpy:442
-translate japanese block_00003720_aea93642:
+translate japanese block_00003720_6618a0dc:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "说、说的是呢。\n和友君一起的话，不管发生什么都一定可以的。"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "说、说的也是。\n和友君一起的话，不管发生什么都一定能迎刃而解。"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "そ、そうですね。\n友くんと一緒なら、きっとなんとかなりますよね。"
 
 # game/content/file_00003714.rpy:447
@@ -535,9 +536,9 @@ translate japanese block_00003720_6ea77648:
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "友くんの気持ちに、応えられるようにがんばります！！"
 
 # game/content/file_00003714.rpy:845
-translate japanese block_00003720_f7abdaf5:
+translate japanese block_00003720_b76fe063:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哦～就是这种气势！！\n那么，选好曲子后，首当其冲的就是要多加练习了！"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "喔～这想法很棒啊！！\n那么，比起选曲子，现在要做的是多练习呢！"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "お～その志イイね！！\nじゃあ、曲選びより、まずは練習を重ねようか！"
 
 # game/content/file_00003714.rpy:850
@@ -655,9 +656,9 @@ translate japanese block_00003720_a3c11b2f:
     extend "んんんん！！！"
 
 # game/content/file_00003714.rpy:1079
-translate japanese block_00003720_0deacfed:
+translate japanese block_00003720_86099bc6:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "太棒了！！！{w}\n翼君，别管谱子了，钢琴不练了！"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "我想到了！！！{w}\n翼君，别管谱子了，钢琴不练了！"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "閃いた！！！{w}つばさくん、\nその楽譜はしまって！ピアノもおしまい！"
 
 # game/content/file_00003714.rpy:1081
@@ -775,9 +776,9 @@ translate japanese block_00003720_691a047a:
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "ど、どどどどうして？！"
 
 # game/content/file_00003714.rpy:1238
-translate japanese block_00003720_7cb15fbc:
+translate japanese block_00003720_ca06ce5d:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唱歌的话需要腹部用力对不对？\n扩大肺活量的话，音域也能扩展，好好做！！"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唱歌需要腹部用力对不对？\n提高音量的话音域也能扩展，好好做！！"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "歌を歌うには腹筋が必要でしょ？\n声量を増やして、音域も広げるんだから、しっかりやる！！"
 
 # game/content/file_00003714.rpy:1243
@@ -883,9 +884,9 @@ translate japanese block_00003720_f5095e69:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "つばさくん、よくがんばりました！"
 
 # game/content/file_00003714.rpy:1356
-translate japanese block_00003720_0ce5d813:
+translate japanese block_00003720_6fcd5860:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "成、成果一定会慢慢显现出来的……\n"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "因果报应就是这么回到人身上的啊……\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "む、報いは、こうして返ってくるのですね……。\n"
 
 # game/content/file_00003714.rpy:1367
@@ -895,9 +896,9 @@ translate japanese block_00003720_41b4da07:
     extend "ぐふ……。"
 
 # game/content/file_00003714.rpy:1417
-translate japanese block_00003720_f78e60dd:
+translate japanese block_00003720_a5317423:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "翼君，开始发音练习哦。像这样多用一些腹部的力量……"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "翼君，发音练习啊，要像这样使用腹部……"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "つばさくん。発声練習はね。\nもっとこうして、お腹を使って……。"
 
 # game/content/file_00003714.rpy:1419
@@ -1018,7 +1019,7 @@ translate japanese block_00003720_fe7dcbd9:
 translate japanese block_00003720_08044339:
 
     # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "啊！！翼君的{color=#FF0000}正上方{/color}\n有《电摩战队电击游侠》的周边！！！"
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "あーッ！！つばさくんの{color=#FF0000}真上{/color}に\『電マ戦隊シビレンジャー』グッズがぁああ！！！"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "あーッ！！つばさくんの{color=#FF0000}真上{/color}に\n『電マ戦隊シビレンジャー』グッズがぁああ！！！"
 
 # game/content/file_00003714.rpy:1502
 translate japanese block_00003720_ad9450aa:
@@ -1099,9 +1100,9 @@ translate japanese block_00003720_ca64ab99:
     rs_character_2EBE5D3FE4D24B89A65C688BA8BED15A "ちょ、ちょっとちょっとぉ！！\nさっきから見ていたら何ですか、この体たらくは！！"
 
 # game/content/file_00003714.rpy:1637
-translate japanese block_00003720_afdabb56:
+translate japanese block_00003720_cd68fef7:
 
-    # rs_character_2EBE5D3FE4D24B89A65C688BA8BED15A "明有那么多次气氛那么好，全可以直接袭击过去的好不好！！"
+    # rs_character_2EBE5D3FE4D24B89A65C688BA8BED15A "明明有那么多次气氛那么好，完全可以直接袭击过去的好不好！！"
     rs_character_2EBE5D3FE4D24B89A65C688BA8BED15A "何度も良いムードになって、\nそのまま襲えるタイミングがあったというのにぃ！！"
 
 # game/content/file_00003714.rpy:1647
@@ -1231,9 +1232,9 @@ translate japanese block_0000371F_e227b34d:
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "やっぱり友くんは、やるよりやられる方がお似合いです。"
 
 # game/content/file_00003714.rpy:1807
-translate japanese block_0000371F_302211e2:
+translate japanese block_0000371F_2b6f807f:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔。总觉得看起来像是不甘，又像是在高兴……\n"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔。总觉得有点不甘心，又觉得这样好像也不错……\n"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "う。なんだか悔しいような、気持ちいいような……。\n"
 
 # game/content/file_00003714.rpy:1812
@@ -1315,9 +1316,9 @@ translate japanese block_0000371F_55cd4ce3:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "い、いやああああん！！"
 
 # game/content/file_00003714.rpy:1880
-translate japanese block_0000371F_0473902e:
+translate japanese block_0000371F_c941246b:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "翼君，今天也要好好微笑哦！唱歌时自然要微笑着来嘛。"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "翼君，今天也要回想起笑脸喔！唱歌时一定要用笑脸来唱。"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "つばさくん、今日も笑顔を思い出して！\nちゃんと笑顔で歌わなきゃ。"
 
 # game/content/file_00003714.rpy:1882
@@ -1531,9 +1532,9 @@ translate japanese block_0000371F_a54d2f8d:
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "え、ええエッチだなんて！！\nそ、そんな！まだ早い……！"
 
 # game/content/file_00003714.rpy:2142
-translate japanese block_0000371F_38dbecd1:
+translate japanese block_0000371F_59d0e467:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "嘴上这么说，自己肯定很慌张不安吧。"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "嘛，嘴上是这么说，另一个自己肯定忍了很久吧。"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B "と、口では言ってみても、\nもうひとりの自分はかなりムラムラしているんだと思うよ。"
 
 # game/content/file_00003714.rpy:2147
@@ -1675,9 +1676,9 @@ translate japanese block_0000371F_22ecd716:
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "次は友くんの家で、二人きりの練習だ。{w}\n大丈夫なのかなぁ……。"
 
 # game/content/file_00003714.rpy:2308
-translate japanese block_0000371F_8416cfa4:
+translate japanese block_0000371F_1c876375:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "欸，好现代化的问候语！\n说起来，是从电视里看到的吗？"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "欸，想了挺有趣的问候语嘛！\n这个是在电视上学到的吗？"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "へぇ～！なかなか洒落た挨拶を考えたね！\nこういうの、テレビか何かで観たの？"
 
 # game/content/file_00003714.rpy:2314
@@ -1891,9 +1892,9 @@ translate japanese block_0000371F_74fa7c5a:
     extend "う、うわっ！"
 
 # game/content/file_00003714.rpy:2557
-translate japanese block_0000371F_83292d35:
+translate japanese block_0000371F_e4b80fa4:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "像这样释放压力，当天不就不会那么紧张了嘛？"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "这样一来，就可以积攒想要对外释放的力量，当天不就可以尽全力了吗？"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "その方が、外に出したいパワーが溜まって溜まって、\n当日、発散できそうじゃん？"
 
 # game/content/file_00003714.rpy:2562
@@ -1963,9 +1964,9 @@ translate japanese block_0000371F_f42fc5a2:
     rs_character_414B71521382454B97E8531A1ED4B265 "『僕』が出せる最大限のパワーを出すのです！！{w}"
 
 # game/content/file_00003714.rpy:2657
-translate japanese block_0000371F_30ee4850:
+translate japanese block_0000371F_b721edc3:
 
-    # rs_character_21E8D962FC074E31A97895C928270046 "总之后面赢的肯定是自己！没错！！！"
+    # rs_character_21E8D962FC074E31A97895C928270046 "总之这里要先战胜自己！！！"
     rs_character_21E8D962FC074E31A97895C928270046 "とにかくココは、\n自分に勝つべし！ですッ！！！"
 
 # game/content/file_00003714.rpy:2681

@@ -63,7 +63,7 @@ label block_00003720:
     show rs_image_07D0476A77F848D38DFD798A8124FBC5 as tag_061CD0864C4E48C0B3AA935440B7C90D at center_top zorder zorder_tag_061CD0864C4E48C0B3AA935440B7C90D onlayer master
     with rs_effect_9EB6D16F01EC4823B16A7F9817B2E3F1
 
-    rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "哦，森海啊。"
+    rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "喔，原来是森海啊。"
 
     hide tag_061CD0864C4E48C0B3AA935440B7C90D
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -84,7 +84,7 @@ label block_00003720:
 
     extend "正是我哦！"
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "这间教室放学后完全没什么人用的样子，\n偶尔就会像这样来弹钢琴哦～"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "这间教室放学后好像没什么人用的样子，\n我偶尔会来这里弹钢琴喔〜"
 
     show rs_image_29378D72FCF54EF98AE11A4369F35631 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -98,7 +98,7 @@ label block_00003720:
     show rs_image_3CDBB93600FA40048DE19330047E1350 as tag_061CD0864C4E48C0B3AA935440B7C90D zorder zorder_tag_061CD0864C4E48C0B3AA935440B7C90D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "倒不是，并没有什么问题，总之这个以后再说。"
+    rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "唔，也不能说是没问题。嘛，现在先不提这个。"
 
     show rs_image_3F2B220CD95B4BC6AAD59B3FE6C7DF0B as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     show rs_image_B08F170752C74A09BC000D1CF77FA609 as tag_061CD0864C4E48C0B3AA935440B7C90D zorder zorder_tag_061CD0864C4E48C0B3AA935440B7C90D onlayer master
@@ -118,7 +118,7 @@ label block_00003720:
     show rs_image_3F2B220CD95B4BC6AAD59B3FE6C7DF0B as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "对哦，不过基本上还只是一个人在弹……"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "对喔，虽然我经常是一个人在弹但是……"
 
     window hide
 
@@ -173,7 +173,7 @@ label block_00003720:
     show rs_image_C0F02B9EC0484E97848C810E5DD5BB34 as tag_061CD0864C4E48C0B3AA935440B7C90D zorder zorder_tag_061CD0864C4E48C0B3AA935440B7C90D onlayer master
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
-    rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "一之濑，概括一下你的意思是这里有社团活动？\n"
+    rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "一之濑，你们聚集在这里是在进行社团活动吗？\n"
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cut the wind 1.ogg"
@@ -209,7 +209,7 @@ label block_00003720:
     show rs_image_87A4A951CCF94134BEC8CCB7D574B6E1 as tag_061CD0864C4E48C0B3AA935440B7C90D zorder zorder_tag_061CD0864C4E48C0B3AA935440B7C90D onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "如果真的想扩大社团规模，教练、顾问之类的都是必须的。"
+    rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "如果规模变大的话，为了监督学生说不定会需要顾问老师啊。"
 
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
@@ -223,7 +223,7 @@ label block_00003720:
     hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "没、没关系的！这个社团、只是友君和我、两人秘密地在做！！"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "没、没关系的！小钢琴部，只是友君和我，两个人的秘密聚会而已！！"
 
     hide tag_061CD0864C4E48C0B3AA935440B7C90D
     hide tag_ECFB5B509A334A868686B3435242BF90
@@ -250,7 +250,7 @@ label block_00003720:
     show rs_image_8A80B90628C143D1B3A53C71240BBE2D as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    extend "说是秘密也不是一定要藏着掖着就是了。"
+    extend "虽说是秘密，但也没有在刻意隐瞒啦。"
 
     show rs_image_86500D05C8934AE7B4E71CC1D50E5D36 as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -368,7 +368,7 @@ label block_00003720:
 
     rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "有个敬老会要在御咲市的公民馆开，说是让我们学校也要出个节目。"
 
-    rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "公民馆的舞台很小，上很少几个人就差不多，\n不过，正因为人数少，节目才难找。"
+    rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "公民馆的舞台很小，表演节目的话几个人就足够了，\n不过，也正因为人数少，节目很难想。"
 
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Inspiration 1.ogg" noloop
@@ -415,16 +415,16 @@ label block_00003720:
     show rs_image_B08F170752C74A09BC000D1CF77FA609 as tag_061CD0864C4E48C0B3AA935440B7C90D zorder zorder_tag_061CD0864C4E48C0B3AA935440B7C90D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "当然，平时分也会给你们多算些的。"
+    rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "当然，会给你们加平时分的。"
 
-    rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "这可以作为小钢琴部的社团成绩，\n等以后人数慢慢增多的时候去正式登记也会容易通过。"
+    rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "而且，小钢琴部有了社团成绩，\n以后要是人数增加了想要申请正式社团也比较容易通过审核。"
 
-    rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "这次的委托责任人是我，会给你们全方位支援的。"
+    rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "这次委托的责任人是我，你们就尽情去做吧。"
 
     show rs_image_64D8D1E21F7F40938F719E0070CF195B as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "明白！那么，表演的内容等下就和翼君一起决定好了。"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "明白！那么，我会和翼君一起好好思考节目内容的。"
 
     show rs_image_D3A9686A301549F6B739A77497C158B9 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -439,7 +439,7 @@ label block_00003720:
     show rs_image_D6900DA7D3A54445A3A7BAA4FA959F33 as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "说、说的是呢。\n和友君一起的话，不管发生什么都一定可以的。"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "说、说的也是。\n和友君一起的话，不管发生什么都一定能迎刃而解。"
 
     show rs_image_FACF02D10C574EC8ABF41E3D996A6E34 as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -842,7 +842,7 @@ label block_00003720:
     show rs_image_D2BB5C80C5EC436C81AD2A89675FF109 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "哦～就是这种气势！！\n那么，选好曲子后，首当其冲的就是要多加练习了！"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "喔～这想法很棒啊！！\n那么，比起选曲子，现在要做的是多练习呢！"
 
     show rs_image_55AA9D3ECD6A49F888891037C386D65A as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -1076,7 +1076,7 @@ label block_00003720:
     hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "太棒了！！！{w}\n翼君，别管谱子了，钢琴不练了！"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "我想到了！！！{w}\n翼君，别管谱子了，钢琴不练了！"
 
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "欸！？到、到底发生什么了！？"
 
@@ -1235,7 +1235,7 @@ label block_00003720:
 
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "为为为为什么？！"
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唱歌的话需要腹部用力对不对？\n扩大肺活量的话，音域也能扩展，好好做！！"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唱歌需要腹部用力对不对？\n提高音量的话音域也能扩展，好好做！！"
 
     hide tag_3C0D2D9BB95B42AAA768FE8D105219CB
     with rs_effect_5558577FCB4F4A43A84362ED9AD414E8
@@ -1353,7 +1353,7 @@ label block_00003720:
     show rs_image_1906DCD87DCD4B098761C02DBFA1F2B8 as tag_C389451CCE5A4CEAB24DEF9A7C02635D at right_top zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_A56BC4024D7642E48310911FC9A1EB4B
 
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "成、成果一定会慢慢显现出来的……\n"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "因果报应就是这么回到人身上的啊……\n"
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Fall down 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Fall down 1.ogg"
@@ -1414,7 +1414,7 @@ label block_00003720:
 
     window show
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "翼君，开始发音练习哦。像这样多用一些腹部的力量……"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "翼君，发音练习啊，要像这样使用腹部……"
 
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "这、这样？"
 
@@ -1634,7 +1634,7 @@ label block_00003720:
 
     rs_character_2EBE5D3FE4D24B89A65C688BA8BED15A "等、等等等等！！\n刚才就在看了，你这股怠惰劲是怎么回事！！"
 
-    rs_character_2EBE5D3FE4D24B89A65C688BA8BED15A "明有那么多次气氛那么好，全可以直接袭击过去的好不好！！"
+    rs_character_2EBE5D3FE4D24B89A65C688BA8BED15A "明明有那么多次气氛那么好，完全可以直接袭击过去的好不好！！"
 
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cut the wind 1.ogg" noloop
@@ -1804,7 +1804,7 @@ label block_0000371F:
         play effect "sound/Effect Sound/Stupid 1.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Stupid 1.ogg"
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔。总觉得看起来像是不甘，又像是在高兴……\n"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "唔。总觉得有点不甘心，又觉得这样好像也不错……\n"
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Cute 3.ogg" noloop
         $ sys_effect_current_file = "sound/Effect Sound/Cute 3.ogg"
@@ -1877,7 +1877,7 @@ label block_0000371F:
 
     window show
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "翼君，今天也要好好微笑哦！唱歌时自然要微笑着来嘛。"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "翼君，今天也要回想起笑脸喔！唱歌时一定要用笑脸来唱。"
 
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "嗯～好像很难的样子呐。{w}友君，像上次那样示范一下。"
 
@@ -2139,7 +2139,7 @@ label block_0000371F:
     show rs_image_3938BA4DFD63427F90A7EFC10C734A7F as tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 zorder zorder_tag_9D0001B69AD04AE9A8D1DE7AF344E0A3 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "嘴上这么说，自己肯定很慌张不安吧。"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "嘛，嘴上是这么说，另一个自己肯定忍了很久吧。"
 
     show rs_image_AF27F47A0A09448EA5BA5B2F3878BBA2 as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -2305,7 +2305,7 @@ label block_0000371F:
     show rs_image_64D8D1E21F7F40938F719E0070CF195B as tag_ECFB5B509A334A868686B3435242BF90 at left_top zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "欸，好现代化的问候语！\n说起来，是从电视里看到的吗？"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "欸，想了挺有趣的问候语嘛！\n这个是在电视上学到的吗？"
 
     $ zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D = 300
     show rs_image_225A15956FFB4AC2B4A3ACD0192F135D as tag_C389451CCE5A4CEAB24DEF9A7C02635D at right_top zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
@@ -2554,7 +2554,7 @@ label block_0000371F:
 
     window show
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "像这样释放压力，当天不就不会那么紧张了嘛？"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "这样一来，就可以积攒想要对外释放的力量，当天不就可以尽全力了吗？"
 
     show rs_image_0F46590E67454A75B03975CF59479626 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -2654,7 +2654,7 @@ label block_0000371F:
     hide tag_26CE4420E4BF43ADBA4E35F2A9784E98
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_21E8D962FC074E31A97895C928270046 "总之后面赢的肯定是自己！没错！！！"
+    rs_character_21E8D962FC074E31A97895C928270046 "总之这里要先战胜自己！！！"
 
     window hide
 

@@ -856,7 +856,7 @@ translate japanese block_00002437_c225e005:
 translate japanese block_00002437_3e115ee1:
 
     # rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "对了，这个话题的前置条件是世界要毁灭的话，\n这件事只有我们知道？"
-    rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "ところで、この条件で世界が終わることを知っているのは、\n 自分だけなのか？"
+    rs_character_0DB1F59F51E4429DBACC2B1352D3B7F3 "ところで、この条件で世界が終わることを知っているのは、\n自分だけなのか？"
 
 # game/content/file_000001B0.rpy:2544
 translate japanese block_00002437_b07dcd5a:
@@ -1006,7 +1006,7 @@ translate japanese block_00002437_a5b80e43:
 translate japanese block_00002437_72c26676:
 
     # extend "好了好了！这次讨论会到此结束！\n谢谢大家参与——！"
-    extend "はいはい！この話はもう終わり！\n 皆さん、お集まりくださりありがとうございましたー。"
+    extend "はいはい！この話はもう終わり！\n皆さん、お集まりくださりありがとうございましたー。"
 
 # game/content/file_000001B0.rpy:2829
 translate japanese block_00002438_5f7b095c:
@@ -1858,7 +1858,7 @@ translate japanese block_000024BF_db89a030:
 translate japanese block_000024BF_d37a256c:
 
     # rs_character_9EDF48057FB84D428D56198A69E2880E "看来这确实是个不为人知的好地方。\n今天的每日新午餐就是你了。"
-    rs_character_9EDF48057FB84D428D56198A69E2880E "いやはや。これは良い穴場だ。\n 今日の日替わりランチはあなたですね。"
+    rs_character_9EDF48057FB84D428D56198A69E2880E "いやはや。これは良い穴場だ。\n今日の日替わりランチはあなたですね。"
 
 # game/content/file_000001B0.rpy:4822
 translate japanese block_000024BF_44b058c6:

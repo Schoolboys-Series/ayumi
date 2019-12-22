@@ -7,9 +7,9 @@ translate japanese block_00001164_326aea70:
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "（本番は明日。あとは練習の成果を出し切るだけです。{w}\nただ、僕にはまだ『緊張』という強敵がいます……。）"
 
 # game/content/file_00000EE6.rpy:31
-translate japanese block_00001164_23da1d8c:
+translate japanese block_00001164_331ec01d:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "（不过，一定没事的！为了克服这一点……{w}\n尽可能多地在人前练习是必要的……）"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "（不过，我一定会战胜它的！为了达成这个目标……{w}\n我必须要在很多人面前练习……）"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "（でも、必ず倒します！そのための対策は惜しみません。{w}\n……大勢の人の前で、練習してみるしかない……。）"
 
 # game/content/file_00000EE6.rpy:33
