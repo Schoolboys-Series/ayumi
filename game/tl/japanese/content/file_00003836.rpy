@@ -775,7 +775,7 @@ translate japanese strings:
 
     # content\file_00003836.rpy:123
     old "三角泳裤"
-    new "フーメラン型"
+    new "ブーメラン型"
 
     # content\file_00003836.rpy:169
     old "篮球俱乐部"
