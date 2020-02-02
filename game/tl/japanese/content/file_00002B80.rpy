@@ -568,7 +568,7 @@ translate japanese block_00002BFE_011c86ac:
 translate japanese block_00002BFE_a1079ebf:
 
     # extend "到时候请务必谈谈你至今为止的感想。"
-    extend "そのときに是非、今までの感想等、\nお話nお聞かせください。"
+    extend "そのときに是非、今までの感想等、\nお話をお聞かせください。"
 
 # game/content/file_00002B80.rpy:2269
 translate japanese block_00002C03_7f03d8de:
