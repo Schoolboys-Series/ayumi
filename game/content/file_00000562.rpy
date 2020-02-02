@@ -368,7 +368,7 @@ label block_00003C0C:
                 "condition": [[0, 1], ["Saburou", "Shintarou"]], # 猫咪狂躁曲
                 "range": [
                     {"rate": [0, 0.4], "value": 2, "description": _("三酱好棒！")},
-                    {"rat": [0.4, 1], "value": 0}
+                    {"rate": [0.4, 1], "value": 0}
                 ]
             }
         ]
