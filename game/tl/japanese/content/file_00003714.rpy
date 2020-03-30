@@ -2018,9 +2018,9 @@ translate japanese block_00003AF5_1f00fcc7:
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "は、はい……勝手なことをしてごめんなさい。"
 
 # game/content/file_00003714.rpy:2781
-translate japanese block_00003AF5_59f33aed:
+translate japanese block_00003AF5_c73bdd4e:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "不过，我无论如何都做不到像友君那样干净磊落。"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "不过，我无论如何也无法做到像友君这样无所畏惧地上台演出。"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "でも、僕、どうしても友くんみたいに\n堂々と構えていられないんです。"
 
 # game/content/file_00003714.rpy:2786
@@ -2156,9 +2156,9 @@ translate japanese block_00003AF5_87b72827:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "いいことじゃ～ん！これからも\nプチピアノ部のボーカル担当として、よろしく頼むよ！"
 
 # game/content/file_00003714.rpy:3057
-translate japanese block_00003AF5_2ce66aac:
+translate japanese block_00003AF5_ced12efe:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "不过，像之前那样高的声音以后再也发不出来了也有可能……"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "不过，已经发不出之前那样的高音了。该怎么办才好……"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "でも、前みたいに高い声はもう出せませんよ。\nどうしましょう……。"
 
 # game/content/file_00003714.rpy:3062
@@ -2258,21 +2258,21 @@ translate japanese block_00003AF5_51f60c25:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "あ、あはははぁ。\nご、ごめんなさい……。"
 
 # game/content/file_00003714.rpy:3142
-translate japanese block_00003AF5_08ede5f3:
+translate japanese block_00003AF5_6b113543:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "我……会在表演中这么开心，一定是多亏了和友君在一起。"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "我之所以能在表演中那么开心，一定是因为友君在我身边的缘故。"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "僕、本番を楽しく感じられたのは\n友くんと一緒だったからだと思ってるんです。"
 
 # game/content/file_00003714.rpy:3144
-translate japanese block_00003AF5_beececb4:
+translate japanese block_00003AF5_35fd5659:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "练习的时候也很辛苦、很开心。\n能和我一起度过这么幸福的时间，已经非常满足了。"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "练习的时候，虽然很辛苦，但也很开心，\n能和友君一起度过这么幸福的时光，我已经非常满足了。"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "練習だって、大変だったけど、楽しくて、\nそんな幸せな一時を一緒に過ごせただけで、充分です。"
 
 # game/content/file_00003714.rpy:3146
-translate japanese block_00003AF5_29e6be8a:
+translate japanese block_00003AF5_5887145f:
 
-    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "所以，那时候说的过高的期望……就算了。\n"
+    # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "所以，不会再奢求那时的在此之上的奢望了。\n"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "だから、あのとき言ったような高望みはしません。\n"
 
 # game/content/file_00003714.rpy:3150
@@ -2408,9 +2408,9 @@ translate japanese block_00003AF5_1218602b:
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "あ……ほ、ホントはホッペにしようと思ってたんだけど、\nつばさくん、一足先に大人になっちゃったし、"
 
 # game/content/file_00003714.rpy:3325
-translate japanese block_00003AF5_ffaa4e03:
+translate japanese block_00003AF5_dd8f1d65:
 
-    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "如果亲到嘴唇不知道行不行啊……这么一想就……没、没别的意思！！"
+    # rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "是不是改成嘴会比较好啊……就是这样，没别的意思！！"
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "口の方がいいかなって……。\nそ、それだけの意味だから！！"
 
 # game/content/file_00003714.rpy:3327

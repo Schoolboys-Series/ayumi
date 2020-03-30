@@ -380,7 +380,7 @@ label block_00000F3A:
     show rs_image_9C78AB751CDB49FDA83251FA5B4A3825 as tag_061CD0864C4E48C0B3AA935440B7C90D zorder zorder_tag_061CD0864C4E48C0B3AA935440B7C90D onlayer master
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
-    rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "其实，你和森海现在在用的空音乐室，\n今天放学后有群参加了本地合唱团的\n主妇不管怎么说也想借去用。"
+    rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "其实，你和森海一直在用的音乐教室，\n今天放学后有主妇们组织的本地合唱团\n提出了无论如何都想要借用的申请。"
 
     rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "到了敬老会前一天这么说不太合适，\n但今天你们能不能找别的地方练习？"
 
@@ -2180,7 +2180,7 @@ label block_000023E4:
 
     window show
 
-    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "哇啊！真的吗？谢谢你来邀请我们。\n放学后敬请期待！"
+    rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "哇啊！真的吗？谢谢你来邀请我们，\n真期待放学后啊！"
 
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/Surprise 1.ogg" noloop
@@ -2676,7 +2676,7 @@ label block_00001B70:
 
     window show
 
-    rs_character_D93E396B7ADB48CBAE13F206958FC08B "啊，这样啊。\n明白了，一定会去看的，敬请期待。"
+    rs_character_D93E396B7ADB48CBAE13F206958FC08B "啊，是这样啊。\n明白了，一定会去看的。我很期待喔。"
 
     if True: # Hotfix: Ignore multiplay defenser for effect sound
         play effect "sound/Effect Sound/As you wish 1.ogg" noloop
@@ -2889,11 +2889,11 @@ label block_00001B6F:
     show rs_image_E55E88557E894F25AC82456BBF9FB04C as tag_A77E36FB70FF4F60B12060B2747E46D1 zorder zorder_tag_A77E36FB70FF4F60B12060B2747E46D1 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "啊，好狡猾……{w=0.5}{nw}"
+    rs_character_A733FAAD276D4713B00D1C40A5D6F696 "啊，被无视了……{w=0.5}{nw}"
     show rs_image_09451D7B22D74AB5A1A4927086141825 as tag_A77E36FB70FF4F60B12060B2747E46D1 zorder zorder_tag_A77E36FB70FF4F60B12060B2747E46D1 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    extend "打击。"
+    extend "有点受打击。"
 
     window hide
 

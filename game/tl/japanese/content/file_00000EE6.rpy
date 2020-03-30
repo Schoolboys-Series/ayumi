@@ -103,9 +103,9 @@ translate japanese block_00000F3A_537337d2:
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "あ……、ご、ごめんなさい。"
 
 # game/content/file_00000EE6.rpy:383
-translate japanese block_00000F3A_b6a3f9d7:
+translate japanese block_00000F3A_047091fe:
 
-    # rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "其实，你和森海现在在用的空音乐室，\n今天放学后有群参加了本地合唱团的\n主妇不管怎么说也想借去用。"
+    # rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "其实，你和森海一直在用的音乐教室，\n今天放学后有主妇们组织的本地合唱团\n提出了无论如何都想要借用的申请。"
     rs_character_D9F0C257FF534E79ADF7FDFE3653E326 "実はな、お前と森海がいつも使っている音楽室を\n今日の放課後、主婦層がやっている地元の合唱団\nから、どうしても貸してほしいと言われてな。"
 
 # game/content/file_00000EE6.rpy:385
@@ -534,10 +534,10 @@ translate japanese block_000023E4_62b30e48:
     # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "那个，其实我有事情想要拜托两位。"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "あの、実はお二人にお願いがありまして。"
 
-# game/content/file_00000EE6.rpy:2184
-translate japanese block_000023E4_d5ad4489:
+# game/content/file_00000EE6.rpy:2183
+translate japanese block_000023E4_76576a52:
 
-    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "哇啊！真的吗？谢谢你来邀请我们。\n放学后敬请期待！"
+    # rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "哇啊！真的吗？谢谢你来邀请我们，\n真期待放学后啊！"
     rs_character_4CFD8855F77C4A9085B6B9BFABDD845A "わあ！本当に？\n誘ってくれてどうもありがとう。\n放課後楽しみにしてるね！"
 
 # game/content/file_00000EE6.rpy:2193
@@ -642,10 +642,10 @@ translate japanese block_00001B70_c8ddc9e1:
     # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "那个其实……"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "えっとですね……。"
 
-# game/content/file_00000EE6.rpy:2680
-translate japanese block_00001B70_09b846c3:
+# game/content/file_00000EE6.rpy:2679
+translate japanese block_00001B70_27e2580b:
 
-    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "啊，这样啊。\n明白了，一定会去看的，敬请期待。"
+    # rs_character_D93E396B7ADB48CBAE13F206958FC08B "啊，是这样啊。\n明白了，一定会去看的。我很期待喔。"
     rs_character_D93E396B7ADB48CBAE13F206958FC08B "あぁ、そういうことね。\nわかった。必ず観に行くよ。\n楽しみにしてるね。"
 
 # game/content/file_00000EE6.rpy:2689
@@ -714,16 +714,16 @@ translate japanese block_00001B6F_447d8e78:
     # rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "其实我有一事相求，今天放学后……"
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "実は今日の放課後に\nお願いしたいことがありまして……。"
 
-# game/content/file_00000EE6.rpy:2893
-translate japanese block_00001B6F_7c311229:
+# game/content/file_00000EE6.rpy:2892
+translate japanese block_00001B6F_73538217:
 
-    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "啊，好狡猾……{w=0.5}{nw}"
+    # rs_character_A733FAAD276D4713B00D1C40A5D6F696 "啊，被无视了……{w=0.5}{nw}"
     rs_character_A733FAAD276D4713B00D1C40A5D6F696 "あ、スルーなんスね……。{w=0.5}{nw}"
 
-# game/content/file_00000EE6.rpy:2897
-translate japanese block_00001B6F_5d7c0f66:
+# game/content/file_00000EE6.rpy:2896
+translate japanese block_00001B6F_80d73c63:
 
-    # extend "打击。"
+    # extend "有点受打击。"
     extend "ショボン。"
 
 # game/content/file_00000EE6.rpy:2926

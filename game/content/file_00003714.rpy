@@ -2778,7 +2778,7 @@ label block_00003AF5:
 
     rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "是、是的……擅自做这种事很抱歉。"
 
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "不过，我无论如何都做不到像友君那样干净磊落。"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "不过，我无论如何也无法做到像友君这样无所畏惧地上台演出。"
 
     show rs_image_AF27F47A0A09448EA5BA5B2F3878BBA2 as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -3054,7 +3054,7 @@ label block_00003AF5:
     show rs_image_40378AEBEABC4F1181A8ACEC0693C48A as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "不过，像之前那样高的声音以后再也发不出来了也有可能……"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "不过，已经发不出之前那样的高音了。该怎么办才好……"
 
     show rs_image_8CE08F208261448AB0AB50BEE127AB04 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
@@ -3139,11 +3139,11 @@ label block_00003AF5:
     show rs_image_40378AEBEABC4F1181A8ACEC0693C48A as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "我……会在表演中这么开心，一定是多亏了和友君在一起。"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "我之所以能在表演中那么开心，一定是因为友君在我身边的缘故。"
 
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "练习的时候也很辛苦、很开心。\n能和我一起度过这么幸福的时间，已经非常满足了。"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "练习的时候，虽然很辛苦，但也很开心，\n能和友君一起度过这么幸福的时光，我已经非常满足了。"
 
-    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "所以，那时候说的过高的期望……就算了。\n"
+    rs_character_C2CBBFE577DA4C4095B176A23C6C89D1 "所以，不会再奢求那时的在此之上的奢望了。\n"
     show rs_image_6C7D131D881A4E7296FCD71C208CF53F as tag_C389451CCE5A4CEAB24DEF9A7C02635D zorder zorder_tag_C389451CCE5A4CEAB24DEF9A7C02635D onlayer master
     with rs_effect_04F714FDB0E541E4813BA7A0A833CD54
 
@@ -3322,7 +3322,7 @@ label block_00003AF5:
     show rs_image_D268FC41B6614D8EAEFECC7472B34419 as tag_ECFB5B509A334A868686B3435242BF90 zorder zorder_tag_ECFB5B509A334A868686B3435242BF90 onlayer master
     with rs_effect_351A8A667ECF419EB1A052B06E597A01
 
-    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "如果亲到嘴唇不知道行不行啊……这么一想就……没、没别的意思！！"
+    rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "是不是改成嘴会比较好啊……就是这样，没别的意思！！"
 
     rs_character_D45A9D2E09284CA0B5A11E1BF07A3CA2 "好了！奖励已经给了！！结束！"
 
