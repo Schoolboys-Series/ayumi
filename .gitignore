@@ -12,4 +12,5 @@ traceback.txt
 android.keystore
 bundle.keystore
 local.properties
+bundle.properties
 *.DS_Store
