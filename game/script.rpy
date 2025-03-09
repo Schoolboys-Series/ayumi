@@ -31,8 +31,8 @@ label splashscreen:
         yalign=0.6,
         size=40,
         outlines=[(absolute(6), "#FFFFFF00", absolute(0), absolute(0)),
-                  (absolute(4), "#FFFFFF44", absolute(0), absolute(0)),
-                  (absolute(2), "#FFFFFF88", absolute(0), absolute(0))])
+                    (absolute(4), "#FFFFFF44", absolute(0), absolute(0)),
+                    (absolute(2), "#FFFFFF88", absolute(0), absolute(0))])
     show lmc_0000238E_click_waiting (_("点击开始")) zorder 100:
         alpha 0.0
         linear 1.0 alpha 1.0

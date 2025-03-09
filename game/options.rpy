@@ -16,10 +16,10 @@ define config.name = _("SCHOOLBOYS! 步")
 
 ## The version of the game.
 
-define config.version = "2.3.1092.4"
+define config.version = "2.3.1093.3"
 
 # 2.3.XXXX.X
-# XXXX: 0100    0100    0100
+# XXXX: 0100    0100    0101
 #       场景修订 游戏修订 逻辑修订
 # X: 子修订版本，一般为0
 

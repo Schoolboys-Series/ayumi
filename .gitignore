@@ -9,5 +9,7 @@ raw/
 errors.txt
 log.txt
 traceback.txt
-/android.keystore
+android.keystore
+bundle.keystore
+local.properties
 *.DS_Store

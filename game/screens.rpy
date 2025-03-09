@@ -388,12 +388,12 @@ style gallery_chapter_hbox:
 style gallery_chapter_button_text:
     color "#FFFFFF"
     outlines [(absolute(6), "#FF808000", absolute(0), absolute(0)),
-              (absolute(4), "#FF808088", absolute(0), absolute(0)),
-              (absolute(2), "#FF8080FF", absolute(0), absolute(0))]
+            (absolute(4), "#FF808088", absolute(0), absolute(0)),
+            (absolute(2), "#FF8080FF", absolute(0), absolute(0))]
     selected_color "#FF8080"
     selected_outlines [(absolute(6), "#FFFFFF00", absolute(0), absolute(0)),
-                       (absolute(4), "#FFFFFF88", absolute(0), absolute(0)),
-                       (absolute(2), "#FFFFFFFF", absolute(0), absolute(0))]
+                    (absolute(4), "#FFFFFF88", absolute(0), absolute(0)),
+                    (absolute(2), "#FFFFFFFF", absolute(0), absolute(0))]
     hover_color "#FF8080"
     hover_outlines [(absolute(6), "#FFFFFF00", absolute(0), absolute(0)),
                     (absolute(4), "#FFFFFF88", absolute(0), absolute(0)),
@@ -413,10 +413,10 @@ style gallery_button_return_text:
     color "#FFFFFF"
     font "font/zcool-happy-ayumi-extended.ttf"
     outlines [(absolute(10), "#FF808000", absolute(0), absolute(0)),
-              (absolute(8), "#FF808044", absolute(0), absolute(0)),
-              (absolute(6), "#FF808088", absolute(0), absolute(0)),
-              (absolute(4), "#FF8080BB", absolute(0), absolute(0)),
-              (absolute(2), "#FF8080FF", absolute(0), absolute(0))]
+            (absolute(8), "#FF808044", absolute(0), absolute(0)),
+            (absolute(6), "#FF808088", absolute(0), absolute(0)),
+            (absolute(4), "#FF8080BB", absolute(0), absolute(0)),
+            (absolute(2), "#FF8080FF", absolute(0), absolute(0))]
 
     hover_color "#FF8080"
     hover_outlines [(absolute(10), "#FFFFFF00", absolute(0), absolute(0)),
@@ -428,6 +428,7 @@ style gallery_button_return_text:
 screen gallery_content(target_chapter):
     vpgrid:
         cols 5
+        allow_underfull True
         draggable True
         mousewheel True
         scrollbars None
@@ -698,7 +699,8 @@ screen main_menu():
                 text "？？？" style "main_menu_right_action_panel_text_muted"
                 imagebutton at main_menu_right_action_panel_image_button:
                     idle "gui/menu/music muted.png"
-    text "© 2016 - 2019\n  Kiriya·Kasasagi/2eme Gymnopédie\n  Lundarl Gholoi/GILESFVK ËKITES\n  Version [config.version!t]" at main_menu_text
+    text "2016 - 2024\n  Kiriya·Kasasagi/2eme Gymnopédie\n  Version [config.version!t]" at main_menu_text
+    textbutton _("隐私政策") action OpenURL("https://schoolboys.azurewebsites.net/privacy.html") at main_menu_text
 
 transform main_menu_intro_animation_background:
     xalign 0.5
@@ -775,6 +777,12 @@ style main_menu_text is gui_text:
     size 10
     color "#00B3C7"
     font "font/source-hans-sans-medium.ttc"
+style main_menu_button is default:
+    ypos 570
+    xpos 700
+style main_menu_button_text is gui_text:
+    size 10
+    color "#00B3C7"
 style main_menu_save_lot_text:
     size 16
     color "#00B3C7"

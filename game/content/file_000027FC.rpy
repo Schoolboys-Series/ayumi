@@ -8,10 +8,10 @@ screen shintarou_notebook:
         default current_character = None
         add "images/Shintaro-notebook/Background.png"
         python:
-            character_list = filter(lambda x: x["id"] in [
+            character_list = list(filter(lambda x: x["id"] in [
                 "Tomo", "Shinobu", "Shintarou", "Tsuki", "Sora", "Tsubasa", "Sakuya", "Saburou", "Shirou", "Yukio",
                 "Tsubasa-chan", "Nameko", "Itou", "Kimura", "Katou", "Matsuda", "Izumi",
-                "Sato", "Okajima", "Kojima"], character_full_info)
+                "Sato", "Okajima", "Kojima"], character_full_info))
             if C3S1 == True:
                 character_list.extend(filter(lambda x: x["id"] in ["Kiyo", "Nakayama", "Okajima-senior", "Nakayama-senior"], character_full_info))
             if Chapter > 1:
@@ -100,7 +100,6 @@ screen shintarou_notebook_content(character):
 screen shintarou_notebook_content2(character):
     add ("images/Shintaro-notebook/Background/" + character["id"] + ".png") xpos -51
     text _("主要出场记录") at Transform(xpos=230, ypos=5) style "shintarou_notebook_content_content"
-    text character["name"] at Transform(xpos=260, ypos=30) style "shintarou_notebook_content_name"
     default has_record = False
     frame:
         style "shintarou_notebook_content2_container"
@@ -140,10 +139,10 @@ style shintarou_notebook_close_button_text:
     color "#808080"
     hover_color "#000000"
     outlines [(absolute(1), "#222222FF", absolute(0), absolute(0)),
-              (absolute(2), "#222222CC", absolute(0), absolute(0)),
-              (absolute(3), "#22222288", absolute(0), absolute(0)),
-              (absolute(4), "#22222244", absolute(0), absolute(0)),
-              (absolute(5), "#22222200", absolute(0), absolute(0))]
+            (absolute(2), "#222222CC", absolute(0), absolute(0)),
+            (absolute(3), "#22222288", absolute(0), absolute(0)),
+            (absolute(4), "#22222244", absolute(0), absolute(0)),
+            (absolute(5), "#22222200", absolute(0), absolute(0))]
 style shintarou_notebook_page_text_active:
     size 36
     color "#459F91"
@@ -165,33 +164,34 @@ style shintarou_notebook_content_name:
     color "#000000"
     size 60
     outlines [(absolute(1), "#FFFFFFFF", absolute(0), absolute(0)),
-              (absolute(2), "#FFFFFFCC", absolute(0), absolute(0)),
-              (absolute(3), "#FFFFFF88", absolute(0), absolute(0)),
-              (absolute(4), "#FFFFFF44", absolute(0), absolute(0)),
-              (absolute(5), "#FFFFFF00", absolute(0), absolute(0))]
+            (absolute(2), "#FFFFFFCC", absolute(0), absolute(0)),
+            (absolute(3), "#FFFFFF88", absolute(0), absolute(0)),
+            (absolute(4), "#FFFFFF44", absolute(0), absolute(0)),
+            (absolute(5), "#FFFFFF00", absolute(0), absolute(0))]
 style shintarou_notebook_content_content:
     font "font/zcool-happy-ayumi-extended.ttf"
     color "#000000"
     size 20
     line_spacing 11
     outlines [(absolute(1), "#FFFFFFFF", absolute(0), absolute(0)),
-              (absolute(2), "#FFFFFFCC", absolute(0), absolute(0)),
-              (absolute(3), "#FFFFFF88", absolute(0), absolute(0)),
-              (absolute(4), "#FFFFFF44", absolute(0), absolute(0)),
-              (absolute(5), "#FFFFFF00", absolute(0), absolute(0))]
+            (absolute(2), "#FFFFFFCC", absolute(0), absolute(0)),
+            (absolute(3), "#FFFFFF88", absolute(0), absolute(0)),
+            (absolute(4), "#FFFFFF44", absolute(0), absolute(0)),
+            (absolute(5), "#FFFFFF00", absolute(0), absolute(0))]
 style shintarou_notebook_content_addon:
     font "font/zcool-happy-ayumi-extended.ttf"
     color "#FF0000"
     size 18
     outlines [(absolute(1), "#FFFFFFFF", absolute(0), absolute(0)),
-              (absolute(2), "#FFFFFFCC", absolute(0), absolute(0)),
-              (absolute(3), "#FFFFFF88", absolute(0), absolute(0)),
-              (absolute(4), "#FFFFFF44", absolute(0), absolute(0)),
-              (absolute(5), "#FFFFFF00", absolute(0), absolute(0))]
+            (absolute(2), "#FFFFFFCC", absolute(0), absolute(0)),
+            (absolute(3), "#FFFFFF88", absolute(0), absolute(0)),
+            (absolute(4), "#FFFFFF44", absolute(0), absolute(0)),
+            (absolute(5), "#FFFFFF00", absolute(0), absolute(0))]
 style shintarou_notebook_content2_container is default:
-    ysize 500
+    ysize 550
+    xsize 400
     xpos 240
-    ypos 100
+    ypos 50
 style shintarou_notebook_content2_achieved:
     size 18
     color "#459F91"
